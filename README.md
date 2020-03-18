@@ -35,6 +35,7 @@ farklilik gosterebilir, bunu en iyisi yayinda tartisalim.
 
  oyun gelistirme konusu da cok ilgimi cekiyor, siber guvenlikte ne yapacagim? hangisi? 
 Ikisi tamamen farkli konular tabiki ancak, benim yaptigimi niye denemiyorsun? oyun gelistirme firmasinda siber guvenlikci ol? :smiley: Unity de calismistim mesela ben Danimarka daki genel merkezinde IT Security Architect olarak. Bence keyifli olabilir, bos vakitlerinde de oyun gelistirirsin.
+
 LuNiZ07/29/2019
  Bunlarin disinda benim cok farkli bir sorum var abi, yaniti burda yok? 
 E zaten yayinlari yapma amacimiz o, gecmisini, icinde bulundugun senaryoyu aktar gelip yayina, bende elimden geldigince, bilgim var ise, fikirlerimi ileteyim. Yukaridaki bilgiler cok genel hatlariyla ve hizlica sektore girebilmek icin hazirlandi, daha spesifik bir alanda uzmanlasmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. :smiley:
