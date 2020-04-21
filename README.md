@@ -1,8 +1,8 @@
 ## Nereden baslamaliyim...? 
 >Kisaca; gecmisinize ve tecrubenize gore degismekle birlikte, asagidaki bir kac kaynaktan baslayabilirsiniz.
->- https://cybrary.it/
+
 >- https://github.com/onlurking/awesome-infosec
->- https://hackerone.com/
+>- https://hacker101.com/
 >- https://www.bugcrowd.com/hackers/bugcrowd-university/
 >- https://www.pluralsight.com/browse/information-cyber-security?clickid=Ryo3DTTyvxyJWR1wUx0Mo3E2UklQjXVJiz0S2Q0&irgwc=1&mpid=197389&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=197389&aid=7010a000001xAKZAA2
 >- https://www.pluralsight.com/courses/ethical-hacking-understanding?clickid=Ryo3DTTyvxyJWR1wUx0Mo3E2UklQjXV9iz0S2Q0&irgwc=1&mpid=197389&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=197389&aid=7010a000001xAKZAA2
