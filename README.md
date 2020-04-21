@@ -8,14 +8,14 @@
 >- https://www.pluralsight.com/courses/ethical-hacking-understanding?clickid=Ryo3DTTyvxyJWR1wUx0Mo3E2UklQjXV9iz0S2Q0&irgwc=1&mpid=197389&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=197389&aid=7010a000001xAKZAA2
 >
 >bunlar ilk aklima gelenler, ozellikle 1. ve 2. linkde hersey var kisaca :wink:
-> Programlama gecmisim var, hangi cybersecurity dalini secmeliyim?
+## Programlama gecmisim var, hangi cybersecurity dalini secmeliyim?
 >En hizli cozum, buyuk olasilikla OWASP ve benzeri kurumlara bakarak, Application pentesting ve Security Researcher lik olacaktir, hem hizlica para kazanmani da saglar. Bugcrowd ve Hackerone in egitim sitelerine girip,
 >bu firmalarin bug bounty programlarina kayit olarak para kazanmaya baslayabilirsin.
 >
-> illa universite okumalimiyim? 
+## illa universite okumalimiyim? 
 >Sahsen ben universite nin buyuk faydasi oldugunu biliyorum ve kendimde yasadim bunu, o sebeple bir 4 yillik okul onemli derim. Muhendislik olursa iyi olur ama olmazsa da cok dert degil. Onemli olan sizin yarattiginiz fark ve kiymet.
 >
-> hangi dillere ve teknolojilere egilmeliyim? 
+## hangi dillere ve teknolojilere egilmeliyim? 
 >Bu konuda bir cok kaynak var aslinda, Phyton, JS, C, Bash scripting (linux komut satiri), Virtual box da Kali linux calistirabilmek, temel CCNA ile networking bilgisi, SQL hakkinda fikir sahibi olmak... oldukca isine yarayacaktir.
 ## abi ingilizcem yok, ne yapicam? 
 >Ingilizce ogreniceksin dostum, baska yolu yok bu isin... hemen elindeki butun isi birakip, okudugunu anlayacak seviyede ingilizceye ulasman lazim, DUOLingo vs gibi ingilizce ogreten kaynaklari yut bitir..
