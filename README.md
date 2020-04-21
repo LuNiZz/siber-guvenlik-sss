@@ -204,8 +204,7 @@
 ##   bir iki tutorial
 >https://www.tutorialspoint.com/penetration_testing/index.htm
 >Penetration Testing Tutorial - Tutorialspoint
-
-##   12/15/2019
+>
 >https://www.youtube.com/watch?v=3Kq1MIfTWCE
 >
 >buda nefis...
@@ -213,9 +212,6 @@
 >
 >https://www.youtube.com/watch?v=S6S5JF6Gou0
 >
->https://www.turkhackteam.org/python/1802000-python3-turkce-egitim-pdf-istihza.html
->Python3 Türkçe Eğitim PDF (İstihza) - Turkhackteam.org/net - E...
->Bir zamanlar istihza.com diye bir site vardı. Bu sitede Python3 eğitim PDF'si yayınlanıyordu. Site kapandıktan sonra PDF dosyasını bulmak zorlaştı. Bende mevcutken sizler ile
 >https://www.youtube.com/watch?v=DzDtzbcmb58
 >How to learn Ethical Hacking with Python and Kali linux course
 >
