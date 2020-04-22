@@ -1,3 +1,3 @@
 git add . 
-git commit -am "scheduled commit"
+git commit -am "yukledik"
 git push
