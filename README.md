@@ -1,4 +1,4 @@
-## Nereden baslamaliyim...? 1
+## Nereden baslamaliyim...? 
 >Kisaca; gecmisinize ve tecrubenize gore degismekle birlikte, asagidaki bir kac kaynaktan baslayabilirsiniz.
 
 >- https://github.com/onlurking/awesome-infosec
