@@ -280,3 +280,6 @@
 >* https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw (kaliteli bir pentester blog:https://engindemirbilek.github.io/)
 ##  cok cok iyi bir Application Security sitesi  mutlaka bakin buna
 > https://application.security/free-application-security-training
+
+## Tum siber guvenlik alt dallari ve sertifikalari ile ilgili yaptigim not
+> https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md
