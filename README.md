@@ -12,8 +12,7 @@
   https://hackerone.com/
   https://www.bugcrowd.com/hackers/bugcrowduniversity/
   https://www.hackthebox.eu/
-  
-  # Kurslar
+   # Kurslar
   ## Ücretli Kurslar
   İngilizce
   https://www.pluralsight.com/browse/informationcybersecurity?clickid=Ryo3DTTyvxyJWR1wUx0Mo3E2UklQjXVJiz0S2Q0&irgwc=1&mpid=197389&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=197389&aid=7010a000001xAKZAA2
@@ -175,4 +174,4 @@
   https://www.corelan.be/index.php/articles/
   ## How to become bug bounty hunter and get all the monies?
   https://whoami.securitybreached.org/2019/06/03/guidegettingstartedinbugbountyhunting/
- 
+  
