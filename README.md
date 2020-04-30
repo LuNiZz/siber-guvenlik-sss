@@ -54,7 +54,7 @@ https://www.thecybermentor.com/zerotoheropentesting
 http://indexof.es/Miscellanous/LIVRES/webhacking101.pdf \
 bilisim teknolojilerindeki cihazlar/terimler vs nedir? nasil calisir? \
 https://drive.google.com/drive/folders/1k49DqMP3EENvTnvj_bF6LEOBuVkgDCK \
-Can abiye göre en iyi Türkçe kaynak \
+Bayagi iyi Türkçe kaynak \
 https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \
 Türkçe bir kaynak \
 https://www.bilgiguvenligi.org.tr/wpcontent/uploads/2020/01/siberguvenlikcilt3.pdf 
