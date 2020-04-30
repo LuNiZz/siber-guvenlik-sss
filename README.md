@@ -86,9 +86,7 @@
 - En çok kullanılan toolar:https://prune2000.github.io/tools/pentest/
 - https://www.mehmetince.net/siberguvenlikalanindakendiminasilgelistirebilirimneredenbaslamaliyim/
 - https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/
-- 
-- 
-- 
+
 - # Twitterdan takip edilebilecek kişiler
 - Yabancılar Tam liste:https://heimdalsecurity.com/blog/besttwittercybersecaccounts/
 - https://twitter.com/candeger
