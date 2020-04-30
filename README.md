@@ -4,7 +4,7 @@
  XSS ile ilgili oyun: https://xssgame.appspot.com/
  Programlama öğrenmek isteyenler için kitapların bulunduğu site:https://goalkicker.com/
  İngilizce öğrenmek için site:https://diziyleogren.com/
- Penet Test Websitesi:https://www.tutorialspoint.com/penetration_testing/index.htm
+ Penetration Test Websitesi:https://www.tutorialspoint.com/penetration_testing/index.htm
  Ctf sitesi https://captf.com/practicectf/
  web application pentest le ilgileniyorsaniz, burp suite in yapimcilarinin egitim sayfasi https://portswigger.net/websecurity/allmaterials
  https://www.vulnhub.com/
@@ -12,6 +12,7 @@
  https://hackerone.com/
  https://www.bugcrowd.com/hackers/bugcrowduniversity/
  https://www.hackthebox.eu/
+ 
  # Kurslar
  ## Ücretli Kurslar
  İngilizce
