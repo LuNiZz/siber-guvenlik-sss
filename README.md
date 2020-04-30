@@ -1,9 +1,14 @@
  # Web Siteleri
  Luniz telegram:https://t.me/lunizzsec
+
  Applicaion Sec. Websitesi:https://application.security/freeapplicationsecuritytraining
+ 
  XSS ile ilgili oyun: https://xssgame.appspot.com/
+ 
  Programlama öğrenmek isteyenler için kitapların bulunduğu site:https://goalkicker.com/
+ 
  İngilizce öğrenmek için site:https://diziyleogren.com/
+ 
  Penetration Test Websitesi:https://www.tutorialspoint.com/penetration_testing/index.htm
  Ctf sitesi https://captf.com/practicectf/
  web application pentest le ilgileniyorsaniz, burp suite in yapimcilarinin egitim sayfasi https://portswigger.net/websecurity/allmaterials
