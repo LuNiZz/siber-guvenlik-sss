@@ -1,4 +1,4 @@
-# Web Siteleri 
+## Web Siteleri 
 Luniz telegram:https://t.me/lunizzsec  \
 Applicaion Sec. Websitesi:https://application.security/freeapplicationsecuritytraining \
 XSS ile ilgili oyun: https://xssgame.appspot.com/ \
@@ -11,8 +11,9 @@ https://www.vulnhub.com/ \
 https://www.cybrary.it/ \
 https://hackerone.com/ \
 https://www.bugcrowd.com/hackers/bugcrowduniversity/ \
-https://www.hackthebox.eu/ 
-# Kurslar 
+https://www.hackthebox.eu/ \
+https://cmdchallenge.com/ <<< linux komutlarini ogrenmek icin ideal bir oyun
+## Kurslar 
 ## Ücretli Kurslar 
 İngilizce \
 https://www.pluralsight.com/browse/informationcybersecurity?clickid=Ryo3DTTyvxyJWR1wUx0Mo3E2UklQjXVJiz0S2Q0&irgwc=1&mpid=197389&utm_source=impactradius&utm_medium=digital_affiliate&utm_campaign=197389&aid=7010a000001xAKZAA2 \
@@ -27,7 +28,7 @@ https://www.udemy.com/course/sizmatestlerindemetasploitkullanimi/
 Udemy \
 Ücretsiz udemy kurslarını burada bulabilirsiniz https://www.reddit.com/r/udemyfreebies/ \
 https://www.udemy.com/course/gokhanmuharremoglu/ 
-# Youtube 
+## Youtube 
 İngilizce için:https://www.youtube.com/fklanguage \
 Full Ethical Hacking Course https://www.youtube.com/watch?v=DzDtzbcmb58 \
 Learn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial | https://www.youtube.com/watch?v=S6S5JF6Gou0 \
@@ -38,7 +39,7 @@ CCNA ve Network+ adinda iki sertifika var ama onlarin egitim kitaplari biraz ger
 https://www.youtube.com/watch?v=QKfk7YFILws \
 bilisim teknolojilerindeki cihazlar/terimler vs nedir? nasil calisir? \
 https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q 
-# Çeşitli 
+## Çeşitli 
 https://www.bgasecurity.com/makale/beyazsapkalihackeregitimnotlari/ \
 https://github.com/nahamsec/ResourcesforBeginnerBugBountyHunters \
 https://www.guru99.com/ \
@@ -50,7 +51,7 @@ Cloud Sec:https://stanislas.io/2019/04/25/preparationguideformicrosoftaz500micro
 https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \
 https://github.com/hmaverickadams/BeginnerNetworkPentesting \
 https://www.thecybermentor.com/zerotoheropentesting 
-# Kitaplar: 
+## Kitaplar: 
 http://indexof.es/Miscellanous/LIVRES/webhacking101.pdf \
 bilisim teknolojilerindeki cihazlar/terimler vs nedir? nasil calisir? \
 https://drive.google.com/drive/folders/1k49DqMP3EENvTnvj_bF6LEOBuVkgDCK \
@@ -58,13 +59,13 @@ Bayagi iyi Türkçe kaynak \
 https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \
 Türkçe bir kaynak \
 https://www.bilgiguvenligi.org.tr/wpcontent/uploads/2020/01/siberguvenlikcilt3.pdf 
-# Takip edilebileck twitch kanalları: 
+## Takip edilebileck twitch kanalları: 
 https://www.twitch.tv/bugcrowdofficial \
 https://www.twitch.tv/lunizz \
 https://www.twitch.tv/mdisec \
 https://twitch.tv/nahamsec \
 https://twitch.tv/thecybermentor 
-# Takip edilebilecek youtube kanalları: 
+## Takip edilebilecek youtube kanalları: 
 https://youtube.com/candeger \
 https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw \
 https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw \
@@ -73,12 +74,12 @@ https://www.youtube.com/channel/UC7eshikPSJF3ZGTsgFG1XBA \
 https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg (nahamsecin kankası :slight_smile: ) \
 https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA (hackerone üyesi ) \
 https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw (kaliteli bir pentester) 
-# Makalaler/Yazılar 
+## Makalaler/Yazılar 
 En çok kullanılan toolar:https://prune2000.github.io/tools/pentest/ \
 https://www.mehmetince.net/siberguvenlikalanindakendiminasilgelistirebilirimneredenbaslamaliyim/ \
 https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/ \
 https://www.reddit.com/r/trsec << Utku Sen in kurdugu efsane reddit >>
-# Twitterdan takip edilebilecek kişiler 
+## Twitterdan takip edilebilecek kişiler 
 Yabancılar Tam liste:https://heimdalsecurity.com/blog/besttwittercybersecaccounts/ \
 https://twitter.com/candeger \
 https://twitter.com/Om3rCitak \
@@ -115,10 +116,10 @@ https://twitter.com/EmreTinaztepe \
 https://twitter.com/sametsahinnet \
 https://twitter.com/h1_kenan \
 https://twitter.com/evrnyalcin 
-# Cheat Sheetler 
+## Cheat Sheetler 
 https://s3uswest2.amazonaws.com/stationxpublicdownload/nmap_cheet_sheet_0.6.pdf \
 https://www.sans.org/securityresources/sec560/misc_tools_sheet_v1.pdf 
-# LuNiZz ile soru cevap 
+## LuNiZz ile soru cevap 
 ## Programlama gecmisim var, hangi cybersecurity dalini secmeliyim? 
 En hizli cozum, buyuk olasilikla OWASP ve benzeri kurumlara bakarak, Application pentesting ve Security Researcher lik olacaktir, hem hizlica para kazanmani da saglar. Bugcrowd ve Hackerone in egitim sitelerine girip, 
 bu firmalarin bug bounty programlarina kayit olarak para kazanmaya baslayabilirsin. 
