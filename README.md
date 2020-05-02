@@ -29,6 +29,7 @@ Udemy \
 Ücretsiz udemy kurslarını burada bulabilirsiniz https://www.reddit.com/r/udemyfreebies/ \
 https://www.udemy.com/course/gokhanmuharremoglu/ 
 ## Youtube 
+Nasil HACKER olurum? Omer Citak cevaplamis... buyur >>> https://www.youtube.com/watch?v=TEB-zmSBAmY \
 İngilizce için:https://www.youtube.com/fklanguage \
 Full Ethical Hacking Course https://www.youtube.com/watch?v=DzDtzbcmb58 \
 Learn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial | https://www.youtube.com/watch?v=S6S5JF6Gou0 \
