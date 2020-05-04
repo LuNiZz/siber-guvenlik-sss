@@ -20,7 +20,7 @@ Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchalle
 ### İngilizce \
 https://www.pluralsight.com/browse/information-cyber-security \
 https://www.pluralsight.com/courses/ethical-hacking-understanding \
-https://josephdelgadillo.com/product/holidaycoursebundlesale/ \
+https://josephdelgadillo.com/product/holiday-course-bundle-sale/ \
 https://www.udemy.com/course/ethical-hacking-kali-linux/ \
 https://www.udemy.com/course/practical-ethical-hacking/ \
 
