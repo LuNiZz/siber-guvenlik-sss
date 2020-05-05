@@ -13,7 +13,7 @@ Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir website
 Bugcrowd sitesinin eğitimleri: https://www.bugcrowd.com/hackers/bugcrowd-university/
 Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir websitesi: https://www.hackthebox.eu/ \
 Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir websitesi: https://www.priviahub.com \
-Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchallenge.com/ \
+Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchallenge.com/ 
 
 # Kurslar 
 ## Ücretli Kurslar 
@@ -22,15 +22,15 @@ https://www.pluralsight.com/browse/information-cyber-security \
 https://www.pluralsight.com/courses/ethical-hacking-understanding \
 https://josephdelgadillo.com/product/holiday-course-bundle-sale/ \
 https://www.udemy.com/course/ethical-hacking-kali-linux/ \
-https://www.udemy.com/course/practical-ethical-hacking/ \
+https://www.udemy.com/course/practical-ethical-hacking/ 
 
 ### Türkçe 
-https://www.udemy.com/course/sizma-testlerinde-metasploit-kullanimi/ \
+https://www.udemy.com/course/sizma-testlerinde-metasploit-kullanimi/ 
 
 ## Ücretsiz Kurslar
 ### Udemy 
 https://www.reddit.com/r/udemyfreebies/ \
-https://www.udemy.com/course/gokhanmuharremoglu/ \
+https://www.udemy.com/course/gokhanmuharremoglu/ 
 
 ### Youtube 
 Nasil HACKER olurum? Ömer Çıtak cevaplamış: https://www.youtube.com/watch?v=TEB-zmSBAmY \
@@ -42,7 +42,7 @@ How to learn Ethical Hacking with Python and Kali linux course: https://www.yout
 https://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM \
 CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pentesting için gereksiz bilgileri de kapsar. İstersen bir bak.
 https://www.youtube.com/watch?v=QKfk7YFILws \
-Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q \
+Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q 
 
 # Çeşitli 
 https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ \
@@ -50,18 +50,18 @@ https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters \
 https://www.guru99.com/ \
 https://www.tutorialspoint.com/penetration_testing/index.htm \
 Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ \
-Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ \ 
+Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/  
 
 # Network Pentesting 
 https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \
 https://github.com/hmaverickadams/Beginner-Network-Pentesting \
-https://www.thecybermentor.com/zero-to-hero-pentesting \
+https://www.thecybermentor.com/zero-to-hero-pentesting 
  
 # Kitaplar 
 http://indexof.es/Miscellanous/LIVRES/web-hacking-101.pdf \
 http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \
 Çok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \
-Türkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf \
+Türkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf 
 
 # Takip Edilesi Twitch Kanalları 
 https://www.twitch.tv/bugcrowdofficial \
@@ -77,13 +77,13 @@ https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw \
 https://www.youtube.com/channel/UC7eshikPSJF3ZGTsgFG1XBA \
 Nahamsec'in kankası: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg \
 Hackerone üyesi: https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA \
-Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw \
+Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw 
 
 # Makalaler/Yazılar 
 En çok kullanılan toolar: https://prune2000.github.io/tools/pentest/ \
 Nereden başlarım ve üniversite hakkında: https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/ \
 Siber güvenlik ile alakalı konuların paylaşıldığı türkçe reddit sayfası: https://www.reddit.com/r/trsec/ \
-https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/ \
+https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/ 
 
 # Twitterdan Takip Edilebilecek Kişiler 
 Yabancılar Tam liste: https://heimdalsecurity.com/blog/best-twitter-cybersec-accounts/ \
@@ -124,7 +124,7 @@ https://twitter.com/h1_kenan \
 https://twitter.com/evrnyalcin
  
 # Cheat Sheetler
-https://www.sans.org/securityresources/sec560/misc_tools_sheet_v1.pdf \ 
+https://www.sans.org/securityresources/sec560/misc_tools_sheet_v1.pdf 
 
 # LuNiZz ile Soru/Cevap 
 ## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
