@@ -1,4 +1,4 @@
-# Web Siteleri \
+# Web Siteleri 
 Luniz telegram kanalı: https://t.me/lunizzsec  \
 Applicaion Sec. Websitesi: https://application.security/free-application-security-training \
 XSS ile ilgili bir oyun: https://xss-game.appspot.com/ \
@@ -15,24 +15,24 @@ Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir web
 Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir websitesi: https://www.priviahub.com \
 Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchallenge.com/ \
 
-# Kurslar \
-## Ücretli Kurslar \
-### İngilizce \
+# Kurslar 
+## Ücretli Kurslar 
+### İngilizce 
 https://www.pluralsight.com/browse/information-cyber-security \
 https://www.pluralsight.com/courses/ethical-hacking-understanding \
 https://josephdelgadillo.com/product/holiday-course-bundle-sale/ \
 https://www.udemy.com/course/ethical-hacking-kali-linux/ \
 https://www.udemy.com/course/practical-ethical-hacking/ \
 
-### Türkçe \
+### Türkçe 
 https://www.udemy.com/course/sizma-testlerinde-metasploit-kullanimi/ \
 
 ## Ücretsiz Kurslar
-### Udemy \
+### Udemy 
 https://www.reddit.com/r/udemyfreebies/ \
 https://www.udemy.com/course/gokhanmuharremoglu/ \
 
-### Youtube \
+### Youtube 
 Nasil HACKER olurum? Ömer Çıtak cevaplamış: https://www.youtube.com/watch?v=TEB-zmSBAmY \
 İngilizce için: https://www.youtube.com/fklanguage \
 Full Ethical Hacking Course: https://www.youtube.com/watch?v=DzDtzbcmb58 \
@@ -44,7 +44,7 @@ CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pente
 https://www.youtube.com/watch?v=QKfk7YFILws \
 Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q \
 
-# Çeşitli \
+# Çeşitli 
 https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ \
 https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters \
 https://www.guru99.com/ \
@@ -52,25 +52,25 @@ https://www.tutorialspoint.com/penetration_testing/index.htm \
 Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ \
 Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ \ 
 
-# Network Pentesting \
+# Network Pentesting 
 https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \
 https://github.com/hmaverickadams/Beginner-Network-Pentesting \
 https://www.thecybermentor.com/zero-to-hero-pentesting \
  
-# Kitaplar \ 
+# Kitaplar 
 http://indexof.es/Miscellanous/LIVRES/web-hacking-101.pdf \
 http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \
 Çok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \
 Türkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf \
 
-# Takip Edilesi Twitch Kanalları \ 
+# Takip Edilesi Twitch Kanalları 
 https://www.twitch.tv/bugcrowdofficial \
 https://www.twitch.tv/lunizz \
 https://www.twitch.tv/mdisec \
 https://twitch.tv/nahamsec \
 https://twitch.tv/thecybermentor 
 
-# Takip Edilesi Youtube Kanalları \ 
+# Takip Edilesi Youtube Kanalları 
 https://youtube.com/candeger \
 https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw \
 https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw \
@@ -79,13 +79,13 @@ Nahamsec'in kankası: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg \
 Hackerone üyesi: https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA \
 Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw \
 
-# Makalaler/Yazılar \
+# Makalaler/Yazılar 
 En çok kullanılan toolar: https://prune2000.github.io/tools/pentest/ \
 Nereden başlarım ve üniversite hakkında: https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/ \
 Siber güvenlik ile alakalı konuların paylaşıldığı türkçe reddit sayfası: https://www.reddit.com/r/trsec/ \
 https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/ \
 
-# Twitterdan Takip Edilebilecek Kişiler \
+# Twitterdan Takip Edilebilecek Kişiler 
 Yabancılar Tam liste: https://heimdalsecurity.com/blog/best-twitter-cybersec-accounts/ \
 https://twitter.com/candeger \
 https://twitter.com/Om3rCitak \
@@ -165,7 +165,7 @@ https://techcommunity.microsoft.com/t5/azure-active-directory-identity/your-pa-w
 ## Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
 
-# Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir. \  
+# Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir.   
 ## Where to start learning pentesting? 
 TCM: Cyber Career Paths: Penetration Testing: https://youtu.be/MM7qPnJSnLQ \
 https://www.vulnhub.com/ \
