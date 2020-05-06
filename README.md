@@ -50,7 +50,8 @@ https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters \
 https://www.guru99.com/ \
 https://www.tutorialspoint.com/penetration_testing/index.htm \
 Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ \
-Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/  
+Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ \
+Windows Exploitation full Course : https://fullpwnops.com/windows-exploitation-pathway.html
 
 # Network Pentesting 
 https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \
