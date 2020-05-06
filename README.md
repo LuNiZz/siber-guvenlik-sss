@@ -196,4 +196,7 @@ TCM: Buffer Overflows Made Easy: https://www.youtube.com/playlist?list=PLLKT__MC
 https://www.corelan.be/index.php/articles/ 
 
 ## How to become bug bounty hunter and get all the monies? 
-https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ 
+https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ \
+
+## Internetteki UCUZ veya UCRETSIZ Siber Guvenlik Egitimlerinin Tam Listesi (NIST)
+https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
