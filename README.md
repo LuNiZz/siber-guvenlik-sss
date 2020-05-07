@@ -200,3 +200,12 @@ https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-boun
 
 ## Internetteki UCUZ veya UCRETSIZ Siber Guvenlik Egitimlerinin Tam Listesi (NIST)
 https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
+
+## Active Directory Pentest nasil yapilir?
+Domain Recon : https://blog.stealthbits.com/performing-domain-reconnaissance-using-powershell \
+Local Admin Mapping : https://blog.stealthbits.com/local-admin-mapping-bloodhound \
+Extracting Password Hashes : https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/ \
+Pass the Hash with Mimicatz : https://blog.stealthbits.com/passing-the-hash-with-mimikatz 
+
+## Network Basics for Hackers
+https://www.hackers-arise.com/networks-basics
