@@ -3,7 +3,7 @@
 Luniz telegram kanalı: https://t.me/lunizzsec \
 Applicaion Sec. Websitesi: https://application.security/free-application-security-training \
 XSS ile ilgili bir oyun: https://xss-game.appspot.com/ \
-Programlama öğrenmek isteyenler için kitapların bulunduğu bir websitesi: https://goalkicker.com/ \   
+Programlama öğrenmek isteyenler için kitapların bulunduğu bir websitesi: https://goalkicker.com/ \
 İngilizce öğrenmek için bir websitesi: https://diziyleogren.com/ \
 Penetration test websitesi: https://www.tutorialspoint.com/penetration_testing/index.htm \   
 Ctf sitesi: https://captf.com/ \
@@ -18,7 +18,7 @@ Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchalle
 Zaafiyetleri kullanarak ilerleyebileceğin bir websitesi: https://overthewire.org/wargames/natas/ \                        
 BTK'nın eğitimlerinin bulunduğu site: https://www.btkakademi.gov.tr \
 Dünyanın bir çok yerinde yapılan CTF'leri görebileceğiniz bir websitesi: https://ctftime.org/ \
-Size verilen problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir site: https://www.hackerrank.com \
+Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir websitesi: https://www.hackerrank.com \
 Kolaydan zora bir çok CTF'in bulunduğu bir websitesi: https://ctflearn.com/ \
 http://pwnable.kr/
 
