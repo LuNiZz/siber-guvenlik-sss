@@ -15,6 +15,7 @@ Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir web
 Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir websitesi: https://www.priviahub.com     
 Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchallenge.com/ 
 Zaafiyetleri kullanarak ilerleyebileceğin bir websitesi: https://overthewire.org/wargames/natas/
+
 BTK'nın eğitimlerinin bulunduğu site: https://www.btkakademi.gov.tr
 Dünyanın bir çok yerinde yapılan CTF'leri görebileceğiniz bir websitesi: https://ctftime.org/
 Size verilen problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir site: https://www.hackerrank.com
