@@ -223,7 +223,7 @@ Pass the Hash with Mimicatz : https://blog.stealthbits.com/passing-the-hash-with
 ## Network Basics for Hackers
 https://www.hackers-arise.com/networks-basics
 
-#İşinize yarayabilecek linkler:
+# İşinize yarayabilecek linkler:
 ### Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
