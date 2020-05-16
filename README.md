@@ -1,5 +1,5 @@
 # Web Siteleri 
-Luniz telegram kanalı: https://t.me/lunizzsec      
+Luniz telegram kanalı: https://t.me/lunizzsec 
 Applicaion Sec. Websitesi: https://application.security/free-application-security-training     
 XSS ile ilgili bir oyun: https://xss-game.appspot.com/     
 Programlama öğrenmek isteyenler için kitapların bulunduğu bir websitesi: https://goalkicker.com/     
@@ -10,13 +10,13 @@ Web Application Pentest ile ilgileniyorsanız, BurpSuite'in yapımcılarının e
 Zafiyetli makinalari bilgisayarınıza kurup test edebileceğiniz bir websitesi: https://www.vulnhub.com/     
 Ücretli ve ücretsiz eğitimlerin bulunduğu bir websitesi: https://www.cybrary.it/     
 Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir websitesi: https://hackerone.com/     
-Bugcrowd sitesinin eğitimleri: https://www.bugcrowd.com/hackers/bugcrowd-university/
+Bugcrowd sitesinin eğitimleri: https://www.bugcrowd.com/hackers/bugcrowd-university/ \
 Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir websitesi: https://www.hackthebox.eu/     
 Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir websitesi: https://www.priviahub.com     
 Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchallenge.com/ \
 Zaafiyetleri kullanarak ilerleyebileceğin bir websitesi: https://overthewire.org/wargames/natas/                               
-BTK'nın eğitimlerinin bulunduğu site: https://www.btkakademi.gov.tr
-Dünyanın bir çok yerinde yapılan CTF'leri görebileceğiniz bir websitesi: https://ctftime.org/
+BTK'nın eğitimlerinin bulunduğu site: https://www.btkakademi.gov.tr \
+Dünyanın bir çok yerinde yapılan CTF'leri görebileceğiniz bir websitesi: https://ctftime.org/ \
 Size verilen problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir site: https://www.hackerrank.com
 Kolaydan zora bir çok CTF'in bulunduğu bir websitesi: https://ctflearn.com/
 http://pwnable.kr/
