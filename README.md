@@ -1,113 +1,114 @@
+<!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler aynı satırda karışır. -->
 # Web Siteleri 
-Luniz telegram kanalı: https://t.me/lunizzsec 
-Applicaion Sec. Websitesi: https://application.security/free-application-security-training     
-XSS ile ilgili bir oyun: https://xss-game.appspot.com/     
-Programlama öğrenmek isteyenler için kitapların bulunduğu bir websitesi: https://goalkicker.com/     
-İngilizce öğrenmek için bir websitesi: https://diziyleogren.com/     
-Penetration test websitesi: https://www.tutorialspoint.com/penetration_testing/index.htm     
-Ctf sitesi: https://captf.com/     
-Web Application Pentest ile ilgileniyorsanız, BurpSuite'in yapımcılarının eğitim sayfası: https://portswigger.net/     
-Zafiyetli makinalari bilgisayarınıza kurup test edebileceğiniz bir websitesi: https://www.vulnhub.com/     
-Ücretli ve ücretsiz eğitimlerin bulunduğu bir websitesi: https://www.cybrary.it/     
-Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir websitesi: https://hackerone.com/     
+Luniz telegram kanalı: https://t.me/lunizzsec \
+Applicaion Sec. Websitesi: https://application.security/free-application-security-training \
+XSS ile ilgili bir oyun: https://xss-game.appspot.com/ \
+Programlama öğrenmek isteyenler için kitapların bulunduğu bir websitesi: https://goalkicker.com/ \   
+İngilizce öğrenmek için bir websitesi: https://diziyleogren.com/ \
+Penetration test websitesi: https://www.tutorialspoint.com/penetration_testing/index.htm \   
+Ctf sitesi: https://captf.com/ \
+Web Application Pentest ile ilgileniyorsanız, BurpSuite'in yapımcılarının eğitim sayfası: https://portswigger.net/ \ 
+Zafiyetli makinalari bilgisayarınıza kurup test edebileceğiniz bir websitesi: https://www.vulnhub.com/ \
+Ücretli ve ücretsiz eğitimlerin bulunduğu bir websitesi: https://www.cybrary.it/ \
+Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir websitesi: https://hackerone.com/ \    
 Bugcrowd sitesinin eğitimleri: https://www.bugcrowd.com/hackers/bugcrowd-university/ \
-Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir websitesi: https://www.hackthebox.eu/     
-Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir websitesi: https://www.priviahub.com     
+Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir websitesi: https://www.hackthebox.eu/ \    
+Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir websitesi: https://www.priviahub.com \
 Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchallenge.com/ \
-Zaafiyetleri kullanarak ilerleyebileceğin bir websitesi: https://overthewire.org/wargames/natas/                               
+Zaafiyetleri kullanarak ilerleyebileceğin bir websitesi: https://overthewire.org/wargames/natas/ \                        
 BTK'nın eğitimlerinin bulunduğu site: https://www.btkakademi.gov.tr \
 Dünyanın bir çok yerinde yapılan CTF'leri görebileceğiniz bir websitesi: https://ctftime.org/ \
-Size verilen problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir site: https://www.hackerrank.com
-Kolaydan zora bir çok CTF'in bulunduğu bir websitesi: https://ctflearn.com/
+Size verilen problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir site: https://www.hackerrank.com \
+Kolaydan zora bir çok CTF'in bulunduğu bir websitesi: https://ctflearn.com/ \
 http://pwnable.kr/
 
 
 # Kurslar 
 ## Ücretli Kurslar 
 ### İngilizce 
-https://www.pluralsight.com/browse/information-cyber-security     
-https://www.pluralsight.com/courses/ethical-hacking-understanding     
-https://josephdelgadillo.com/product/holiday-course-bundle-sale/     
-https://www.udemy.com/course/ethical-hacking-kali-linux/     
-https://www.udemy.com/course/practical-ethical-hacking/ 
+https://www.pluralsight.com/browse/information-cyber-security \
+https://www.pluralsight.com/courses/ethical-hacking-understanding \     
+https://josephdelgadillo.com/product/holiday-course-bundle-sale/ \  
+https://www.udemy.com/course/ethical-hacking-kali-linux/ \
+https://www.udemy.com/course/practical-ethical-hacking/ \
 
 ### Türkçe 
-https://www.udemy.com/course/sizma-testlerinde-metasploit-kullanimi/ 
+https://www.udemy.com/course/sizma-testlerinde-metasploit-kullanimi/ \
 
 ## Ücretsiz Kurslar
 ### Udemy 
-https://www.reddit.com/r/udemyfreebies/     
-https://www.udemy.com/course/gokhanmuharremoglu/ 
+https://www.reddit.com/r/udemyfreebies/ \
+https://www.udemy.com/course/gokhanmuharremoglu/ \
 
 ### Youtube 
-Nasil HACKER olurum? Ömer Çıtak cevaplamış: https://www.youtube.com/watch?v=TEB-zmSBAmY     
-İngilizce için: https://www.youtube.com/fklanguage     
-Full Ethical Hacking Course: https://www.youtube.com/watch?v=DzDtzbcmb58     
-Learn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial: https://www.youtube.com/watch?v=S6S5JF6Gou0     
-Penetration Testing | Gophish Tutorial (Phishing Framework): https://www.youtube.com/watch?v=0uvWRwLs5Zo     
-How to learn Ethical Hacking with Python and Kali linux course: https://www.youtube.com/watch?v=3Kq1MIfTWCE     
-https://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM     
-CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pentesting için gereksiz bilgileri de kapsar. İstersen bir bak.
-https://www.youtube.com/watch?v=QKfk7YFILws     
-Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q 
+Nasil HACKER olurum? Ömer Çıtak cevaplamış: https://www.youtube.com/watch?v=TEB-zmSBAmY \   
+İngilizce için: https://www.youtube.com/fklanguage \
+Full Ethical Hacking Course: https://www.youtube.com/watch?v=DzDtzbcmb58 \    
+Learn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial: https://www.youtube.com/watch?v=S6S5JF6Gou0 \    
+Penetration Testing | Gophish Tutorial (Phishing Framework): https://www.youtube.com/watch?v=0uvWRwLs5Zo \
+How to learn Ethical Hacking with Python and Kali linux course: https://www.youtube.com/watch?v=3Kq1MIfTWCE \    
+https://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM \
+CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pentesting için gereksiz bilgileri de kapsar. İstersen bir bak. \ 
+https://www.youtube.com/watch?v=QKfk7YFILws \
+Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q \
 
 # Çeşitli 
-https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/
-https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters     
-https://www.guru99.com/     
-https://www.tutorialspoint.com/penetration_testing/index.htm     
-Linux Dersleri: https://linux-dersleri.github.io/
-Bir çok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses
-Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/     
-Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/     
-Windows Exploitation full Course : https://fullpwnops.com/windows-exploitation-pathway.html    
-https://medium.com/@iamtess5277/what-is-broken-link-hijacking-o-o-872d821da6fd   <<<<<<<<<<<   bug bounty ye yeni basliyosan, ve temel bilgisayar bilgisinden daha ote degilse bildiklerin... al bunu yap..
-ilk kazandigin paradan da bizi gorursun ;) sevgili kardesim..  
+https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ \
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters \ 
+https://www.guru99.com/ \
+https://www.tutorialspoint.com/penetration_testing/index.htm \   
+Linux Dersleri: https://linux-dersleri.github.io/ \
+Bir çok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses \
+Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ \    
+Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ \     
+Windows Exploitation full Course : https://fullpwnops.com/windows-exploitation-pathway.html \
+Bug bounty'e yeni başlıyorsan ve bilgisayar bilgin temelden öte değilse buna bir bak: https://medium.com/@iamtess5277/what-is-broken-link-hijacking-o-o-872d821da6fd \
+ilk kazandigin paradan da bizi gorursun ;) sevgili kardesim.. \
 
 # Network Pentesting 
-https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE     
-https://github.com/hmaverickadams/Beginner-Network-Pentesting     
-https://www.thecybermentor.com/zero-to-hero-pentesting 
+https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \     
+https://github.com/hmaverickadams/Beginner-Network-Pentesting \ 
+https://www.thecybermentor.com/zero-to-hero-pentesting \
  
 # Kitaplar 
-http://indexof.es/Miscellanous/LIVRES/web-hacking-101.pdf     
-http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf     
-Çok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125     
-Türkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf 
+http://indexof.es/Miscellanous/LIVRES/web-hacking-101.pdf \     
+http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \   
+Çok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \   
+Türkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf \
 
 # Takip Edilesi Twitch Kanalları 
-https://www.twitch.tv/bugcrowdofficial     
-https://www.twitch.tv/lunizz     
-https://www.twitch.tv/mdisec     
-https://twitch.tv/nahamsec     
-https://twitch.tv/thecybermentor 
+https://www.twitch.tv/bugcrowdofficial \  
+https://www.twitch.tv/lunizz \
+https://www.twitch.tv/mdisec \   
+https://twitch.tv/nahamsec \  
+https://twitch.tv/thecybermentor \
 
 # Takip Edilesi Youtube Kanalları 
-https://youtube.com/candeger     
-https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw     
-https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw     
-https://www.youtube.com/channel/UC7eshikPSJF3ZGTsgFG1XBA     
-Nahamsec'in kankası: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg     
-Hackerone üyesi: https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA     
-Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw 
+https://youtube.com/candeger \
+https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw \    
+https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw \   
+https://www.youtube.com/channel/UC7eshikPSJF3ZGTsgFG1XBA \   
+Nahamsec'in kankası: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg \  
+Hackerone üyesi: https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA \ 
+Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw \
 
 # Makalaler/Yazılar 
-En çok kullanılan toolar: https://prune2000.github.io/tools/pentest/     
-Nereden başlarım ve üniversite hakkında: https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/     
-Siber güvenlik ile alakalı konuların paylaşıldığı türkçe reddit sayfası: https://www.reddit.com/r/trsec/     
-https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/ 
+En çok kullanılan toolar: https://prune2000.github.io/tools/pentest/ \
+Nereden başlarım ve üniversite hakkında: https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/ \    
+Siber güvenlik ile alakalı konuların paylaşıldığı türkçe reddit sayfası: https://www.reddit.com/r/trsec/ \
+https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/ \
 
 
 # Twitterdan Takip Edilebilecek Kişiler 
-Yabancılar Tam liste: https://heimdalsecurity.com/blog/best-twitter-cybersec-accounts/     
-https://twitter.com/candeger     
-https://twitter.com/Om3rCitak     
-https://twitter.com/warex     
-https://twitter.com/cnbrkbolat     
-https://twitter.com/corpuscallosum     
-https://twitter.com/HackingDave     
-https://twitter.com/SANSInstitute     
-https://twitter.com/gcluley     
+Yabancılar Tam liste: https://heimdalsecurity.com/blog/best-twitter-cybersec-accounts/ \
+https://twitter.com/candeger \
+https://twitter.com/Om3rCitak \     
+https://twitter.com/warex \
+https://twitter.com/cnbrkbolat \    
+https://twitter.com/corpuscallosum \    
+https://twitter.com/HackingDave \
+https://twitter.com/SANSInstitute \    
+https://twitter.com/gcluley \
 https://twitter.com/BrianHonan     
 https://twitter.com/dakami     
 https://twitter.com/NakedSecurity     
