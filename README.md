@@ -14,6 +14,13 @@ Bugcrowd sitesinin eğitimleri: https://www.bugcrowd.com/hackers/bugcrowd-univer
 Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir websitesi: https://www.hackthebox.eu/     
 Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir websitesi: https://www.priviahub.com     
 Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchallenge.com/ 
+Zaafiyetleri kullanarak ilerleyebileceğin bir websitesi: https://overthewire.org/wargames/natas/
+BTK'nın eğitimlerinin bulunduğu site: https://www.btkakademi.gov.tr
+Dünyanın bir çok yerinde yapılan CTF'leri görebileceğiniz bir websitesi: https://ctftime.org/
+Size verilen problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir site: https://www.hackerrank.com
+Kolaydan zora bir çok CTF'in bulunduğu bir websitesi: https://ctflearn.com/
+http://pwnable.kr/
+
 
 # Kurslar 
 ## Ücretli Kurslar 
@@ -45,10 +52,12 @@ https://www.youtube.com/watch?v=QKfk7YFILws
 Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q 
 
 # Çeşitli 
-https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/     
+https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/
 https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters     
 https://www.guru99.com/     
 https://www.tutorialspoint.com/penetration_testing/index.htm     
+Linux Dersleri: https://linux-dersleri.github.io/
+Bir çok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses
 Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/     
 Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/     
 Windows Exploitation full Course : https://fullpwnops.com/windows-exploitation-pathway.html    
@@ -87,6 +96,7 @@ En çok kullanılan toolar: https://prune2000.github.io/tools/pentest/
 Nereden başlarım ve üniversite hakkında: https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/     
 Siber güvenlik ile alakalı konuların paylaşıldığı türkçe reddit sayfası: https://www.reddit.com/r/trsec/     
 https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/ 
+
 
 # Twitterdan Takip Edilebilecek Kişiler 
 Yabancılar Tam liste: https://heimdalsecurity.com/blog/best-twitter-cybersec-accounts/     
