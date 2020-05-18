@@ -6,9 +6,9 @@
 - youtube : https://youtube.com/candeger 
 - ve twitch : https://twitch.tv/lunizz
 
-Gecmis tum twitch yayinlari : https://www.twitch.tv/lunizz/videos \
+Gecmis tum twitch yayinlari : https://www.twitch.tv/lunizz/videos 
 
-Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A \
+Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
 
 ![](dersler1.PNG) \
 Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilirsiniz.. \
