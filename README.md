@@ -155,7 +155,7 @@ https://twitter.com/h1_kenan \
 https://twitter.com/evrnyalcin
  
 # Cheat Sheetler
-https://www.sans.org/securityresources/sec560/misc_tools_sheet_v1.pdf
+https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
 
 # LuNiZz ile Soru/Cevap 
 ## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
