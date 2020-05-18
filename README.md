@@ -10,9 +10,9 @@ Gecmis tum twitch yayinlari : https://www.twitch.tv/lunizz/videos \
 
 Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A \
 
-(https://github.com/LuNiZz/siber-guvenlik-sss/dersler1.PNG) \
+![](https://github.com/LuNiZz/siber-guvenlik-sss/dersler1.PNG) \
 Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilirsiniz.. \
-(https://github.com/LuNiZz/siber-guvenlik-sss/dersler2.PNG) 
+![](https://github.com/LuNiZz/siber-guvenlik-sss/dersler2.PNG) 
 
 # Web Siteleri 
 Luniz telegram kanalı: https://t.me/lunizzsec \
