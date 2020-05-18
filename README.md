@@ -1,4 +1,19 @@
 <!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
+# LuNiZz linkleri
+- Discord : https://discord.io/lunizz
+- instagram : https://instagram.com/candeger 
+- twitter: https://twitter.com/candeger
+- youtube : https://youtube.com/candeger 
+- ve twitch : https://twitch.tv/lunizz
+
+Gecmis tum twitch yayinlari : https://www.twitch.tv/lunizz/videos \
+
+Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A \
+
+(dersler1.png)
+Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilirsiniz.. \
+(dersler2.png) \
+
 # Web Siteleri 
 Luniz telegram kanalı: https://t.me/lunizzsec \
 Applicaion Sec. Websitesi: https://application.security/free-application-security-training \
@@ -225,7 +240,7 @@ Pass the Hash with Mimicatz : https://blog.stealthbits.com/passing-the-hash-with
 ## Network Basics for Hackers
 https://www.hackers-arise.com/networks-basics
 
-# İşinize yarayabilecek linkler:
+## İşinize yarayabilecek linkler:
 ### Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
