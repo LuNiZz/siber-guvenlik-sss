@@ -70,7 +70,7 @@ CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pente
 https://www.youtube.com/watch?v=QKfk7YFILws \
 Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q
 
-# Çeşitli 
+# Çeşitli Kaynaklar
 * https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ 
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
 * https://www.guru99.com/ 
@@ -79,6 +79,10 @@ Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: ht
 * Bir çok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses 
 * Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ 
 * Windows Exploitation full Course : https://fullpwnops.com/windows-exploitation-pathway.html 
+* AWESOME serisi, tum IT konularinda, Internette bulabileceginiz en buyuk kaynaklardan biri. https://github.com/LuNiZz/awesome
+  - Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme
+  - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme
+  - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme
 
   ### Bug Bounty Mevzusu
   * Bug Bounty konusunda NAHAMSEC'in yayinladigi Baslangic ve gelisim rehberi.. Super kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters 
