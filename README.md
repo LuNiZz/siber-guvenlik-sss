@@ -4,7 +4,8 @@
 - instagram : https://instagram.com/candeger 
 - twitter: https://twitter.com/candeger
 - youtube : https://youtube.com/candeger 
-- ve twitch : https://twitch.tv/lunizz
+- twitch : https://twitch.tv/lunizz
+- Telegram kanalı: https://t.me/lunizzsec 
 
 Gecmis tum twitch yayinlari : https://www.twitch.tv/lunizz/videos 
 
@@ -15,7 +16,7 @@ Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilir
 ![](dersler2.PNG) 
 
 # Web Siteleri 
-Luniz telegram kanalı: https://t.me/lunizzsec \
+
 Applicaion Sec. Websitesi: https://application.security/free-application-security-training \
 XSS ile ilgili bir oyun: https://xss-game.appspot.com/ \
 Programlama öğrenmek isteyenler için kitapların bulunduğu bir websitesi: https://goalkicker.com/ \
