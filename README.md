@@ -70,17 +70,22 @@ https://www.youtube.com/watch?v=QKfk7YFILws \
 Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q
 
 # Çeşitli 
-https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ \
-https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters \
-https://www.guru99.com/ \
-https://www.tutorialspoint.com/penetration_testing/index.htm \
-Linux Dersleri: https://linux-dersleri.github.io/ \
-Bir çok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses \
-Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ \
-Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ \
-Windows Exploitation full Course : https://fullpwnops.com/windows-exploitation-pathway.html \
-Bug bounty'e yeni başlıyorsan ve bilgisayar bilgin temelden öte değilse buna bir bak: https://medium.com/@iamtess5277/what-is-broken-link-hijacking-o-o-872d821da6fd \
-ilk kazandigin paradan da bizi gorursun ;) sevgili kardesim..
+* https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ 
+* https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
+* https://www.guru99.com/ 
+* https://www.tutorialspoint.com/penetration_testing/index.htm 
+* Linux Dersleri: https://linux-dersleri.github.io/ 
+* Bir çok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses 
+* Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ 
+* Windows Exploitation full Course : https://fullpwnops.com/windows-exploitation-pathway.html 
+
+  ### Bug Bounty Mevzusu
+  * Bug Bounty konusunda NAHAMSEC'in yayinladigi Baslangic ve gelisim rehberi.. Super kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters 
+  * Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ 
+  * Bug bounty'e yeni başlıyorsan ve bilgisayar bilgin temelden öte değilse buna bir bak: https://medium.com/
+
+  ilk kazandigin paradan da bizi gorursun ;) sevgili kardesim..
+
 
 # Network Pentesting 
 https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \
