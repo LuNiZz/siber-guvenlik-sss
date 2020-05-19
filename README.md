@@ -6,13 +6,13 @@
 - youtube : https://youtube.com/candeger 
 - ve twitch : https://twitch.tv/lunizz
 
-Gecmis tum twitch yayinlari : https://www.twitch.tv/lunizz/videos \
+Gecmis tum twitch yayinlari : https://www.twitch.tv/lunizz/videos 
 
-Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A \
+Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
 
-(/dersler1.PNG) \
+![](dersler1.PNG) \
 Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilirsiniz.. \
-(dersler2.PNG) \
+![](dersler2.PNG) 
 
 # Web Siteleri 
 Luniz telegram kanalı: https://t.me/lunizzsec \
@@ -160,7 +160,7 @@ https://twitter.com/h1_kenan \
 https://twitter.com/evrnyalcin
  
 # Cheat Sheetler
-https://www.sans.org/securityresources/sec560/misc_tools_sheet_v1.pdf
+https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
 
 # LuNiZz ile Soru/Cevap 
 ## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
