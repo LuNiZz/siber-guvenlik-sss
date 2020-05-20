@@ -98,6 +98,7 @@ https://github.com/hmaverickadams/Beginner-Network-Pentesting \
 https://www.thecybermentor.com/zero-to-hero-pentesting
  
 # Kitaplar 
+Profesyoneller için Programlama Notları/kitapları(ingilizce) https://goalkicker.com/
 http://indexof.es/Miscellanous/LIVRES/web-hacking-101.pdf \
 http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \
 Çok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \
