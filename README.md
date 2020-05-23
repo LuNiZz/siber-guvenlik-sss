@@ -88,7 +88,10 @@ Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: ht
   * Bug Bounty konusunda NAHAMSEC'in yayinladigi Baslangic ve gelisim rehberi.. Super kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters 
   * Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ 
   * Bug bounty'e yeni başlıyorsan ve bilgisayar bilgin temelden öte değilse buna bir bak: https://medium.com/
-
+  * Hackerone sıralanmış raporlar https://github.com/reddelexc/hackerone-reports
+  * Hackerone kurucusu nasıl başlamalıyız sorusuna cevap veriyor: https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma
+  * Bug hunting methodology https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f
+  
   ilk kazandigin paradan da bizi gorursun ;) sevgili kardesim..
 
 
