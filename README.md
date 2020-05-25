@@ -51,7 +51,7 @@ http://pwnable.kr/
 <details>
 
 
-<b><summary># Kurslar</summary></b>
+<h1><summary> Kurslar</summary>
 
 ## Ücretli Kurslar 
 ### İngilizce 
@@ -87,7 +87,7 @@ Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: ht
 
 <details>
 
-<summary># Çeşitli Kaynaklar</summary>
+<h1><summary> Çeşitli Kaynaklar</summary>
 
 * https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ 
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
@@ -116,7 +116,7 @@ Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: ht
 
 <details>
 
-<summary># Network Pentesting</summary>
+<h1><summary> Network Pentesting</summary>
 
 https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \
 https://github.com/hmaverickadams/Beginner-Network-Pentesting \
