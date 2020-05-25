@@ -116,7 +116,7 @@ Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: ht
 
 <details>
 
-<h1><summary> Network Pentesting</summary>
+<summary> Network Pentesting</summary>
 
 https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \
 https://github.com/hmaverickadams/Beginner-Network-Pentesting \
