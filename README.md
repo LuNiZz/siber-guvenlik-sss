@@ -9,7 +9,7 @@
 
 <details>
 
-<summary> Geçmiş tüm twitch yayinlari </summary>
+<b><summary> Geçmiş tüm twitch yayinlari </summary>
 
  https://www.twitch.tv/lunizz/videos 
 
@@ -23,7 +23,7 @@ Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilir
 
 <details>
 
-<summary># Web Siteleri</summary>
+<b><summary># Web Siteleri</summary>
 
 Applicaion Sec. Websitesi: https://application.security/free-application-security-training \
 XSS ile ilgili bir oyun: https://xss-game.appspot.com/ \
@@ -51,7 +51,7 @@ http://pwnable.kr/
 <details>
 
 
-<h1><summary> Kurslar</summary>
+<b><summary> Kurslar</summary>
 
 ## Ücretli Kurslar 
 ### İngilizce 
@@ -87,7 +87,7 @@ Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: ht
 
 <details>
 
-<h1><summary> Çeşitli Kaynaklar</summary>
+<b><summary> Çeşitli Kaynaklar</summary>
 
 * https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ 
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
