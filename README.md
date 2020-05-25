@@ -15,7 +15,9 @@ Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collecti
 Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilirsiniz.. \
 ![](dersler2.PNG) 
 
-# Web Siteleri 
+<details>
+
+<summary># Web Siteleri</summary>
 
 Applicaion Sec. Websitesi: https://application.security/free-application-security-training \
 XSS ile ilgili bir oyun: https://xss-game.appspot.com/ \
@@ -38,8 +40,13 @@ Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bi
 Kolaydan zora bir çok CTF'in bulunduğu bir websitesi: https://ctflearn.com/ \
 http://pwnable.kr/
 
+</details>
 
-# Kurslar 
+<details>
+
+
+<summary># Kurslar</summary>
+
 ## Ücretli Kurslar 
 ### İngilizce 
 https://www.pluralsight.com/browse/information-cyber-security \
@@ -70,7 +77,12 @@ CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pente
 https://www.youtube.com/watch?v=QKfk7YFILws \
 Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q
 
-# Çeşitli Kaynaklar
+</details>
+
+<details>
+
+<summary># Çeşitli Kaynaklar</summary>
+
 * https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ 
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
 * https://www.guru99.com/ 
@@ -94,13 +106,22 @@ Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: ht
   
   ilk kazandigin paradan da bizi gorursun ;) sevgili kardesim..
 
+</details>
 
-# Network Pentesting 
+<details>
+
+<summary># Network Pentesting</summary>
+
 https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \
 https://github.com/hmaverickadams/Beginner-Network-Pentesting \
 https://www.thecybermentor.com/zero-to-hero-pentesting
- 
-# Kitaplar 
+
+</details>
+
+<details>
+
+<summary> # Kitaplar </summary>
+
 https://goalkicker.com/ \
 http://indexof.es/Miscellanous/LIVRES/web-hacking-101.pdf \
 http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \
@@ -110,14 +131,24 @@ The Phoenix Project: https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Bus
 The Unicorn Project: https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41 \
 The Goal: https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O
 
-# Takip Edilesi Twitch Kanalları 
+</details>
+
+<details>
+
+<summary># Takip Edilesi Twitch Kanalları </summary>
+
 https://www.twitch.tv/bugcrowdofficial \
 https://www.twitch.tv/lunizz \
 https://www.twitch.tv/mdisec \
 https://twitch.tv/nahamsec \
 https://twitch.tv/thecybermentor
 
-# Takip Edilesi Youtube Kanalları 
+</details>
+
+<details>
+
+<summary># Takip Edilesi Youtube Kanalları </summary>
+
 https://youtube.com/candeger \
 https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw \
 https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw \
@@ -126,14 +157,23 @@ Nahamsec'in kankası: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg \
 Hackerone üyesi: https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA \
 Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw
 
-# Makalaler/Yazılar 
+</details>
+
+<details>
+
+<summary># Makalaler/Yazılar</summary>
+
 En çok kullanılan toolar: https://prune2000.github.io/tools/pentest/ \
 Nereden başlarım ve üniversite hakkında: https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/ \
 Siber güvenlik ile alakalı konuların paylaşıldığı türkçe reddit sayfası: https://www.reddit.com/r/trsec/ \
 https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/
 
+</details>
 
-# Twitterdan Takip Edilebilecek Kişiler 
+<details>
+
+<summary># Twitterdan Takip Edilebilecek Kişiler </summary>
+
 Yabancılar Tam liste: https://heimdalsecurity.com/blog/best-twitter-cybersec-accounts/ \
 https://twitter.com/candeger \
 https://twitter.com/Om3rCitak \
@@ -170,11 +210,20 @@ https://twitter.com/EmreTinaztepe \
 https://twitter.com/sametsahinnet \
 https://twitter.com/h1_kenan \
 https://twitter.com/evrnyalcin
+
+</details>
  
-# Cheat Sheetler
+<details>
+
+<summary># Cheat Sheetler</summary>
 https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
 
-# LuNiZz ile Soru/Cevap 
+</details>
+
+<details>
+
+<summary># LuNiZz ile Soru/Cevap</summary>
+
 ## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
 En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Application pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da saglar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
  
@@ -257,7 +306,12 @@ Pass the Hash with Mimicatz : https://blog.stealthbits.com/passing-the-hash-with
 ## Network Basics for Hackers
 https://www.hackers-arise.com/networks-basics
 
-## İşinize yarayabilecek linkler:
+</details>
+
+<details>
+
+<summary>## İşinize yarayabilecek linkler:</summary>
+
 ### Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
@@ -320,3 +374,4 @@ https://www.hackers-arise.com/networks-basics
 ### Reverse Engineering
   - :book: [Reverse engineering for beginners](https://beginners.re/)
   - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
+</details>
