@@ -51,7 +51,7 @@ http://pwnable.kr/
 <details>
 
 
-<summary># Kurslar</summary>
+<b><summary># Kurslar</summary></b>
 
 ## Ücretli Kurslar 
 ### İngilizce 
