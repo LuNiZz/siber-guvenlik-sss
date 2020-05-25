@@ -23,7 +23,7 @@ Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilir
 
 <details>
 
-<b><summary># Web Siteleri</summary>
+<b><summary> Web Siteleri</summary>
 
 Applicaion Sec. Websitesi: https://application.security/free-application-security-training \
 XSS ile ilgili bir oyun: https://xss-game.appspot.com/ \
@@ -126,7 +126,7 @@ https://www.thecybermentor.com/zero-to-hero-pentesting
 
 <details>
 
-<summary> # Kitaplar </summary>
+<summary> Kitaplar </summary>
 
 https://goalkicker.com/ \
 http://indexof.es/Miscellanous/LIVRES/web-hacking-101.pdf \
@@ -141,7 +141,7 @@ The Goal: https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B00
 
 <details>
 
-<summary># Takip Edilesi Twitch Kanalları </summary>
+<summary> Takip Edilesi Twitch Kanalları </summary>
 
 https://www.twitch.tv/bugcrowdofficial \
 https://www.twitch.tv/lunizz \
@@ -153,7 +153,7 @@ https://twitch.tv/thecybermentor
 
 <details>
 
-<summary># Takip Edilesi Youtube Kanalları </summary>
+<summary> Takip Edilesi Youtube Kanalları </summary>
 
 https://youtube.com/candeger \
 https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw \
@@ -167,7 +167,7 @@ Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw
 
 <details>
 
-<summary># Makalaler/Yazılar</summary>
+<summary> Makalaler/Yazılar</summary>
 
 En çok kullanılan toolar: https://prune2000.github.io/tools/pentest/ \
 Nereden başlarım ve üniversite hakkında: https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/ \
@@ -178,7 +178,7 @@ https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendi
 
 <details>
 
-<summary># Twitterdan Takip Edilebilecek Kişiler </summary>
+<summary> Twitterdan Takip Edilebilecek Kişiler </summary>
 
 Yabancılar Tam liste: https://heimdalsecurity.com/blog/best-twitter-cybersec-accounts/ \
 https://twitter.com/candeger \
@@ -221,14 +221,14 @@ https://twitter.com/evrnyalcin
  
 <details>
 
-<summary># Cheat Sheetler</summary>
+<summary> Cheat Sheetler</summary>
 https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
 
 </details>
 
 <details>
 
-<summary># LuNiZz ile Soru/Cevap</summary>
+<summary> LuNiZz ile Soru/Cevap</summary>
 
 ## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
 En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Application pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da saglar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
@@ -316,7 +316,7 @@ https://www.hackers-arise.com/networks-basics
 
 <details>
 
-<summary>## İşinize yarayabilecek linkler:</summary>
+<summary> İşinize yarayabilecek linkler:</summary>
 
 ### Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
