@@ -7,13 +7,19 @@
 - twitch : https://twitch.tv/lunizz
 - Telegram kanalı: https://t.me/lunizzsec 
 
-Gecmis tum twitch yayinlari : https://www.twitch.tv/lunizz/videos 
+<details>
+
+<summary> Geçmiş tüm twitch yayinlari </summary>
+
+ https://www.twitch.tv/lunizz/videos 
 
 Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
 
 ![](dersler1.PNG) \
 Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilirsiniz.. \
 ![](dersler2.PNG) 
+
+</details>
 
 <details>
 
