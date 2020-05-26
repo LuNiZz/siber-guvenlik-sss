@@ -5,7 +5,67 @@
 - twitter: https://twitter.com/candeger
 - youtube : https://youtube.com/candeger 
 - twitch : https://twitch.tv/lunizz
-- Telegram kanalı: https://t.me/lunizzsec 
+- Telegram kanalı: https://t.me/lunizzsec  \
+
+Selamlar, burayi bulduguna gore, siber guvenlik ve bunun alt dallarina merakin var demektir, o zaman hos geldin... Bizler genel olarak siber guvenlik kariyerinde ilerlemek isteyen arkadaslara yol gostermeyi, iyi ve dogru bir baslangic yaparak onlari dogru yerlere geliserek ulasmalarina yonlendirmeyi hedefleyen bir topluluguz. Bana ve arkadaslarima yukarida gordugun adreslerden kolaylikla ulasabilirsin.
+Ayrica yaptigimiz yayinlara gelip, goz atabilirsin...
+
+Asagida bana Sikca Sorulmus Sorulara bir goz atarak baslamani oneririm, onun altinda kapali menuler halinde bir cok kaynak var her birine bir goz at.   
+
+* Ozellikle KURSLAR, CESITLI KAYNAKLAR, TAKIP EDILESI YOUTUBE KANALLARI basliklarinda bir cok aradigin sorunun yanitini bulabilecegine inaniyorum.
+
+Ayrica yayin gecmisinde yer alan videolarin toplu playlist hali de bulunuyor linkler arasinda ve gorsel olarak nasil izleyebilecegini anlattim.
+
+"Hacking The TEMEL" video serisi, bu is icin baslangic konularini irdeliyor... ona ozellikle goz atmani tavsiye ederim eger yeni basladiysan..
+
+Aramiza hos geldin ve gorusuruz..
+
+-LuNiZz    
+## --- - ---
+
+
+## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
+En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Application pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da saglar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
+ 
+## Üniversite okumalı mıyım?  
+Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert degil. Önemli olan sizin yarattığınız fark ve değer. 
+
+## Hangi programlama dillerine ve teknolojilerine eğilmeliyim?  
+Bu konuda bir cok kaynak var aslinda: Phyton, JS, C, Bash scripting(linux komut satiri), sanal makinada  Kali linux çalıştırabilmek, temel CCNA ile network bilgisi, SQL hakkinda fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır. 
+
+## Abi ingilizcem yok! Ne yapıcam?  
+İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede ingilizce öğrenmen lazım. DUOLingo vs. gibi ingilizce öğreten kaynakları ye, yut, bitir. 
+
+## Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?  
+Gelişmekte olan teknolojilere bakmak lazim: DevOps, Full Stack Development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayinda tartisalim. 
+## Oyun geliştirme konusu da cok ilgimi çekiyor, siber güvenlik de. Ne yapacağım? Hangisini seçmeliyim?  
+İkisi tamamen farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun gelistirme firmasinda siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin. 
+
+## Abi İnstagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? İvir nedir abi? Zivir nedir abi?  
+Sevgili kardeşim, her ne kadar yardımcı olmak istesem de, Instagram soru cevaplamak icin iğrenç bir platform. Cok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli arastırmaları yapıp, takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu cok derin, uygulama dandik, vakit sinirli... En yuksek faydayı sağlayabilmek icin, senin de araştırma yapman lazım biraz. Hem araştırma yapabilmek, bizim işimizin en önemli parcasi. Biraz söylediğim alanlarda arastirmalarınızı yapın, sonra gelin yeniden yön çizelim, sorularınıza göre. Ben google degilim! yaptiğımız şey mentoring. Herkese ulaşabilmek için size de düşen bir kaç aksiyon var yani. Yardiminiz icin teşekkürler. 
+
+## Abi bulunduğum şehirde devletin, işkur'un veya benzer kurumların bilişim kurslari var. Bunlara gideyim mi? İşe yarar mı?  
+Yarar kardeşim. Hiç bir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra ingilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi bu yaz kampları vs. var, bircok firma düzenliyor bir de özgür yazılım için vs. de var bağzi dernekler de yapiyor... Onlara da katılabilirsiniz baya faydalılar. 
+
+## Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
+Kali indirdin mi? super! O zaman şuraya gidiyorsun =>  https://www.hackthebox.eu/ \
+Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin => \
+https://medium.com/@sonusaikishan/hackthebox-how-to-get-the-invite-code-and-enter-into-hackthebox-eu-fb4f3f24dc6c \
+https://codeburst.io/hack-the-box-how-to-get-invite-code-56e369fc8dae \
+https://www.youtube.com/watch?v=uZtC_ZqwzTE \
+İçeriye girince de aktif bilgisayarlardan istediğin ile test yapmaya başlayabilirsin. 
+
+## Abi parola seçerken uzun, kısa, karmaşık vs. çok mu önemli? 
+Bak şurada güzel bir yazi var, MFA veya benzeri ekstra korumalar olmaz ise parola seciminin aslında bir saldırgan açısından ne kadar önemsiz olduğunu açıklanmış. \
+https://techcommunity.microsoft.com/t5/azure-active-directory-identity/your-pa-word-doesn-t-matter/ba-p/731984
+
+## Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
+Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
+
+
+
+# Diger tum kaynaklari asagidaki linklerden bulabilirsin, her birine goz at bence...
+
 
 <details>
 
@@ -228,45 +288,7 @@ https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
 
 <details>
 
-<summary> LuNiZz ile Soru/Cevap</summary>
-
-## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
-En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Application pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da saglar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
- 
-## Üniversite okumalı mıyım?  
-Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert degil. Önemli olan sizin yarattığınız fark ve değer. 
-
-## Hangi programlama dillerine ve teknolojilerine eğilmeliyim?  
-Bu konuda bir cok kaynak var aslinda: Phyton, JS, C, Bash scripting(linux komut satiri), sanal makinada  Kali linux çalıştırabilmek, temel CCNA ile network bilgisi, SQL hakkinda fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır. 
-
-## Abi ingilizcem yok! Ne yapıcam?  
-İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede ingilizce öğrenmen lazım. DUOLingo vs. gibi ingilizce öğreten kaynakları ye, yut, bitir. 
-
-## Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?  
-Gelişmekte olan teknolojilere bakmak lazim: DevOps, Full Stack Development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayinda tartisalim. 
-## Oyun geliştirme konusu da cok ilgimi çekiyor, siber güvenlik de. Ne yapacağım? Hangisini seçmeliyim?  
-İkisi tamamen farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun gelistirme firmasinda siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin. 
-
-## Abi İnstagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? İvir nedir abi? Zivir nedir abi?  
-Sevgili kardeşim, her ne kadar yardımcı olmak istesem de, Instagram soru cevaplamak icin iğrenç bir platform. Cok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli arastırmaları yapıp, takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu cok derin, uygulama dandik, vakit sinirli... En yuksek faydayı sağlayabilmek icin, senin de araştırma yapman lazım biraz. Hem araştırma yapabilmek, bizim işimizin en önemli parcasi. Biraz söylediğim alanlarda arastirmalarınızı yapın, sonra gelin yeniden yön çizelim, sorularınıza göre. Ben google degilim! yaptiğımız şey mentoring. Herkese ulaşabilmek için size de düşen bir kaç aksiyon var yani. Yardiminiz icin teşekkürler. 
-
-## Abi bulunduğum şehirde devletin, işkur'un veya benzer kurumların bilişim kurslari var. Bunlara gideyim mi? İşe yarar mı?  
-Yarar kardeşim. Hiç bir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra ingilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi bu yaz kampları vs. var, bircok firma düzenliyor bir de özgür yazılım için vs. de var bağzi dernekler de yapiyor... Onlara da katılabilirsiniz baya faydalılar. 
-
-## Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
-Kali indirdin mi? super! O zaman şuraya gidiyorsun =>  https://www.hackthebox.eu/ \
-Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin => \
-https://medium.com/@sonusaikishan/hackthebox-how-to-get-the-invite-code-and-enter-into-hackthebox-eu-fb4f3f24dc6c \
-https://codeburst.io/hack-the-box-how-to-get-invite-code-56e369fc8dae \
-https://www.youtube.com/watch?v=uZtC_ZqwzTE \
-İçeriye girince de aktif bilgisayarlardan istediğin ile test yapmaya başlayabilirsin. 
-
-## Abi parola seçerken uzun, kısa, karmaşık vs. çok mu önemli? 
-Bak şurada güzel bir yazi var, MFA veya benzeri ekstra korumalar olmaz ise parola seciminin aslında bir saldırgan açısından ne kadar önemsiz olduğunu açıklanmış. \
-https://techcommunity.microsoft.com/t5/azure-active-directory-identity/your-pa-word-doesn-t-matter/ba-p/731984
-
-## Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
-Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
+<summary> Ingilizce Genel Kaynaklar Listesi (siteler/nereden baslamali/videolar... vs)</summary>
 
 # Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir.   
 ## Where to start learning pentesting? 
