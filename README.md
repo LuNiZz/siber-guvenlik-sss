@@ -1,11 +1,11 @@
 <!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
 # LuNiZz linkleri
-- Discord : https://discord.io/lunizz
+- TWITCH YAYINLARI : https://twitch.tv/lunizz
+- Discord : https://dc.lunizz.com
 - instagram : https://instagram.com/candeger 
 - twitter: https://twitter.com/candeger
 - youtube : https://youtube.com/candeger 
-- twitch : https://twitch.tv/lunizz
-- Telegram kanalı: https://t.me/lunizzsec  \
+- Telegram kanalı: https://t.me/lunizzsec  
 
 Selamlar, burayi bulduguna gore, siber guvenlik ve bunun alt dallarina merakin var demektir, o zaman hos geldin... Bizler genel olarak siber guvenlik kariyerinde ilerlemek isteyen arkadaslara yol gostermeyi, iyi ve dogru bir baslangic yaparak onlari dogru yerlere geliserek ulasmalarina yonlendirmeyi hedefleyen bir topluluguz. Bana ve arkadaslarima yukarida gordugun adreslerden kolaylikla ulasabilirsin.
 Ayrica yaptigimiz yayinlara gelip, goz atabilirsin...
