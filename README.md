@@ -75,6 +75,9 @@ Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulund
 
 Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
 
+### Eger Egitim videolarina bakacaksan, Hacking the TEMEL serisi adindaki video serisine bak... TEMELDEN BASLAYARAK ANLATIYOR orada...
+
+
 ![](dersler1.PNG) \
 Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilirsiniz.. \
 ![](dersler2.PNG) 
