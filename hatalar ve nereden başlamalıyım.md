@@ -8,7 +8,7 @@ kali linux offical Documentation: https://www.kali.org/docs/ \
 kali linux forum: https://forums.kali.org/ \
 virtualbox forum: https://forums.virtualbox.org/ \
 vmware workstation forum(türkçe): https://communities.vmware.com/community/vmtn/global-forums/turkish \
-vmware workstation forum: https://communities.vmware.com/welcome \
+vmware workstation forum: https://communities.vmware.com/welcome 
 
 # yazılıma/siber güvenliğe merak saldım ama hiç birşey bilmiyorum 
 ne yapmak istediğinizi seçin siber güvenlik tarafında bu alt dalların bir kaçı web uygulama güvenliği,ağ pentesti,mobil pentest,kaynak kod analizi,kablosuz ağ güvenliği gibi birçok alt dal var bu konular hakkında bilgi vermek için yazılmış bir makale buldum ilgili makaleye bu linkten ulaşabilirsiniz: https://www.bgasecurity.com/danismanlik-hizmetleri/penetrasyon-testi-sizma-testi/ \
