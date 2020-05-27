@@ -25,3 +25,5 @@ Bilişime veya Yazılıma Nereden Başlanır? https://www.youtube.com/watch?v=NY
 öğrenmeyi öğrenmek http://www.mimacademy.com/ogrenmeyi-ogrenmek/ \
 yeni başlayanların araştırmak yerine sordukları bu soruların cevabını verdiğimi düşünüyorum. \
 iyi günler dilerim :)
+
+- Muh4mm3DZz https://github.com/Muh4mm3DZz
