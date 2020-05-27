@@ -16,7 +16,7 @@ Asagida bana Sikca Sorulmus Sorulara bir goz atarak baslamani oneririm, onun alt
 
 Ayrica yayin gecmisinde yer alan videolarin toplu playlist hali de bulunuyor linkler arasinda ve gorsel olarak nasil izleyebilecegini anlattim.
 
-"Hacking The TEMEL" video serisi, bu is icin baslangic konularini irdeliyor... ona ozellikle goz atmani tavsiye ederim eger yeni basladiysan..
+"Hacking The TEMEL" https://www.twitch.tv/collections/sHv1c2HZEhaHFQ << video serisi, bu is icin baslangic konularini irdeliyor... ona ozellikle goz atmani tavsiye ederim eger yeni basladiysan.. (videonun sol ust kosesine getirirsen mouseu butun diger videolar listeleniyor)
 
 Aramiza hos geldin ve gorusuruz..
 
