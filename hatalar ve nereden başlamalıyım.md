@@ -15,8 +15,8 @@ ne yapmak istediğinizi seçin siber güvenlik tarafında bu alt dalların bir k
 bu makaleninde çok yararlı olduğunu düşünüyorum: https://www.cybermagonline.com/pentester-olmak-ister-misin \
 gelelim yazılıma siber güvenlikte olduğu gibi yazılımında birçok alanı var mesela back-end,front-end,masaüstü programlama,
 mobil programlama gibi birçok seçenek var araştırdığım ve faydalı bulduğum kaynakların linkini aşağıya bırakıyorum 
-https://www.evrensel.net/yazi/84248/programlamaya-nereden-baslamali-ihttps://www.evrensel.net/yazi/84248/programlamaya-nereden-baslamali-i
-https://www.youtube.com/watch?v=nXLlcoOEzhQ
+https://www.evrensel.net/yazi/84248/programlamaya-nereden-baslamali-i \
+https://www.youtube.com/watch?v=nXLlcoOEzhQ \
 https://www.youtube.com/watch?v=yunLVcSnMh8 \
 https://medium.com/kodcular/yaz%C4%B1l%C4%B1ma-nereden-ba%C5%9Flamal%C4%B1y%C4%B1m-1be9fc8b5c98 \
 https://www.youtube.com/watch?v=4tqV7iGaJYw \
