@@ -44,7 +44,7 @@ Gelişmekte olan teknolojilere bakmak lazim: DevOps, Full Stack Development, mob
 ## Abi İnstagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? İvir nedir abi? Zivir nedir abi?  
 Sevgili kardeşim, her ne kadar yardımcı olmak istesem de, Instagram soru cevaplamak icin iğrenç bir platform. Cok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli arastırmaları yapıp, takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu cok derin, uygulama dandik, vakit sinirli... En yuksek faydayı sağlayabilmek icin, senin de araştırma yapman lazım biraz. Hem araştırma yapabilmek, bizim işimizin en önemli parcasi. Biraz söylediğim alanlarda arastirmalarınızı yapın, sonra gelin yeniden yön çizelim, sorularınıza göre. Ben google degilim! yaptiğımız şey mentoring. Herkese ulaşabilmek için size de düşen bir kaç aksiyon var yani. Yardiminiz icin teşekkürler. 
 
-## Abi bulunduğum şehirde devletin, işkur'un veya benzer kurumların bilişim kurslari var. Bunlara gideyim mi? İşe yarar mı?  
+## Abi bulunduğum şehirde devletin, işkur'un veya benzer kurumların bilişim kurslari var. BTK'nin egitim kurslari falan var 1M yazilimci vs diye, Bunlara gideyim mi? İşe yarar mı?  
 Yarar kardeşim. Hiç bir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra ingilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi bu yaz kampları vs. var, bircok firma düzenliyor bir de özgür yazılım için vs. de var bağzi dernekler de yapiyor... Onlara da katılabilirsiniz baya faydalılar. 
 
 ## Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
