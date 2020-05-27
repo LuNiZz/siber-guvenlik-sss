@@ -1,4 +1,4 @@
-###kali/wifi adaptörü/sanal makina kurarken hata alıyorum ne yapmalıyım ? 
+### kali/wifi adaptörü/sanal makina kurarken hata alıyorum ne yapmalıyım ? 
 öncellikle herkesin bilmesini isteriz ki biz linux/oracle vbox/wifi adaptörünün ne yapımcısıyız nede destek ekibiyiz.
 bu soruları bize sormadan önce araştırma yapmanızı öneririz sızma testi methodolojisinin birinci adımının bilgi toplama adımı olduğunu unutmayınız 
 #googlede araştırdım çıkmadı ne yapmalıyım ?
@@ -10,7 +10,7 @@ virtualbox forum: https://forums.virtualbox.org/
 vmware workstation forum(türkçe): https://communities.vmware.com/community/vmtn/global-forums/turkish
 vmware workstation forum: https://communities.vmware.com/welcome
 
-###yazılıma/siber güvenliğe merak saldım ama hiç birşey bilmiyorun 
+### yazılıma/siber güvenliğe merak saldım ama hiç birşey bilmiyorun 
 ne yapmak istediğinizi seçin siber güvenlik tarafında bunlardan birkaçı 
 web uygulama güvenliği,ağ pentesti,mobil pentest,kaynak kod analizi,kablosuz ağ güvenliği gibi birçok alt dal var bu konular hakkında bilgi vermek için yazılmış bir makale buldum ilgili makaleye bu linkten ulaşabilirsiniz: https://www.bgasecurity.com/danismanlik-hizmetleri/penetrasyon-testi-sizma-testi/
 bu makaleninde çok yararlı olduğunu düşünüyorum: https://www.cybermagonline.com/pentester-olmak-ister-misin
