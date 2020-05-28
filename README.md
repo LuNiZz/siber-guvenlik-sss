@@ -69,6 +69,9 @@ Birde simdi Hackthebox Pwnbox diye bir ozellik getirdi, VIP lerine hazir kurulmu
 
 Ayrica Turkce icerik istiyorsan da https://priviahub.com var... guzel o da bayagi...
 
+### Ben kendi labratuarimi kurmak istiyorum nasil yapicam?
+Bunun icin bir video cekicem, buraya linkini birakirim...
+
 ## Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
 
