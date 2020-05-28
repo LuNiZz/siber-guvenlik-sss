@@ -23,26 +23,35 @@ Aramiza hos geldin ve gorusuruz..
 -LuNiZz    
 ## --- - ---
 
+## Nereden baslamaliyim?
+Bunun icin daha onceden bir video cekmistim, https://www.youtube.com/watch?v=USzr1fOSbQI
+Bu videoyu yakin bir gelecekte guncelleyecegim... ama su anda bulundugun site, yukaridaki linkler, asagidaki metin ve linkler, zaten nasil ilerleyecegini sana anlatmak icin var...
+
+## abi selam, XX yasindayim sence gec kalmis olabilirmiyim?
+Sevgili dostum, hic bir sey icin gec kalmis olamazsin teknoloji ile ilgili konularda, ben 40 yasindan sonra SEO, youtube, twitch streaming olayini ogrendim :) dijital marketing olayini, video editing olayini cozdum.. Onemli olan method bilmen, arastirma yapabilmen, bilgiye nasil kolayca ulasabilecegini bilmen...
 
 ## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
 En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Application pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da saglar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
  
 ## Üniversite okumalı mıyım?  
-Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert degil. Önemli olan sizin yarattığınız fark ve değer. 
+Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert degil. Önemli olan sizin yarattığınız fark ve değer. Universitesiz de bu isi yapanlar var tabi ama cok zor, cok ugrastirir.. bak surada aciklamisim : https://www.youtube.com/watch?v=eguWGnlJN-Q izle bir...
 
 ## Hangi programlama dillerine ve teknolojilerine eğilmeliyim?  
 Bu konuda bir cok kaynak var aslinda: Phyton, JS, C, Bash scripting(linux komut satiri), sanal makinada  Kali linux çalıştırabilmek, temel CCNA ile network bilgisi, SQL hakkinda fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır. 
 
 ## Abi ingilizcem yok! Ne yapıcam?  
-İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede ingilizce öğrenmen lazım. DUOLingo vs. gibi ingilizce öğreten kaynakları ye, yut, bitir. 
+İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede ingilizce öğrenmen lazım. DUOLingo vs. gibi ingilizce öğreten kaynakları ye, yut, bitir. Ayrica dizi ile film ile ingilizce ogrenebilirsin, bunun linkleri de asagida var...
 
 ## Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?  
 Gelişmekte olan teknolojilere bakmak lazim: DevOps, Full Stack Development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayinda tartisalim. 
+
 ## Oyun geliştirme konusu da cok ilgimi çekiyor, siber güvenlik de. Ne yapacağım? Hangisini seçmeliyim?  
 İkisi tamamen farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun gelistirme firmasinda siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin. 
 
 ## Abi İnstagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? İvir nedir abi? Zivir nedir abi?  
 Sevgili kardeşim, her ne kadar yardımcı olmak istesem de, Instagram soru cevaplamak icin iğrenç bir platform. Cok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli arastırmaları yapıp, takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu cok derin, uygulama dandik, vakit sinirli... En yuksek faydayı sağlayabilmek icin, senin de araştırma yapman lazım biraz. Hem araştırma yapabilmek, bizim işimizin en önemli parcasi. Biraz söylediğim alanlarda arastirmalarınızı yapın, sonra gelin yeniden yön çizelim, sorularınıza göre. Ben google degilim! yaptiğımız şey mentoring. Herkese ulaşabilmek için size de düşen bir kaç aksiyon var yani. Yardiminiz icin teşekkürler. 
+
+Bak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watch?v=fLV0y0Dn0Ug
 
 ## Abi bulunduğum şehirde devletin, işkur'un veya benzer kurumların bilişim kurslari var. BTK'nin egitim kurslari falan var 1M yazilimci vs diye, Bunlara gideyim mi? İşe yarar mı?  
 Yarar kardeşim. Hiç bir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra ingilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi bu yaz kampları vs. var, bircok firma düzenliyor bir de özgür yazılım için vs. de var bağzi dernekler de yapiyor... Onlara da katılabilirsiniz baya faydalılar. 
