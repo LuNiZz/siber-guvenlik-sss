@@ -64,9 +64,10 @@ https://codeburst.io/hack-the-box-how-to-get-invite-code-56e369fc8dae \
 https://www.youtube.com/watch?v=uZtC_ZqwzTE \
 İçeriye girince de aktif bilgisayarlardan istediğin ile test yapmaya başlayabilirsin. 
 
-## Abi parola seçerken uzun, kısa, karmaşık vs. çok mu önemli? 
-Bak şurada güzel bir yazi var, MFA veya benzeri ekstra korumalar olmaz ise parola seciminin aslında bir saldırgan açısından ne kadar önemsiz olduğunu açıklanmış. \
-https://techcommunity.microsoft.com/t5/azure-active-directory-identity/your-pa-word-doesn-t-matter/ba-p/731984
+Ayrica Tryhackme.com var mesela : https://tryhackme.com buranin egitim serisi cok iyi..
+Birde simdi Hackthebox Pwnbox diye bir ozellik getirdi, VIP lerine hazir kurulmus cloud tabanli bir Parrot surumu veriyor, direk vpnsiz kullanabiliyorsun.. hic bir sey kurmana gerek yok... Aynisinin Kali versionunu TryHackMe yapiyor... 
+
+Ayrica Turkce icerik istiyorsan da https://priviahub.com var... guzel o da bayagi...
 
 ## Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
