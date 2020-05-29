@@ -7,6 +7,8 @@
 - youtube : https://youtube.com/candeger 
 - Telegram kanalı: https://t.me/lunizzsec  
 
+### Bu kaynagi kullanmak ve "nereden baslamaliyim" sorusuna yanit olan yayin icin tikla >>> https://www.twitch.tv/videos/634645006
+
 Selamlar, burayi bulduguna gore, siber guvenlik ve bunun alt dallarina merakin var demektir, o zaman hos geldin... Bizler genel olarak siber guvenlik kariyerinde ilerlemek isteyen arkadaslara yol gostermeyi, iyi ve dogru bir baslangic yaparak onlari dogru yerlere geliserek ulasmalarina yonlendirmeyi hedefleyen bir topluluguz. Bana ve arkadaslarima yukarida gordugun adreslerden kolaylikla ulasabilirsin.
 Ayrica yaptigimiz yayinlara gelip, goz atabilirsin...
 
@@ -24,8 +26,7 @@ Aramiza hos geldin ve gorusuruz..
 ## --- - ---
 
 ## Nereden baslamaliyim?
-Bunun icin daha onceden bir video cekmistim, https://www.youtube.com/watch?v=USzr1fOSbQI
-Bu videoyu yakin bir gelecekte guncelleyecegim... ama su anda bulundugun site, yukaridaki linkler, asagidaki metin ve linkler, zaten nasil ilerleyecegini sana anlatmak icin var...
+Iste tam bununla ilgili bir yayin yaptik biz :) https://www.twitch.tv/videos/634645006 ama su anda bulundugun site, yukaridaki linkler, asagidaki metin ve linkler, zaten nasil ilerleyecegini sana anlatmak icin var...
 
 ## abi selam, XX yasindayim sence gec kalmis olabilirmiyim?
 Sevgili dostum, hic bir sey icin gec kalmis olamazsin teknoloji ile ilgili konularda, ben 40 yasindan sonra SEO, youtube, twitch streaming olayini ogrendim :) dijital marketing olayini, video editing olayini cozdum.. Onemli olan method bilmen, arastirma yapabilmen, bilgiye nasil kolayca ulasabilecegini bilmen...
@@ -70,7 +71,7 @@ Birde simdi Hackthebox Pwnbox diye bir ozellik getirdi, VIP lerine hazir kurulmu
 Ayrica Turkce icerik istiyorsan da https://priviahub.com var... guzel o da bayagi...
 
 ### Ben kendi labratuarimi kurmak istiyorum nasil yapicam?
-Bunun icin bir video cekicem, buraya linkini birakirim...
+$u yayinin icinde var https://www.twitch.tv/videos/634645006 bu konu...
 
 ## Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
