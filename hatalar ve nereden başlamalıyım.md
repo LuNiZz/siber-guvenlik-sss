@@ -1,4 +1,4 @@
-[geri don](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/README.md)
+[SSS sayfasina geri don](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/README.md)
 
 # kali/wifi adaptörü/sanal makina kurarken hata alıyorum ne yapmalıyım ? 
 öncellikle herkesin bilmesini isteriz ki biz linux/oracle vbox/wifi adaptörünün ne yapımcısıyız nede destek ekibiyiz. \
