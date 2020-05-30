@@ -28,12 +28,16 @@ Aramiza hos geldin ve gorusuruz..
 ## Nereden baslamaliyim?
 Iste tam bununla ilgili bir yayin yaptik biz :) https://www.twitch.tv/videos/634645006 ama su anda bulundugun site, yukaridaki linkler, asagidaki metin ve linkler, zaten nasil ilerleyecegini sana anlatmak icin var...
 
+Ayrica, soyle bir sey de var, bir baksan iyi olur.. https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/hatalar%20ve%20nereden%20ba%C5%9Flamal%C4%B1y%C4%B1m.md
+
 ## abi selam, XX yasindayim sence gec kalmis olabilirmiyim?
 Sevgili dostum, hic bir sey icin gec kalmis olamazsin teknoloji ile ilgili konularda, ben 40 yasindan sonra SEO, youtube, twitch streaming olayini ogrendim :) dijital marketing olayini, video editing olayini cozdum.. Onemli olan method bilmen, arastirma yapabilmen, bilgiye nasil kolayca ulasabilecegini bilmen...
 
 ## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
 En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Application pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da saglar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
- 
+
+Tum CyberSecurity dallarini surada inceledim : https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md bir bak..
+
 ## Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert degil. Önemli olan sizin yarattığınız fark ve değer. Universitesiz de bu isi yapanlar var tabi ama cok zor, cok ugrastirir.. bak surada aciklamisim : https://www.youtube.com/watch?v=eguWGnlJN-Q izle bir...
 
@@ -69,6 +73,8 @@ Ayrica Tryhackme.com var mesela : https://tryhackme.com buranin egitim serisi co
 Birde simdi Hackthebox Pwnbox diye bir ozellik getirdi, VIP lerine hazir kurulmus cloud tabanli bir Parrot surumu veriyor, direk vpnsiz kullanabiliyorsun.. hic bir sey kurmana gerek yok... Aynisinin Kali versionunu TryHackMe yapiyor... 
 
 Ayrica Turkce icerik istiyorsan da https://priviahub.com var... guzel o da bayagi...
+
+Ha birde mesela PARROT linux u denemek falan istersen, https://www.onworks.net/ var harika direk cloud dan bisey kurmadan linux calismani sagliyor..
 
 ### Ben kendi labratuarimi kurmak istiyorum nasil yapicam?
 $u yayinin icinde var https://www.twitch.tv/videos/634645006 bu konu...
