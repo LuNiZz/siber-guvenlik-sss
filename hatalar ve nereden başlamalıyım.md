@@ -1,3 +1,5 @@
+[geri don](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/README.md)
+
 # kali/wifi adaptörü/sanal makina kurarken hata alıyorum ne yapmalıyım ? 
 öncellikle herkesin bilmesini isteriz ki biz linux/oracle vbox/wifi adaptörünün ne yapımcısıyız nede destek ekibiyiz. \
 bu soruları bize sormadan önce araştırma yapmanızı öneririz sızma testi methodolojisinin birinci adımının bilgi toplama adımı olduğunu unutmayınız 
