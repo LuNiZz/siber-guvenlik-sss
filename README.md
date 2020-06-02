@@ -45,7 +45,8 @@ Tum CyberSecurity dallarini surada inceledim : https://github.com/LuNiZz/siber-g
 Bu konuda bir cok kaynak var aslinda: Phyton, JS, C, Bash scripting(linux komut satiri), sanal makinada  Kali linux çalıştırabilmek, temel CCNA ile network bilgisi, SQL hakkinda fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır. 
 
 ## Abi ingilizcem yok! Ne yapıcam?  
-İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede ingilizce öğrenmen lazım. DUOLingo vs. gibi ingilizce öğreten kaynakları ye, yut, bitir. Ayrica dizi ile film ile ingilizce ogrenebilirsin, bunun linkleri de asagida var...
+İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede ingilizce öğrenmen lazım. DUOLingo vs. gibi ingilizce öğreten kaynakları ye, yut, bitir. Ayrica dizi ile film ile ingilizce ogrenebilirsin.. (Ororo Tv, Dizilab vs biliyorsun iste nereden bulacagini bunlari) \
+Soyle bisey var https://www.voscreen.com/ \
 
 ## Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?  
 Gelişmekte olan teknolojilere bakmak lazim: DevOps, Full Stack Development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayinda tartisalim. 
