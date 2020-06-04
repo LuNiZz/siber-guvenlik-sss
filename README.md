@@ -80,6 +80,9 @@ Ha birde mesela PARROT linux u denemek falan istersen, https://www.onworks.net/ 
 ### Ben kendi labratuarimi kurmak istiyorum nasil yapicam?
 $u yayinin icinde var https://www.twitch.tv/videos/634645006 bu konu...
 
+## Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?
+wifi kart adaptor arayanlar, son sefer de de soyledigimiz gibi chipset i google da aratirlarsa direkt bulabilirler.. basit aslinda.. wifi adapters support kali monitoring diye tarzanca yazsaniz bile modeller cikar, chipset ini alin sonra tekrar google a ornegin RTL 12354565 chipsetli kablosuz ag adaptoru diye yazsaniz, Turkiye deki marka modeller cikar diye dusunuyorum. Hatta Kali uyumlu wifi kartlari diye aratin, cikar biseyler. Komsularin kablosuz aglarini rahat birakin olm :D aslkjlkajsd. ayip. 
+
 ## Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
 
