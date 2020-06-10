@@ -81,7 +81,9 @@ Ayrica Turkce icerik istiyorsan da https://priviahub.com var... guzel o da bayag
 Ha birde mesela PARROT linux u denemek falan istersen, https://www.onworks.net/ var harika direk cloud dan bisey kurmadan linux calismani sagliyor..
 
 ### Ben kendi labratuarimi kurmak istiyorum nasil yapicam?
-$u yayinin icinde var https://www.twitch.tv/videos/634645006 bu konu...
+$u yayinin icinde var https://www.twitch.tv/videos/646015971 bu konu...
+youtube versionu geliyor bunun yakinda..
+
 
 ## Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?
 wifi kart adaptor arayanlar, son sefer de de soyledigimiz gibi chipset i google da aratirlarsa direkt bulabilirler.. basit aslinda.. wifi adapters support kali monitoring diye tarzanca yazsaniz bile modeller cikar, chipset ini alin sonra tekrar google a ornegin RTL 12354565 chipsetli kablosuz ag adaptoru diye yazsaniz, Turkiye deki marka modeller cikar diye dusunuyorum. Hatta Kali uyumlu wifi kartlari diye aratin, cikar biseyler. Komsularin kablosuz aglarini rahat birakin olm :D aslkjlkajsd. ayip. 
