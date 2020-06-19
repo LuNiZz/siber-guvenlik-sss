@@ -11,6 +11,7 @@ Tum gecmis yayinlar : https://www.twitch.tv/lunizz/videos \
 
 ***Bu kaynagi kullanmak ve "nereden baslamaliyim" sorusuna yanit olan yayin icin 
 tikla >>> https://www.twitch.tv/videos/634645006 yada hizlandirilmis daha ozet olan Youtube versionu icin resme tikla***
+<a href="https://www.youtube.com/watch?v=qbaBr8rXwaE"><img src="https://img.youtube.com/vi/qbaBr8rXwaE/0.jpg" width="200"></a>
 [![YOUTUBE versionu icin tikla](https://img.youtube.com/vi/qbaBr8rXwaE/0.jpg)](https://www.youtube.com/watch?v=qbaBr8rXwaE)
 
 Selamlar, burayi bulduguna gore, siber guvenlik ve bunun alt dallarina merakin var demektir, o zaman hos geldin... Bizler genel olarak siber guvenlik kariyerinde ilerlemek isteyen arkadaslara yol gostermeyi, iyi ve dogru bir baslangic yaparak onlari dogru yerlere geliserek ulasmalarina yonlendirmeyi hedefleyen bir topluluguz. Bana ve arkadaslarima yukarida gordugun adreslerden kolaylikla ulasabilirsin.
