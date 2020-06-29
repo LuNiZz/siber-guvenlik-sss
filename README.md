@@ -1,7 +1,8 @@
 <!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
 # LuNiZz linkleri
 - TWITCH YAYINLARI : https://twitch.tv/lunizz (Buradaki yayin gecmisleri ve tum Yayinlar Bedava dostlar..) \
-Tum gecmis yayinlar : https://www.twitch.tv/lunizz/videos \ ![twitch](https://img.shields.io/twitch/status/lunizz) \
+Tum gecmis yayinlar : https://www.twitch.tv/lunizz/videos \ 
+![twitch](https://img.shields.io/twitch/status/lunizz) \
 ***Yayinlar SALI - PERSEMBE - PAZAR gunleri saat 20.00 de***
 - Discord : https://dc.lunizz.com
 - instagram : https://instagram.com/candeger 
