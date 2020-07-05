@@ -36,6 +36,6 @@ Twitch deki yayinlara gelirseniz, bunlar uzerine sohbet etme ve varsa sorularini
 https://twitch.tv/lunizz
 
 Ayrica bununla ilgili bir video cekip youtube kanalima koymayi planliyorum yakin zamanda... koydugumda burayi guncellerim..
-
+![top10](https://pbs.twimg.com/media/Eb8MV7dWoAAKWZi?format=jpg&name=large)
 
 
