@@ -44,6 +44,22 @@ En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Ap
 
 Tum CyberSecurity dallarini surada inceledim : https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md bir bak..
 
+## web uygulama guvenligi icin iyi bir kaynak biliyormusun?
+Sitenin alt kismindaki kaynaklar oldukca iyi, portswigger academy olsun, hacer101 olsun, bugcrowd academy olsun cok basarili, bunlarin disinda mutlaka OWASP a da bir goz at,
+hatta Tryhackme nin OWASP 10 odasi https://tryhackme.com/room/owasptop10
+https://tryhackme.com/room/rpburpsuite << burp suite odasi
+https://tryhackme.com/room/learnowaspzap << owasp ZAP odasi
+https://tryhackme.com/room/webfundamentals << web fundementals
+https://tryhackme.com/room/webappsec101 << webappsec101
+ve ardindan test etmek icin kendini,
+https://tryhackme.com/room/vulnversity
+https://tryhackme.com/room/juiceshop
+https://tryhackme.com/room/rpwebscanning
+https://tryhackme.com/room/dvwa
+https://tryhackme.com/room/jack
+
+odalarina bakabilirsin.. afiyet olsun
+
 ## Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert degil. Önemli olan sizin yarattığınız fark ve değer. Universitesiz de bu isi yapanlar var tabi ama cok zor, cok ugrastirir.. bak surada aciklamisim : https://www.youtube.com/watch?v=eguWGnlJN-Q izle bir...
 
