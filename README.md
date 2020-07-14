@@ -45,7 +45,7 @@ En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Ap
 Tum CyberSecurity dallarini surada inceledim : https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md bir bak..
 
 ## web uygulama guvenligi icin iyi bir kaynak biliyormusun?
-Sitenin alt kismindaki kaynaklar oldukca iyi, portswigger academy olsun, hacer101 olsun, bugcrowd academy olsun cok basarili, bunlarin disinda mutlaka OWASP a da bir goz at,
+Sitenin alt kismindaki kaynaklar oldukca iyi, portswigger academy olsun, hacker101 olsun, bugcrowd academy olsun cok basarili, bunlarin disinda mutlaka OWASP a da bir goz at,
 hatta Tryhackme nin OWASP 10 odasi https://tryhackme.com/room/owasptop10  
 https://tryhackme.com/room/rpburpsuite << burp suite odasi  
 https://tryhackme.com/room/learnowaspzap << owasp ZAP odasi   
