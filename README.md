@@ -1,5 +1,5 @@
 <!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
-# LuNiZz linkleri
+## LuNiZz linkleri
 - TWITCH YAYINLARI : https://twitch.tv/lunizz (Buradaki yayin gecmisleri ve tum Yayinlar Bedava dostlar..) \
 Tum gecmis yayinlar : https://www.twitch.tv/lunizz/videos     
 ![twitch](https://img.shields.io/twitch/status/lunizz) \
@@ -31,20 +31,20 @@ Aramiza hos geldin ve gorusuruz..
 -LuNiZz    
 ---
 
-## Nereden baslamaliyim?
+### Nereden baslamaliyim?
 Iste tam bununla ilgili bir yayin yaptik biz :) https://www.twitch.tv/videos/634645006 ama su anda bulundugun site, yukaridaki linkler, asagidaki metin ve linkler, zaten nasil ilerleyecegini sana anlatmak icin var...
 
 Ayrica, soyle bir sey de var, bir baksan iyi olur.. https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/hatalar%20ve%20nereden%20ba%C5%9Flamal%C4%B1y%C4%B1m.md
 
-## abi selam, XX yasindayim sence gec kalmis olabilirmiyim?
+### abi selam, XX yasindayim sence gec kalmis olabilirmiyim?
 Sevgili dostum, hic bir sey icin gec kalmis olamazsin teknoloji ile ilgili konularda, ben 40 yasindan sonra SEO, youtube, twitch streaming olayini ogrendim :) dijital marketing olayini, video editing olayini cozdum.. Onemli olan method bilmen, arastirma yapabilmen, bilgiye nasil kolayca ulasabilecegini bilmen...
 
-## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
+### Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
 En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Application pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da saglar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
 
 Tum CyberSecurity dallarini surada inceledim : https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md bir bak..
 
-## web uygulama guvenligi icin iyi bir kaynak biliyormusun?
+### web uygulama guvenligi icin iyi bir kaynak biliyormusun?
 Sitenin alt kismindaki kaynaklar oldukca iyi, portswigger academy olsun, hacker101 olsun, bugcrowd academy olsun cok basarili, bunlarin disinda mutlaka OWASP a da bir goz at,
 hatta Tryhackme nin OWASP 10 odasi https://tryhackme.com/room/owasptop10  
 https://tryhackme.com/room/rpburpsuite << burp suite odasi  
@@ -60,31 +60,31 @@ https://tryhackme.com/room/jack
    
 odalarina bakabilirsin.. afiyet olsun   
 
-## Üniversite okumalı mıyım?  
+### Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert degil. Önemli olan sizin yarattığınız fark ve değer. Universitesiz de bu isi yapanlar var tabi ama cok zor, cok ugrastirir.. bak surada aciklamisim : https://www.youtube.com/watch?v=eguWGnlJN-Q izle bir...
 
-## Hangi programlama dillerine ve teknolojilerine eğilmeliyim?  
+### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?  
 Bu konuda bir cok kaynak var aslinda: Phyton, JS, C, Bash scripting(linux komut satiri), sanal makinada  Kali linux çalıştırabilmek, temel CCNA ile network bilgisi, SQL hakkinda fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır. 
 
-## Abi ingilizcem yok! Ne yapıcam?  
+### Abi ingilizcem yok! Ne yapıcam?  
 İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede ingilizce öğrenmen lazım. DUOLingo vs. gibi ingilizce öğreten kaynakları ye, yut, bitir. Ayrica dizi ile film ile ingilizce ogrenebilirsin.. (Ororo Tv, Dizilab vs biliyorsun iste nereden bulacagini bunlari) \
 Soyle bisey var https://www.voscreen.com/ 
 
-## Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?  
+### Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?  
 Gelişmekte olan teknolojilere bakmak lazim: DevOps, Full Stack Development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayinda tartisalim. 
 
-## Oyun geliştirme konusu da cok ilgimi çekiyor, siber güvenlik de. Ne yapacağım? Hangisini seçmeliyim?  
+### Oyun geliştirme konusu da cok ilgimi çekiyor, siber güvenlik de. Ne yapacağım? Hangisini seçmeliyim?  
 İkisi tamamen farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun gelistirme firmasinda siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin. 
 
-## Abi İnstagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? İvir nedir abi? Zivir nedir abi?  
+### Abi İnstagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? İvir nedir abi? Zivir nedir abi?  
 Sevgili kardeşim, her ne kadar yardımcı olmak istesem de, Instagram soru cevaplamak icin iğrenç bir platform. Cok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli arastırmaları yapıp, takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu cok derin, uygulama dandik, vakit sinirli... En yuksek faydayı sağlayabilmek icin, senin de araştırma yapman lazım biraz. Hem araştırma yapabilmek, bizim işimizin en önemli parcasi. Biraz söylediğim alanlarda arastirmalarınızı yapın, sonra gelin yeniden yön çizelim, sorularınıza göre. Ben google degilim! yaptiğımız şey mentoring. Herkese ulaşabilmek için size de düşen bir kaç aksiyon var yani. Yardiminiz icin teşekkürler. 
 
 Bak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watch?v=fLV0y0Dn0Ug
 
-## Abi bulunduğum şehirde devletin, işkur'un veya benzer kurumların bilişim kurslari var. BTK'nin egitim kurslari falan var 1M yazilimci vs diye, Bunlara gideyim mi? İşe yarar mı?  
+### Abi bulunduğum şehirde devletin, işkur'un veya benzer kurumların bilişim kurslari var. BTK'nin egitim kurslari falan var 1M yazilimci vs diye, Bunlara gideyim mi? İşe yarar mı?  
 Yarar kardeşim. Hiç bir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra ingilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi bu yaz kampları vs. var, bircok firma düzenliyor bir de özgür yazılım için vs. de var bağzi dernekler de yapiyor... Onlara da katılabilirsiniz baya faydalılar. 
 
-## Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
+### Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
 Kali indirdin mi? super! O zaman şuraya gidiyorsun =>  https://www.hackthebox.eu/ \
 Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin => \
 https://medium.com/@sonusaikishan/hackthebox-how-to-get-the-invite-code-and-enter-into-hackthebox-eu-fb4f3f24dc6c \
@@ -104,19 +104,19 @@ $u yayinin icinde var https://www.twitch.tv/videos/646015971 bu konu...
 youtube versionu youtube.com/candeger adresinde var.
 
 
-## Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?
+### Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?
 wifi kart adaptor arayanlar, son sefer de de soyledigimiz gibi chipset i google da aratirlarsa direkt bulabilirler.. basit aslinda.. wifi adapters support kali monitoring diye tarzanca yazsaniz bile modeller cikar, chipset ini alin sonra tekrar google a ornegin RTL 12354565 chipsetli kablosuz ag adaptoru diye yazsaniz, Turkiye deki marka modeller cikar diye dusunuyorum. Hatta Kali uyumlu wifi kartlari diye aratin, cikar biseyler. Komsularin kablosuz aglarini rahat birakin olm :D aslkjlkajsd. ayip. 
 
-## Kendime VPN kursam nasil yapacagim?
+### Kendime VPN kursam nasil yapacagim?
 Bununla ilgili bir yayin yapmistik, linki surada:
 https://www.twitch.tv/videos/639357674
 
-## Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
+### Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
 
 ---
 
-# Diger tum kaynaklari asagidaki linklerden bulabilirsin, her birine goz at bence...
+### Diger tum kaynaklari asagidaki linklerden bulabilirsin, her birine goz at bence...
 
 
 <details>
@@ -127,7 +127,7 @@ Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulund
 
 Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
 
-### Eger Egitim videolarina bakacaksan, Hacking the TEMEL serisi adindaki video serisine bak... TEMELDEN BASLAYARAK ANLATIYOR orada...
+#### Eger Egitim videolarina bakacaksan, Hacking the TEMEL serisi adindaki video serisine bak... TEMELDEN BASLAYARAK ANLATIYOR orada...
 
 
 ![](dersler1.PNG) \
@@ -168,23 +168,23 @@ http://pwnable.kr/
 
 <b><summary> Kurslar</summary>
 
-## Ücretli Kurslar 
-### İngilizce 
+### Ücretli Kurslar 
+#### İngilizce 
 https://www.pluralsight.com/browse/information-cyber-security \
 https://www.pluralsight.com/courses/ethical-hacking-understanding \
 https://josephdelgadillo.com/product/holiday-course-bundle-sale/ \
 https://www.udemy.com/course/ethical-hacking-kali-linux/ \
 https://www.udemy.com/course/practical-ethical-hacking/
 
-### Türkçe 
+#### Türkçe 
 https://www.udemy.com/course/sizma-testlerinde-metasploit-kullanimi/
 
-## Ücretsiz Kurslar
-### Udemy 
+### Ücretsiz Kurslar
+#### Udemy 
 https://www.reddit.com/r/udemyfreebies/ \
 https://www.udemy.com/course/gokhanmuharremoglu/
 
-### Youtube 
+#### Youtube 
 Sektörün deneyimlilerinden gençlere tavsiyeler (Can Değer Farkıyla): https://www.youtube.com/watch?v=NGxlNDSvaY4 \
 Nasil HACKER olurum? Ömer Çıtak cevaplamış: https://www.youtube.com/watch?v=TEB-zmSBAmY \
 Bad USB nedir? Neden kullanılır? Nasıl kullanılır?: https://www.youtube.com/watch?v=nJwpshMnQUg \
@@ -218,7 +218,7 @@ https://www.youtube.com/watch?v=PD8r9ISYgQo << web gelistirme ve bir cok program
   - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme
   - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme
 
-  ### Bug Bounty Mevzusu
+  #### Bug Bounty Mevzusu
   * Bug Bounty konusunda NAHAMSEC'in yayinladigi Baslangic ve gelisim rehberi.. Super kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters 
   * Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ 
   * Bug bounty'e yeni başlıyorsan ve bilgisayar bilgin temelden öte değilse buna bir bak: https://medium.com/
@@ -346,8 +346,8 @@ https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
 
 <summary> Ingilizce Genel Kaynaklar Listesi (siteler/nereden baslamali/videolar... vs)</summary>
 
-# Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir.   
-## Where to start learning pentesting? 
+### Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir.   
+#### Where to start learning pentesting? 
 TCM: Cyber Career Paths: Penetration Testing: https://youtu.be/MM7qPnJSnLQ \
 https://www.vulnhub.com/ \
 https://www.hackthebox.eu/ \
@@ -355,39 +355,39 @@ https://app.cybrary.it/browse/course/advanced-penetration-testing \
 https://www.virtualhackinglabs.com/ \
 https://tryhackme.com
 
-## Where to start learning python? 
+#### Where to start learning python? 
 https://www.codecademy.com/ \
 https://app.cybrary.it/browse/course/python-security-professionals-archive
 
-## Where to start learning Linux? 
+#### Where to start learning Linux? 
 TCM: Beginner Linux for Ethical Hackers: https://www.youtube.com/playlist?list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W \
 http://overthewire.org/wargames/bandit/ \
 https://linuxjourney.com/
 
-## Where to start with web application security? 
+#### Where to start with web application security? 
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project \
 https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf \
 https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project \
 https://github.com/ethicalhack3r/DVWA \
 https://www.hacksplaining.com/
 
-## Where to start with exploitation? 
+#### Where to start with exploitation? 
 TCM: Buffer Overflows Made Easy: https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G \
 https://www.corelan.be/index.php/articles/
 
-## How to become bug bounty hunter and get all the monies? 
+#### How to become bug bounty hunter and get all the monies? 
 https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/
 
-## Internetteki UCUZ veya UCRETSIZ Siber Guvenlik Egitimlerinin Tam Listesi (NIST)
+#### Internetteki UCUZ veya UCRETSIZ Siber Guvenlik Egitimlerinin Tam Listesi (NIST)
 https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
 
-## Active Directory Pentest nasil yapilir?
+#### Active Directory Pentest nasil yapilir?
 Domain Recon : https://blog.stealthbits.com/performing-domain-reconnaissance-using-powershell \
 Local Admin Mapping : https://blog.stealthbits.com/local-admin-mapping-bloodhound \
 Extracting Password Hashes : https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/ \
 Pass the Hash with Mimicatz : https://blog.stealthbits.com/passing-the-hash-with-mimikatz
 
-## Network Basics for Hackers
+#### Network Basics for Hackers
 https://www.hackers-arise.com/networks-basics
 
 </details>
