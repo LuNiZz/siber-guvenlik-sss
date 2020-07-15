@@ -29,7 +29,7 @@ Ayrica yayin gecmisinde yer alan videolarin toplu playlist hali de bulunuyor lin
 Aramiza hos geldin ve gorusuruz..
 
 -LuNiZz    
-## --- - ---
+---
 
 ## Nereden baslamaliyim?
 Iste tam bununla ilgili bir yayin yaptik biz :) https://www.twitch.tv/videos/634645006 ama su anda bulundugun site, yukaridaki linkler, asagidaki metin ve linkler, zaten nasil ilerleyecegini sana anlatmak icin var...
@@ -114,7 +114,7 @@ https://www.twitch.tv/videos/639357674
 ## Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
 
-
+---
 
 # Diger tum kaynaklari asagidaki linklerden bulabilirsin, her birine goz at bence...
 
