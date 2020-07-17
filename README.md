@@ -13,7 +13,7 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://
 tıkla >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için resme tıkla***    
 <a href="https://www.youtube.com/watch?v=qbaBr8rXwaE"><img src="https://img.youtube.com/vi/qbaBr8rXwaE/0.jpg" width="200"></a>
 
-Selamlar, burayı bulduğuna göre siber güvenlik ve bunun alt dallarına merakın var demektir... O zaman hoş geldin. Bizler genel olarak siber güvenlik ve kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere gelişerek ulaşmalarına yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
+Selamlar, burayı bulduğuna göre siber güvenlik ve bunun alt dallarına merakın var demektir... O zaman hoş geldin. Bizler genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere gelişerek ulaşmalarına yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
 Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
 
 Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm, onun altında kapalı menüler halinde birçok kaynak var, her birine bir göz at.
@@ -108,7 +108,7 @@ Bununla ilgili bir yayın yapmıştık, linki şurada:
 https://www.twitch.tv/videos/639357674
 
 ### Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?
-Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hızlıca sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularinı da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). 
+Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hızlıca sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularını da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). 
 
 ---
 
@@ -122,7 +122,6 @@ Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulund
 
 Ayrıca verdiğim ders yayınlarının playlist hali: https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
 
-#### Eger Egitim videolarina bakacaksan, Hacking the TEMEL serisi adindaki video serisine bak... TEMELDEN BASLAYARAK ANLATIYOR orada...
 #### Eğer eğitim videolarına bakacaksan, *Hacking the TEMEL* serisi adındaki video serisine bak... TEMELDEN başlayarak anlatıyor orada.
 
 ![](images/dersler1.png) \
@@ -192,7 +191,7 @@ https://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM \
 CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pentesting için gereksiz bilgileri de kapsar. İstersen bir bak. \
 https://www.youtube.com/watch?v=QKfk7YFILws \
 Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q   
-https://www.youtube.com/watch?v=PD8r9ISYgQo << web gelistirme ve bir cok programala icin guzel bir kaynak arti bu video da HTTP temelleri var.
+https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok progralama dili için güzel bir kaynak, bu videoda HTTP temelleri de var.
 
 </details>
 
@@ -205,23 +204,23 @@ https://www.youtube.com/watch?v=PD8r9ISYgQo << web gelistirme ve bir cok program
 * https://www.guru99.com/ 
 * https://www.tutorialspoint.com/penetration_testing/index.htm 
 * Linux Dersleri: https://linux-dersleri.github.io/ 
-* Bir çok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses 
+* Birçok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses 
 * Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ 
 * Windows Exploitation full Course : https://fullpwnops.com/windows-exploitation-pathway.html 
-* AWESOME serisi, tum IT konularinda, Internette bulabileceginiz en buyuk kaynaklardan biri. https://github.com/LuNiZz/awesome
+* AWESOME serisi, tüm IT konularında internette bulabileceğiniz en büyük kaynaklardan biri. https://github.com/LuNiZz/awesome
   - Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme
   - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme
   - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme
 
   #### Bug Bounty Mevzusu
-  * Bug Bounty konusunda NAHAMSEC'in yayinladigi Baslangic ve gelisim rehberi.. Super kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters 
+  * Bug Bounty konusunda NAHAMSEC'in yayınladığı başlangıç ve gelişim rehberi.. Süper kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters 
   * Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ 
   * Bug bounty'e yeni başlıyorsan ve bilgisayar bilgin temelden öte değilse buna bir bak: https://medium.com/
   * Hackerone sıralanmış raporlar https://github.com/reddelexc/hackerone-reports
   * Hackerone kurucusu nasıl başlamalıyız sorusuna cevap veriyor: https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma
   * Bug hunting methodology https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f
   
-  ilk kazandigin paradan da bizi gorursun ;) sevgili kardesim..
+  İlk kazandığın paradan bize de görürsün sevgili kardeşim.. ;)
 
 </details>
 
