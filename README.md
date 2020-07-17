@@ -38,7 +38,7 @@ Ayrıca şöyle birşey de var, bir baksan iyi olur: https://github.com/LuNiZz/s
 Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın, ben 40 yaşından sonra SEO, Youtube, Twitch'ten yayın yapma olayını öğrendim :) Digital Marketing olayını, video editing olayını çözdüm... Önemli olan, metot bilmen, araştırma yapabilmen, bilgiye nasıl kolayca ulaşılabileceğini bilmen...
 
 ### Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
-En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, Application Pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da sağlar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
+En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, Application Pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da sağlar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmaların bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
 
 Tüm siber güvenlik dallarını şurada inceledim, bir bak: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md 
 
@@ -58,7 +58,7 @@ https://tryhackme.com/room/jack
 odalarına bakabilirsin, kolay gelsin.   
 
 ### Üniversite okumalı mıyım?  
-Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabi ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
+Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
 
 ### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
 Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
@@ -74,12 +74,12 @@ Gelişmekte olan teknolojilere bakmak lazım: DevOps, full stack development, mo
 İkisi de farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun geliştirme firmasında siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin. 
 
 ### Abi Instagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? Ivır nedir abi? Zıvır nedir abi?  
-Sevgili kardeşim, her ne kadar yardımcı olmak istesem de Instagram soru cevaplamak için iğrenç bir platform. Çok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli araştırmaları yaptıktan sonra takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu çok derin, uygulama dandik, vakit sınırlı... En yüksek faydayı sağlayabilmek için senin de biraz araştırma yapman lazım. Hem araştırma yapabilmek bizim işimizin en önemli parçası. Biraz söylediğim alanlarda araştırmalarınızı yapın, sonra gelin sorularınıza göre yeniden yön çizelim. Ben Google değilim! Yaptığımız şey mentörlük. Herkese ulaşabilmek için size de düşen bir kaç görev var yani. Yardımınız için teşekkürler.
+Sevgili kardeşim, her ne kadar yardımcı olmak istesem de Instagram soru cevaplamak için iğrenç bir platform. Çok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli araştırmaları yaptıktan sonra takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu çok derin, uygulama dandik, vakit sınırlı... En yüksek faydayı sağlayabilmek için senin de biraz araştırma yapman lazım. Hem araştırma yapabilmek bizim işimizin en önemli parçası. Biraz söylediğim alanlarda araştırmalarınızı yapın, sonra gelin sorularınıza göre yeniden yön çizelim. Ben Google değilim! Yaptığımız şey mentorluk. Herkese ulaşabilmek için size de düşen birkaç görev var yani. Yardımınız için teşekkürler.
 
 Bak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watch?v=fLV0y0Dn0Ug
 
 ### Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?  
-Yarar kardeşim. Hiç bir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra İngilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi, bu yaz kampları vs. var, birçok firma düzenliyor, bir de özgür yazılım için vs. için de var bazı dernekler yapıyor... Onlara da katılabilirsiniz bayağı faydalılar. 
+Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra ingilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi, bu yaz kampları vs. var, birçok firma düzenliyor, bir de özgür yazılım için vs. için de var bazı dernekler yapıyor... Onlara da katılabilirsiniz bayağı faydalılar. 
 
 ### Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
 Kali Linux indirdin mi? süper! O zaman şuraya gidiyorsun =>  https://www.hackthebox.eu/ \
@@ -101,14 +101,14 @@ Ha bir de mesela Parrot Linux'u denemek falan istersen, https://www.onworks.net/
 Youtube versiyonu da youtube.com/candeger adresinde var.
 
 ### Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?
-Wi-Fi kart adaptör arayanlar, son seferde de söylediğimiz gibi çipseti Google'da aratırlarsa direkt bulabilirler. Basit aslında... "wifi adapters support kali monitoring" diye tarzanca yazsanız bile modeller çıkar, çipsetini alın sonra tekrar Google'a örneğin "RTL *12354565* çipsetli kablosuz ağ adaptörü" diye yazsanız Türkiye'deki marka modeller çıkar diye düşünüyorum. Hatta "kali uyumlu wifi kartları" diye aratın, çıkar bir şeyler. Komşuların kablosuz ağlarını rahat bırakın olm :D aslkjlkajsd. Ayıp.
+Wi-Fi kart adaptör arayanlar, son seferde de söylediğimiz gibi çip seti Google'da aratırlarsa direkt bulabilirler. Basit aslında... "wifi adapters support kali monitoring" diye tarzanca yazsanız bile modeller çıkar, çip setini alın sonra tekrar Google'a örneğin "RTL *12354565* çipsetli kablosuz ağ adaptörü" diye yazsanız Türkiye'deki marka modeller çıkar diye düşünüyorum. Hatta "kali uyumlu wifi kartları" diye aratın, çıkar bir şeyler. Komşuların kablosuz ağlarını rahat bırakın olm :D aslkjlkajsd. Ayıp.
 
 ### Kendime nasıl VPN kurabilirim?
 Bununla ilgili bir yayın yapmıştık, linki şurada: 
 https://www.twitch.tv/videos/639357674
 
 ### Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?
-Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler çok genel hatlarıyla ve hızlıca sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularını da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). 
+Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler çok genel hatlarıyla ve hızlıca sektöre girebilmek için hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularını da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). 
 
 ---
 
@@ -134,25 +134,25 @@ Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geç
 
 <b><summary> Web Siteleri</summary>
 
-Applicaion Sec. Websitesi: https://application.security/free-application-security-training \
+Applicaion Sec. Web sitesi: https://application.security/free-application-security-training \
 XSS ile ilgili bir oyun: https://xss-game.appspot.com/ \
-Programlama öğrenmek isteyenler için kitapların bulunduğu bir websitesi: https://goalkicker.com/ \
-İngilizce öğrenmek için bir websitesi: https://diziyleogren.com/ \
-Penetration test websitesi: https://www.tutorialspoint.com/penetration_testing/index.htm \
+Programlama öğrenmek isteyenler için kitapların bulunduğu bir web sitesi: https://goalkicker.com/ \
+İngilizce öğrenmek için bir web sitesi: https://diziyleogren.com/ \
+Penetration test web sitesi: https://www.tutorialspoint.com/penetration_testing/index.htm \
 Ctf sitesi: https://captf.com/ \
 Web Application Pentest ile ilgileniyorsanız, BurpSuite'in yapımcılarının eğitim sayfası: https://portswigger.net/ \
-Zafiyetli makinalari bilgisayarınıza kurup test edebileceğiniz bir websitesi: https://www.vulnhub.com/ \
-Ücretli ve ücretsiz eğitimlerin bulunduğu bir websitesi: https://www.cybrary.it/ \
-Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir websitesi: https://hackerone.com/ \
+Zafiyetli makinalari bilgisayarınıza kurup test edebileceğiniz bir web sitesi: https://www.vulnhub.com/ \
+Ücretli ve ücretsiz eğitimlerin bulunduğu bir web sitesi: https://www.cybrary.it/ \
+Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir web sitesi: https://hackerone.com/ \
 Bugcrowd sitesinin eğitimleri: https://www.bugcrowd.com/hackers/bugcrowd-university/ \
-Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir websitesi: https://www.hackthebox.eu/ \
-Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir websitesi: https://www.priviahub.com \
-Linux komutlarını öğrenmeyi kolaylaştıran bir websitesi: https://cmdchallenge.com/ \
-Zaafiyetleri kullanarak ilerleyebileceğin bir websitesi: https://overthewire.org/wargames/natas/ \
+Zafiyetli makinelere sızmaya çalışıp kendinizi test edebileceğiniz bir web sitesi: https://www.hackthebox.eu/ \
+Zafiyetli makinelerle uğraşıp kendinizi geliştirebileceğiniz bir web sitesi: https://www.priviahub.com \
+Linux komutlarını öğrenmeyi kolaylaştıran bir web sitesi: https://cmdchallenge.com/ \
+Zafiyetleri kullanarak ilerleyebileceğin bir web sitesi: https://overthewire.org/wargames/natas/ \
 BTK'nın eğitimlerinin bulunduğu site: https://www.btkakademi.gov.tr \
-Dünyanın bir çok yerinde yapılan CTF'leri görebileceğiniz bir websitesi: https://ctftime.org/ \
-Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir websitesi: https://www.hackerrank.com \
-Kolaydan zora bir çok CTF'in bulunduğu bir websitesi: https://ctflearn.com/ \
+Dünyanın birçok yerinde yapılan CTF'leri görebileceğiniz bir web sitesi: https://ctftime.org/ \
+Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir web sitesi: https://www.hackerrank.com \
+Kolaydan zora birçok CTF'in bulunduğu bir web sitesi: https://ctflearn.com/ \
 http://pwnable.kr/
 
 </details>
@@ -180,7 +180,7 @@ https://www.udemy.com/course/gokhanmuharremoglu/
 
 #### Youtube 
 Sektörün deneyimlilerinden gençlere tavsiyeler (Can Değer Farkıyla): https://www.youtube.com/watch?v=NGxlNDSvaY4 \
-Nasil HACKER olurum? Ömer Çıtak cevaplamış: https://www.youtube.com/watch?v=TEB-zmSBAmY \
+Nasıl HACKER olurum? Ömer Çıtak cevaplamış: https://www.youtube.com/watch?v=TEB-zmSBAmY \
 Bad USB nedir? Neden kullanılır? Nasıl kullanılır?: https://www.youtube.com/watch?v=nJwpshMnQUg \
 İngilizce için: https://www.youtube.com/fklanguage \
 Full Ethical Hacking Course: https://www.youtube.com/watch?v=DzDtzbcmb58 \
@@ -191,7 +191,7 @@ https://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM \
 CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pentesting için gereksiz bilgileri de kapsar. İstersen bir bak. \
 https://www.youtube.com/watch?v=QKfk7YFILws \
 Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q   
-https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok progralama dili için güzel bir kaynak, bu videoda HTTP temelleri de var.
+https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok programlama dili için güzel bir kaynak, bu videoda HTTP temelleri de var.
 
 </details>
 
@@ -338,7 +338,7 @@ https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
 
 <details>
 
-<summary> İngilizce Genel Kaynaklar Listesi (siteler/nereden baslamalı/videolar... vs)</summary>
+<summary> İngilizce Genel Kaynaklar Listesi (siteler/nereden başlamalı/videolar... vs)</summary>
 
 ### Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir.   
 #### Where to start learning pentesting? 
