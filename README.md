@@ -108,7 +108,7 @@ Bununla ilgili bir yayın yapmıştık, linki şurada:
 https://www.twitch.tv/videos/639357674
 
 ### Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?
-Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hızlıca sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularını da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). 
+Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler çok genel hatlarıyla ve hızlıca sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularını da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). 
 
 ---
 
