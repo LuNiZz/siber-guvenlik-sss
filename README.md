@@ -1,137 +1,133 @@
 <!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
 ## LuNiZz linkleri
-- TWITCH YAYINLARI : https://twitch.tv/lunizz (Buradaki yayin gecmisleri ve tum Yayinlar Bedava dostlar..) \
-Tum gecmis yayinlar : https://www.twitch.tv/lunizz/videos     
+- TWITCH YAYINLARI : https://twitch.tv/lunizz (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar...) \
+Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos     
 ![twitch](https://img.shields.io/twitch/status/lunizz) \
-***Yayinlar SALI - PERSEMBE - PAZAR gunleri saat 20.00 de***
-- Discord : https://dc.lunizz.com
-- instagram : https://instagram.com/candeger 
-- twitter: https://twitter.com/candeger
-- youtube : https://youtube.com/candeger 
+***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de***
+- Discord: https://dc.lunizz.com
+- Instagram: https://instagram.com/candeger 
+- Twitter: https://twitter.com/candeger
+- Youtube: https://youtube.com/candeger 
 - Telegram kanalı: https://t.me/lunizzsec  
 
-***Bu kaynagi kullanmak ve "nereden baslamaliyim" sorusuna yanit olan yayin icin 
-tikla >>> https://www.twitch.tv/videos/634645006 yada hizlandirilmis daha ozet olan Youtube versionu icin resme tikla***    
+***Bu kaynağı kullanmak ve "nereden başlamalıyım" sorusuna yanıt olan yayın için 
+tıkla >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için resme tıkla***    
 <a href="https://www.youtube.com/watch?v=qbaBr8rXwaE"><img src="https://img.youtube.com/vi/qbaBr8rXwaE/0.jpg" width="200"></a>
 
+Selamlar, burayı bulduğuna göre siber güvenlik ve bunun alt dallarına merakın var demektir... O zaman hoş geldin. Bizler genel olarak siber güvenlik ve kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere gelişerek ulaşmalarına yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
+Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
 
-Selamlar, burayi bulduguna gore, siber guvenlik ve bunun alt dallarina merakin var demektir, o zaman hos geldin... Bizler genel olarak siber guvenlik kariyerinde ilerlemek isteyen arkadaslara yol gostermeyi, iyi ve dogru bir baslangic yaparak onlari dogru yerlere geliserek ulasmalarina yonlendirmeyi hedefleyen bir topluluguz. Bana ve arkadaslarima yukarida gordugun adreslerden kolaylikla ulasabilirsin.
-Ayrica yaptigimiz yayinlara gelip, goz atabilirsin...
+Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm, onun altında kapalı menüler halinde birçok kaynak var, her birine bir göz at.
 
-Asagida bana Sikca Sorulmus Sorulara bir goz atarak baslamani oneririm, onun altinda kapali menuler halinde bir cok kaynak var her birine bir goz at.   
+* Özellikle *KURSLAR, ÇEŞİTLİ KAYNAKLAR, TAKİP EDİLESİ YOUTUBE KANALLARI* başlıklarında birçok aradığın sorunun yanıtını bulabileceğine inanıyorum.
 
-* Ozellikle KURSLAR, CESITLI KAYNAKLAR, TAKIP EDILESI YOUTUBE KANALLARI basliklarinda bir cok aradigin sorunun yanitini bulabilecegine inaniyorum.
+Ayrıca yayın geçmişinde yer alan videoların toplu playlist hali de bulunuyor, linkler arasında ve görsel olarak nasıl izleyebileceğini anlattım.
 
-Ayrica yayin gecmisinde yer alan videolarin toplu playlist hali de bulunuyor linkler arasinda ve gorsel olarak nasil izleyebilecegini anlattim.
+*"Hacking The TEMEL"* https://www.twitch.tv/collections/sHv1c2HZEhaHFQ << video serisi bu iş için başlangıç konularını irdeliyor, eğer yeni başladıysan ona özellikle göz atmanı tavsiye ederim... (mouse'u videonun sol üst köşesine getirirsen diğer bütün videolar listeleniyor)
 
-"Hacking The TEMEL" https://www.twitch.tv/collections/sHv1c2HZEhaHFQ << video serisi, bu is icin baslangic konularini irdeliyor... ona ozellikle goz atmani tavsiye ederim eger yeni basladiysan.. (videonun sol ust kosesine getirirsen mouseu butun diger videolar listeleniyor)
-
-Aramiza hos geldin ve gorusuruz..
+Aramıza hoş geldin ve görüşürüz!
 
 -LuNiZz    
 ---
 
-### Nereden baslamaliyim?
-Iste tam bununla ilgili bir yayin yaptik biz :) https://www.twitch.tv/videos/634645006 ama su anda bulundugun site, yukaridaki linkler, asagidaki metin ve linkler, zaten nasil ilerleyecegini sana anlatmak icin var...
+### Nereden başlamalıyım?
+İşte tam bununla ilgili bir yayın yaptık biz :) https://www.twitch.tv/videos/634645006 ama şuanda bulunduğun site yukarıdaki linkler, aşağıdaki metin ve linkler zaten nasıl ilerleyeceğini sana anlatmak için var. 
 
-Ayrica, soyle bir sey de var, bir baksan iyi olur.. https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/hatalar%20ve%20nereden%20ba%C5%9Flamal%C4%B1y%C4%B1m.md
+Ayrıca şöyle birşey de var, bir baksan iyi olur: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/hatalar%20ve%20nereden%20ba%C5%9Flamal%C4%B1y%C4%B1m.md
 
-### abi selam, XX yasindayim sence gec kalmis olabilirmiyim?
-Sevgili dostum, hic bir sey icin gec kalmis olamazsin teknoloji ile ilgili konularda, ben 40 yasindan sonra SEO, youtube, twitch streaming olayini ogrendim :) dijital marketing olayini, video editing olayini cozdum.. Onemli olan method bilmen, arastirma yapabilmen, bilgiye nasil kolayca ulasabilecegini bilmen...
+### Abi selam, XX yaşındayım sence geç kalmış olabilir miyim?
+Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın, ben 40 yaşından sonra SEO, Youtube, Twitch'ten yayın yapma olayını öğrendim :) Digital Marketing olayını, video editing olayını çözdüm... Önemli olan, metot bilmen, araştırma yapabilmen, bilgiye nasıl kolayca ulaşılabileceğini bilmen...
 
 ### Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
-En hızlı çözüm, büyük olasılıkla OWASP ve benzeri kurumlara bakarak, Application pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da saglar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
+En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, Application Pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da sağlar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmalarin bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
 
-Tum CyberSecurity dallarini surada inceledim : https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md bir bak..
+Tüm siber güvenlik dallarını şurada inceledim, bir bak: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md 
 
-### web uygulama guvenligi icin iyi bir kaynak biliyormusun?
-Sitenin alt kismindaki kaynaklar oldukca iyi, portswigger academy olsun, hacker101 olsun, bugcrowd academy olsun cok basarili, bunlarin disinda mutlaka OWASP a da bir goz at,
-hatta Tryhackme nin OWASP 10 odasi https://tryhackme.com/room/owasptop10  
-https://tryhackme.com/room/rpburpsuite << burp suite odasi  
-https://tryhackme.com/room/learnowaspzap << owasp ZAP odasi   
-https://tryhackme.com/room/webfundamentals << web fundementals   
-https://tryhackme.com/room/webappsec101 << webappsec101   
-ve ardindan test etmek icin kendini,   
+### Web uygulama güvenliği için iyi bir kaynak biliyor musun?
+Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10 
+https://tryhackme.com/room/rpburpsuite << burp suite odasına,  
+https://tryhackme.com/room/learnowaspzap << owasp zap odasına,   
+https://tryhackme.com/room/webfundamentals << web fundementals odasına,   
+https://tryhackme.com/room/webappsec101 << webappsec101 odasına,  
+ve ardından kendini test etmek için;   
 https://tryhackme.com/room/vulnversity   
 https://tryhackme.com/room/juiceshop   
 https://tryhackme.com/room/rpwebscanning   
 https://tryhackme.com/room/dvwa   
 https://tryhackme.com/room/jack   
    
-odalarina bakabilirsin.. afiyet olsun   
+odalarına bakabilirsin, kolay gelsin.   
 
 ### Üniversite okumalı mıyım?  
-Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert degil. Önemli olan sizin yarattığınız fark ve değer. Universitesiz de bu isi yapanlar var tabi ama cok zor, cok ugrastirir.. bak surada aciklamisim : https://www.youtube.com/watch?v=eguWGnlJN-Q izle bir...
+Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabi ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
 
-### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?  
-Bu konuda bir cok kaynak var aslinda: Phyton, JS, C, Bash scripting(linux komut satiri), sanal makinada  Kali linux çalıştırabilmek, temel CCNA ile network bilgisi, SQL hakkinda fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır. 
+### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
+Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
 
-### Abi ingilizcem yok! Ne yapıcam?  
-İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede ingilizce öğrenmen lazım. DUOLingo vs. gibi ingilizce öğreten kaynakları ye, yut, bitir. Ayrica dizi ile film ile ingilizce ogrenebilirsin.. (Ororo Tv, Dizilab vs biliyorsun iste nereden bulacagini bunlari) \
-Soyle bisey var https://www.voscreen.com/ 
+### Abi İngilizcem yok! Ne yapıcam?  
+İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede İngilizce öğrenmen lazım. Duolingo vs. gibi İngilizce öğreten kaynakları ye, yut, bitir. Ayrıca dizi, film ile de İngilizce öğrenebilirsin.. (Ororo Tv, Dizilab vs. biliyorsun işte bunları nereden bulacağını) \
+Şöyle bir şey de var: https://www.voscreen.com/ 
 
-### Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?  
-Gelişmekte olan teknolojilere bakmak lazim: DevOps, Full Stack Development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayinda tartisalim. 
+### Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?
+Gelişmekte olan teknolojilere bakmak lazım: DevOps, full stack development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayında tartışalım. 
 
-### Oyun geliştirme konusu da cok ilgimi çekiyor, siber güvenlik de. Ne yapacağım? Hangisini seçmeliyim?  
-İkisi tamamen farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun gelistirme firmasinda siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin. 
+### Oyun geliştirme konusu da çok ilgimi çekiyor, siber güvenlik de. Ne yapacağım? Hangisini seçmeliyim?
+İkisi de farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun geliştirme firmasında siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin. 
 
-### Abi İnstagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? İvir nedir abi? Zivir nedir abi?  
-Sevgili kardeşim, her ne kadar yardımcı olmak istesem de, Instagram soru cevaplamak icin iğrenç bir platform. Cok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli arastırmaları yapıp, takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu cok derin, uygulama dandik, vakit sinirli... En yuksek faydayı sağlayabilmek icin, senin de araştırma yapman lazım biraz. Hem araştırma yapabilmek, bizim işimizin en önemli parcasi. Biraz söylediğim alanlarda arastirmalarınızı yapın, sonra gelin yeniden yön çizelim, sorularınıza göre. Ben google degilim! yaptiğımız şey mentoring. Herkese ulaşabilmek için size de düşen bir kaç aksiyon var yani. Yardiminiz icin teşekkürler. 
+### Abi Instagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? Ivır nedir abi? Zıvır nedir abi?  
+Sevgili kardeşim, her ne kadar yardımcı olmak istesem de Instagram soru cevaplamak için iğrenç bir platform. Çok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli araştırmaları yaptıktan sonra takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu çok derin, uygulama dandik, vakit sınırlı... En yüksek faydayı sağlayabilmek için senin de biraz araştırma yapman lazım. Hem araştırma yapabilmek bizim işimizin en önemli parçası. Biraz söylediğim alanlarda araştırmalarınızı yapın, sonra gelin sorularınıza göre yeniden yön çizelim. Ben Google değilim! Yaptığımız şey mentörlük. Herkese ulaşabilmek için size de düşen bir kaç görev var yani. Yardımınız için teşekkürler.
 
 Bak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watch?v=fLV0y0Dn0Ug
 
-### Abi bulunduğum şehirde devletin, işkur'un veya benzer kurumların bilişim kurslari var. BTK'nin egitim kurslari falan var 1M yazilimci vs diye, Bunlara gideyim mi? İşe yarar mı?  
-Yarar kardeşim. Hiç bir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra ingilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi bu yaz kampları vs. var, bircok firma düzenliyor bir de özgür yazılım için vs. de var bağzi dernekler de yapiyor... Onlara da katılabilirsiniz baya faydalılar. 
+### Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?  
+Yarar kardeşim. Hiç bir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra İngilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi, bu yaz kampları vs. var, birçok firma düzenliyor, bir de özgür yazılım için vs. için de var bazı dernekler yapıyor... Onlara da katılabilirsiniz bayağı faydalılar. 
 
 ### Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
-Kali indirdin mi? super! O zaman şuraya gidiyorsun =>  https://www.hackthebox.eu/ \
+Kali Linux indirdin mi? süper! O zaman şuraya gidiyorsun =>  https://www.hackthebox.eu/ \
 Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin => \
 https://medium.com/@sonusaikishan/hackthebox-how-to-get-the-invite-code-and-enter-into-hackthebox-eu-fb4f3f24dc6c \
 https://codeburst.io/hack-the-box-how-to-get-invite-code-56e369fc8dae \
 https://www.youtube.com/watch?v=uZtC_ZqwzTE \
 İçeriye girince de aktif bilgisayarlardan istediğin ile test yapmaya başlayabilirsin. 
 
-Ayrica Tryhackme.com var mesela : https://tryhackme.com buranin egitim serisi cok iyi..
-Birde simdi Hackthebox Pwnbox diye bir ozellik getirdi, VIP lerine hazir kurulmus cloud tabanli bir Parrot surumu veriyor, direk vpnsiz kullanabiliyorsun.. hic bir sey kurmana gerek yok... Aynisinin Kali versionunu TryHackMe yapiyor... 
+Ayrıca TryHackMe var mesela: https://tryhackme.com buranın eğitim serisi çok iyi...
+Bir de şimdi HackTheBox pwnbox diye bir özellik getirdi, VIP'lerine hazır kurulmuş cloud tabanlı bir Parrot sürümü veriyor, direkt vpn'siz kullanabiliyorsun... Hiçbir şey kurmana gerek yok. Aynısının Kali versiyonunu da TryHackMe yapıyor...
 
-Ayrica Turkce icerik istiyorsan da https://priviahub.com var... guzel o da bayagi...
+Ayrıca Türkçe içerik istiyorsan da https://priviahub.com var. O da bayağı güzel.
 
-Ha birde mesela PARROT linux u denemek falan istersen, https://www.onworks.net/ var harika direk cloud dan bisey kurmadan linux calismani sagliyor..
+Ha bir de mesela Parrot Linux'u denemek falan istersen, https://www.onworks.net/ var, direkt cloud'dan bir şey kurmadan Linux çalışmanı sağlıyor.
 
-### Ben kendi labratuarimi kurmak istiyorum nasil yapicam?
-$u yayinin icinde var https://www.twitch.tv/videos/646015971 bu konu...
-youtube versionu youtube.com/candeger adresinde var.
-
+### Ben kendi laboratuvarımı kurmak istiyorum nasıl yapıcam?
+Şu yayının içinde var bu konu: https://www.twitch.tv/videos/646015971  
+Youtube versiyonu da youtube.com/candeger adresinde var.
 
 ### Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?
-wifi kart adaptor arayanlar, son sefer de de soyledigimiz gibi chipset i google da aratirlarsa direkt bulabilirler.. basit aslinda.. wifi adapters support kali monitoring diye tarzanca yazsaniz bile modeller cikar, chipset ini alin sonra tekrar google a ornegin RTL 12354565 chipsetli kablosuz ag adaptoru diye yazsaniz, Turkiye deki marka modeller cikar diye dusunuyorum. Hatta Kali uyumlu wifi kartlari diye aratin, cikar biseyler. Komsularin kablosuz aglarini rahat birakin olm :D aslkjlkajsd. ayip. 
+Wi-Fi kart adaptör arayanlar, son seferde de söylediğimiz gibi çipseti Google'da aratırlarsa direkt bulabilirler. Basit aslında... "wifi adapters support kali monitoring" diye tarzanca yazsanız bile modeller çıkar, çipsetini alın sonra tekrar Google'a örneğin "RTL *12354565* çipsetli kablosuz ağ adaptörü" diye yazsanız Türkiye'deki marka modeller çıkar diye düşünüyorum. Hatta "kali uyumlu wifi kartları" diye aratın, çıkar bir şeyler. Komşuların kablosuz ağlarını rahat bırakın olm :D aslkjlkajsd. Ayıp.
 
-### Kendime VPN kursam nasil yapacagim?
-Bununla ilgili bir yayin yapmistik, linki surada:
+### Kendime nasıl VPN kurabilirim?
+Bununla ilgili bir yayın yapmıştık, linki şurada: 
 https://www.twitch.tv/videos/639357674
 
-### Bunlarin dışında benim cok farklı bir sorum var abi, yanıtı burda yok. Ne yapmalıyım?  
-Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hizlica sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularini da ancak yayinda yanitlayabilirim. Hepinizi beklerim :). 
+### Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?
+Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler cok genel hatlarıyla ve hızlıca sektöre girebilmek icin hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularinı da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). 
 
 ---
 
-### Diger tum kaynaklari asagidaki linklerden bulabilirsin, her birine goz at bence...
-
+### Diğer tüm kaynakları aşağıdaki linklerden bulabilirsin, her birine göz at bence...
 
 <details>
 
-<b><summary> Geçmiş tüm twitch yayinlari </summary>
+<b><summary> Tüm geçmiş Twitch yayınları </summary>
 
  https://www.twitch.tv/lunizz/videos 
 
-Ayrica verdigim ders yayinlarinin playlist hali : https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
+Ayrıca verdiğim ders yayınlarının playlist hali: https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
 
 #### Eger Egitim videolarina bakacaksan, Hacking the TEMEL serisi adindaki video serisine bak... TEMELDEN BASLAYARAK ANLATIYOR orada...
-
+#### Eğer eğitim videolarına bakacaksan, *Hacking the TEMEL* serisi adındaki video serisine bak... TEMELDEN başlayarak anlatıyor orada.
 
 ![](dersler1.PNG) \
-Mouse u resimdeki alana goturdugunuzde, tum ders videolari arasi gecis yapabilirsiniz.. \
+Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geçiş yapabilirsiniz... \
 ![](dersler2.PNG) 
 
 </details>
@@ -287,7 +283,7 @@ Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw
 
 En çok kullanılan toolar: https://prune2000.github.io/tools/pentest/ \
 Nereden başlarım ve üniversite hakkında: https://www.mehmetince.net/siber-guvenlik-alaninda-kendimi-nasil-gelistirebilirim-nereden-baslamaliyim/ \
-Siber güvenlik ile alakalı konuların paylaşıldığı türkçe reddit sayfası: https://www.reddit.com/r/trsec/ \
+Siber güvenlik ile alakalı konuların paylaşıldığı Türkçe reddit sayfası: https://www.reddit.com/r/trsec/ \
 https://www.reddit.com/r/trsec/comments/dmuxue/g%C3%BCvenlik_alan%C4%B1nda_kendini_geli%C5%9Ftirmek_isteyen/
 
 </details>
@@ -337,14 +333,14 @@ https://twitter.com/evrnyalcin
  
 <details>
 
-<summary> Cheat Sheetler</summary>
+<summary> Cheat Sheet'ler</summary>
 https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
 
 </details>
 
 <details>
 
-<summary> Ingilizce Genel Kaynaklar Listesi (siteler/nereden baslamali/videolar... vs)</summary>
+<summary> İngilizce Genel Kaynaklar Listesi (siteler/nereden baslamalı/videolar... vs)</summary>
 
 ### Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir.   
 #### Where to start learning pentesting? 
