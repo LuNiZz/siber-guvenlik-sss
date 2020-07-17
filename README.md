@@ -1,8 +1,7 @@
 <!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
 ## LuNiZz linkleri
 - TWITCH YAYINLARI : https://twitch.tv/lunizz (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar...) \
-Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos     
-![twitch](https://img.shields.io/twitch/status/lunizz) \
+Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://img.shields.io/twitch/status/lunizz) \
 ***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de***
 - Discord: https://dc.lunizz.com
 - Instagram: https://instagram.com/candeger 
@@ -126,9 +125,9 @@ Ayrıca verdiğim ders yayınlarının playlist hali: https://www.twitch.tv/coll
 #### Eger Egitim videolarina bakacaksan, Hacking the TEMEL serisi adindaki video serisine bak... TEMELDEN BASLAYARAK ANLATIYOR orada...
 #### Eğer eğitim videolarına bakacaksan, *Hacking the TEMEL* serisi adındaki video serisine bak... TEMELDEN başlayarak anlatıyor orada.
 
-![](dersler1.PNG) \
+![](images/dersler1.png) \
 Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geçiş yapabilirsiniz... \
-![](dersler2.PNG) 
+![](images/dersler2.png) 
 
 </details>
 

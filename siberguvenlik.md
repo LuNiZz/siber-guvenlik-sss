@@ -1,7 +1,7 @@
 [SSS sayfasına geri dön](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/README.md)
 
 # Siber Güvenlik Dalları ve Sertifikaları   
-![](seccerts.png)
+![](images/seccerts.png)
 * Yukarıda günümüzde yaygın olarak yer alan siber güvenlik dallarını ve bu dallarda etkin kullanılan sertifikaları görebilirsiniz.  
 * Ayrıca aşağıdaki linkte bunların tıklanabilir ve detaylı bilgi alınabilir versiyonunu da ekliyorum.  
 https://lunizz.github.io/seccert.html
