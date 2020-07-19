@@ -1,41 +1,46 @@
-[SSS sayfasina geri don](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/README.md)
+[SSS sayfasına geri dön](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/README.md)
 
-# Siber Guvenlik Dallari ve Sertifikalari   
-![](seccerts.png)
-* Yukari da, gunumuzde yaygin olarak yer alan siber guvenlik dallarini ve bu alanlarda etkin kullanilan sertifikalari gorebilirsiniz..
-* Ayrica asagida ki link de, bunlarin tiklanabilir ve detayli bilgi alinabilir versinunu da ekliyorum.
+# Siber Güvenlik Dalları ve Sertifikaları   
+![](images/seccerts.png)
+* Yukarıda günümüzde yaygın olarak yer alan siber güvenlik dallarını ve bu dallarda etkin kullanılan sertifikaları görebilirsiniz.  
+* Ayrıca aşağıdaki linkte bunların tıklanabilir ve detaylı bilgi alınabilir versiyonunu da ekliyorum.  
 https://lunizz.github.io/seccert.html
 
-Yukari daki imaja geri donersek;
-> ## Guvenlik yonetimi;
- > daha siklikla yonetim ve bilgi guvenligi denetimi alanlarinda calisarak, sirketlerin bilgi guvenligi regulasyonlarina uyumlulugunu test eden meslek  dali, burada onemli olan sertifikalar; CISSP, CISA, giris seviyesinde de Security+ ve ITIL...
+Yukarıdaki imaja geri dönersek,  
+> ## Güvenlik Yönetimi
+> Daha sıklıkla yönetim ve bilgi güvenliği denetimi alanlarında çalışarak, şirketlerin bilgi güvenliği regülasyonlarına uyumluluğunu test eden meslek dalı.  
+Burada önemli olan sertifikalar: CISSP ve CISA. Giriş seviyesinde de Security+ ve ITIL.
 
-> ## Guvenlik mimarisi;
-> Daha ziyade, cozumlerin guvenli bir sekilde kurumsal ortama entegrasyonunu hazirlayan, isin surec ve dizayn asamasinda yer alan meslek dali. Normal sartlarda, diger alt kirilimlarini da kapsamakla birlikte, bazi durumlarda gerek kalmadan sadece genel bilgi ve siber guvenlik bilgisi ile birlikte, genel enterprise architecture bilgisi de yeterli olabilir. Burada ne kadar deneyimli oldugunuz, sizin katma degerinizi belirler.
-Onemli sertifikalar; CISSP, TOGAF, SABSA, ITIL, programlama/urun/pentest bilgisi aranilan ozelliklerdendir.
+> ## Güvenlik Mimarisi
+> Daha ziyade, çözümlerin güvenli bir şekilde kurumsal ortama entegrasyonunu hazırlayan, işin süreç ve dizayn aşamasında yer alan meslek dalı. Normal şartlarda diğer alt kırılımlarını da kapsamakla birlikte, bazı durumlarda gerek kalmadan sadece genel bilgi ve siber güvenlik bilgisi ile birlikte, genel enterprise architecture bilgisi de yeterli olabilir. Burada ne kadar deneyimli olduğunuz sizin katma değerinizi belirler.  
+Önemli sertifikalar: CISSP, TOGAF, SABSA, ITIL, programlama/ürün/pentest bilgisi aranılan özelliklerdendir.
 
-> ## Risk Analisti (burada Guvenlik analisti diye gecmis ancak normalde bu sekilde adlandirmiyoruz)
-> Risk register i olusturmak, sirketin risk seviyesini ve atak zeminini belirleme ile birlikte yonetilebilinir guvenlik incelemeleri ve varliklarin tanimlanmasi kismindan sorumludur, CySA+, CISA, CRISC onemli sertifikalaridir.
+> ## Risk Analisti (burada Güvenlik Analisti diye geçmiş ancak normalde böyle adlandırmıyoruz)
+> Risk register'ı oluşturmak, şirketin risk seviyesini ve atak zeminini belirlemeyle birlikte yönetilebilir güvenlik incemeleri ve varlıkların tanımlanması kısmından sorumludur.  
+CySA+, CISA, CRISC önemli sertifikalardandır.
 
-> ## Guvenlik analisti Mavi takim operasyonlari;
-> Daha ziyade SOC ortaminda, mavi takim (blue team) seklinde adlandirdigimiz takimin uyelerindendir. Var olan kurumsal yapinin guvenliginin analizi, olan eksikliklerin tanimlanmasi, threat hunting, adli-bilisim, vaka incelemesi gibi islerle ugrasirlar. Sizma ve erisim denemelerini inceler, onlem alamaya calisirlar. Onemli Sertifikalari; CEH, Security+ ile baslar, GCIA, GASF, GCIH, CySA+, GSEC, Security+...
+> ## Güvenlik Analisti - Mavi Takım Operasyonları
+> Daha ziyade SOC ortamında mavi takım (blue team) şeklinde adlandırdığımız takımın üyelerindendir. Var olan kurumsal yapının güvenliğinin analizi, var olan eksikliklerin tanımlanması, threat hunting, adli bilişim, vaka incelemesi gibi işlerle uğraşırlar. Sızma ve erişim denemelerini inceler, önlem almaya çalışırlar.  
+Önemli sertifikalar: CEH, Security+, GCIA, GASF, GCIH, CySA+, GSEC...
 
-> ## Red-team, pentesterlar;
-> Sirketin var olan varliklarinin zafiyet taramalari, sizma testlerinin yapilmasindan sorumlu bu ekibe, kirmizi ekip deniyor genellikle. Uyelerine de sizma testi uzmani. Onemli sertifikalari; CEH, Pentest+, Security+ giris seviyesinde iken, ileri seviyelerde, OSCP, OSWE, OSCE, OSEE, GXPN...
+> ## Sızma Testi Uzmanı - Kırmızı Takım Operasyonları
+> Şirketin var olan varlıklarının zafiyet taramalarını ve sızma testlerinin yapılmasından sorumlu bu ekibe genellikle kırmızı takım deniyor.  
+Önemli sertifikalar: giriş seviyesinde CEH, Pentest+, Security+, ileri seviyelerde ise OSCP, OSWE, OSCE, OSEE, GXPN...
 
-> ## Guvenlik muhendisleri;
-> Geldik zurnanin zirt dedigi yere ;) Burasi biraz vahsi bati gibi, bu adamlar genellikle sistem entegratorlerinde, ureticilerde, distributorlerde calisirlar. Iki temel fonksiyonlari vardir, 
-* satis oncesi, teknik sunum, POC yapimi ve Sartnameler ile urun demolari ile ugrasan pre-sales ekibi...
-* satis sonrasi, kurulum, bakim, destek, profesyonel hizmetler ve danismanlik hizmetleri veren post-sales ekibi...
-> Ureticiler ve bagli yetkinliklerine gore alt dallari olabilir ancak, yetkinliklerini ureticiler ve urun gamlari belirler genellikle. Onemli sertifikalari yine ureticilerin belirledigi, temel giris sertifikalarindan baslar, gelisen seviyelerine dogru degisir.
-> Sanallastirma guvenliginden, OS guvenligine, Endpoint guvenliginden, cloud ve Ops guvenligine kadar bir cok yetkinlik dali olabilir. Bunlarin hepsinden biraz olabilecegi gibi, bir tanesinde "principal consultant" seviyesinde derin bilgisi de olabilir bu adamlarin.
+> ## Güvenlik Mühendisleri
+> Geldik zurnanın zırt dediği yere ;) Burası biraz vahşi batı gibi. Bu adamlar genellikle sistem entegratörlerinde, üreticilerde, distribütörlerde çalışırlar. İki temel işlevleri vardır:
+* Satış öncesi teknik sunum, POC yapımı ve şartnameler ile ürün demolarıyla uğraşan ekip. (pre-sales)
+* Satış sonrası kurulum, bakım, destek, profesyonel hizmetler ve danışmanlık hizmetleri veren ekip. (post-sales)
+> Üreticiler ve bağlı yetkinliklerine göre alt dalları olabilir ancak genellikle yetkinliklerini üreticiler ve ürün gamları belirler.  
+Önemli sertifikaları da genellikle üreticilerin belirlediği temel sertifikalardan başlar, ileri seviyelere doğru değişir.
+> Sanallaştırma güvenliğinden, OS güvenliğine, endpoint güvenliğinden cloud ve ops güvenliğine kadar birçok yetkinlik dalı olabilir. Bunların hepsinden biraz olabileceği gibi, bir tanesinde "principal consultant" seviyesinde derin bilgisi de olabilir bu adamların.
 
-Umarim begenmissinizdir, elimden geldigince acikladim.
-Twitch deki yayinlara gelirseniz, bunlar uzerine sohbet etme ve varsa sorularinizi yanitlama firsati yakalayabiliriz.
+Umarım beğenmişsinizdir, elimden geldiğince açıkladım.
+Twitch'teki yayınlara gelirseniz, bunlar üzerine sohbet etme ve varsa sorularınızı yanıtlama fırsatı yakalayabiliriz.
 
 https://twitch.tv/lunizz
 
-Ayrica bununla ilgili bir video cekip youtube kanalima koymayi planliyorum yakin zamanda... koydugumda burayi guncellerim..
+Ayrıca yakın zamanda bununla ilgili bir video çekip Youtube kanalıma koymayı planlıyorum. Koyduğumda burayı güncellerim.
 ![top10](https://pbs.twimg.com/media/Eb8MV7dWoAAKWZi?format=jpg&name=large)
 
 
