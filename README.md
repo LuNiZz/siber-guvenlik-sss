@@ -206,7 +206,6 @@ https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok progra
 * Linux Dersleri: https://linux-dersleri.github.io/ 
 * Birçok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses 
 * Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ 
-* Windows Exploitation full Course : https://fullpwnops.com/windows-exploitation-pathway.html 
 * AWESOME serisi, tüm IT konularında internette bulabileceğiniz en büyük kaynaklardan biri. https://github.com/LuNiZz/awesome
   - Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme
   - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme
@@ -239,7 +238,7 @@ https://www.thecybermentor.com/zero-to-hero-pentesting
 <summary> Kitaplar </summary>
 
 https://goalkicker.com/ \
-http://indexof.es/Miscellanous/LIVRES/web-hacking-101.pdf \
+https://dlscrib.com/download/web-hacking-101_58c08143e12e890320add376_pdf \
 http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \
 Çok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \
 Türkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf \
@@ -271,7 +270,6 @@ https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw \
 https://www.youtube.com/channel/UC7eshikPSJF3ZGTsgFG1XBA \
 Nahamsec'in kankası: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg \
 Hackerone üyesi: https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA \
-Kaliteli bir pentester: https://www.youtube.com/channel/UCOQLjAkXG_YBfT0y4vDxBUw
 
 </details>
 
@@ -324,7 +322,6 @@ https://twitter.com/FatihEgbatan \
 https://twitter.com/mdisec \
 https://twitter.com/EmreTinaztepe \
 https://twitter.com/sametsahinnet \
-https://twitter.com/h1_kenan \
 https://twitter.com/evrnyalcin
 
 </details>
