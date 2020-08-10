@@ -332,7 +332,9 @@ https://twitter.com/evrnyalcin
 <details>
 
 <summary> Cheat Sheet'ler</summary>
-https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
+Metasploit:https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf \
+Nmap:https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf \
+XSS:https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf 
 
 </details>
 
