@@ -348,7 +348,7 @@ https://twitter.com/FatihEgbatan \
 https://twitter.com/mdisec \
 https://twitter.com/EmreTinaztepe \
 https://twitter.com/sametsahinnet \
-https://twitter.com/evrnyealcin
+https://twitter.com/evrnyalcin
 
 </details>
  
