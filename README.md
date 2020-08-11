@@ -7,11 +7,10 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://
 - Instagram: https://instagram.com/candeger 
 - Twitter: https://twitter.com/candeger
 - Youtube: https://youtube.com/candeger 
-- Telegram kanalı: https://t.me/lunizzsec  
+
 
 ***Bu kaynağı kullanmak ve "nereden başlamalıyım" sorusuna yanıt olan yayın için 
-tıkla >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için resme tıkla***    
-<a href="https://www.youtube.com/watch?v=qbaBr8rXwaE"><img src="https://img.youtube.com/vi/qbaBr8rXwaE/0.jpg" width="200"></a>
+tıkla >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için https://www.youtube.com/watch?v=qbaBr8rXwaE   
 
 Selamlar, burayı bulduğuna göre siber güvenlik ve bunun alt dallarına merakın var demektir... O zaman hoş geldin. Bizler genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere gelişerek ulaşmalarına yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
 Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
@@ -59,6 +58,13 @@ odalarına bakabilirsin, kolay gelsin.
 
 ### Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
+
+### X bilimleri vs Y Muhendisligi vs Z tornaciligi yada siber guvenlik muhendislik uzmanligi profesorlugu bolumu? hangisini secersem "siberci" olurum?
+E) Hepsi. 
+Olay sende bitiyor dostum, kendini nasil gelistirip, katma deger uretirsen o sekilde ilerlersin.
+
+### Ben egitimlerimi tamamladim, bu siteyi de yaladim yuttum, artik butun herturlu pentesting, web app testing, siber guvenlik konularina hakim oludumu dusunuyorum? ne yapicam?
+O zaman sevgili kardesim, kendine bir acik kaynak kodlu, proje bul ve ona PR at. gelistir.. adini duyur, bu ileride staj ararken is basvurusunda da senin icin cok ama cok fayda saglayacak bir durum. Bunu sakin atlama.
 
 ### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
 Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
@@ -108,6 +114,15 @@ Wi-Fi kart adaptör arayanlar, son seferde de söylediğimiz gibi çip seti Goog
 ### Kendime nasıl VPN kurabilirim?
 Bununla ilgili bir yayın yapmıştık, linki şurada: 
 https://www.twitch.tv/videos/639357674
+
+### Kali mi? Parrot mi? 
+Ben Parrot sevip, Kali kullaniyorum. Cunku, parrot daha stabil ama Kalinin daha cok destegi var.
+
+### Ben hangi sertifikalari alarak bu alanda fayda saglarim, kendime katma deger katarim?
+Oncelikle ilk aklimiza gelen OSCP, bunun disinda CISSP de var ama daha cok temel ve "Bilgi Guvenligi" kapsamli.
+Bu iki sertifika da oldukca pahali ve muhtemelen calistigin sirket, ihtiyacina gore sana bu sertifikalari saglayacak.
+O sebeple kendin bunlara kasma, hangi sertifikalar var dersen, sayfanin ust kisminda ki su link e bakabilirsin
+https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md
 
 ### Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler çok genel hatlarıyla ve hızlıca sektöre girebilmek için hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularını da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). 
