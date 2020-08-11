@@ -65,7 +65,8 @@ Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Sc
 
 ### Abi İngilizcem yok! Ne yapıcam?  
 İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede İngilizce öğrenmen lazım. Duolingo vs. gibi İngilizce öğreten kaynakları ye, yut, bitir. Ayrıca dizi, film ile de İngilizce öğrenebilirsin.. (Ororo Tv, Dizilab vs. biliyorsun işte bunları nereden bulacağını) \
-Şöyle bir şey de var: https://www.voscreen.com/ 
+Şöyle bir şey de var: https://www.voscreen.com/ \
+İzlediğiniz dizilerde geçen kelimelerin anlamını öğrenebileceğiniz şöyle bir site de var : https://diziyleogren.com/tanitim \
 
 ### Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?
 Gelişmekte olan teknolojilere bakmak lazım: DevOps, full stack development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayında tartışalım. 
@@ -94,7 +95,8 @@ Bir de şimdi HackTheBox pwnbox diye bir özellik getirdi, VIP'lerine hazır kur
 
 Ayrıca Türkçe içerik istiyorsan da https://priviahub.com var. O da bayağı güzel.
 
-Ha bir de mesela Parrot Linux'u denemek falan istersen, https://www.onworks.net/ var, direkt cloud'dan bir şey kurmadan Linux çalışmanı sağlıyor.
+Ha bir de mesela Parrot Linux'u denemek falan istersen, https://www.onworks.net/ var, direkt cloud'dan bir şey kurmadan Linux çalışmanı sağlıyor. \
+Belki Arch Linux kullanmak isteyebilirsin, kurulumu ve kullanımı yeni kullanıcılar için zor olabilir ama pek çok kişinin de gözdesidir kendisi: https://wiki.archlinux.org/
 
 ### Ben kendi laboratuvarımı kurmak istiyorum nasıl yapıcam?
 Şu yayının içinde var bu konu: https://www.twitch.tv/videos/646015971  
@@ -137,6 +139,9 @@ Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geç
 Applicaion Sec. Web sitesi: https://application.security/free-application-security-training \
 XSS ile ilgili bir oyun: https://xss-game.appspot.com/ \
 Programlama öğrenmek isteyenler için kitapların bulunduğu bir web sitesi: https://goalkicker.com/ \
+Yine programlama ve birçok konuda öğrenebileceğiniz bir web sitesi : https://www.coursera.org/ \
+Bu da Coursera gibi : https://www.edx.org/ \
+Siber güvenlik ile ilgili kursların, labların olduğu bir site : https://app.cybrary.it/ \
 İngilizce öğrenmek için bir web sitesi: https://diziyleogren.com/ \
 Penetration test web sitesi: https://www.tutorialspoint.com/penetration_testing/index.htm \
 Ctf sitesi: https://captf.com/ \
@@ -218,6 +223,7 @@ https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok progra
   * Hackerone sıralanmış raporlar https://github.com/reddelexc/hackerone-reports
   * Hackerone kurucusu nasıl başlamalıyız sorusuna cevap veriyor: https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma
   * Bug hunting methodology https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f
+  * Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site: https://www.hacker101.com/ 
   
   İlk kazandığın paradan bize de görürsün sevgili kardeşim.. ;)
 
@@ -229,8 +235,8 @@ https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok progra
 
 https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE \
 https://github.com/hmaverickadams/Beginner-Network-Pentesting \
-https://www.thecybermentor.com/zero-to-hero-pentesting
-
+https://www.thecybermentor.com/zero-to-hero-pentesting \
+https://www.geeksforgeeks.org/computer-network-tutorials/ \
 </details>
 
 <details>
