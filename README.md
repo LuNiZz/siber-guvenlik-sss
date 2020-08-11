@@ -2,22 +2,27 @@
 ## LuNiZz linkleri
 - TWITCH YAYINLARI : https://twitch.tv/lunizz (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar...) \
 Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://img.shields.io/twitch/status/lunizz) \
-***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de***
+
+***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de*** \
+
 - Discord: https://dc.lunizz.com
 - Instagram: https://instagram.com/candeger 
 - Twitter: https://twitter.com/candeger
 - Youtube: https://youtube.com/candeger 
 
 
-***Bu kaynağı kullanmak ve "nereden başlamalıyım" sorusuna yanıt olan yayın için 
-tıkla >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için https://www.youtube.com/watch?v=qbaBr8rXwaE   
+***Bu kaynağı nasıl kullanacağını bilmiyor musun? Nereden başlamalıyım diye düşünmekten hiçbir şeye başlayamıyor musun? İşte bu yayını tam da senin için yaptık! Git bir bak bence >>> https://www.twitch.tv/videos/634645006   ya da hızlandırılmış, daha özet olan Youtube versiyonu için burayı ziyaret edebilirsin >>> https://www.youtube.com/watch?v=qbaBr8rXwaE   
 
-Selamlar, burayı bulduğuna göre siber güvenlik ve bunun alt dallarına merakın var demektir... O zaman hoş geldin. Bizler genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere gelişerek ulaşmalarına yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
+Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoş geldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
 Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
 
+<<<<<<< HEAD
 Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm, onun altında kapalı menüler halinde birçok kaynak var, her birine bir göz at.
+=======
+# <summary> Web Siteleri </summary>
+>>>>>>> ec2705f... Update
 
-* Özellikle *KURSLAR, ÇEŞİTLİ KAYNAKLAR, TAKİP EDİLESİ YOUTUBE KANALLARI* başlıklarında birçok aradığın sorunun yanıtını bulabileceğine inanıyorum.
+* Özellikle *KURSLAR, ÇEŞİTLİ KAYNAKLAR, TAKİP EDİLESİ YOUTUBE KANALLARI* başlıklarında bulunan bilgiler bir çok soruna cevap olabilir.
 
 Ayrıca yayın geçmişinde yer alan videoların toplu playlist hali de bulunuyor, linkler arasında ve görsel olarak nasıl izleyebileceğini anlattım.
 
@@ -29,7 +34,7 @@ Aramıza hoş geldin ve görüşürüz!
 ---
 
 ### Nereden başlamalıyım?
-İşte tam bununla ilgili bir yayın yaptık biz :) https://www.twitch.tv/videos/634645006 ama şuanda bulunduğun site yukarıdaki linkler, aşağıdaki metin ve linkler zaten nasıl ilerleyeceğini sana anlatmak için var. 
+İşte tam bununla ilgili bir yayın yaptık biz :) https://www.twitch.tv/videos/634645006 ama şu anda bulunduğun site, yukarıdaki linkler, aşağıdaki metinler zaten nasıl ilerleyeceğini sana anlatmak için var. 
 
 Ayrıca şöyle birşey de var, bir baksan iyi olur: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/hatalar%20ve%20nereden%20ba%C5%9Flamal%C4%B1y%C4%B1m.md
 
@@ -59,12 +64,12 @@ odalarına bakabilirsin, kolay gelsin.
 ### Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
 
-### X bilimleri vs Y Muhendisligi vs Z tornaciligi yada siber guvenlik muhendislik uzmanligi profesorlugu bolumu? hangisini secersem "siberci" olurum?
+### X bilimleri vs Y Muhendisligi vs Z tornacılığı ya da siber güvenlik mühendislik uzmanlığı profesorlüğü bölümü? Hangisini seçersem "siberci" olurum?
 E) Hepsi. 
-Olay sende bitiyor dostum, kendini nasil gelistirip, katma deger uretirsen o sekilde ilerlersin.
+Olay sende bitiyor dostum, kendini nasıl geliştirip, katma değer üretirsen o şekilde ilerlersin.
 
-### Ben egitimlerimi tamamladim, bu siteyi de yaladim yuttum, artik butun herturlu pentesting, web app testing, siber guvenlik konularina hakim oludumu dusunuyorum? ne yapicam?
-O zaman sevgili kardesim, kendine bir acik kaynak kodlu, proje bul ve ona PR at. gelistir.. adini duyur, bu ileride staj ararken is basvurusunda da senin icin cok ama cok fayda saglayacak bir durum. Bunu sakin atlama.
+### Ben egitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık herturlu pentesting, web app testing, siber güvenlik konularina hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?
+O zaman sevgili kardesim, kendine bir acik kaynak kodlu proje bul ve ona Pull Request at. Projeyi geliştir, adını duyur, bunları yapman ileride staj ararken ve is basvurusunda bulunurken senin icin cok ama cok fayda saglayacak. Bunu sakın atlama.
 
 ### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
 Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
@@ -115,13 +120,13 @@ Wi-Fi kart adaptör arayanlar, son seferde de söylediğimiz gibi çip seti Goog
 Bununla ilgili bir yayın yapmıştık, linki şurada: 
 https://www.twitch.tv/videos/639357674
 
-### Kali mi? Parrot mi? 
-Ben Parrot sevip, Kali kullaniyorum. Cunku, parrot daha stabil ama Kalinin daha cok destegi var.
+### Kali Linux mu? Parrot mu? 
+Ben Parrot sevip, Kali kullanıyorum. Çünkü, parrot daha stabil ama Kalinin daha cok desteği var. Aynı bu şekilde tamamen tercihine kalmış bir şey.
 
-### Ben hangi sertifikalari alarak bu alanda fayda saglarim, kendime katma deger katarim?
+### Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?
 Oncelikle ilk aklimiza gelen OSCP, bunun disinda CISSP de var ama daha cok temel ve "Bilgi Guvenligi" kapsamli.
 Bu iki sertifika da oldukca pahali ve muhtemelen calistigin sirket, ihtiyacina gore sana bu sertifikalari saglayacak.
-O sebeple kendin bunlara kasma, hangi sertifikalar var dersen, sayfanin ust kisminda ki su link e bakabilirsin
+O sebeple kendin bunlara kasma, hangi sertifikalar var dersen, sayfanin ust kismindaki su link e bakabilirsin
 https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md
 
 ### Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?
@@ -172,6 +177,7 @@ Zafiyetleri kullanarak ilerleyebileceğin bir web sitesi: https://overthewire.or
 BTK'nın eğitimlerinin bulunduğu site: https://www.btkakademi.gov.tr \
 Dünyanın birçok yerinde yapılan CTF'leri görebileceğiniz bir web sitesi: https://ctftime.org/ \
 Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir web sitesi: https://www.hackerrank.com \
+Belli algoritmaları kurarak, verilen matematik problemini çözmeniz istenen bir web sitesi: https://projecteuler.net
 Kolaydan zora birçok CTF'in bulunduğu bir web sitesi: https://ctflearn.com/ \
 http://pwnable.kr/
 
@@ -203,15 +209,18 @@ Sektörün deneyimlilerinden gençlere tavsiyeler (Can Değer Farkıyla): https:
 Nasıl HACKER olurum? Ömer Çıtak cevaplamış: https://www.youtube.com/watch?v=TEB-zmSBAmY \
 Bad USB nedir? Neden kullanılır? Nasıl kullanılır?: https://www.youtube.com/watch?v=nJwpshMnQUg \
 İngilizce için: https://www.youtube.com/fklanguage \
-Full Ethical Hacking Course: https://www.youtube.com/watch?v=DzDtzbcmb58 \
-Learn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial: https://www.youtube.com/watch?v=S6S5JF6Gou0 \
-Penetration Testing | Gophish Tutorial (Phishing Framework): https://www.youtube.com/watch?v=0uvWRwLs5Zo \
-How to learn Ethical Hacking with Python and Kali linux course: https://www.youtube.com/watch?v=3Kq1MIfTWCE \
+Full Ethical Hacking Course: https://www.youtube.com/watch?v=3Kq1MIfTWCE \
+Learn Ethical Hacking With Kali Linux | Ethical Hacking Tutorial: https://www.youtube.com/watch?v=0uvWRwLs5Zo \
+Penetration Testing | Gophish Tutorial (Phishing Framework): https://www.youtube.com/watch?v=S6S5JF6Gou0 \
+How to learn Ethical Hacking with Python and Kali linux course: https://www.youtube.com/watch?v=DzDtzbcmb58 \
 https://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM \
 CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pentesting için gereksiz bilgileri de kapsar. İstersen bir bak. \
 https://www.youtube.com/watch?v=QKfk7YFILws \
 Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q   
 https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok programlama dili için güzel bir kaynak, bu videoda HTTP temelleri de var.
+
+#### Diğer
+Harvard Üniversitesinin, Bilgisayar Bilimlerine giriş dersi olan CS50'nin 2019'daki derslerinin tamamen türkçeleştirilmiş hali: https://www.kodluyoruz.org/cs50
 
 </details>
 
@@ -343,7 +352,7 @@ https://twitter.com/FatihEgbatan \
 https://twitter.com/mdisec \
 https://twitter.com/EmreTinaztepe \
 https://twitter.com/sametsahinnet \
-https://twitter.com/evrnyalcin
+https://twitter.com/evrnyealcin
 
 </details>
  
