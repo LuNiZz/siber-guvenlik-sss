@@ -16,11 +16,7 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://
 Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoş geldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
 Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
 
-<<<<<<< HEAD
 Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm, onun altında kapalı menüler halinde birçok kaynak var, her birine bir göz at.
-=======
-# <summary> Web Siteleri </summary>
->>>>>>> ec2705f... Update
 
 * Özellikle *KURSLAR, ÇEŞİTLİ KAYNAKLAR, TAKİP EDİLESİ YOUTUBE KANALLARI* başlıklarında bulunan bilgiler bir çok soruna cevap olabilir.
 
