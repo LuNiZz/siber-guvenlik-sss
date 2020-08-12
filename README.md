@@ -11,10 +11,10 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://
 - Youtube: https://youtube.com/candeger \
  ***Team lunizzers Ekibi***
 - Ebubekir Bastama: https://www.twitch.tv/ebubekirbastama
-- Adil Burak      :https://www.twitch.tv/adilburaksen
+- Adil Burak Sen     :https://www.twitch.tv/adilburaksen
 - Sharky          :https://www.twitch.tv/astrofotografi
 - Nirrein         :https://www.twitch.tv/nirrein
-- Felixed         :https://www.twitch.tv/felixed  
+- Felixed         :https://www.twitch.tv/felixed_  
 
 ***Bu kaynağı nasıl kullanacağını bilmiyor musun? Nereden başlamalıyım diye düşünmekten hiçbir şeye başlayamıyor musun? İşte bu yayını tam da senin için yaptık! Git bir bak bence >>> https://www.twitch.tv/videos/634645006   ya da hızlandırılmış, daha özet olan Youtube versiyonu için burayı ziyaret edebilirsin >>> https://www.youtube.com/watch?v=qbaBr8rXwaE   
 
