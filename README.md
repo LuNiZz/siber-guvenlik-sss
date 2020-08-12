@@ -218,6 +218,8 @@ How to learn Ethical Hacking with Python and Kali linux course: https://www.yout
 https://www.youtube.com/watch?time_continue=20&v=fDeLtKUxTmM \
 CCNA ve Network+ adında iki sertifika var ama onların eğitim kitapları pentesting için gereksiz bilgileri de kapsar. İstersen bir bak. \
 https://www.youtube.com/watch?v=QKfk7YFILws \
+Free CCNA Network Devices CCNA 200-301 Complete Course. \
+https://www.youtube.com/watch?v=H8W9oMNSuwo&list=PLxbwE86jKRgMpuZuLBivzlM8s2Dk5lXBQ&index=1 \
 Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q   
 https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok programlama dili için güzel bir kaynak, bu videoda HTTP temelleri de var.
 
