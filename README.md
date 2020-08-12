@@ -7,7 +7,7 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://
 - Instagram: https://instagram.com/candeger 
 - Twitter: https://twitter.com/candeger
 - Youtube: https://youtube.com/candeger \
- ***Team lunizzers***
+ ***Team lunizzers Ekibi***
 - Ebubekir Bastama: https://www.twitch.tv/ebubekirbastama
 - Adil Burak      :https://www.twitch.tv/adilburaksen
 - Sharky          :https://www.twitch.tv/astrofotografi
