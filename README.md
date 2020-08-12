@@ -12,7 +12,7 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://
 - Adil Burak      :https://www.twitch.tv/adilburaksen
 - Sharky          :https://www.twitch.tv/astrofotografi
 - Nirrein         :https://www.twitch.tv/nirrein
-- Felixed         :https://www.twitch.tv/felixed \ 
+- Felixed         :https://www.twitch.tv/felixed  
 
 ***Bu kaynağı kullanmak ve "nereden başlamalıyım" sorusuna yanıt olan yayın için 
 tıkla >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için https://www.youtube.com/watch?v=qbaBr8rXwaE   
