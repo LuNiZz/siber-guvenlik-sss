@@ -61,7 +61,7 @@ https://tryhackme.com/room/rpwebscanning
 https://tryhackme.com/room/dvwa   
 https://tryhackme.com/room/jack  
 
-MDISEC Web ve uygulama güvenliği yayınları
+**MDISEC Web ve uygulama güvenliği yayınları**
 
 https://github.com/mdisec/mdisec-twitch-yayinlari
 
