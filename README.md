@@ -59,7 +59,10 @@ https://tryhackme.com/room/vulnversity
 https://tryhackme.com/room/juiceshop   
 https://tryhackme.com/room/rpwebscanning   
 https://tryhackme.com/room/dvwa   
-https://tryhackme.com/room/jack   
+https://tryhackme.com/room/jack  
+
+Bwapp ile buglu bir sitede bugbounty alıştırması yapabilirsiniz:
+http://www.itsecgames.com/
    
 odalarına bakabilirsin, kolay gelsin.   
 
