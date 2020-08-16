@@ -69,7 +69,6 @@ Ayrica asagidakiler de cok iyi...
 Bwapp ile buglu bir sitede bugbounty alıştırması yapabilirsiniz:
 http://www.itsecgames.com/
    
-odalarına bakabilirsin, kolay gelsin.   
 
 ### Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
