@@ -273,7 +273,7 @@ https://www.geeksforgeeks.org/computer-network-tutorials/ \
 <details>
 
 <summary> Kitaplar </summary>
-
+Başlamadan önce hack kültürü ile alakalı bir E-kitap: http://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf
 https://goalkicker.com/ \
 https://dlscrib.com/download/web-hacking-101_58c08143e12e890320add376_pdf \
 http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \
