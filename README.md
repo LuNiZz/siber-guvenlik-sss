@@ -60,6 +60,9 @@ https://tryhackme.com/room/juiceshop
 https://tryhackme.com/room/rpwebscanning   
 https://tryhackme.com/room/dvwa   
 https://tryhackme.com/room/jack  
+odalarına bakabilirsin, 
+
+Ayrica asagidakiler de cok iyi...
 
 #### MDISEC (Mehmet D. Ince) Web ve uygulama güvenliği yayınları >>> https://github.com/mdisec/mdisec-twitch-yayinlari
 
