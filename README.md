@@ -378,6 +378,15 @@ XSS:https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf
 
 <details>
 
+<summary>Telegram Grupları  </summary>
+Bugbounty Kanalı: https://t.me/bug_bounty_channel \
+Canyoupwn Kanalı : https://t.me/canyoupwnme \
+The Bugbounty Channel: https://t.me/thebugbountyhunter \
+Siber Takvim Kanalı (Türk) : https://t.me/sibertakvim \
+</details>
+
+<details>
+
 <summary> İngilizce Genel Kaynaklar Listesi (siteler/nereden başlamalı/videolar... vs)</summary>
 
 ### Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir.   
