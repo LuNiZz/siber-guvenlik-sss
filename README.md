@@ -3,7 +3,7 @@
 - TWITCH YAYINLARI : https://twitch.tv/lunizz (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar...) 
 Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://img.shields.io/twitch/status/lunizz) 
 
-***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de*** \
+***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de*** 
 
 - Discord: https://dc.lunizz.com
 - Instagram: https://instagram.com/candeger 
@@ -86,7 +86,7 @@ Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Sc
 ### Abi İngilizcem yok! Ne yapıcam?  
 İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede İngilizce öğrenmen lazım. Duolingo vs. gibi İngilizce öğreten kaynakları ye, yut, bitir. Ayrıca dizi, film ile de İngilizce öğrenebilirsin.. (Ororo Tv, Dizilab vs. biliyorsun işte bunları nereden bulacağını) \
 Şöyle bir şey de var: https://www.voscreen.com/ \
-İzlediğiniz dizilerde geçen kelimelerin anlamını öğrenebileceğiniz şöyle bir site de var : https://diziyleogren.com/tanitim \
+İzlediğiniz dizilerde geçen kelimelerin anlamını öğrenebileceğiniz şöyle bir site de var : https://diziyleogren.com/tanitim 
 
 ### Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?
 Gelişmekte olan teknolojilere bakmak lazım: DevOps, full stack development, mobil programlama, web application development vs. önemli konular. Tabii ki oyun geliştirme de keyifli olabilir, ancak ben konunun uzmanı değilim ve bu konular geçmişinle doğru orantılı olarak farklılık gösterebilir, bunu en iyisi yayında tartışalım. 
