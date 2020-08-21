@@ -40,6 +40,9 @@ Aramıza hoş geldin ve görüşürüz!
 
 Ayrıca şöyle birşey de var, bir baksan iyi olur: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/hatalar%20ve%20nereden%20ba%C5%9Flamal%C4%B1y%C4%B1m.md
 
+Unutmadan en temel egitim playlist i olarak, Cyber Mentor un Ucretsiz su youtube videolarini somur ;)
+https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
+
 ### Abi selam, XX yaşındayım sence geç kalmış olabilir miyim?
 Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın, ben 40 yaşından sonra SEO, Youtube, Twitch'ten yayın yapma olayını öğrendim :) Digital Marketing olayını, video editing olayını çözdüm... Önemli olan, metot bilmen, araştırma yapabilmen, bilgiye nasıl kolayca ulaşılabileceğini bilmen...
 
@@ -47,6 +50,13 @@ Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış 
 En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, Application Pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da sağlar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmaların bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
 
 Tüm siber güvenlik dallarını şurada inceledim, bir bak: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md 
+
+### Abi Udemy'de/hedehodode/XYZde ivirda zivirda, TURKCE bir egitim buldum, Nasil?
+Sevgili dostum, Udemy de ozellikle sevgili Atil Samancioglu, Ahmet Birkan, Ebubekir Bastama, Cemal Taner... vs gibi bir cok kisinin egitimlerini bulabilirsin, egitimin iyisi kotusu olmaz. Sen bilginin isine yarayan kismini al... Yanlis oldugunu eksik oldugunu dusundugun alanlarini arastir ve kendini gelistirmeye devam et.
+Kisisel olarak benim herhangi bir Udemy Turkce icerigine tavsiye veya oneride bulunmam ne yazikki mumkun degil, cunki o egitimlerin hic birini alip, incelemedim. Incelemeyi de dusunmuyorum. Duyudugum yorumlar genel olarak, udemy deki degerlendirme ve yorumlarla ayni sekilde, o sebeple incele oku. Kararini kendin ver.
+Ben ozel olarak bir yorum veya tavsiyede bulunanamam.
+
+Dersen ki ingilizce kaynak lazim bana, o zaman az asagida "The Cyber Mentor" un ucretli egitimleri var, zaman zaman twitter ve linkedinden bunlarin indirim ve benzeri kodlarini yayinliyor, goz at istersen.
 
 ### Web uygulama güvenliği için iyi bir kaynak biliyor musun?
 Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10 
@@ -200,15 +210,12 @@ http://pwnable.kr/
 <b><summary> Kurslar</summary>
 
 ### Ücretli Kurslar 
-#### İngilizce 
+
 https://www.pluralsight.com/browse/information-cyber-security \
 https://www.pluralsight.com/courses/ethical-hacking-understanding \
-https://josephdelgadillo.com/product/holiday-course-bundle-sale/ \
-https://www.udemy.com/course/ethical-hacking-kali-linux/ \
+https://www.udemy.com/course/linux-privilege-escalation-for-beginners/ \
+https://www.udemy.com/course/windows-privilege-escalation-for-beginners/ \
 https://www.udemy.com/course/practical-ethical-hacking/
-
-#### Türkçe 
-https://www.udemy.com/course/sizma-testlerinde-metasploit-kullanimi/
 
 ### Ücretsiz Kurslar
 #### Udemy 
