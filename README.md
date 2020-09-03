@@ -11,8 +11,6 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://
 - Youtube: https://youtube.com/candeger 
 
  ***Team luNiZzers Uyeleri*** https://www.twitch.tv/team/lunizzers
-- Ebubekir Bastama :https://www.twitch.tv/ebubekirbastama
-- Adil Burak Sen   :https://www.twitch.tv/adilburaksen
 - Sharky           :https://www.twitch.tv/astrofotografi
 - Nirrein          :https://www.twitch.tv/nirrein
 - Felixed          :https://www.twitch.tv/felixed_
