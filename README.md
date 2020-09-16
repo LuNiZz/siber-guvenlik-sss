@@ -5,17 +5,17 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://
 
 ***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de*** 
 
-- Discord: https://dc.lunizz.com
-- Instagram: https://instagram.com/candeger 
-- Twitter: https://twitter.com/candeger
-- Youtube: https://youtube.com/candeger 
+- Discord: (https://discord.com/api/guilds/181008728286298112/widget.png)](https://dc.lunizz.com)
+- Twitter: (https://img.shields.io/twitter/follow/candeger?style=social)](https://twitter.com/candeger)
+- Youtube: https://youtube.com/candeger
+- Instagram: https://instagram.com/candeger
 
  ***Team luNiZzers Uyeleri*** https://www.twitch.tv/team/lunizzers
-- Sharky           :https://www.twitch.tv/astrofotografi
-- Nirrein          :https://www.twitch.tv/nirrein
-- Felixed          :https://www.twitch.tv/felixed_
+- Sharky           : (https://img.shields.io/twitch/status/astrofotografi)](https://twitter.com/astrofotografi)
+- Nirrein          : (https://img.shields.io/twitch/status/nirrein)](https://twitter.com/nirrein)
+- Felixed          : (https://img.shields.io/twitch/status/felixed_)](https://twitter.com/felixed_)
 
-***Bu kaynağı nasıl kullanacağını bilmiyor musun? Nereden başlamalıyım diye düşünmekten hiçbir şeye başlayamıyor musun? İşte bu yayını tam da senin için yaptık! Git bir bak bence >>> https://www.twitch.tv/videos/634645006   ya da hızlandırılmış, daha özet olan Youtube versiyonu için burayı ziyaret edebilirsin >>> https://www.youtube.com/watch?v=qbaBr8rXwaE   
+***Bu kaynağı nasıl kullanacağını bilmiyor musun? Nereden başlamalıyım diye düşünmekten hiçbir şeye başlayamıyor musun? İşte bu yayını tam da senin için yaptık! Git bir bak bence >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için burayı ziyaret edebilirsin >>> https://www.youtube.com/watch?v=qbaBr8rXwaE   
 
 Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoş geldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
 Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
