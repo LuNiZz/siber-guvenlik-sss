@@ -2,7 +2,7 @@
 ## LuNiZz linkleri
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.siber-guvenlik-sss)](#)
 
-- TWITCH YAYINLARI : [![Twitch](https://img.shields.io/twitch/status/lunizz)](https://twitter.com/lunizz)
+- TWITCH YAYINLARI : [![Twitch](https://img.shields.io/twitch/status/lunizz)](https://twitch.com/lunizz)
 Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar...)
 
 ***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de*** 
@@ -13,9 +13,9 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın g
 - Instagram: https://instagram.com/candeger
 
  ***Team luNiZzers Uyeleri*** https://www.twitch.tv/team/lunizzers
-- Sharky           : [![Twitch-astrofotografi](https://img.shields.io/twitch/status/astrofotografi)](https://twitter.com/astrofotografi)
-- Nirrein          : [![Twitch-nirrein](https://img.shields.io/twitch/status/nirrein)](https://twitter.com/nirrein)
-- Felixed          : [![Twitch-felixed](https://img.shields.io/twitch/status/felixed_)](https://twitter.com/felixed_)
+- Sharky           : [![Twitch-astrofotografi](https://img.shields.io/twitch/status/astrofotografi)](https://twitch.com/astrofotografi)
+- Nirrein          : [![Twitch-nirrein](https://img.shields.io/twitch/status/nirrein)](https://twitch.com/nirrein)
+- Felixed          : [![Twitch-felixed](https://img.shields.io/twitch/status/felixed_)](https://twitch.com/felixed_)
 
 ***Bu kaynağı nasıl kullanacağını bilmiyor musun? Nereden başlamalıyım diye düşünmekten hiçbir şeye başlayamıyor musun? İşte bu yayını tam da senin için yaptık! Git bir bak bence >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için burayı ziyaret edebilirsin >>> https://www.youtube.com/watch?v=qbaBr8rXwaE   
 
