@@ -5,8 +5,8 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos ![twitch](https://
 
 ***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de*** 
 
-- Discord: (https://discord.com/api/guilds/181008728286298112/widget.png)](https://dc.lunizz.com)
-- Twitter: (https://img.shields.io/twitter/follow/candeger?style=social)](https://twitter.com/candeger)
+- Discord: [(https://discord.com/api/guilds/181008728286298112/widget.png)](https://dc.lunizz.com)
+- Twitter: [(https://img.shields.io/twitter/follow/candeger?style=social)](https://twitter.com/candeger)
 - Youtube: https://youtube.com/candeger
 - Instagram: https://instagram.com/candeger
 
