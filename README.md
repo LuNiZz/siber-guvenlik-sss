@@ -299,15 +299,16 @@ The Goal: https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B00
 </details>
 
 <details>
-<b><summary> Filmler</summary>
----       Tron                   1982   IMDb 6,8/10       ---   
----       Wargames               1983   IMDb 7,1/10       ---   
----       Sneakers               1992   IMDb 7,1/10       ---   
----       Ghost in the Shell     1995   IMDb 8,0/10       ---  
----       Hackers                1995   IMDb 6,3/10       ---  
----       The Net        	      1995   IMDb 5,9/10       ---  
----       Johnny Mnemonic        1995   IMDb 5,2/10       ---  
----       The Matrix             1999   IMDb 8,7/10       ---  
+
+<summary> Filmler </summary>
+---       Tron                   1982   IMDb 6,8/10       ---       
+---       Wargames               1983   IMDb 7,1/10       ---       
+---       Sneakers               1992   IMDb 7,1/10       ---       
+---       Ghost in the Shell     1995   IMDb 8,0/10       ---     
+---       Hackers                1995   IMDb 6,3/10       ---     
+---       The Net        	      1995   IMDb 5,9/10       ---     
+---       Johnny Mnemonic        1995   IMDb 5,2/10       ---     
+---       The Matrix             1999   IMDb 8,7/10       ---     
 ---       Takedown               2000   IMDb 6,3/10       ---  
 ---       The Swordfish          2001   IMDb 6,5/10       ---  
 ---       Antitrust              2001   IMDb 6,1/10       ---  
