@@ -299,46 +299,47 @@ The Goal: https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B00
 </details>
 
 <details>
- ---       Tron                   1982   IMDb 6,8/10       --- 
----       Wargames               1983   IMDb 7,1/10       --- 
----       Sneakers               1992   IMDb 7,1/10       --- 
----       Ghost in the Shell     1995   IMDb 8,0/10       ---
----       Hackers                1995   IMDb 6,3/10       ---
----       The Net        	      1995   IMDb 5,9/10       ---
----       Johnny Mnemonic        1995   IMDb 5,2/10       ---
----       The Matrix             1999   IMDb 8,7/10       ---
----       Takedown               2000   IMDb 6,3/10       ---
----       The Swordfish          2001   IMDb 6,5/10       ---
----       Antitrust              2001   IMDb 6,1/10       ---
----       The Matrix Reloaded    2003   IMDb 7,2/10       ---
----       The Matrix Revolutions 2003   IMDb 6,8/10       ---
----       One Point O            2004   IMDb 6,1/10       ---
----       Firewall               2006   IMDb 5,8/10       ---
----       Die Hard 4             2007   IMDb 7,1/10       ---
----       Eagle Eye              2008   IMDb 6,8/10       --- 
----       Untraceable            2008   IMDb 6,2/10       --- 
----       Wargames 2             2008   IMDb 4,6/10       ---
----       Tron: Legacy           2010   IMDb 6,8/10       ---
----       Disconnect             2012   IMDb 7,5/10       ---
----       The Fifth Estate       2013   IMDb 6,2/10       ---
----       Mickey Virus           2013   IMDb 6,0/10       ---
----       The Imitation Game     2014   IMDb 8,0/10       ---
----       Whoami                 2014   IMDb 7,6/10       ---
----       Transcendence          2014   IMDb 6,3/10       ---
----       The Signal             2014   IMDb 6,1/10       ---
----       Unfriended             2014   IMDb 5,5/10       ---
----       Open Windows           2014   IMDb 5,2/10       ---
----       Algorithm              2014   IMDB 4,8/10       ---
----       Cyberbully             2015   IMDb 6,8/10       ---
----       Ratter                 2015   IMDb 5,5/10       ---
----       Blackhat               2015   IMDb 5,4/10       ---
----       Snowden                2016   IMDb 7,3/10       ---
----       Nerve                  2016   IMDb 6,5/10       ---
----       Hacker                 2016   IMDb 6,2/10       ---
----       Unfriended: Dark Web   2016   IMDb 5,9/10       --- 
----       Ghost in the Shell     2017   IMDb 6,3/10       ---
----       Hacker                 2019   IMDb 5,2/10       --- 
-</details>
+<b><summary> Filmler</summary>
+---       Tron                   1982   IMDb 6,8/10       ---   
+---       Wargames               1983   IMDb 7,1/10       ---   
+---       Sneakers               1992   IMDb 7,1/10       ---   
+---       Ghost in the Shell     1995   IMDb 8,0/10       ---  
+---       Hackers                1995   IMDb 6,3/10       ---  
+---       The Net        	      1995   IMDb 5,9/10       ---  
+---       Johnny Mnemonic        1995   IMDb 5,2/10       ---  
+---       The Matrix             1999   IMDb 8,7/10       ---  
+---       Takedown               2000   IMDb 6,3/10       ---  
+---       The Swordfish          2001   IMDb 6,5/10       ---  
+---       Antitrust              2001   IMDb 6,1/10       ---  
+---       The Matrix Reloaded    2003   IMDb 7,2/10       ---  
+---       The Matrix Revolutions 2003   IMDb 6,8/10       ---  
+---       One Point O            2004   IMDb 6,1/10       ---  
+---       Firewall               2006   IMDb 5,8/10       ---  
+---       Die Hard 4             2007   IMDb 7,1/10       ---  
+---       Eagle Eye              2008   IMDb 6,8/10       ---   
+---       Untraceable            2008   IMDb 6,2/10       ---   
+---       Wargames 2             2008   IMDb 4,6/10       ---  
+---       Tron: Legacy           2010   IMDb 6,8/10       ---  
+---       Disconnect             2012   IMDb 7,5/10       ---  
+---       The Fifth Estate       2013   IMDb 6,2/10       ---  
+---       Mickey Virus           2013   IMDb 6,0/10       ---  
+---       The Imitation Game     2014   IMDb 8,0/10       ---  
+---       Whoami                 2014   IMDb 7,6/10       ---  
+---       Transcendence          2014   IMDb 6,3/10       ---  
+---       The Signal             2014   IMDb 6,1/10       ---  
+---       Unfriended             2014   IMDb 5,5/10       ---  
+---       Open Windows           2014   IMDb 5,2/10       ---  
+---       Algorithm              2014   IMDB 4,8/10       ---  
+---       Cyberbully             2015   IMDb 6,8/10       ---  
+---       Ratter                 2015   IMDb 5,5/10       ---  
+---       Blackhat               2015   IMDb 5,4/10       ---  
+---       Snowden                2016   IMDb 7,3/10       ---  
+---       Nerve                  2016   IMDb 6,5/10       ---  
+---       Hacker                 2016   IMDb 6,2/10       ---  
+---       Unfriended: Dark Web   2016   IMDb 5,9/10       ---   
+---       Ghost in the Shell     2017   IMDb 6,3/10       ---  
+---       Hacker                 2019   IMDb 5,2/10       ---   
+</details>  
 
 <details>
 
