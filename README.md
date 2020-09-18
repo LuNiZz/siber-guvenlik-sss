@@ -58,6 +58,14 @@ Ben ozel olarak bir yorum veya tavsiyede bulunanamam.
 
 Dersen ki ingilizce kaynak lazim bana, o zaman az asagida "The Cyber Mentor" un ucretli egitimleri var, zaman zaman twitter ve linkedinden bunlarin indirim ve benzeri kodlarini yayinliyor, goz at istersen.
 
+<details>
+
+<summary> Nasıl kendimi hack saldırılarından korurum? (Şifreler) </summary>
+
+Öncelikle hesaplarını (sosyal medya/forum vb. her hesabını) korumalısın: https://github.com/LuNiZz/personal-security-checklist
+
+</details>
+
 ### Web uygulama güvenliği için iyi bir kaynak biliyor musun?
 Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10 
 https://tryhackme.com/room/rpburpsuite << burp suite odasına,  
