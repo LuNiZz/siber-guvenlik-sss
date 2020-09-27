@@ -15,7 +15,8 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın g
  ***Team luNiZzers Uyeleri*** https://www.twitch.tv/team/lunizzers
 - Sharky           : [![Twitch-astrofotografi](https://img.shields.io/twitch/status/astrofotografi)](https://twitch.com/astrofotografi)
 - Nirrein          : [![Twitch-nirrein](https://img.shields.io/twitch/status/nirrein)](https://twitch.com/nirrein)
-- Felixed          : [![Twitch-felixed](https://img.shields.io/twitch/status/felixed_)](https://twitch.com/felixed_)
+- Felixed          : [![Twitch-felixed_](https://img.shields.io/twitch/status/felixed_)](https://twitch.com/felixed_)
+- Bloodmane        : [![Twitch-Bloodmane](https://img.shields.io/twitch/status/bloodmane)](https://www.twitch.tv/bloodmane)
 
 ***Bu kaynağı nasıl kullanacağını bilmiyor musun? Nereden başlamalıyım diye düşünmekten hiçbir şeye başlayamıyor musun? İşte bu yayını tam da senin için yaptık! Git bir bak bence >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için burayı ziyaret edebilirsin >>> https://www.youtube.com/watch?v=qbaBr8rXwaE   
 
