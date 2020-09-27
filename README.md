@@ -38,8 +38,6 @@ Aramıza hoş geldin ve görüşürüz!
 ### Nereden başlamalıyım?
 İşte tam bununla ilgili bir yayın yaptık biz :) https://www.twitch.tv/videos/634645006 ama şu anda bulunduğun site, yukarıdaki linkler, aşağıdaki metinler zaten nasıl ilerleyeceğini sana anlatmak için var. 
 
-Ayrıca şöyle birşey de var, bir baksan iyi olur: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/hatalar%20ve%20nereden%20ba%C5%9Flamal%C4%B1y%C4%B1m.md
-
 Unutmadan en temel egitim playlist i olarak, Cyber Mentor un Ucretsiz su youtube videolarini somur ;)
 https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 
