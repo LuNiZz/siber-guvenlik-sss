@@ -42,6 +42,24 @@ Aramıza hoş geldin ve görüşürüz!
 Unutmadan en temel egitim playlist i olarak, Cyber Mentor un Ucretsiz su youtube videolarini somur ;)
 https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 
+### Hangi bilgisayari almaliyim hem yazilim hem siberguvenlik ve benzeri konular icin?
+Simdi dostum, yazilim veya siber guvenlik demek, gunluk hayatinda yogun olarak, bol bol makale okumani video izlemeni gerektirecek, onun disinda sanal makina calistirman gerekecek, ve iyi bir network baglantisina ihtiyacin olacak..
+
+Bunlar icin eskiden dizustu bilgisayarlarin dezavantajlari vardi ancak bugun masaustu veya dizustu pek farketmiyor, hatta dizustu daha avantajli.
+
+Bu noktada kisisel tercihler on plana cikiyor;
+bence bir bilgisayarin;
+1) hafif olmali, gittigin her yere rahatlikla goturebilmelisin, bu noktada laptop daha avantajli, mesela starbucks da otururken de makale okuyabilirsin ;)
+2) islemcin en az i5 seviyesinde ve maksimum 2 jenerasyon eski olmali, su an itibariyle konusursak (10. gen en yenisi) 8 olmali..
+3) RAM en onemli bilesenin, en az 8 GB ram in olmali, sanal makina 1 tane calistirabilirsin adam gibi bu durumda, o yuzden 16 olursa cok daha rahat olur en azindan "victim" makine de calistirabilirsin.
+4) HDD kesinlikle SSD olmali, bu desktop ile laptop in en buyuk farki idi eskiden, cunki ssd oncesinde laptop diskleri 6000 kusur RPM di cok yavasti adami sinir ediyordu, ama bugun laptoplarda SSD kullandigi icin super oldular.. sende o yuzden SSD tercih etmelisin..
+
+bunlarin disinda, e insaniz birazda oyun oynicaz dersen, hani paylasimsiz herhangi bir ekran karti baya bir isini gorur. Eskiden sifre kirmak icin falan GPU kullaniyorduk da simdi o isler icin web siteleri var onlari kullaniyoruz ;) pek lokal de yapmiyoruz o isleri.. o yuzden cok onemli degil..
+
+Ha laptop secerken dikkat etmen gereken onemli bir unsur da, linux uyumluluk, sectigin modele ilerde native linux yuklemek isteyebilirsin... O zaman driverlarinin vs sorun cikarmamasi icin, urunu bir arat google dan. ha dersenki isim olmaz ben VM/Vbox takilcam, okdir o zaman farketmiyor...
+
+boyle...
+
 ### Abi selam, XX yaşındayım sence geç kalmış olabilir miyim?
 Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın, ben 40 yaşından sonra SEO, Youtube, Twitch'ten yayın yapma olayını öğrendim :) Digital Marketing olayını, video editing olayını çözdüm... Önemli olan, metot bilmen, araştırma yapabilmen, bilgiye nasıl kolayca ulaşılabileceğini bilmen...
 
