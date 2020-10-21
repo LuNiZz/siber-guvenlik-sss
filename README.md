@@ -20,7 +20,7 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın g
 
 ***Bu kaynağı nasıl kullanacağını bilmiyor musun? Nereden başlamalıyım diye düşünmekten hiçbir şeye başlayamıyor musun? İşte bu yayını tam da senin için yaptık! Git bir bak bence >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için burayı ziyaret edebilirsin >>> https://www.youtube.com/watch?v=qbaBr8rXwaE   
 
-Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoş geldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
+Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoşgeldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
 Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
 
 Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm, onun altında kapalı menüler halinde birçok kaynak var, her birine bir göz at.
@@ -39,46 +39,46 @@ Aramıza hoş geldin ve görüşürüz!
 ### Nereden başlamalıyım?
 İşte tam bununla ilgili bir yayın yaptık biz :) https://www.twitch.tv/videos/634645006 ama şu anda bulunduğun site, yukarıdaki linkler, aşağıdaki metinler zaten nasıl ilerleyeceğini sana anlatmak için var. 
 
-Unutmadan en temel egitim playlist i olarak, Cyber Mentor un Ucretsiz su youtube videolarini somur ;)
+Unutmadan en temel eğitim playlist i olarak, Cyber Mentor'un Ücretsiz şu YouTube videolarını sömür ;)
 https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 
-### Hangi bilgisayari almaliyim hem yazilim hem siberguvenlik ve benzeri konular icin?
-Simdi dostum, yazilim veya siber guvenlik demek, gunluk hayatinda yogun olarak, bol bol makale okumani video izlemeni gerektirecek, onun disinda sanal makina calistirman gerekecek, ve iyi bir network baglantisina ihtiyacin olacak..
+### Hangi bilgisayarı almalıyım hem yazılım hem siber güvenlik ve benzeri konular için?
+Şimdi dostum, yazılım veya siber güvenlik demek, günlük hayatında yoğun olarak, bol bol makale okumanı video izlemeni gerektirecek, onun dışında sanal makina çalıştırman gerekecek, ve iyi bir network bağlantısına ihtiyacın olacak...
 
-Bunlar icin eskiden dizustu bilgisayarlarin dezavantajlari vardi ancak bugun masaustu veya dizustu pek farketmiyor, hatta dizustu daha avantajli.
+Bunlar için eskiden dizüstü bilgisayarların dezavantajları vardı ancak bugün masaüstü veya dizüstü pek farketmiyor, hatta dizüstü daha avantajlı.
 
-Bu noktada kisisel tercihler on plana cikiyor;
-bence bir bilgisayarin;
-1) hafif olmali, gittigin her yere rahatlikla goturebilmelisin, bu noktada laptop daha avantajli, mesela starbucks da otururken de makale okuyabilirsin ;)
-2) islemcin en az i5 seviyesinde ve maksimum 2 jenerasyon eski olmali, su an itibariyle konusursak (10. gen en yenisi) 8 olmali..
-3) RAM en onemli bilesenin, en az 8 GB ram in olmali, sanal makina 1 tane calistirabilirsin adam gibi bu durumda, o yuzden 16 olursa cok daha rahat olur en azindan "victim" makine de calistirabilirsin.
-4) HDD kesinlikle SSD olmali, bu desktop ile laptop in en buyuk farki idi eskiden, cunki ssd oncesinde laptop diskleri 6000 kusur RPM di cok yavasti adami sinir ediyordu, ama bugun laptoplarda SSD kullandigi icin super oldular.. sende o yuzden SSD tercih etmelisin..
+Bu noktada kişisel tercihler ön plana çıkıyor;
+bence bir bilgisayarın;
+1) hafif olmalı, gittiğin her yere rahatlıkla götürebilmelisin, bu noktada laptop daha avantajlı, mesela Starbucks'da otururken de makale okuyabilirsin ;)
+2) işlemcin en az i5 seviyesinde ve maksimum 2 jenerasyon eski olmalı, şu an itibariyle konuşursak (10. gen en yenisi) 8 olmalı...
+3) RAM en önemli bileşenin, en az 8 GB RAMin olmalı, sanal makina 1 tane çalıştırabilirsin adam gibi bu durumda, o yüzden 16 GB olursa çok daha rahat olur. En azından "victim" makine de çalıştırabilirsin.
+4) HDD kesinlikle SSD olmalı, bu desktop ile laptop in en büyük fark idi eskiden, çünkü ssd oncesinde laptop diskleri 6000 kusur RPM'di çok yavaştı adamı sinir ediyordu, ama bugün laptoplarda SSD kullandığı için süper oldular... Sende o yüzden SSD tercih etmelisin...
 
-bunlarin disinda, e insaniz birazda oyun oynicaz dersen, hani paylasimsiz herhangi bir ekran karti baya bir isini gorur. Eskiden sifre kirmak icin falan GPU kullaniyorduk da simdi o isler icin web siteleri var onlari kullaniyoruz ;) pek lokal de yapmiyoruz o isleri.. o yuzden cok onemli degil..
+bunlarin dışında, e insanız birazda oyun oynayacaz dersen, hani paylaşımsız herhangi bir ekran karti bayağı bir işini görür. Eskiden şifre kırmak için falan GPU kullanıyorduk da şimdi o işler için web siteleri var onları kullanıyoruz ;) pek lokal de yapmıyoruz o işleri... O yuzden çok önemli değil...
 
-Ha laptop secerken dikkat etmen gereken onemli bir unsur da, linux uyumluluk, sectigin modele ilerde native linux yuklemek isteyebilirsin... O zaman driverlarinin vs sorun cikarmamasi icin, urunu bir arat google dan. ha dersenki isim olmaz ben VM/Vbox takilcam, okdir o zaman farketmiyor...
+Ha laptop seçerken dikkat etmen gereken önemli bir unsur da, Linux uyumluluk, seçtiğin modele ilerde Native Linux yüklemek isteyebilirsin... O zaman driverlarının vs sorun çıkarmaması için, ürünü bir arat Google'dan. Ha dersin ki işim olmaz ben VM/Vbox takılacam, tamamdır o zaman farketmiyor...
 
-boyle...
+böyle...
 
 ### Abi selam, XX yaşındayım sence geç kalmış olabilir miyim?
-Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın, ben 40 yaşından sonra SEO, Youtube, Twitch'ten yayın yapma olayını öğrendim :) Digital Marketing olayını, video editing olayını çözdüm... Önemli olan, metot bilmen, araştırma yapabilmen, bilgiye nasıl kolayca ulaşılabileceğini bilmen...
+Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın, ben 40 yaşından sonra SEO, Youtube, Twitch'ten yayın yapma olayını öğrendim :) Digital Marketing olayını, video editing olayını çözdüm... Önemli olan, methodu bilmen, araştırma yapabilmen, bilgiye nasıl kolayca ulaşılabileceğini bilmen...
 
 ### Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
 En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, Application Pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da sağlar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmaların bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
 
 Tüm siber güvenlik dallarını şurada inceledim, bir bak: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md 
 
-### Abi Udemy'de/hedehodode/XYZde ivirda zivirda, TURKCE bir egitim buldum, Nasil?
-Sevgili dostum, Udemy de ozellikle sevgili Atil Samancioglu, Ahmet Birkan, Ebubekir Bastama, Cemal Taner... vs gibi bir cok kisinin egitimlerini bulabilirsin, egitimin iyisi kotusu olmaz. Sen bilginin isine yarayan kismini al... Yanlis oldugunu eksik oldugunu dusundugun alanlarini arastir ve kendini gelistirmeye devam et.
-Kisisel olarak benim herhangi bir Udemy Turkce icerigine tavsiye veya oneride bulunmam ne yazikki mumkun degil, cunki o egitimlerin hic birini alip, incelemedim. Incelemeyi de dusunmuyorum. Duyudugum yorumlar genel olarak, udemy deki degerlendirme ve yorumlarla ayni sekilde, o sebeple incele oku. Kararini kendin ver.
-Ben ozel olarak bir yorum veya tavsiyede bulunanamam.
+### Abi Udemy'de/hedehodode/XYZde ıvırda zıvırda, TÜRKÇE bir eğitim buldum, Nasıl?
+Sevgili dostum, Udemy de özellikle sevgili Atıl Samancıoğlu, Ahmet Birkan, Ebubekir Bastama, Cemal Taner... vs gibi birçok kişinin egitimlerini bulabilirsin, eğitimin iyisi kötüsü olmaz. Sen bilginin isine yarayan kısmını al... Yanlış olduğunu eksik olduğunu düşündüğün alanlarını araştır ve kendini geliştirmeye devam et.
+Kişisel olarak benim herhangi bir Udemy Türkce içeriğine tavsiye veya öneride bulunmam ne yazık ki mümkün değil, cünkü o eğitimlerin hiçbirini alıp, incelemedim. İncelemeyi de düşünmüyorum. Duyduğum yorumlar genel olarak, Udemy'deki değerlendirme ve yorumlarla aynı şekilde, o sebeple incele oku. Kararını kendin ver.
+Ben özel olarak bir yorum veya tavsiyede bulunanamam.
 
-Dersen ki ingilizce kaynak lazim bana, o zaman az asagida "The Cyber Mentor" un ucretli egitimleri var, zaman zaman twitter ve linkedinden bunlarin indirim ve benzeri kodlarini yayinliyor, goz at istersen.
+Dersen ki İngilizce kaynak lazım bana, o zaman az aşağıda "The Cyber Mentor" un ücretli eğitimleri var, zaman zaman Twitter ve LinkedIn'den bunların indirim ve benzeri kodlarını yayınlıyor, gözat istersen.
 
 
 ### Nasıl kendimi hack saldırılarından korurum? 
 
-Kisisel guvenlik icin ingilizce bir checklist var burada, bir bak... butun onemli konulari kapsiyor... https://github.com/LuNiZz/personal-security-checklist
+Kişisel güvenlik için İngilizce bir checklist var burada, bir bak... Bütün önemli konuları kapsıyor... https://github.com/LuNiZz/personal-security-checklist
 
 
 
@@ -96,11 +96,11 @@ https://tryhackme.com/room/dvwa
 https://tryhackme.com/room/jack  
 odalarına bakabilirsin, 
 
-Ayrica asagidakiler de cok iyi...
+Ayrıca aşağıdakiler de çok iyi...
 
 #### MDISEC (Mehmet D. Ince) Web ve uygulama güvenliği yayınları >>> https://github.com/mdisec/mdisec-twitch-yayinlari
 
-Bwapp ile buglu bir sitede bugbounty alıştırması yapabilirsiniz:
+BWAPP ile buglu bir sitede BugBounty alıştırması yapabilirsiniz:
 http://www.itsecgames.com/
    
 
@@ -111,8 +111,8 @@ http://www.itsecgames.com/
 E) Hepsi. 
 Olay sende bitiyor dostum, kendini nasıl geliştirip, katma değer üretirsen o şekilde ilerlersin.
 
-### Ben egitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık herturlu pentesting, web app testing, siber güvenlik konularina hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?
-O zaman sevgili kardesim, kendine bir acik kaynak kodlu proje bul ve ona Pull Request at. Projeyi geliştir, adını duyur, bunları yapman ileride staj ararken ve is basvurusunda bulunurken senin icin cok ama cok fayda saglayacak. Bunu sakın atlama.
+### Ben eğitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık her türlü Pentesting, Web App Testing, Siber Güvenlik konularına hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?
+O zaman sevgili kardeşim, kendine bir açık kaynak kodlu proje bul ve ona Pull Request at. Projeyi geliştir, adını duyur, bunları yapman ileride staj ararken ve iş basvurusunda bulunurken senin için cok ama cok fayda sağlayacak. Bunu sakın atlama.
 
 ### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
 Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
@@ -129,15 +129,15 @@ Gelişmekte olan teknolojilere bakmak lazım: DevOps, full stack development, mo
 İkisi de farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun geliştirme firmasında siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin. 
 
 ### Abi Instagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? Ivır nedir abi? Zıvır nedir abi?  
-Sevgili kardeşim, her ne kadar yardımcı olmak istesem de Instagram soru cevaplamak için iğrenç bir platform. Çok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli araştırmaları yaptıktan sonra takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu çok derin, uygulama dandik, vakit sınırlı... En yüksek faydayı sağlayabilmek için senin de biraz araştırma yapman lazım. Hem araştırma yapabilmek bizim işimizin en önemli parçası. Biraz söylediğim alanlarda araştırmalarınızı yapın, sonra gelin sorularınıza göre yeniden yön çizelim. Ben Google değilim! Yaptığımız şey mentorluk. Herkese ulaşabilmek için size de düşen birkaç görev var yani. Yardımınız için teşekkürler.
+Sevgili kardeşim, her ne kadar yardımcı olmak istesem de Instagram soru cevaplamak için iğrenç bir platform. Çok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli araştırmaları yaptıktan sonra takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu çok derin, uygulama dandik, vakit sınırlı... En yüksek faydayı sağlayabilmek için senin de biraz araştırma yapman lazım. Hem araştırma yapabilmek bizim işimizin en önemli parçası. Biraz söylediğim alanlarda araştırmalarınızı yapın, sonra gelin sorularınıza göre yeniden yön çizelim. *Ben Google değilim!* Yaptığımız şey mentorluk. Herkese ulaşabilmek için size de düşen birkaç görev var yani. Yardımınız için teşekkürler.
 
 Bak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watch?v=fLV0y0Dn0Ug
 
 ### Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?  
-Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra ingilizcenizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi, bu yaz kampları vs. var, birçok firma düzenliyor, bir de özgür yazılım için vs. için de var bazı dernekler yapıyor... Onlara da katılabilirsiniz bayağı faydalılar. 
+Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra İngilizce'nizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi, bu yaz kampları vs. var, birçok firma düzenliyor, bir de özgür yazılım için vs. için de var bazı dernekler yapıyor... Onlara da katılabilirsiniz bayağı faydalılar. 
 
 ### Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
-Kali Linux indirdin mi? süper! O zaman şuraya gidiyorsun =>  https://www.hackthebox.eu/ \
+*Kali Linux* indirdin mi? süper! O zaman şuraya gidiyorsun => https://www.hackthebox.eu/ \
 Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin => \
 https://medium.com/@sonusaikishan/hackthebox-how-to-get-the-invite-code-and-enter-into-hackthebox-eu-fb4f3f24dc6c \
 https://codeburst.io/hack-the-box-how-to-get-invite-code-56e369fc8dae \
@@ -149,12 +149,12 @@ Bir de şimdi HackTheBox pwnbox diye bir özellik getirdi, VIP'lerine hazır kur
 
 Ayrıca Türkçe içerik istiyorsan da https://priviahub.com var. O da bayağı güzel.
 
-Ha bir de mesela Parrot Linux'u denemek falan istersen, https://www.onworks.net/ var, direkt cloud'dan bir şey kurmadan Linux çalışmanı sağlıyor. \
-Belki Arch Linux kullanmak isteyebilirsin, kurulumu ve kullanımı yeni kullanıcılar için zor olabilir ama pek çok kişinin de gözdesidir kendisi: https://wiki.archlinux.org/
+Ha bir de mesela *Parrot Linux*'u denemek falan istersen, https://www.onworks.net/ var, direkt Cloud'dan bir şey kurmadan *Linux* çalışmanı sağlıyor. \
+Belki *Arch Linux* kullanmak isteyebilirsin, kurulumu ve kullanımı yeni kullanıcılar için zor olabilir ama pek çok kişinin de gözdesidir kendisi: https://wiki.archlinux.org/
 
 ### Ben kendi laboratuvarımı kurmak istiyorum nasıl yapıcam?
 Şu yayının içinde var bu konu: https://www.twitch.tv/videos/646015971  
-Youtube versiyonu da youtube.com/candeger adresinde var.
+Youtube versiyonu da https://youtube.com/candeger adresinde var.
 
 ### Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?
 Wi-Fi kart adaptör arayanlar, son seferde de söylediğimiz gibi çip seti Google'da aratırlarsa direkt bulabilirler. Basit aslında... "wifi adapters support kali monitoring" diye tarzanca yazsanız bile modeller çıkar, çip setini alın sonra tekrar Google'a örneğin "RTL *12354565* çipsetli kablosuz ağ adaptörü" diye yazsanız Türkiye'deki marka modeller çıkar diye düşünüyorum. Hatta "kali uyumlu wifi kartları" diye aratın, çıkar bir şeyler. Komşuların kablosuz ağlarını rahat bırakın olm :D aslkjlkajsd. Ayıp.
@@ -164,12 +164,12 @@ Bununla ilgili bir yayın yapmıştık, linki şurada:
 https://www.twitch.tv/videos/639357674
 
 ### Kali Linux mu? Parrot mu? 
-Ben Parrot sevip, Kali kullanıyorum. Çünkü, parrot daha stabil ama Kalinin daha cok desteği var. Aynı bu şekilde tamamen tercihine kalmış bir şey.
+Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'nin daha cok desteği var. Aynı bu şekilde tamamen tercihine kalmış bir şey.
 
 ### Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?
-Oncelikle ilk aklimiza gelen OSCP, bunun disinda CISSP de var ama daha cok temel ve "Bilgi Guvenligi" kapsamli.
-Bu iki sertifika da oldukca pahali ve muhtemelen calistigin sirket, ihtiyacina gore sana bu sertifikalari saglayacak.
-O sebeple kendin bunlara kasma, hangi sertifikalar var dersen, sayfanin ust kismindaki su link e bakabilirsin
+Öncelikle ilk aklimiza gelen *OSCP*, bunun dışında CISSP de var ama daha çok temel ve "Bilgi Guvenligi" kapsamlı.
+Bu iki sertifika da oldukça pahalı ve muhtemelen calistigin şirket, ihtiyacına göre sana bu sertifikaları saglayacak.
+O sebeple kendin bunlara kasma, hangi sertifikalar var dersen, sayfanın üst kısmındaki şu linke bakabilirsin
 https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md
 
 ### Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?
@@ -293,7 +293,7 @@ Harvard Üniversitesinin, Bilgisayar Bilimlerine giriş dersi olan CS50'nin 2019
   * Bug hunting methodology https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f
   * Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site: https://www.hacker101.com/ 
   
-  İlk kazandığın paradan bize de görürsün sevgili kardeşim.. ;)
+  İlk kazandığın paradan bizi de görürsün sevgili kardeşim.. ;)
 
 </details>
 
@@ -331,7 +331,7 @@ The Goal: https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B00
 - Sneakers               1992   IMDb 7,1/10      
 - Ghost in the Shell     1995   IMDb 8,0/10            
 - Hackers                1995   IMDb 6,3/10            
-- The Net        	       1995   IMDb 5,9/10            
+- The Net        	     1995   IMDb 5,9/10            
 - Johnny Mnemonic        1995   IMDb 5,2/10            
 - The Matrix             1999   IMDb 8,7/10            
 - Takedown               2000   IMDb 6,3/10         
@@ -470,7 +470,7 @@ https://app.cybrary.it/browse/course/advanced-penetration-testing \
 https://www.virtualhackinglabs.com/ \
 https://tryhackme.com
 
-#### Where to start learning python? 
+#### Where to start learning Python? 
 https://www.codecademy.com/ \
 https://app.cybrary.it/browse/course/python-security-professionals-archive
 
@@ -479,24 +479,24 @@ TCM: Beginner Linux for Ethical Hackers: https://www.youtube.com/playlist?list=P
 http://overthewire.org/wargames/bandit/ \
 https://linuxjourney.com/
 
-#### Where to start with web application security? 
+#### Where to start with Web Application Security? 
 https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project \
 https://owasp.org/www-project-web-security-testing-guide/assets/archive/OWASP_Testing_Guide_v4.pdf \
 https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project \
 https://github.com/ethicalhack3r/DVWA \
 https://www.hacksplaining.com/
 
-#### Where to start with exploitation? 
+#### Where to start with Exploitation? 
 TCM: Buffer Overflows Made Easy: https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G \
 https://www.corelan.be/index.php/articles/
 
-#### How to become bug bounty hunter and get all the monies? 
+#### How to become BugBounty hunter and get all the monies? 
 https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/
 
-#### Internetteki UCUZ veya UCRETSIZ Siber Guvenlik Egitimlerinin Tam Listesi (NIST)
+#### Internetteki UCUZ veya ÜCRETSİZ Siber Güvenlik Eğitimlerinin Tam Listesi (NIST)
 https://www.nist.gov/itl/applied-cybersecurity/nice/resources/online-learning-content
 
-#### Active Directory Pentest nasil yapilir?
+#### Active Directory Pentest nasıl yapılır?
 Domain Recon : https://blog.stealthbits.com/performing-domain-reconnaissance-using-powershell \
 Local Admin Mapping : https://blog.stealthbits.com/local-admin-mapping-bloodhound \
 Extracting Password Hashes : https://blog.stealthbits.com/extracting-password-hashes-from-the-ntds-dit-file/ \
@@ -509,7 +509,7 @@ https://www.hackers-arise.com/networks-basics
 
 <details>
 
-<summary> İşinize yarayabilecek linkler:</summary>
+<summary> İşinize Yarayabilecek Linkler:</summary>
 
 ### Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
