@@ -136,6 +136,8 @@ Bak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watc
 ### Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?  
 Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra İngilizce'nizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi, bu yaz kampları vs. var, birçok firma düzenliyor, bir de özgür yazılım için vs. için de var bazı dernekler yapıyor... Onlara da katılabilirsiniz bayağı faydalılar. 
 
+Türkçe kaynak olarak https://bilgeis.net/tr var, yine ucretsiz olan.
+
 ### Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
 *Kali Linux* indirdin mi? süper! O zaman şuraya gidiyorsun => https://www.hackthebox.eu/ \
 Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin => \
