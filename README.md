@@ -152,6 +152,8 @@ Ayrıca Türkçe içerik istiyorsan da https://priviahub.com var. O da bayağı 
 Ha bir de mesela *Parrot Linux*'u denemek falan istersen, https://www.onworks.net/ var, direkt Cloud'dan bir şey kurmadan *Linux* çalışmanı sağlıyor. \
 Belki *Arch Linux* kullanmak isteyebilirsin, kurulumu ve kullanımı yeni kullanıcılar için zor olabilir ama pek çok kişinin de gözdesidir kendisi: https://wiki.archlinux.org/
 
+Türkçe kaynak olarak https://bilgeis.net/tr var.
+
 ### Ben kendi laboratuvarımı kurmak istiyorum nasıl yapıcam?
 Şu yayının içinde var bu konu: https://www.twitch.tv/videos/646015971  
 Youtube versiyonu da https://youtube.com/candeger adresinde var.
