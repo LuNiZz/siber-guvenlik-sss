@@ -208,7 +208,7 @@ Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geç
 <details>
 
 <b><summary> Web Siteleri</summary></b>
-Web for Pentester tarzı bir site: htps://pentesterlab.com/  
+Web for Pentester tarzı bir site: https://pentesterlab.com  
 Arkadaşınla yarışarak kendinizi geliştirin : http://www.gameofhacks.com/  
 OWASP Juice Shop! adlı buglu bir site hacklemeye çalış:https://juice-shop.herokuapp.com/#/  
 Applicaion Sec. Web sitesi: https://application.security/free-application-security-training \
