@@ -18,7 +18,6 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın g
 - Felixed          : [![Twitch-felixed_](https://img.shields.io/twitch/status/felixed_)](https://twitch.com/felixed_)
 - Bloodmane        : [![Twitch-Bloodmane](https://img.shields.io/twitch/status/bloodmane)](https://www.twitch.tv/bloodmane)
 
-***Bu kaynağı nasıl kullanacağını bilmiyor musun? Nereden başlamalıyım diye düşünmekten hiçbir şeye başlayamıyor musun? İşte bu yayını tam da senin için yaptık! Git bir bak bence >>> https://www.twitch.tv/videos/634645006 ya da hızlandırılmış, daha özet olan Youtube versiyonu için burayı ziyaret edebilirsin >>> https://www.youtube.com/watch?v=qbaBr8rXwaE   
 
 Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoşgeldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
 Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
@@ -79,7 +78,7 @@ Sevgili dostum, Udemy de özellikle sevgili Atıl Samancıoğlu, Ahmet Birkan, E
 Kişisel olarak benim herhangi bir Udemy Türkce içeriğine tavsiye veya öneride bulunmam ne yazık ki mümkün değil, cünkü o eğitimlerin hiçbirini alıp, incelemedim. İncelemeyi de düşünmüyorum. Duyduğum yorumlar genel olarak, Udemy'deki değerlendirme ve yorumlarla aynı şekilde, o sebeple incele oku. Kararını kendin ver.
 Ben özel olarak bir yorum veya tavsiyede bulunanamam.
 
-Dersen ki İngilizce kaynak lazım bana, o zaman az aşağıda "The Cyber Mentor" un ücretli eğitimleri var, zaman zaman Twitter ve LinkedIn'den bunların indirim ve benzeri kodlarını yayınlıyor, gözat istersen.
+Dersen ki İngilizce kaynak lazım bana, o zaman az aşağıda "The Cyber Mentor" un ücretli eğitimleri var, zaman zaman Twitter ve LinkedIn'den bunların indirim ve benzeri kodlarını yayınlıyor, gözat istersen.( TCM yeni adresi : https://academy.tcm-sec.com/ ) /
 
 
 ### Nasıl kendimi hack saldırılarından korurum? 
@@ -119,6 +118,16 @@ Olay sende bitiyor dostum, kendini nasıl geliştirip, katma değer üretirsen o
 
 ### Ben eğitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık her türlü Pentesting, Web App Testing, Siber Güvenlik konularına hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?
 O zaman sevgili kardeşim, kendine bir açık kaynak kodlu proje bul ve ona Pull Request at. Projeyi geliştir, adını duyur, bunları yapman ileride staj ararken ve iş basvurusunda bulunurken senin için cok ama cok fayda sağlayacak. Bunu sakın atlama.
+
+* https://www.reddit.com/r/Hacking_Tutorials/
+* https://www.reddit.com/r/netsec/
+* https://github.com/sbilly/awesome-security
+* https://blog.feedspot.com/cyber_security_rss_feeds/
+* https://feeder.co/discover/security
+* https://packetstormsecurity.com/feeds
+
+haberler ve guncel mevzulara bakmak icin ideal bir iki link de birakayim yeri gelmisken dostum /
+
 
 ### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
 Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
@@ -181,6 +190,9 @@ Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'
 Bu iki sertifika da oldukça pahalı ve muhtemelen calistigin şirket, ihtiyacına göre sana bu sertifikaları saglayacak.
 O sebeple kendin bunlara kasma, hangi sertifikalar var dersen, sayfanın üst kısmındaki şu linke bakabilirsin
 https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md
+
+ayrica guncel versionu icin;
+https://www.reddit.com/r/Hacking_Tutorials/comments/jpnjdq/security_certification_roadmap_v7_updated/ /
 
 ### Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler çok genel hatlarıyla ve hızlıca sektöre girebilmek için hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularını da ancak yayında yanıtlayabilirim. Hepinizi beklerim :). 
