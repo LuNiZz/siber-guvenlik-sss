@@ -101,17 +101,6 @@ https://tryhackme.com/room/dvwa
 https://tryhackme.com/room/jack  
 odalarına bakabilirsin, 
 
-Ayrıca aşağıdakiler de çok iyi...
-
-#### MDISEC (Mehmet D. Ince) Web ve uygulama güvenliği yayınları >>> https://github.com/mdisec/mdisec-twitch-yayinlari
-
-BWAPP ile buglu bir sitede BugBounty alıştırması yapabilirsiniz:
-http://www.itsecgames.com/
-
-### Google nasıl kullanılır?
-Öğrenmek istediğiniz bilgiyi ingilizce bir şekilde yazıyoruz ve aratıyoruz.Karşılaştığımız sorunlar için ise sorunu ingilizce bir biçimde yazıyoruz ve yanına solution,how to,error gibi ifadeler koyuyoruz ve muhtemelen bu sorunla ilk siz karşılaşmadığınız için sorunun cevabını bulacaksınızdır.Errorler ve geri kalan her şey için aynısı geçerlidir.Lütfen discorda sormadan önce iyice araştırma yapınız.
-
-
 ### Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
 
@@ -203,7 +192,6 @@ Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulund
 ---
 
 ### Diğer tüm kaynakları aşağıdaki linklerden bulabilirsin, her birine göz at bence...
-
 <details>
 
 <b><summary> Tüm geçmiş Twitch yayınları </summary>
@@ -219,6 +207,18 @@ Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geç
 ![](images/dersler2.png) 
 
 </details>
+
+Ayrıca aşağıdakiler de çok iyi...
+
+#### MDISEC (Mehmet D. Ince) Web ve uygulama güvenliği yayınları >>> https://github.com/mdisec/mdisec-twitch-yayinlari
+
+BWAPP ile buglu bir sitede BugBounty alıştırması yapabilirsiniz:
+http://www.itsecgames.com/
+
+### Google nasıl kullanılır?
+Öğrenmek istediğiniz bilgiyi ingilizce bir şekilde yazıyoruz ve aratıyoruz.Karşılaştığımız sorunlar için ise sorunu ingilizce bir biçimde yazıyoruz ve yanına solution,how to,error gibi ifadeler koyuyoruz ve muhtemelen bu sorunla ilk siz karşılaşmadığınız için sorunun cevabını bulacaksınızdır.Errorler ve geri kalan her şey için aynısı geçerlidir.Lütfen discorda sormadan önce iyice araştırma yapınız.
+
+
 
 <details>
 
