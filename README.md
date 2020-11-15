@@ -107,7 +107,10 @@ Ayrıca aşağıdakiler de çok iyi...
 
 BWAPP ile buglu bir sitede BugBounty alıştırması yapabilirsiniz:
 http://www.itsecgames.com/
-   
+
+### Google nasıl kullanılır?
+Öğrenmek istediğiniz bilgiyi ingilizce bir şekilde yazıyoruz ve aratıyoruz.Karşılaştığımız sorunlar için ise sorunu ingilizce bir biçimde yazıyoruz ve yanına solution,how to,error gibi ifadeler koyuyoruz ve muhtemelen bu sorunla ilk siz karşılaşmadığınız için sorunun cevabını bulacaksınızdır.Errorler ve geri kalan her şey için aynısı geçerlidir.Lütfen discorda sormadan önce iyice araştırma yapınız.
+
 
 ### Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
