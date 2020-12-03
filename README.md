@@ -227,6 +227,7 @@ https://github.com/bugcrowd/bugcrowd_university
   * Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site: https://www.hacker101.com/ 
   * PortSwigger in Akademisi : https://portswigger.net/web-security
   * BugCrowd Univeristy :  https://www.bugcrowd.com/hackers/bugcrowd-university/
+  * BC University'nin Youtube playlist i var, boylelikle yukaridaki dokumanlari video halinde izleyebilirsin : https://www.youtube.com/watch?v=OVr7pnwJ2m8&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-
   
   İlk kazandığın paradan bizi de görürsün sevgili kardeşim.. ;)
 ### AWESOME serisi diye bir kavram var, Yuzlerce ingilizce kaynak derlenmis...
