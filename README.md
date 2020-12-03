@@ -212,9 +212,28 @@ Ayrıca aşağıdakiler de çok iyi...
 
 #### MDISEC (Mehmet D. Ince) Web ve uygulama güvenliği yayınları >>> https://github.com/mdisec/mdisec-twitch-yayinlari
 
-BWAPP ile buglu bir sitede BugBounty alıştırması yapabilirsiniz:
+#### BWAPP ile buglu bir sitede BugBounty alıştırması yapabilirsiniz:
 http://www.itsecgames.com/
 
+### Ayrica Jhaddix in yayinladigi BugCrowd University nin tum sunum PDF ve Lablarini a$agidaki linkten bulabilirsin...
+https://github.com/bugcrowd/bugcrowd_university
+
+#### Bug Bounty Mevzusu
+  * Bug Bounty konusunda NAHAMSEC'in yayınladığı başlangıç ve gelişim rehberi.. Süper kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters 
+  * Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ 
+  * Hackerone sıralanmış raporlar https://github.com/reddelexc/hackerone-reports
+  * Hackerone kurucusu nasıl başlamalıyız sorusuna cevap veriyor: https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma
+  * Bug hunting methodology https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f
+  * Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site: https://www.hacker101.com/ 
+  * PortSwigger in Akademisi : https://portswigger.net/web-security
+  * BugCrowd Univeristy :  https://www.bugcrowd.com/hackers/bugcrowd-university/
+  
+  İlk kazandığın paradan bizi de görürsün sevgili kardeşim.. ;)
+### AWESOME serisi diye bir kavram var, Yuzlerce ingilizce kaynak derlenmis...
+  - Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme
+  - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme
+  - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readm
+  
 ### Google nasıl kullanılır?
 Öğrenmek istediğiniz bilgiyi ingilizce bir şekilde yazıyoruz ve aratıyoruz.Karşılaştığımız sorunlar için ise sorunu ingilizce bir biçimde yazıyoruz ve yanına solution,how to,error gibi ifadeler koyuyoruz ve muhtemelen bu sorunla ilk siz karşılaşmadığınız için sorunun cevabını bulacaksınızdır.Errorler ve geri kalan her şey için aynısı geçerlidir.Lütfen discorda sormadan önce iyice araştırma yapınız.
 
@@ -311,16 +330,7 @@ Harvard Üniversitesinin, Bilgisayar Bilimlerine giriş dersi olan CS50'nin 2019
   - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme
   - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme
 
-  #### Bug Bounty Mevzusu
-  * Bug Bounty konusunda NAHAMSEC'in yayınladığı başlangıç ve gelişim rehberi.. Süper kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters 
-  * Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/ 
-  * Bug bounty'e yeni başlıyorsan ve bilgisayar bilgin temelden öte değilse buna bir bak: https://medium.com/
-  * Hackerone sıralanmış raporlar https://github.com/reddelexc/hackerone-reports
-  * Hackerone kurucusu nasıl başlamalıyız sorusuna cevap veriyor: https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma
-  * Bug hunting methodology https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f
-  * Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site: https://www.hacker101.com/ 
-  
-  İlk kazandığın paradan bizi de görürsün sevgili kardeşim.. ;)
+
 
 </details>
 
