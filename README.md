@@ -145,6 +145,16 @@ Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli 
 
 Türkçe kaynak olarak https://bilgeis.net/tr var, yine ucretsiz olan.
 
+### Peki abi, ben LINUX u adam gibi sifirdan ogrenmek istiyorum, sadece alet edevat degil, isletim sistemini bilmek istiyorum ne yapacagim?
+Simdi sevgili kardesim, bu sayfanin bir cok yerinde bulunanan siber guvenlik egitim linklerinin icinde, temel linux egitimleri var. Ancak sen dersen ki, bana sadece o kisim lazim... o zaman asagidaki ucretsiz siteye bir bak, sadece linux degil, ayni zamanda Docker, Kubernetes vs gibi egitimlerde var (Kubernetes geliyor yoldaymis).
+https://egitim.acikkaynakfikirler.com/linux101-landing/
+
+### Bir cok egitimin icinde anlatiliyor ama sadece Networking ogrenmek icin hangi egitime bakmaliyim?
+Bunun icin hedefin CCNA egitimleri olmali, ancak orada da temel router switch konfigurasyonlari isin icine giriyor. Udemy de cok guzel CCNA egitimleri var, Turkceleri de var.
+Ancak dersen ki bu isin boyle hap gibi cok hizli bir sekilde mantigini anlayayim, en azindan internet nasil calisiyor ona bakayim... O zaman...
+
+https://gelecegiyazanlar.turkcell.com.tr/konu/temel-network
+
 ### Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
 *Kali Linux* indirdin mi? süper! O zaman şuraya gidiyorsun => https://www.hackthebox.eu/ \
 Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin => \
