@@ -65,7 +65,11 @@ Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış 
 ###  Algoritmayı ve kod yazmayı ücretsiz nasıl öğreniriz?
 Algoritma mantığını öğrenmek için https://www.hackerrank.com/ biçilmiş bir kaftan. Gene kod yazmanın mantığını anlamak için https://edabit.com/ önerebileceğim bir site. Algoritmaya yönelik gene https://www.codewars.com/ var. Ve sıfırdan başlamak için https://www.freecodecamp.org/. Eger üniversiteye gidiyorsanız Github Education Pack ücretsiz olarak alabilir ve birçok ürün ve eğitime bedava erişebilirsiniz(domain, hosting dahil) https://education.github.com/pack .
 
-###
+### Peki, Yeni yazilimciya onerilerin neler? Ne yapmak lazim?
+Internette buldugum bir topluluk var, bu konuya harika yanit vermis..
+bir goz at... paha bicilemez tavsiyeler ile suslu...
+
+https://www.birlikteihracat.com/yeni-yazilimciya-oneriler/
 
 
 ### Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
