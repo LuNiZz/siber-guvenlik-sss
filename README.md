@@ -159,6 +159,8 @@ Ancak dersen ki bu isin boyle hap gibi cok hizli bir sekilde mantigini anlayayim
 
 https://gelecegiyazanlar.turkcell.com.tr/konu/temel-network
 
+ayrica youtube da da bununla ilgili guzel bir playlist buldum : https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8
+
 ### Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
 *Kali Linux* indirdin mi? süper! O zaman şuraya gidiyorsun => https://www.hackthebox.eu/ \
 Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin => \
@@ -223,6 +225,12 @@ Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geç
 </details>
 
 Ayrıca aşağıdakiler de çok iyi...
+
+### Eger Ingilizceniz varsa, STANFORD universitesinin Web Guvenligi egitimini siddetle tavsiye ediyorum : 
+
+https://web.stanford.edu/class/cs253/
+Ozellikle bug bounty'e giris icin mukemmel.
+
 
 #### MDISEC (Mehmet D. Ince) Web ve uygulama güvenliği yayınları >>> https://github.com/mdisec/mdisec-twitch-yayinlari
 
