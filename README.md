@@ -13,7 +13,7 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın g
 - Instagram: https://instagram.com/candeger
 
  ***Team luNiZzers Uyeleri*** https://www.twitch.tv/team/lunizzers
-- Sharky           : [![Twitch-astrofotografi](https://img.shields.io/twitch/status/astrofotografi)](https://twitch.com/astrofotografi)
+> - Sharky           : [![Twitch-astrofotografi](https://img.shields.io/twitch/status/astrofotografi)](https://twitch.com/astrofotografi)
 - Nirrein          : [![Twitch-nirrein](https://img.shields.io/twitch/status/nirrein)](https://twitch.com/nirrein)
 - Felixed          : [![Twitch-felixed_](https://img.shields.io/twitch/status/felixed_)](https://twitch.com/felixed_)
 - Bloodmane        : [![Twitch-Bloodmane](https://img.shields.io/twitch/status/bloodmane)](https://www.twitch.tv/bloodmane)
