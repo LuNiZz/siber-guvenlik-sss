@@ -30,16 +30,16 @@ eksikleri tamamladik... simdi bunu sabitleyelim..
 exit diyip cikiyoruz container dan  
 `sudo docker ps -a`    
 sudo docker container ls bu komutla container ID yi gorebilirsin conem.  
-`sudo docker commit <CONTAINER ID> LuNiZz-KALI`    
+`sudo docker commit <CONTAINER ID> <container ADI>`    
 
 sabitlendi artik  
 calistirmak icin sabit volumelarla birlikte   
-`sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI`    
+`sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql <container ADI>`    
 
 bu kadar, bu ustteki satiri alip asagidaki gibi bir bash scriptine koyabilirsiniz    
 sonra chmod +x scriptinizinadi.sh yaparsaniz, direkt scripti ./ seklinde calistirdiginizda sizi KALI promptuna atacak.  
 `#! /bin/bash`    
-`sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI`   
+`sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql <container ADI>`   
 
 
 kurulum sonrasi docker i daha kolay kullanmak her acilista calisssin saglamak falan istiyorsan suraya bak : https://docs.docker.com/engine/install/linux-postinstall/  
