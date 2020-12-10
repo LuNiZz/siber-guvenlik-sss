@@ -42,4 +42,4 @@ sonra chmod +x scriptinizinadi.sh yaparsaniz, direkt scripti ./ seklinde calisti
 `sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI`   
 
 
-kurulum sonrasi docker i daha kolay kullanmak her acilista calisssin saglamak falan istiyorsan suraya bak : https://dos.docker.com/engine/install/linux-postinstall/  
+kurulum sonrasi docker i daha kolay kullanmak her acilista calisssin saglamak falan istiyorsan suraya bak : https://docs.docker.com/engine/install/linux-postinstall/  
