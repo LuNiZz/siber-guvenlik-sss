@@ -191,7 +191,13 @@ Bununla ilgili bir yayın yapmıştık, linki şurada:
 https://www.twitch.tv/videos/639357674
 
 ### Kali Linux mu? Parrot mu? 
-Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'nin daha cok desteği var. Aynı bu şekilde tamamen tercihine kalmış bir şey.
+Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'nin daha cok desteği var. Aynı bu şekilde tamamen tercihine kalmış bir şey.    
+Yada gundelik kullanim icin kurarsin bir Ubuntu/Mint, cok istiyorsan *katoolin* ile Kali toollarini icine kurarsin,  
+Yada gidersin, ihtiyacin kadar olan toollari snapden vs kendin derler kurarsin...   
+Hic biri olmaz dersen, gider kali yi Docker olarak kurarsin, hem Ubuntu/Mint falan patlamaz boylece... https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md     
+
+Illa Arch kurcam dersen, mesela gidip Manjaro kurup, blackarch repolarini ekleyip, butun toollari ordan kurabilirsin... ama cokerse karismam :)    
+    
 
 ### Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?
 Öncelikle ilk aklimiza gelen *OSCP*, bunun dışında CISSP de var ama daha çok temel ve "Bilgi Guvenligi" kapsamlı.
