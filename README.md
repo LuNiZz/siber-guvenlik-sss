@@ -13,10 +13,10 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın g
 - Instagram: https://instagram.com/candeger
 
  ***Team luNiZzers Uyeleri*** https://www.twitch.tv/team/lunizzers
-> - Sharky           : [![Twitch-astrofotografi](https://img.shields.io/twitch/status/astrofotografi)](https://twitch.com/astrofotografi)
-- Nirrein          : [![Twitch-nirrein](https://img.shields.io/twitch/status/nirrein)](https://twitch.com/nirrein)
-- Felixed          : [![Twitch-felixed_](https://img.shields.io/twitch/status/felixed_)](https://twitch.com/felixed_)
-- Bloodmane        : [![Twitch-Bloodmane](https://img.shields.io/twitch/status/bloodmane)](https://www.twitch.tv/bloodmane)
+> Sharky           : [![Twitch-astrofotografi](https://img.shields.io/twitch/status/astrofotografi)](https://twitch.com/astrofotografi)
+> Nirrein          : [![Twitch-nirrein](https://img.shields.io/twitch/status/nirrein)](https://twitch.com/nirrein)
+> Felixed          : [![Twitch-felixed_](https://img.shields.io/twitch/status/felixed_)](https://twitch.com/felixed_)
+> Bloodmane        : [![Twitch-Bloodmane](https://img.shields.io/twitch/status/bloodmane)](https://www.twitch.tv/bloodmane)
 
 
 Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoşgeldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
@@ -48,10 +48,10 @@ Bunlar için eskiden dizüstü bilgisayarların dezavantajları vardı ancak bug
 
 Bu noktada kişisel tercihler ön plana çıkıyor;
 bence bir bilgisayarın;
-1) hafif olmalı, gittiğin her yere rahatlıkla götürebilmelisin, bu noktada laptop daha avantajlı, mesela Starbucks'da otururken de makale okuyabilirsin ;)
-2) işlemcin en az i5 seviyesinde ve maksimum 2 jenerasyon eski olmalı, şu an itibariyle konuşursak (10. gen en yenisi) 8 olmalı...
-3) RAM en önemli bileşenin, en az 8 GB RAMin olmalı, sanal makina 1 tane çalıştırabilirsin adam gibi bu durumda, o yüzden 16 GB olursa çok daha rahat olur. En azından "victim" makine de çalıştırabilirsin.
-4) HDD kesinlikle SSD olmalı, bu desktop ile laptop in en büyük fark idi eskiden, çünkü ssd oncesinde laptop diskleri 6000 kusur RPM'di çok yavaştı adamı sinir ediyordu, ama bugün laptoplarda SSD kullandığı için süper oldular... Sende o yüzden SSD tercih etmelisin...
+> 1) hafif olmalı, gittiğin her yere rahatlıkla götürebilmelisin, bu noktada laptop daha avantajlı, mesela Starbucks'da otururken de makale okuyabilirsin ;)
+> 2) işlemcin en az i5 seviyesinde ve maksimum 2 jenerasyon eski olmalı, şu an itibariyle konuşursak (10. gen en yenisi) 8 olmalı...
+> 3) RAM en önemli bileşenin, en az 8 GB RAMin olmalı, sanal makina 1 tane çalıştırabilirsin adam gibi bu durumda, o yüzden 16 GB olursa çok daha rahat olur. En azından "victim" > makine de çalıştırabilirsin.
+> 4) HDD kesinlikle SSD olmalı, bu desktop ile laptop in en büyük fark idi eskiden, çünkü ssd oncesinde laptop diskleri 6000 kusur RPM'di çok yavaştı adamı sinir ediyordu, ama >bugün laptoplarda SSD kullandığı için süper oldular... Sende o yüzden SSD tercih etmelisin...
 
 bunlarin dışında, e insanız birazda oyun oynayacaz dersen, hani paylaşımsız herhangi bir ekran karti bayağı bir işini görür. Eskiden şifre kırmak için falan GPU kullanıyorduk da şimdi o işler için web siteleri var onları kullanıyoruz ;) pek lokal de yapmıyoruz o işleri... O yuzden çok önemli değil...
 
