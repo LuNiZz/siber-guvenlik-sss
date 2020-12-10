@@ -7,22 +7,22 @@ en son surum kaliyi cekiyor ama cucuk kadar bu
 bash shell ile container i aciyor bize cicek gibin  
 `sudo docker run -ti kalilinux/kali-rolling /bin/bash `
 
-`apt update  
-apt dist-upgrade   
-apt autoremove    
-apt clear`   
+`apt update`  
+`apt dist-upgrade`   
+`apt autoremove`    
+`apt clear`   
    
 ev temizligini yaptiktan sonra  
 sirada   
 `apt install kali-linux-default `  
 bu butun default toollari yukluyor, masallah 6 GB yukleniyor burda..  
 kucuk bi halini yuklemek istersen ahanda bole yap..    
-`apt install nmap wpscan netcat dirb nikto binwalk git arp-scan dns-utils      
-apt install metasploit-framework`      
+`apt install nmap wpscan netcat dirb nikto binwalk git arp-scan dns-utils`      
+`apt install metasploit-framework`      
   
 ifconfig falan calismiyacaktir ping vs onlari bi ekleyelim  
-`apt install net-tools     
-apt install iputils-ping`    
+`apt install net-tools`     
+`apt install iputils-ping`    
 
 eksikleri tamamladik... simdi bunu sabitleyelim..  
   
@@ -38,8 +38,8 @@ calistirmak icin sabit volumelarla birlikte
 
 bu kadar, bu ustteki satiri alip asagidaki gibi bir bash scriptine koyabilirsiniz    
 sonra chmod +x scriptinizinadi.sh yaparsaniz, direkt scripti ./ seklinde calistirdiginizda sizi KALI promptuna atacak.  
-`#! /bin/bash    
-sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI`   
+`#! /bin/bash`    
+`sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI`   
 
 
 kurulum sonrasi docker i daha kolay kullanmak her acilista calisssin saglamak falan istiyorsan suraya bak : https://dos.docker.com/engine/install/linux-postinstall/  
