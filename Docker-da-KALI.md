@@ -14,11 +14,11 @@ apt clear`
 
 ev temizligini yaptiktan sonra  
 sirada   
-`apt install kali-linux-default `
+`apt install kali-linux-default `  
 bu butun default toollari yukluyor, masallah 6 GB yukleniyor burda..  
-kucuk bi halini yuklemek istersen ahanda bole yap.. # isaretlerini sil tabi ;)  
-apt install nmap wpscan netcat dirb nikto binwalk git arp-scan dns-utils  
-apt install metasploit-framework  
+kucuk bi halini yuklemek istersen ahanda bole yap.. 
+`apt install nmap wpscan netcat dirb nikto binwalk git arp-scan dns-utils  
+apt install metasploit-framework`  
   
 ifconfig falan calismiyacaktir ping vs onlari bi ekleyelim  
 `apt install net-tools
