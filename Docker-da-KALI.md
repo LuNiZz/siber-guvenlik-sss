@@ -18,7 +18,10 @@ sirada
 bu butun default toollari yukluyor, masallah 6 GB yukleniyor burda..  
 kucuk bi halini yuklemek istersen ahanda bole yap..    
 `apt install nmap wpscan netcat dirb nikto binwalk git arp-scan dnsutils`      
-`apt install metasploit-framework`      
+`apt install metasploit-framework`     
+
+veya tum meta paketlerini asagida bulabilirsin, zevkine gore bak yukle...
+https://www.kali.org/docs/general-use/metapackages/
   
 ifconfig falan calismiyacaktir ping vs onlari bi ekleyelim  
 `apt install net-tools`     
