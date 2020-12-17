@@ -1,5 +1,56 @@
-once docker.io yukluyosunuz snapten.. yada git get.docker.com dan falan yukle bir yerden...  
-sonra..  
+### Docker ile Kali Linux Kurulumu
+Bu sayfada sanal bilgisayara veya gerçek bilgisayara Kali Linux kurmadan Docker yardımı ile nasıl Kali Linux kullanabileceğimizi göreceğiz.
+
+---
+#### Docker Kurulumu
+Ubuntu ve Ubuntu'dan türemiş dağıtımlar için (Kubuntu, Lubuntu, Kali, Mint, vs.) aşağıdaki adımlarla Docker kurulumunu yapabilirsiniz.
+
+Docker kurulumuna başlamadan önce sistem güncelleştirilmeli ve gerekli yardımcı programlar yüklenmeli. Bunun için aşağıdaki komutları yazmamız gerekiyor.
+
+    sudo apt-get update
+    sudo apt-get -y install apt-transport-https ca-certificates curl software-properties-common
+
+Güncellemenin ardından asıl ihtiyacımız olan Docker kurulumuna geçiyoruz. İlk olarak Docker GPG key sisteme eklenmeli.
+
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
+
+Ardından Docker repository sisteme eklenmeli. Bu komutla `additional-repositories.list` dosyamıza gerekli repo'yu eklemiş oluyoruz.
+
+    sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo "$UBUNTU_CODENAME") stable"
+
+Kontrol etmek için aşağıdaki komutu kullanabilirsiniz.
+
+    cat /etc/apt/sources.list.d/additional-repositories.list
+
+> Daha önce ekledğiniz başka repo'lar varsa çıktısı sizde farklı olabilir. Siz sadece aşağıdaki satırın var olup olmadığını kontrol edebilirsiniz. Yine `bionic` kısmı sizde `focal` veya başka bir şey olabilir. Tamamen kullandığınız dağıtım ile ilgili.
+
+    deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable
+
+Gerekli repo eklendikten sonra bir kez daha güncelleme yapmamız gerekiyor.
+
+    sudo apt-get update
+
+Artık gerçek Docker kuruşumunu gerçekleştiriyoruz.
+
+    sudo apt-get -y  install docker-ce docker-compose
+
+Son olarak mevcut kullanıcımızı `docker` grubuna eklememiz gerekiyor.
+
+    sudo usermod -aG docker $USER
+
+Bu aşamaya kadar sorunsuz geldiyseniz son bir kez test edelim.
+
+    docker run --rm -it  --name test alpine:latest /bin/sh
+
+Terminal ekranınızda aşağıdaki gibi bir görüntü varsa kurlum işlemi başarıyla tamamlanmış demektir.
+
+    / # 
+
+Artık `exit` yazarak çıkıp Kali Linux adımlarına geçebilirsiniz.
+
+---
+
+#### Docker Yardımıyla Kali Linux Kurulumu
 
 en son surum kaliyi cekiyor ama cucuk kadar bu  
 `sudo docker pull kalilinux/kali-rolling `
