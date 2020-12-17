@@ -1,48 +1,116 @@
-once docker.io yukluyosunuz snapten.. yada git get.docker.com dan falan yukle bir yerden...  
-sonra..  
+### Docker ile Kali Linux Kurulumu
+Bu sayfada sanal bilgisayara veya gerçek bilgisayara Kali Linux kurmadan Docker yardımı ile nasıl Kali Linux kullanabileceğimizi göreceğiz.
 
-en son surum kaliyi cekiyor ama cucuk kadar bu  
-`sudo docker pull kalilinux/kali-rolling `
+---
+#### Docker Kurulumu
+Ubuntu ve Ubuntu'dan türemiş dağıtımlar için (Kubuntu, Lubuntu, Kali, Mint, vs.) aşağıdaki adımlarla Docker kurulumunu yapabilirsiniz.
 
-bash shell ile container i aciyor bize cicek gibin  
-`sudo docker run -ti kalilinux/kali-rolling /bin/bash `
+Docker kurulumuna başlamadan önce sistem güncelleştirilmeli ve gerekli yardımcı programlar yüklenmeli. Bunun için aşağıdaki komutları yazmamız gerekiyor.
 
-`apt update`  
-`apt dist-upgrade`   
-`apt autoremove`    
-`apt clear`   
-   
-ev temizligini yaptiktan sonra  
-sirada   
-`apt install kali-linux-default `  
-bu butun default toollari yukluyor, masallah 6 GB yukleniyor burda..  
-kucuk bi halini yuklemek istersen ahanda bole yap..    
-`apt install nmap wpscan netcat dirb nikto binwalk git arp-scan dnsutils`      
-`apt install metasploit-framework`     
+    sudo apt-get update
+    sudo apt-get -y install apt-transport-https ca-certificates curl software-properties-common
 
-veya tum meta paketlerini asagida bulabilirsin, zevkine gore bak yukle...     
-https://www.kali.org/docs/general-use/metapackages/
-  
-ifconfig falan calismiyacaktir ping vs onlari bi ekleyelim  
-`apt install net-tools`     
-`apt install iputils-ping`    
+Güncellemenin ardından asıl ihtiyacımız olan Docker kurulumuna geçiyoruz. İlk olarak Docker GPG key sisteme eklenmeli.
 
-eksikleri tamamladik... simdi bunu sabitleyelim..  
-  
-  
-exit diyip cikiyoruz container dan  
-`sudo docker ps -a`    
-sudo docker container ls bu komutla container ID yi gorebilirsin conem.  
-`sudo docker commit <CONTAINER ID> <container ADI>`    
+    curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo apt-key add -
 
-sabitlendi artik  
-calistirmak icin sabit volumelarla birlikte   
-`sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql <container ADI>`    
+Ardından Docker repository sisteme eklenmeli. Bu komutla `additional-repositories.list` dosyamıza gerekli repo'yu eklemiş oluyoruz.
 
-bu kadar, bu ustteki satiri alip asagidaki gibi bir bash scriptine koyabilirsiniz    
-sonra chmod +x scriptinizinadi.sh yaparsaniz, direkt scripti ./ seklinde calistirdiginizda sizi KALI promptuna atacak.  
-`#! /bin/bash`    
-`sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql <container ADI>`   
+    sudo add-apt-repository "deb [arch=amd64] https://download.docker.com/linux/ubuntu $(. /etc/os-release; echo "$UBUNTU_CODENAME") stable"
 
+Kontrol etmek için aşağıdaki komutu kullanabilirsiniz.
 
-kurulum sonrasi docker i daha kolay kullanmak her acilista calisssin saglamak falan istiyorsan suraya bak : https://docs.docker.com/engine/install/linux-postinstall/  
+    cat /etc/apt/sources.list.d/additional-repositories.list
+
+> Daha önce ekledğiniz başka repo'lar varsa çıktısı sizde farklı olabilir. Siz sadece aşağıdaki satırın var olup olmadığını kontrol edebilirsiniz. Yine `bionic` kısmı sizde `focal` veya başka bir şey olabilir. Tamamen kullandığınız dağıtım ile ilgili.
+
+    deb [arch=amd64] https://download.docker.com/linux/ubuntu bionic stable
+
+Gerekli repo eklendikten sonra bir kez daha güncelleme yapmamız gerekiyor.
+
+    sudo apt-get update
+
+Artık gerçek Docker kuruşumunu gerçekleştiriyoruz.
+
+    sudo apt-get -y  install docker-ce docker-compose
+
+Son olarak mevcut kullanıcımızı `docker` grubuna eklememiz gerekiyor.
+
+    sudo usermod -aG docker $USER
+
+Bu aşamaya kadar sorunsuz geldiyseniz son bir kez test edelim.
+
+    docker run --rm -it  --name test alpine:latest /bin/sh
+
+Terminal ekranınızda aşağıdaki gibi bir görüntü varsa kurlum işlemi başarıyla tamamlanmış demektir.
+
+    / # 
+
+Artık `exit` yazarak çıkıp Kali Linux adımlarına geçebilirsiniz.
+
+---
+
+#### Docker Yardımıyla Kali Linux Kurulumu
+
+İlk olarak gerekli image dosyasını kendi bilgisayarımıza çekmemiz gerekiyor.
+
+    sudo docker pull kalilinux/kali-rolling
+
+Ardından image dosyasından bir container üreterek açıyoruz.
+
+    sudo docker run -ti kalilinux/kali-rolling /bin/bash
+
+Karşımızda Kali'nin console ekranı gelmiş olması gerekiyor.
+
+    ┌──(root💀a259e0cba864)-[/]
+    └─#
+
+Artık terminale ulaştığımıza göre bir temizlik yapabiliriz.
+
+    apt update
+    apt dist-upgrade
+    apt autoremove
+    apt clear
+
+Ev temizliğini yaptıktan sonra Kali'nin araçlarını kurmaya geçebiliriz.
+
+    apt install kali-linux-default
+
+Bu komut ile standart araçlar yükleniyor. Son kurulumda yaklaşık ~8 GB yükleme yaptı. Sabırla beklemeniz gerekiyor. Kurulum sırasında bazı araçlar için size soru soracaktır. Okuyup gerekli cevabı vermezseniz kurulum tamamlanmadan sizi beklemeye devam edecektir. Sonra bu çalışmıyor demeyin :)
+
+Eğer daha küçük bir halini yüklemek isterseniz bu şekilde parça parça kurulum yapabilirsiniz.
+
+    apt install nmap wpscan netcat dirb nikto binwalk git arp-scan dns-utils
+    apt install metasploit-framework
+
+`ifconfig`, `ping` ve diğer birkaç araç sistemde olmadığı için çalışmayacaktır. Eksiklerimizi tamamlayalım..
+
+    apt install net-tools
+    apt install iputils-ping
+
+Eksiklerimizi tamamladik. Şimdi bunu sabitleyelim.
+
+Docker'dan `exit` komutuyla çıkıp kendi terminalimize dönelim. Ardından aşağıdaki komutla son çalışan container id değerini öğrenelim.
+
+    sudo docker ps -a
+
+Son olarak aşağıdaki komut ile kalıcı hale getirelim.
+
+    sudo docker commit <CONTAINER ID> LuNiZz-KALI
+
+İstediğimiz zaman sabit volume'larla birlikte tekrar çalıştırmak için aşağıdaki komutu kullanabiliriz.
+
+    sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI
+
+Tüm işlemler bu kadar. Artık elimizde ne sanal ne gerçek bir Kali'min var. Docker yardımıyla sistem özelliklerini sömürmeden çalışabilen Kali'mizi kendi ellerimizle hazırlamış olduk.
+
+Sürekli komut yazmaktan kurtulup işi biraz daha kolaylaştırmak için üstteki satırı alıp aşağıdaki gibi bir bash scriptine koyabilirsiniz.
+
+Ardından `chmod +x scriptinizinadi.sh` yaparsanız direkt scripti `./scriptinizinadi.sh` şeklinde çalıştırdığınızda sizi KALI komut satırı karşılayacak.
+
+    #! /bin/bash
+    sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI
+
+Kurulum sonrası Docker'ı daha kolay kullanmak ve her açılışta çalışmasını sağlamak için şu adrese bakabilirsiniz.
+
+https://docs.docker.com/engine/install/linux-postinstall/
