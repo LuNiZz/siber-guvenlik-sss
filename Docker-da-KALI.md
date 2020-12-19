@@ -30,7 +30,7 @@ Gerekli repo eklendikten sonra bir kez daha güncelleme yapmamız gerekiyor.
 
     sudo apt-get update
 
-Artık gerçek Docker kuruşumunu gerçekleştiriyoruz.
+Artık gerçek Docker kurulumunu gerçekleştiriyoruz.
 
     sudo apt-get -y  install docker-ce docker-compose
 
