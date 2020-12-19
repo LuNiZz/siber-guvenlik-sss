@@ -111,6 +111,37 @@ Ardından `chmod +x scriptinizinadi.sh` yaparsanız ve scripti `./scriptinizinad
     #! /bin/bash
     sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI
 
+"Yok ben bununla da uğraşamam, her defasında bir de bu scriptin olduğu klasöre mi gitmem gerekiyor" diyorsanız Linux'un bir diğer nimeti olan `alias`'ları kullanabilirsiniz.
+
+    alias LuNiZz-KALI="sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI"
+
+Bu komutla hızlıca alias tanımlayabilirsiniz ama terminali kapattığınızda bir daha kullanamazsınız. Kalıcı hale getirmek için mevcut shell'inizin config dosyasında güncelleme yapmanız gerekiyor.
+
+- Bash – `~/.bashrc`
+- ZSH – `~/.zshrc`
+- Fish – `~/.config/fish/config.fish`
+  
+Sisteminizde yüklü herhangi bir editörle Bash, ZSH, Fish veya kullandığınız başka özel shell varsa onun shel dosyasını açın. Örneğin;
+
+    sudo xed ~/.bashrc
+    sudo nano ~/.bashrc
+    sudo vim ~/.bashrc
+    sudo vi ~/.bashrc
+    sudo gedit ~/.bashrc
+
+Ardından hatırlaması kolay olması için dosyanın en altına aşağıdaki satırı ekleyin.
+
+    # Sonradan Eklediğim Alias Tanımlamalarım
+    alias LuNiZz-KALI="sudo docker run -ti --rm --mount src=kali-root,dst=/root --mount src=kali-postgres,dst=/var/lib/postgresql LuNiZz-KALI"
+
+Kaydedip çıktıktan sonra yine kullandığınız shell'e uygun şekilde güncellediğimiz config dosyasının shell tarafından okunmasını sağlamalıyız.
+
+    source ~/.bashrc
+    source ~/.zshrc
+    source ~/.config/fish/config.fish`
+
+Komutları yazdığınız termianl'den başka eğer varsa açık tüm terminal'leri kapatıp tekrar açarsanız artık tek komutla hızlıca Kali'ye geçebileceksiniz. UUnutmayın! Kapatıp tekrar açmadığınız sekmelerde ve pencerelerde komut çalışmayacaktır.
+
 Kurulum sonrası Docker'ı daha kolay kullanmak ve her açılışta çalışmasını sağlamak için şu adrese bakabilirsiniz.
 
 https://docs.docker.com/engine/install/linux-postinstall/
