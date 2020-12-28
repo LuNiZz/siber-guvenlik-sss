@@ -37,7 +37,7 @@ Aramıza hoş geldin ve görüşürüz!
 ---
 
 ### devam etmeden once, soyle bir twit bilgiseli var... bir bak istersen...
-https://threadreaderapp.com/thread/1343553657523085313.html
+https://threadreaderapp.com/thread/1343553657523085313.html    \
 https://twitter.com/CanDeger/status/1343553657523085313
 
 ### Nereden başlamalıyım?
