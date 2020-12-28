@@ -36,6 +36,10 @@ Aramıza hoş geldin ve görüşürüz!
 -LuNiZz    
 ---
 
+### devam etmeden once, soyle bir twit bilgiseli var... bir bak istersen...
+https://threadreaderapp.com/thread/1343553657523085313.html
+https://twitter.com/CanDeger/status/1343553657523085313
+
 ### Nereden başlamalıyım?
 İşte tam bununla ilgili bir yayın yaptık biz :) https://www.twitch.tv/videos/634645006 ama şu anda bulunduğun site, yukarıdaki linkler, aşağıdaki metinler zaten nasıl ilerleyeceğini sana anlatmak için var. 
 
