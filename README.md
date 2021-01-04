@@ -346,6 +346,9 @@ https://www.youtube.com/watch?v=PD8r9ISYgQo << Web geliştirme ve birçok progra
 #### Diğer
 Harvard Üniversitesinin, Bilgisayar Bilimlerine giriş dersi olan CS50'nin 2019'daki derslerinin tamamen türkçeleştirilmiş hali: https://www.kodluyoruz.org/cs50
 
+Ayrica topluluktan Furkan Tasdemir'in soyle bir egitim notlari kitabi var; https://github.com/FurkanTsdmr/ETIK-HACKER/blob/main/K%C4%B0TAP.md    
+
+
 </details>
 
 <details>
