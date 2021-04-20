@@ -358,6 +358,7 @@ Ayrica topluluktan Furkan Tasdemir'in soyle bir egitim notlari kitabi var; https
 * https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ 
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
 * https://www.guru99.com/ 
+* https://github.com/iamrajivd/pentest
 * https://www.tutorialspoint.com/penetration_testing/index.htm 
 * Linux Dersleri: https://linux-dersleri.github.io/ 
 * Birçok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses 
