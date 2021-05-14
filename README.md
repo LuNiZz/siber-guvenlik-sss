@@ -12,15 +12,7 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın g
 - Youtube: https://youtube.com/candeger
 - Instagram: https://instagram.com/candeger
 
- 
-| ***Team luNiZzers Uyeleri*** | https://www.twitch.tv/team/lunizzers |
-|-|-| 
-|Sharky | [![Twitch-astrofotografi](https://img.shields.io/twitch/status/astrofotografi)](https://twitch.com/astrofotografi)|
-|Nirrein | [![Twitch-nirrein](https://img.shields.io/twitch/status/nirrein)](https://twitch.com/nirrein)|
-|Felixed | [![Twitch-felixed_](https://img.shields.io/twitch/status/felixed_)](https://twitch.com/felixed_)|
-|Bloodmane | [![Twitch-Bloodmane](https://img.shields.io/twitch/status/bloodmane)](https://www.twitch.tv/bloodmane)|
-
-Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoşgeldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
+ Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoşgeldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
 Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
 
 Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm, onun altında kapalı menüler halinde birçok kaynak var, her birine bir göz at.
