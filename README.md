@@ -312,6 +312,7 @@ https://www.udemy.com/course/windows-privilege-escalation-for-beginners/ \
 https://www.udemy.com/course/practical-ethical-hacking/ \
 https://www.udemy.com/course/learn-ethical-hacking-from-scratch/ \
 https://www.udemy.com/course/learn-website-hacking-penetration-testing-from-scratch/
+https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/learn/lecture/13204804?start=15#overview
 
 ### Ücretsiz Kurslar
 #### Udemy 
@@ -349,17 +350,14 @@ Ayrica topluluktan Furkan Tasdemir'in soyle bir egitim notlari kitabi var; https
 
 * https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ 
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
-* https://www.guru99.com/ 
+* https://www.guru99.com/
+* https://www.reddit.com/r/Hacking_Tutorials/
 * https://github.com/iamrajivd/pentest
 * https://www.tutorialspoint.com/penetration_testing/index.htm 
 * Linux Dersleri: https://linux-dersleri.github.io/ 
 * Birçok farklı alanda 1500 ücretsiz kurs: http://www.openculture.com/freeonlinecourses 
 * Cloud Sec: https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification/ 
-* AWESOME serisi, tüm IT konularında internette bulabileceğiniz en büyük kaynaklardan biri. https://github.com/LuNiZz/awesome
-  - Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme
-  - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme
-  - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme
-
+* https://read.arkakapimag.com
 
 
 </details>
@@ -511,16 +509,20 @@ https://twitter.com/FatihEgbatan \
 https://twitter.com/mdisec \
 https://twitter.com/EmreTinaztepe \
 https://twitter.com/sametsahinnet \
-https://twitter.com/evrnyalcin
+https://twitter.com/evrnyalcin \
+https://twitter.com/thecybermentor \
+https://twitter.com/0xTib3rius \
+https://twitter.com/joehelle
 
 </details>
  
 <details>
 
 <summary> Cheat Sheet'ler</summary>
-Metasploit:https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf \
-Nmap:https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf \
-XSS:https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf 
+- Metasploit:https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf
+- Nmap:https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf
+- XSS:https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf
+- SQL Injection:https://portswigger.net/web-security/sql-injection/cheat-sheet
 
 </details>
 
@@ -640,4 +642,18 @@ https://www.hackers-arise.com/networks-basics
 ### Reverse Engineering
   - :book: [Reverse engineering for beginners](https://beginners.re/)
   - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
+</details>
+
+<details>
+ 
+<summary> İşinize Yarayabilecek Github Repoları:</summary>
+https://github.com/mdisec/osce-preparation \
+https://github.com/LuNiZz/awesome \
+https://github.com/carpedm20/awesome-hacking#readme \
+https://github.com/sbilly/awesome-security#readme \
+https://github.com/qazbnm456/awesome-web-security#readme \
+https://github.com/Lissy93/personal-security-checklist \
+https://github.com/om3rcitak/webguvenligi
+
+
 </details>
