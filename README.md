@@ -451,6 +451,7 @@ https://twitch.tv/thecybermentor
 
 <summary> Takip Edilesi Youtube Kanalları </summary>
 
+https://www.youtube.com/c/RSAConference/ \
 https://youtube.com/candeger \
 https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw \
 https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw \
@@ -659,7 +660,10 @@ https://github.com/carpedm20/awesome-hacking#readme \
 https://github.com/sbilly/awesome-security#readme \
 https://github.com/qazbnm456/awesome-web-security#readme \
 https://github.com/Lissy93/personal-security-checklist \
-https://github.com/om3rcitak/webguvenligi
-
+https://github.com/om3rcitak/webguvenligi \
+https://github.com/Hackplayers/hackthebox-writeups \
+https://github.com/The-Art-of-Hacking/h4cker \
+https://github.com/sundowndev/hacker-roadmap \
+https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules
 
 </details>
