@@ -112,7 +112,6 @@ Olay sende bitiyor dostum, kendini nasıl geliştirip, katma değer üretirsen o
 ### Ben eğitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık her türlü Pentesting, Web App Testing, Siber Güvenlik konularına hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?
 O zaman sevgili kardeşim, kendine bir açık kaynak kodlu proje bul ve ona Pull Request at. Projeyi geliştir, adını duyur, bunları yapman ileride staj ararken ve iş basvurusunda bulunurken senin için cok ama cok fayda sağlayacak. Bunu sakın atlama.
 
-* https://www.reddit.com/r/Hacking_Tutorials/
 * https://www.reddit.com/r/netsec/
 * https://github.com/sbilly/awesome-security
 * https://blog.feedspot.com/cyber_security_rss_feeds/
@@ -527,7 +526,7 @@ https://twitter.com/joehelle
 
 ###
 
-Metasploit https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf \ 
+Metasploit https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf \
 Nmap https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf \
 XSS https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf \
 SQL Injection https://portswigger.net/web-security/sql-injection/cheat-sheet
