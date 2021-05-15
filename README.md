@@ -312,7 +312,7 @@ https://www.udemy.com/course/windows-privilege-escalation-for-beginners/ \
 https://www.udemy.com/course/practical-ethical-hacking/ \
 https://www.udemy.com/course/learn-ethical-hacking-from-scratch/ \
 https://www.udemy.com/course/learn-website-hacking-penetration-testing-from-scratch/
-https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/learn/lecture/13204804?start=15#overview
+https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/
 
 ### Ücretsiz Kurslar
 #### Udemy 
