@@ -112,6 +112,7 @@ Olay sende bitiyor dostum, kendini nasıl geliştirip, katma değer üretirsen o
 ### Ben eğitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık her türlü Pentesting, Web App Testing, Siber Güvenlik konularına hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?
 O zaman sevgili kardeşim, kendine bir açık kaynak kodlu proje bul ve ona Pull Request at. Projeyi geliştir, adını duyur, bunları yapman ileride staj ararken ve iş basvurusunda bulunurken senin için cok ama cok fayda sağlayacak. Bunu sakın atlama.
 
+* https://wwww.reddit.com/r/Hacking_Tutorials/
 * https://www.reddit.com/r/netsec/
 * https://github.com/sbilly/awesome-security
 * https://blog.feedspot.com/cyber_security_rss_feeds/
@@ -350,7 +351,6 @@ Ayrica topluluktan Furkan Tasdemir'in soyle bir egitim notlari kitabi var; https
 * https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari/ 
 * https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters 
 * https://www.guru99.com/
-* https://www.reddit.com/r/Hacking_Tutorials/
 * https://github.com/iamrajivd/pentest
 * https://www.tutorialspoint.com/penetration_testing/index.htm 
 * Linux Dersleri: https://linux-dersleri.github.io/ 
@@ -659,7 +659,7 @@ https://www.hackers-arise.com/networks-basics
 
 https://github.com/mdisec/osce-preparation \
 https://github.com/LuNiZz/awesome \
-https://github.com/carpedm20/awesome-hacking#readme \
+https://github.com/carpedm20/awesome-#readme \
 https://github.com/sbilly/awesome-security#readme \
 https://github.com/qazbnm456/awesome-web-security#readme \
 https://github.com/Lissy93/personal-security-checklist \
