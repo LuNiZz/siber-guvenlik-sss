@@ -258,7 +258,7 @@ https://github.com/bugcrowd/bugcrowd_university
 ### AWESOME serisi diye bir kavram var, Yuzlerce ingilizce kaynak derlenmis...
   - Awesome HACKING : https://github.com/carpedm20/awesome-hacking#readme
   - Awesome SECURITY : https://github.com/sbilly/awesome-security#readme
-  - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readm
+  - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme
   
 ### Google nasıl kullanılır?
 Öğrenmek istediğiniz bilgiyi ingilizce bir şekilde yazıyoruz ve aratıyoruz.Karşılaştığımız sorunlar için ise sorunu ingilizce bir biçimde yazıyoruz ve yanına solution,how to,error gibi ifadeler koyuyoruz ve muhtemelen bu sorunla ilk siz karşılaşmadığınız için sorunun cevabını bulacaksınızdır.Errorler ve geri kalan her şey için aynısı geçerlidir.Lütfen discorda sormadan önce iyice araştırma yapınız.
@@ -659,9 +659,6 @@ https://www.hackers-arise.com/networks-basics
 
 https://github.com/mdisec/osce-preparation \
 https://github.com/LuNiZz/awesome \
-https://github.com/carpedm20/awesome-#readme \
-https://github.com/sbilly/awesome-security#readme \
-https://github.com/qazbnm456/awesome-web-security#readme \
 https://github.com/Lissy93/personal-security-checklist \
 https://github.com/om3rcitak/webguvenligi \
 https://github.com/Hackplayers/hackthebox-writeups \
