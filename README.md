@@ -665,5 +665,6 @@ https://github.com/Hackplayers/hackthebox-writeups \
 https://github.com/The-Art-of-Hacking/h4cker \
 https://github.com/sundowndev/hacker-roadmap \
 https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules
+https://github.com/swisskyrepo/PayloadsAllTheThings
 
 </details>
