@@ -529,7 +529,8 @@ https://twitter.com/joehelle
 Metasploit https://www.sans.org/security-resources/sec560/misc_tools_sheet_v1.pdf \
 Nmap https://stationx-public-download.s3.us-west-2.amazonaws.com/nmap_cheet_sheet_v7.pdf \
 XSS https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf \
-SQL Injection https://portswigger.net/web-security/sql-injection/cheat-sheet
+SQL Injection https://portswigger.net/web-security/sql-injection/cheat-sheet \
+Pentest https://github.com/Tib3rius/Pentest-Cheatsheets
 
 </details>
 
@@ -664,6 +665,8 @@ https://github.com/om3rcitak/webguvenligi \
 https://github.com/Hackplayers/hackthebox-writeups \
 https://github.com/The-Art-of-Hacking/h4cker \
 https://github.com/sundowndev/hacker-roadmap \
-https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules
+https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules \
+https://github.com/Tib3rius/Pentest-Cheatsheets \
+https://github.com/Tib3rius/AutoRecon
 
 </details>
