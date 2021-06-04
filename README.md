@@ -17,7 +17,7 @@ Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
 
 Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm, onun altında kapalı menüler halinde birçok kaynak var, her birine bir göz at.
 
-* Özellikle *KURSLAR, ÇEŞİTLİ KAYNAKLAR, TAKİP EDİLESİ YOUTUBE KANALLARI* başlıklarında bulunan bilgiler bir çok soruna cevap olabilir.
+* Özellikle *KURSLAR, ÇEŞİTLİ KAYNAKLAR, TAKİP EDİLESİ YOUTUBE KANALLARI* başlıklarında bulunan bilgiler birçok soruna cevap olabilir.
 
 Ayrıca yayın geçmişinde yer alan videoların toplu playlist hali de bulunuyor, linkler arasında ve görsel olarak nasıl izleyebileceğini anlattım.
 
@@ -261,7 +261,7 @@ https://github.com/bugcrowd/bugcrowd_university
   - Awesome WEB SECURITY : https://github.com/qazbnm456/awesome-web-security#readme
   
 ### Google nasıl kullanılır?
-Öğrenmek istediğiniz bilgiyi ingilizce bir şekilde yazıyoruz ve aratıyoruz.Karşılaştığımız sorunlar için ise sorunu ingilizce bir biçimde yazıyoruz ve yanına solution,how to,error gibi ifadeler koyuyoruz ve muhtemelen bu sorunla ilk siz karşılaşmadığınız için sorunun cevabını bulacaksınızdır.Errorler ve geri kalan her şey için aynısı geçerlidir.Lütfen discorda sormadan önce iyice araştırma yapınız.
+Öğrenmek istediğiniz bilgiyi ingilizce bir şekilde yazıyoruz ve aratıyoruz. Karşılaştığımız sorunlar için ise sorunu ingilizce bir biçimde yazıyoruz ve yanına solution,how to,error gibi ifadeler koyuyoruz ve muhtemelen bu sorunla ilk siz karşılaşmadığınız için sorunun cevabını bulacaksınızdır. Errorler ve geri kalan her şey için aynısı geçerlidir. Lütfen discorda sormadan önce iyice araştırma yapınız.
 
 
 
@@ -594,6 +594,7 @@ https://www.hackers-arise.com/networks-basics
   - :mortar_board: [Cryptography by Stanford University](https://www.coursera.org/learn/crypto) [Coursera]
   - :book: [Crypto101](https://www.crypto101.io)
   - :book: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
+  - :tv: [Kriptoloji - Çetin Kaya Koç](https://www.youtube.com/channel/UC2nyPCBqYKSH-N8sakxdq3A)
 ### Digital Forensics
   - [Computer Forensics subreddit wiki](https://www.reddit.com/r/computerforensics/wiki/faq#wiki_forensics.3A_where.2Fhow_do_i_begin.3F)
 ### General Resources
@@ -649,6 +650,7 @@ https://www.hackers-arise.com/networks-basics
 ### Reverse Engineering
   - :book: [Reverse engineering for beginners](https://beginners.re/)
   - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
+  - :globe_with_meridians: [Reverse Engineering Tutorial Based on CTF Challenges](https://guyinatuxedo.github.io/index.html)
 </details>
 
 <details>
@@ -664,6 +666,7 @@ https://github.com/om3rcitak/webguvenligi \
 https://github.com/Hackplayers/hackthebox-writeups \
 https://github.com/The-Art-of-Hacking/h4cker \
 https://github.com/sundowndev/hacker-roadmap \
-https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules
-
+https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules \
+https://github.com/s0wr0b1ndef/WebHacking101 \ 
+https://github.com/swisskyrepo/PayloadsAllTheThings
 </details>
