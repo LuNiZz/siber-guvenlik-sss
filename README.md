@@ -9,7 +9,7 @@ Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın g
 
 - Discord: [![Discord](https://discord.com/api/guilds/181008728286298112/widget.png)](https://dc.lunizz.com)
 - Twitter: [![Twitter](https://img.shields.io/twitter/follow/candeger?style=social)](https://twitter.com/candeger)
-- Youtube: https://youtube.com/candeger
+- Youtube: [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCL1Rp1QrhuRhl-sjP5KYwhw?label=Can%20Deger&logo=Youtube&style=for-the-badge")](https://youtube.com/CanDeger)
 - Instagram: https://instagram.com/candeger
 
  Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoşgeldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
