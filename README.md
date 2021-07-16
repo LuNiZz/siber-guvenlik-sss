@@ -5,7 +5,7 @@
 - TWITCH YAYINLARI : [![Twitch](https://img.shields.io/twitch/status/lunizz)](https://twitch.com/lunizz)
 Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar...)
 
-***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de*** 
+***Yayınlar PERŞEMBE - PAZAR günleri saat 20.00'de*** 
 
 - Discord: [![Discord](https://discord.com/api/guilds/181008728286298112/widget.png)](https://dc.lunizz.com)
 - Twitter: [![Twitter](https://img.shields.io/twitter/follow/candeger?style=social)](https://twitter.com/candeger)
