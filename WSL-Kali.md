@@ -10,7 +10,7 @@ Bu dosyada WSL'in aktifleştirilmesi ve WSL ile Kali kurmayı öğreneceğiz.
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Kali'nin Kurulumu">Kali'nin Kurulumu</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Kali-Kurulumu">Kali'nin Masaüstünü Kurmak</a>
+  <a href="#Kali'nin Masaüstü Kurulumu">Kali'nin Masaüstü Kurulumu</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Ekstralar">Ekstralar</a>
 </p>
