@@ -62,6 +62,11 @@ Kullanıcı adınızı belirleyin ve daha sonra çıkan ekranda şifrenizi belir
 
 Bu işlemler bittikten sonra karşınıza kali terminali gelecek.
 
+Eğer Kali 0x80370102 hatasını verirse powershelli yönetici olarak çalıştırıp aşağıdaki komutu yazın ve bilgisayarınızı yeniden başlatın. Sorununuz büyük ihtimalle çözülecektir.
+```powershell
+bcdedit /set hypervisorlaunchtype auto
+```
+
 ## Kalinin-Masaüstü-Kurulumu
 
 İlk olarak sistemi güncelleyelim.
