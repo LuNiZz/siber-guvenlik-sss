@@ -11,6 +11,8 @@ Bu dosyada WSL'in aktifleştirilmesi ve WSL ile Kali kurmayı öğreneceğiz.
   <a href="#Kali'nin Kurulumu">Kali'nin Kurulumu</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Kali-Kurulumu">Kali'nin Masaüstünü Kurmak</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Ekstralar">Ekstralar</a>
 </p>
 
 
@@ -85,12 +87,20 @@ kex
 ```
 Komutunu kullanarak kex'i çalıştırın.
 
+Şifre girmenizi isteyecek ve daha sonra "Would you like to enter a view-only password (y/n)? " yazısı çıkacak. n yazıp entera basın ve bu adımı atlayın. Daha sonra bağlantıyı yaparken aşağıdaki ekran gelecek oraya az önce belirlediğiniz şifreyi yazacaksınız.
+
+![](images/wsl4.png)
+
+Eğer hata alırsanız aşağıdaki komutları uygulayın:
+```bash
+sudo rm -rf /etc/.X11-unix
+vncserver
+```
+
+Daha sonra kex'i tekrar çalıştırmayı deneyin ve büyük olasılıkla sorununuz çözülmüş olacak.
 
 
-
----
-
-## BONUSLAR
+## Ekstralar
 
 1- WSL'deki Kali'de root hesabının default olarak şifresi yok ve değiştirmek için aşağıdaki adımları uygulayabilirsiniz.
 ```bash
@@ -103,6 +113,9 @@ passwd
 sudo apt install kali-linux-default
 sudo apt install kali-tweaks
 ```
-Daha sonra kali tweaks menüsüne girip oradan sisteminizde olmayan başka toolları da seçerek indirebilirsinizi.
+Daha sonra kali tweaks menüsüne girip oradan sisteminizde olmayan başka toolları da seçerek indirebilirsiniz.
 
-3- Kali'yi root olarak kullanmayı seviyorsanız 
+3- Kali'yi root olarak kullanmayı seviyorsanız aşağıdaki komutu powershell'e yazarak kali açıldığında direk root hesabına giriş yapabilirsiniz
+```powershell
+kali config --default-user root
+```
