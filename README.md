@@ -147,7 +147,7 @@ Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli 
 Türkçe kaynak olarak https://bilgeis.net/tr var, yine ucretsiz olan.
 
 ### Peki abi, ben LINUX u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım?
-Şimdi sevgili kardeşim, bu sayfanın bir çok yerinde bulunanan siber güvenlik eğitim linklerinin içinde, temel linux eğitimleri var. Ancak sen dersen ki, bana sadece o kısım lazım... o zaman aşağıdaki ücretsiz siteye bir bak, sadece linux degil, aynı zamanda Docker, Kubernetes vs gibi eğitimlerde var (Kubernetes geliyor yoldaymiş).
+Şimdi sevgili kardeşim, bu sayfanın bir çok yerinde bulunanan siber güvenlik eğitim linklerinin içinde, temel linux eğitimleri var. Ancak sen dersen ki, bana sadece o kısım lazım... o zaman aşağıdaki ücretsiz siteye bir bak, sadece linux degil, aynı zamanda Docker, Kubernetes vs gibi eğitimlerde var (Kubernetes geliyor yoldaymış).
 https://egitim.acikkaynakfikirler.com/linux101-landing/
 
 ### Bir cok eğitimin içinde anlatılıyor ama sadece Networking öğrenmek için hangi eğitime bakmalıyım?
@@ -195,7 +195,7 @@ Hiçbiri olmaz dersen, gider Kaliyi Docker veya WSL olarak kurarsin, hem Ubuntu/
 - https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md
 - https://github.com/LuniZz/siber-guvenlik-sss/blob/master/WSL-Kali.md
 
-İlla Arch kurcam dersen, mesela gidip Manjaro kurup, blackarch repolarini ekleyip, bütün toollari ordan kurabilirsin... ama çokerse karışmam :)    
+İlla Arch kurcam dersen, mesela gidip Manjaro kurup, blackarch repolarini ekleyip, bütün toollari ordan kurabilirsin... ama çökerse karışmam :)    
     
 
 ### Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?
