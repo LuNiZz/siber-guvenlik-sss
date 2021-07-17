@@ -6,7 +6,7 @@ Bu dosyada WSL'in aktifleştirilmesi ve WSL ile Kali kurmayı öğreneceğiz.
 </p>
 
 <p align="center">
-  <a href="WSL'in Aktifleştirilmesi">WSL'in Aktifleştirilmesi</a>
+  <a href="##WSL">WSL'in Aktifleştirilmesi</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Kali'nin Kurulumu">Kali'nin Kurulumu</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -17,7 +17,7 @@ Bu dosyada WSL'in aktifleştirilmesi ve WSL ile Kali kurmayı öğreneceğiz.
 
 
 
-## WSL'in Aktifleştirilmesi
+## WSL
 
 İlk olarak Windows tuşuna basıp "Windows özelliklerini aç veya kapat" ya da Windowsunuz İngilizceyse "Turn Windows features on or off" şeklinde aratıp ilk sonuca tıklayın
 
