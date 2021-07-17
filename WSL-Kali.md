@@ -6,18 +6,18 @@ Bu dosyada WSL'in aktifleştirilmesi ve WSL ile Kali kurmayı öğreneceğiz.
 </p>
 
 <p align="center">
-  <a href="##WSL">WSL'in Aktifleştirilmesi</a>
+  <a href="#WSLin-Aktiflestirilmesi">WSL'in Aktifleştirilmesi</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Kali'nin Kurulumu">Kali'nin Kurulumu</a>
+  <a href="#Kalinin-Kurulumu">Kali'nin Kurulumu</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#Kali'nin Masaüstü Kurulumu">Kali'nin Masaüstü Kurulumu</a>
+  <a href="#Kalinin-Masaüstü-Kurulumu">Kali'nin Masaüstü Kurulumu</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#Ekstralar">Ekstralar</a>
 </p>
 
 
 
-## WSL
+## WSLin-Aktiflestirilmesi
 
 İlk olarak Windows tuşuna basıp "Windows özelliklerini aç veya kapat" ya da Windowsunuz İngilizceyse "Turn Windows features on or off" şeklinde aratıp ilk sonuca tıklayın
 
@@ -43,7 +43,7 @@ Eğer bir güncelleme yaparsa güncellenmenin tamamlanması için aşağıdaki k
 wsl --shutdown
 ```
 
-## Kali'nin Kurulumu
+## Kalinin-Kurulumu
 
 Micorosft Store'a girip Kali Linux diye aratın.
 
@@ -62,7 +62,7 @@ Kullanıcı adınızı belirleyin ve daha sonra çıkan ekranda şifrenizi belir
 
 Bu işlemler bittikten sonra karşınıza kali terminali gelecek.
 
-## Kali'nin Masaüstü Kurulumu
+## Kalinin-Masaüstü-Kurulumu
 
 İlk olarak sistemi güncelleyelim.
 ```bash
