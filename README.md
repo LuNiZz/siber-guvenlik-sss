@@ -50,7 +50,7 @@ bence bir bilgisayarın;
 > 3) RAM en önemli bileşenin, en az 8 GB RAMin olmalı, sanal makina 1 tane çalıştırabilirsin adam gibi bu durumda, o yüzden 16 GB olursa çok daha rahat olur. En azından "victim" > makine de çalıştırabilirsin.
 > 4) HDD kesinlikle SSD olmalı, bu desktop ile laptop in en büyük fark idi eskiden, çünkü ssd oncesinde laptop diskleri 6000 kusur RPM'di çok yavaştı adamı sinir ediyordu, ama >bugün laptoplarda SSD kullandığı için süper oldular... Sende o yüzden SSD tercih etmelisin...
 
-bunlarin dışında, e insanız birazda oyun oynayacaz dersen, hani paylaşımsız herhangi bir ekran karti bayağı bir işini görür. Eskiden şifre kırmak için falan GPU kullanıyorduk da şimdi o işler için web siteleri var onları kullanıyoruz ;) pek lokal de yapmıyoruz o işleri... O yuzden çok önemli değil...
+bunların dışında, e insanız birazda oyun oynayacaz dersen, hani paylaşımsız herhangi bir ekran karti bayağı bir işini görür. Eskiden şifre kırmak için falan GPU kullanıyorduk da şimdi o işler için web siteleri var onları kullanıyoruz ;) pek lokal de yapmıyoruz o işleri... O yuzden çok önemli değil...
 
 Ha laptop seçerken dikkat etmen gereken önemli bir unsur da, Linux uyumluluk, seçtiğin modele ilerde Native Linux yüklemek isteyebilirsin... O zaman driverlarının vs sorun çıkarmaması için, ürünü bir arat Google'dan. Ha dersin ki işim olmaz ben VM/Vbox takılacam, tamamdır o zaman farketmiyor...
 
@@ -63,8 +63,8 @@ Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış 
 Algoritma mantığını öğrenmek için https://www.hackerrank.com/ biçilmiş bir kaftan. Gene kod yazmanın mantığını anlamak için https://edabit.com/ önerebileceğim bir site. Algoritmaya yönelik gene https://www.codewars.com/ var. Ve sıfırdan başlamak için https://www.freecodecamp.org/. Eger üniversiteye gidiyorsanız Github Education Pack ücretsiz olarak alabilir ve birçok ürün ve eğitime bedava erişebilirsiniz(domain, hosting dahil) https://education.github.com/pack .
 
 ### Peki, Yeni yazilimciya onerilerin neler? Ne yapmak lazim?
-Internette buldugum bir topluluk var, bu konuya harika yanit vermis..
-bir goz at... paha bicilemez tavsiyeler ile suslu...
+İnternette buldugum bir topluluk var, bu konuya harika yanıt vermiş..
+bir göz at... paha biçilemez tavsiyeler ile süslü...
 
 https://www.birlikteihracat.com/yeni-yazilimciya-oneriler/
 
@@ -75,7 +75,7 @@ En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, 
 Tüm siber güvenlik dallarını şurada inceledim, bir bak: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md 
 
 ### Abi Udemy'de/hedehodode/XYZde ıvırda zıvırda, TÜRKÇE bir eğitim buldum, Nasıl?
-Sevgili dostum, Udemy de birçok kişinin egitimlerini bulabilirsin, eğitimin iyisi kötüsü olmaz. Sen bilginin isine yarayan kısmını al... Yanlış olduğunu eksik olduğunu düşündüğün alanlarını araştır ve kendini geliştirmeye devam et.
+Sevgili dostum, Udemy de birçok kişinin egitimlerini bulabilirsin, eğitimin iyisi kötüsü olmaz. Sen bilginin işine yarayan kısmını al... Yanlış olduğunu eksik olduğunu düşündüğün alanlarını araştır ve kendini geliştirmeye devam et.
 Kişisel olarak benim herhangi bir Udemy Türkce içeriğine tavsiye veya öneride bulunmam ne yazık ki mümkün değil, cünkü o eğitimlerin hiçbirini alıp, incelemedim. İncelemeyi de düşünmüyorum. Duyduğum yorumlar genel olarak, Udemy'deki değerlendirme ve yorumlarla aynı şekilde, o sebeple incele oku. Kararını kendin ver.
 Ben özel olarak bir yorum veya tavsiyede bulunanamam.
 
@@ -119,7 +119,7 @@ O zaman sevgili kardeşim, kendine bir açık kaynak kodlu proje bul ve ona Pull
 * https://feeder.co/discover/security
 * https://packetstormsecurity.com/feeds
 
-haberler ve guncel mevzulara bakmak icin ideal bir iki link de birakayim yeri gelmisken dostum /
+haberler ve güncel mevzulara bakmak için ideal bir iki link de bırakayım yeri gelmişken dostum /
 
 
 ### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
@@ -146,17 +146,17 @@ Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli 
 
 Türkçe kaynak olarak https://bilgeis.net/tr var, yine ucretsiz olan.
 
-### Peki abi, ben LINUX u adam gibi sifirdan ogrenmek istiyorum, sadece alet edevat degil, isletim sistemini bilmek istiyorum ne yapacagim?
-Simdi sevgili kardesim, bu sayfanin bir cok yerinde bulunanan siber guvenlik egitim linklerinin icinde, temel linux egitimleri var. Ancak sen dersen ki, bana sadece o kisim lazim... o zaman asagidaki ucretsiz siteye bir bak, sadece linux degil, ayni zamanda Docker, Kubernetes vs gibi egitimlerde var (Kubernetes geliyor yoldaymis).
+### Peki abi, ben LINUX u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım?
+Şimdi sevgili kardeşim, bu sayfanın bir çok yerinde bulunanan siber güvenlik eğitim linklerinin içinde, temel linux eğitimleri var. Ancak sen dersen ki, bana sadece o kısım lazım... o zaman aşağıdaki ücretsiz siteye bir bak, sadece linux degil, aynı zamanda Docker, Kubernetes vs gibi eğitimlerde var (Kubernetes geliyor yoldaymış).
 https://egitim.acikkaynakfikirler.com/linux101-landing/
 
-### Bir cok egitimin icinde anlatiliyor ama sadece Networking ogrenmek icin hangi egitime bakmaliyim?
-Bunun icin hedefin CCNA egitimleri olmali, ancak orada da temel router switch konfigurasyonlari isin icine giriyor. Udemy de cok guzel CCNA egitimleri var, Turkceleri de var.
-Ancak dersen ki bu isin boyle hap gibi cok hizli bir sekilde mantigini anlayayim, en azindan internet nasil calisiyor ona bakayim... O zaman...
+### Bir cok eğitimin içinde anlatılıyor ama sadece Networking öğrenmek için hangi eğitime bakmalıyım?
+Bunun için hedefin CCNA eğitimleri olmalı, ancak orada da temel router switch konfigürasyonları işin içine giriyor. Udemyde çok güzel CCNA eğitimleri var, Türkçleri de var.
+Ancak dersen ki bu işin böyle hap gibi çok hızlı bir şekilde mantığını anlayayım, en azından internet nasil çalışıyor ona bakayim... O zaman...
 
 https://gelecegiyazanlar.turkcell.com.tr/konu/temel-network
 
-ayrica youtube da da bununla ilgili guzel bir playlist buldum : https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8
+ayrica youtube da da bununla ilgili güzel bir playlist buldum : https://www.youtube.com/playlist?list=PLDQaRcbiSnqF5U8ffMgZzS7fq1rHUI3Q8
 
 ### Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?  
 *Kali Linux* indirdin mi? süper! O zaman şuraya gidiyorsun => https://www.hackthebox.eu/ \
@@ -188,12 +188,14 @@ Bununla ilgili bir yayın yapmıştık, linki şurada:
 https://www.twitch.tv/videos/639357674
 
 ### Kali Linux mu? Parrot mu? 
-Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'nin daha cok desteği var. Aynı bu şekilde tamamen tercihine kalmış bir şey.    
-Yada gundelik kullanim icin kurarsin bir Ubuntu/Mint, cok istiyorsan *katoolin* ile Kali toollarini icine kurarsin,  
-Yada gidersin, ihtiyacin kadar olan toollari snapden vs kendin derler kurarsin...   
-Hic biri olmaz dersen, gider kali yi Docker olarak kurarsin, hem Ubuntu/Mint falan patlamaz boylece... https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md     
+Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'nin daha çok desteği var. Aynı bu şekilde tamamen tercihine kalmış bir şey.    
+Ya da gündelik kullanım icin kurarsın bir Ubuntu/Mint, çok istiyorsan *katoolin* ile Kali toollarini içine kurarsın,  
+Ya da gidersin, ihtiyacın kadar olan toollari snapden vs kendin derler kurarsın...   
+Hiçbiri olmaz dersen, gider Kaliyi Docker veya WSL olarak kurarsin, hem Ubuntu/Mint falan patlamaz boylece...
+- https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md
+- https://github.com/LuniZz/siber-guvenlik-sss/blob/master/WSL-Kali.md
 
-Illa Arch kurcam dersen, mesela gidip Manjaro kurup, blackarch repolarini ekleyip, butun toollari ordan kurabilirsin... ama cokerse karismam :)    
+İlla Arch kurcam dersen, mesela gidip Manjaro kurup, blackarch repolarini ekleyip, bütün toollari ordan kurabilirsin... ama çökerse karışmam :)    
     
 
 ### Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?
@@ -229,10 +231,10 @@ Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geç
 
 Ayrıca aşağıdakiler de çok iyi...
 
-### Eger Ingilizceniz varsa, STANFORD universitesinin Web Guvenligi egitimini siddetle tavsiye ediyorum : 
+### Eger İngilizceniz varsa, STANFORD üniversitesinin Web Güvenliği eğitimini şiddetle tavsiye ediyorum : 
 
 https://web.stanford.edu/class/cs253/
-Ozellikle bug bounty'e giris icin mukemmel.
+Özellikle bug bounty'e giriş için mükemmel.
 
 
 #### MDISEC (Mehmet D. Ince) Web ve uygulama güvenliği yayınları >>> https://github.com/mdisec/mdisec-twitch-yayinlari
