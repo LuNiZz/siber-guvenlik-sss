@@ -375,9 +375,9 @@ b
 
 ### Range kullanımı
 
-range() koduna iki değer (başlangıç ve bitiş) verilirse hepsi string olmak üzere başlangıç sayısı dahil olmak üzere aralıktaki sayıların hepsini döndürür.
-range() koduna bir değer (bitiş) veilirse başlangıç sıfır olarak kabul edilir ve başlangıç sayısı(0) dahil olmak üzere aralıktaki sayıların hepsini döndürür.
-### SADECE FOR ILE KULLANABILIRSINIZ
+range() koduna iki değer (başlangıç ve bitiş) verilirse hepsi integer olmak üzere başlangıç sayısı dahil olmak üzere aralıktaki sayıların hepsini döndürür.
+range() koduna bir değer (bitiş) veilirse hepsi integer olmak üzere başlangıç sıfır olarak kabul edilir ve başlangıç sayısı(0) dahil olmak üzere aralıktaki sayıların hepsini döndürür.
+### SADECE FOR ILE VE LİSTEDE YAPTIĞIMIZ GİBİ "L[0]" KULLANABILIRSINIZ
 
 ```python
 >>> for i in range(1,5):
