@@ -318,6 +318,8 @@ Opeartörler:
 - | == : Eşittir
 - | >= : Büyük eşittir
 - | <= : Küçük Eşittir
+- | kondisyon1 and kondisyon2 : ve (iki kondisyon sağlanırsa aşağıdaki kod çalışır)
+- | kondisyon1 or kondisyon2 : veya (iki kondisyondan biri sağlanırsa aşağıdaki kod çalışır)
 
 Örnek kullanım:
 ```python
@@ -476,6 +478,17 @@ def komutu fonksiyon oluşturmaya yarar.
 Ben bir öğrenciyim.
 ```
 
+## Fonksiyon dışındaki değişkene erişme
+```python
+>>> a = 20
+>>> def print_a():
+...     global a
+...     print(a)
+...
+>>> print_a()
+20
+```
+
 ## Fonksiyon argümanları
 
 ### Default Argument
@@ -584,7 +597,7 @@ from os import system # system fonksiyonu bilgisayarda komut çalıştırmaya ya
 import time
 
 system("dir") # çalıştırdığınız dizindeki bütün öğeleri gösterir.
-time.sleep(5) # programın 5 snaiye boyunca durmasını sağlar.
+time.sleep(5) # programın 5 saniye boyunca durmasını sağlar.
 ```
 
 Bu sayfada göstereceklerim bu kadardır arkadaşlar, hatalarla karşılaşırsanız çok büyük olasılıkla stackoverflow'da çözümlerini bulabilirsiniz.
