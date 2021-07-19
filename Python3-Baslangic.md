@@ -313,11 +313,11 @@ if True:
 ```
 
 Opeartörler:
-- > : Büyüktür
-- < : Küçüktür
-- == : Eşittir
-- >= : Büyük eşittir
-- <= : Küçük Eşittir
+- | > : Büyüktür
+- | < : Küçüktür
+- | == : Eşittir
+- | >= : Büyük eşittir
+- | <= : Küçük Eşittir
 
 Örnek kullanım:
 ```python
