@@ -175,12 +175,6 @@ merhaba.
 True
 ```
 
-### String içinde değişken kullanma
-
-```python
-a =
-```
-
 
 ### Listeye element ekleme
 
