@@ -8,9 +8,9 @@ Bu dosyada başlangıç düzeyinde python3 öğreneceğiz.
 
 Basit kodlar ve açıklamaları:
 
-## Pythonda yourmlar
+## Pythonda yorumlar
 
-Pythonda yorum satırı olarak yani koda etki etmeyecek yazılar eklenmek istediği zaman yorum kısmı tek satırsa veya bir satırın devamıysa "#", eğer birden fazla satır kullanacaksanız yorumun başına ve sonuna üç tane tırnak koymanız gerekiyor. '"""' 
+Pythonda yorum satırı olarak yani koda etki etmeyecek yazılar eklenmek istediği zaman yorum kısmı tek satırsa veya bir satırın devamıysa "#", eğer birden fazla satır kullanacaksanız yorumun başına ve sonuna üç tane tırnak koymanız gerekiyor. '''çok satırlı yorum''' 
 
 
 ## print()
@@ -298,8 +298,10 @@ Yukarıdaki kod bir değişkenin tipini öğrenmemizi sağlar.
 ## if, elif, else
 
 if elif ve else kodları belli bir durumları karşılayan durumlarda kod çalıştrımak için kullanılır.
-### DİKKAT, IF, ELIF ve ELSE KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
-### DİKKAT, IF, ELIF ve ELSE KULLANDIKTAN SONRA : KULLANILIR!!
+### DİKKAT
+IF, ELIF ve ELSE KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
+### DİKKAT
+IF, ELIF ve ELSE KULLANDIKTAN SONRA : KULLANILIR!!
 
 ```python
 if True:
@@ -338,8 +340,10 @@ Girilen sayı pozitiftir.
 
 ## for loop
 
-### DİKKAT, FOR KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
-### DİKKAT, FOR KULLANDIKTAN SONRA : KULLANILIR!!
+### DİKKAT
+FOR KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
+### DİKKAT
+FOR KULLANDIKTAN SONRA : KULLANILIR!!
 
 for operatörleri:
 - break: döngüyü kırar
@@ -398,8 +402,10 @@ range() koduna bir değer (bitiş) veilirse hepsi integer olmak üzere başlang�
 
 ## while loop
 
-### DİKKAT, WHILE KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
-### DİKKAT, WHILE KULLANDIKTAN SONRA : KULLANILIR!!
+### DİKKAT
+WHILE KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
+### DİKKAT
+WHILE KULLANDIKTAN SONRA : KULLANILIR!! \
 Belli bir kondisyon sağlandığı sürece kodun çalışmasını sağlar.
 Kodun bütün program boyunca çalışmasını istiyorsanız while True veya while 1 kullanabilirsiniz.
 
@@ -460,8 +466,10 @@ ab
 
 ## def()
 
-### DİKKAT, DEF KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
-### DİKKAT, DEF KULLANDIKTAN SONRA : KULLANILIR!!
+### DİKKAT
+DEF KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
+### DİKKAT
+DEF KULLANDIKTAN SONRA : KULLANILIR!! \
 def komutu fonksiyon oluşturmaya yarar.
 Örnek kullanım:
 ```python
@@ -472,7 +480,7 @@ def komutu fonksiyon oluşturmaya yarar.
 Ben bir öğrenciyim.
 ```
 
-## Fonksiyon dışındaki değişkene erişme
+## Fonksiyon dışındaki değişkene erişme (gerekli olmadıkça tavsiye edilmez)
 ```python
 >>> a = 20
 >>> def print_a():
@@ -488,7 +496,7 @@ Ben bir öğrenciyim.
 ### Default Argument
 ```python
 >>> def tam_ad(ad="john", soyad="doe"):
-...    print(ad + " " + soyad)
+...     print(ad + " " + soyad)
 ...
 >>> tam_ad()
 john doe
@@ -497,7 +505,7 @@ john doe
 ### Keyword Argument
 ```python
 >>> def tam_ad(ad="john", soyad="doe"):
-...    print(ad + " " + soyad)
+...     print(ad + " " + soyad)
 ...
 >>> tam_ad(ad="can", soyad="değer")
 can değer
@@ -506,7 +514,7 @@ can değer
 ### Positional Argument
 ```python
 >>> def tam_ad(ad, soyad):
-...    print(ad + " " + soyad)
+...     print(ad + " " + soyad)
 ...
 >>> tam_ad()
 Traceback (most recent call last):
@@ -516,17 +524,31 @@ TypeError: tam_ad() missing 2 required positional arguments: 'ad' and 'soyad'
 can değer
 ```
 
+## Return ifadesi
+fonksiyondan veri döndürür
+```python
+>>> def get_full_name(name, lastname):
+...     full_name = name + " " + lastname
+...     return full_name;
+...
+>>> get_full_name("Can", "Değer")
+Can Değer
+```
+
+
 ---
 
 ## class
 
-### DİKKAT, DEF KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
-### DİKKAT, DEF KULLANDIKTAN SONRA : KULLANILIR!!
+### DİKKAT
+DEF KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
+### DİKKAT
+DEF KULLANDIKTAN SONRA : KULLANILIR!! \
 classlar def'ler gibidir ancak biraz daha komplekstir.
 
 ```python
 >>> class myClass:
-...     def __init__(self): # bu class'ı kullanmak için myClass'ı bir değişkene atamamız gerekiyor, self ise class içinde erişilebilen değişkenlerdir ve self'i class içindeki her fonksiyona kullanmak gerekir.
+...     def __init__(self): # bu class'ı kullanmak için myClass'ı bir değişkene atamamız gerekiyor, self ise class içinde erişilebilen değişkenlerdir ve self'i class içindeki her fonksiyona parametre geçmek gerekir.
 ...         self.name = "Can"
 ...         self.surname = "Değer"
 ...     def print(self):
@@ -541,12 +563,14 @@ Can Değer
 
 ## try, except, finally
 
-### DİKKAT, TRY, EXCEPT, FINALLY KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
-### DİKKAT, TRY, EXCEPT, FINALLY KULLANDIKTAN SONRA : KULLANILIR!!
-Genelde hata kontrolü while döngüsünün içinde yazılır ve continue kullanılır.
-Genel Mantığı
-try: # altımdaki kodu çalıştırmayı dene
-except: # eğer olmazsa altımdaki kodu çalıştır
+### DİKKAT
+TRY, EXCEPT, FINALLY KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
+### DİKKAT
+TRY, EXCEPT, FINALLY KULLANDIKTAN SONRA : KULLANILIR!! \
+Genelde hata kontrolü while döngüsünün içinde yazılır ve continue kullanılır. \
+Genel Mantığı \
+try: # altımdaki kodu çalıştırmayı dene \
+except: # eğer olmazsa altımdaki kodu çalıştır \
 finally: # olsa da olmasa da beni çalıştır
 
 ```python
@@ -569,6 +593,22 @@ Sayı girin: 20
 t
 ```
 
+NOT: except ifadesi error tipleri ile özelleştirilebilir.
+
+```python
+>>> def dene():
+...     try:
+...          print(int("abc"))
+...     except ValueError:
+...          print("ValueError bulundu")
+...     finally:
+...          print("Kod çalıştı.")
+... 
+>>> dene()
+ValueError bulundu
+Kod çalıştı.
+```
+
 ---
 
 # MODÜLLER
@@ -580,7 +620,7 @@ os
 sys
 socket
 
-Bilgisayarınızda olmayan modülleri windowsta py -m pip install modul_ismi veya linuxta pip install modul_ismi şeklinde veya python3 -m pip install modul_ismi indirebilirsiniz.
+Bilgisayarınızda olmayan modülleri windowsta `py -m pip install modul_ismi` veya linuxta `pip install modul_ismi` şeklinde veya `python3 -m pip install modul_ismi` şeklinde indirebilirsiniz.
 
 Eğer bir modülün içinden belli bir fonksiyonu veya class'ı import edecekseniz
 from modul_ismi import fonksiyon
