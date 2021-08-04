@@ -232,8 +232,7 @@ Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geç
 Ayrıca aşağıdakiler de çok iyi...
 
 ### Eger İngilizceniz varsa, STANFORD üniversitesinin Web Güvenliği eğitimini şiddetle tavsiye ediyorum : 
-
-https://web.stanford.edu/class/cs253/
+  * Stanford Web Security (cs253): https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-
 Özellikle bug bounty'e giriş için mükemmel.
 
 
@@ -618,7 +617,7 @@ https://www.hackers-arise.com/networks-basics
   - :information_source: [IoT Security 101](https://github.com/V33RU/IoTSecurity101)
 #### Web Security
   - :book: The Web Application Hacker's Handbook
-  - :mortar_board: [Web Security course](https://web.stanford.edu/class/cs253/) by Stanford University
+  - :mortar_board: [Web Security course](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) by Stanford University
   - :tv: [Bug bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
   - :mortar_board: [WebSecurity Academy](https://portswigger.net/web-security) by Portswigger
   - :mortar_board: [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university) by Bugcrowd
