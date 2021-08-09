@@ -38,6 +38,11 @@ https://twitter.com/CanDeger/status/1343553657523085313
 Unutmadan en temel eğitim playlist i olarak, Cyber Mentor'un Ücretsiz şu YouTube videolarını sömür ;)
 https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 
+### Cybermentor asagidaki kod ile egitminin guncel versionunu omur boyu ucretsiz yapti
+KOD:  FREEFORMEPLEASE 
+TCM platformu linki: https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course
+Udemy plarformu linki: https://www.udemy.com/course/practical-ethical-hacking/
+
 ### Hangi bilgisayarı almalıyım hem yazılım hem siber güvenlik ve benzeri konular için?
 Şimdi dostum, yazılım veya siber güvenlik demek, günlük hayatında yoğun olarak, bol bol makale okumanı video izlemeni gerektirecek, onun dışında sanal makina çalıştırman gerekecek, ve iyi bir network bağlantısına ihtiyacın olacak...
 
