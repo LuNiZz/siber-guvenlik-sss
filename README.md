@@ -39,8 +39,8 @@ Unutmadan en temel eğitim playlist i olarak, Cyber Mentor'un Ücretsiz şu YouT
 https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 
 ### Cybermentor asagidaki kod ile egitminin guncel versionunu omur boyu ucretsiz yapti
-KOD:  FREEFORMEPLEASE   \ 
-TCM platformu linki: https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course   \
+KOD:  FREEFORMEPLEASE    \
+TCM platformu linki: https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course    \
 Udemy plarformu linki: https://www.udemy.com/course/practical-ethical-hacking/
 
 ### Hangi bilgisayarı almalıyım hem yazılım hem siber güvenlik ve benzeri konular için?
