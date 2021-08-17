@@ -287,7 +287,7 @@ Siber güvenlik ile ilgili kursların, labların olduğu bir site : https://app.
 Penetration test web sitesi: https://www.tutorialspoint.com/penetration_testing/index.htm \
 Ctf sitesi: https://captf.com/ \
 Web Application Pentest ile ilgileniyorsanız, BurpSuite'in yapımcılarının eğitim sayfası: https://portswigger.net/ \
-Zafiyetli makinalari bilgisayarınıza kurup test edebileceğiniz bir web sitesi: https://www.vulnhub.com/ \
+Zafiyetli makinaları bilgisayarınıza kurup test edebileceğiniz bir web sitesi: https://www.vulnhub.com/ \
 Ücretli ve ücretsiz eğitimlerin bulunduğu bir web sitesi: https://www.cybrary.it/ \
 Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir web sitesi: https://hackerone.com/ \
 Bugcrowd sitesinin eğitimleri: https://www.bugcrowd.com/hackers/bugcrowd-university/ \
