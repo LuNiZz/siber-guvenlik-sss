@@ -673,6 +673,7 @@ https://github.com/The-Art-of-Hacking/h4cker \
 https://github.com/sundowndev/hacker-roadmap \
 https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules \
 https://github.com/Tib3rius/Pentest-Cheatsheets \
-https://github.com/Tib3rius/AutoRecon
+https://github.com/Tib3rius/AutoRecon \
+https://github.com/EdOverflow/bugbounty-cheatsheet 
 
 </details>
