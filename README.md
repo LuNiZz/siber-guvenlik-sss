@@ -324,6 +324,11 @@ https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/
 #### Udemy 
 https://www.reddit.com/r/udemyfreebies/ \
 https://www.udemy.com/course/gokhanmuharremoglu/
+ 
+### Para verip sertifikasını alabileceğiniz ücresiz kurslar
+https://www.edx.org/course/cybersecurity-basics \
+https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=de2e4ba53714d083bf68f2463b6cc33c&position=1 \
+https://www.edx.org/course/introduction-to-linux?index=product&queryID=774b903ad29ee024fea69bbd4f3ea99c&position=1
 
 #### Youtube 
 Sektörün deneyimlilerinden gençlere tavsiyeler (Can Değer Farkıyla): https://www.youtube.com/watch?v=NGxlNDSvaY4 \
