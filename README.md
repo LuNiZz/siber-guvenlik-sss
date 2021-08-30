@@ -5,7 +5,7 @@
 - TWITCH YAYINLARI : [![Twitch](https://img.shields.io/twitch/status/lunizz)](https://twitch.com/lunizz)
 Tüm geçmiş yayınlar : https://www.twitch.tv/lunizz/videos (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar...)
 
-***Yayınlar PERŞEMBE - PAZAR günleri saat 20.00'de*** 
+***Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de*** 
 
 - Discord: [![Discord](https://discord.com/api/guilds/181008728286298112/widget.png)](https://dc.lunizz.com)
 - Twitter: [![Twitter](https://img.shields.io/twitter/follow/candeger?style=social)](https://twitter.com/candeger)
@@ -28,7 +28,7 @@ Aramıza hoş geldin ve görüşürüz!
 -LuNiZz    
 ---
 
-### devam etmeden once, soyle bir twit bilgiseli var... bir bak istersen...
+### devam etmeden önce, şöyle bir twit bilgiseli var... bir bak istersen...
 https://threadreaderapp.com/thread/1343553657523085313.html    \
 https://twitter.com/CanDeger/status/1343553657523085313
 
@@ -44,7 +44,7 @@ https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj
 Bunlar için eskiden dizüstü bilgisayarların dezavantajları vardı ancak bugün masaüstü veya dizüstü pek farketmiyor, hatta dizüstü daha avantajlı.
 
 Bu noktada kişisel tercihler ön plana çıkıyor;
-bence bir bilgisayarın;
+bence bir bilgisayar;
 > 1) hafif olmalı, gittiğin her yere rahatlıkla götürebilmelisin, bu noktada laptop daha avantajlı, mesela Starbucks'da otururken de makale okuyabilirsin ;)
 > 2) işlemcin en az i5 seviyesinde ve maksimum 2 jenerasyon eski olmalı, şu an itibariyle konuşursak (10. gen en yenisi) 8 olmalı...
 > 3) RAM en önemli bileşenin, en az 8 GB RAMin olmalı, sanal makina 1 tane çalıştırabilirsin adam gibi bu durumda, o yüzden 16 GB olursa çok daha rahat olur. En azından "victim" > makine de çalıştırabilirsin.
@@ -62,8 +62,8 @@ Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış 
 ###  Algoritmayı ve kod yazmayı ücretsiz nasıl öğreniriz?
 Algoritma mantığını öğrenmek için https://www.hackerrank.com/ biçilmiş bir kaftan. Gene kod yazmanın mantığını anlamak için https://edabit.com/ önerebileceğim bir site. Algoritmaya yönelik gene https://www.codewars.com/ var. Ve sıfırdan başlamak için https://www.freecodecamp.org/. Eger üniversiteye gidiyorsanız Github Education Pack ücretsiz olarak alabilir ve birçok ürün ve eğitime bedava erişebilirsiniz(domain, hosting dahil) https://education.github.com/pack .
 
-### Peki, Yeni yazilimciya onerilerin neler? Ne yapmak lazim?
-İnternette buldugum bir topluluk var, bu konuya harika yanıt vermiş..
+### Peki, Yeni yazılımcıya önerilerin neler? Ne yapmak lazım?
+İnternette bulduğum bir topluluk var, bu konuya harika yanıt vermiş..
 bir göz at... paha biçilemez tavsiyeler ile süslü...
 
 https://www.birlikteihracat.com/yeni-yazilimciya-oneriler/
@@ -75,8 +75,8 @@ En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, 
 Tüm siber güvenlik dallarını şurada inceledim, bir bak: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md 
 
 ### Abi Udemy'de/hedehodode/XYZde ıvırda zıvırda, TÜRKÇE bir eğitim buldum, Nasıl?
-Sevgili dostum, Udemy de birçok kişinin egitimlerini bulabilirsin, eğitimin iyisi kötüsü olmaz. Sen bilginin işine yarayan kısmını al... Yanlış olduğunu eksik olduğunu düşündüğün alanlarını araştır ve kendini geliştirmeye devam et.
-Kişisel olarak benim herhangi bir Udemy Türkce içeriğine tavsiye veya öneride bulunmam ne yazık ki mümkün değil, cünkü o eğitimlerin hiçbirini alıp, incelemedim. İncelemeyi de düşünmüyorum. Duyduğum yorumlar genel olarak, Udemy'deki değerlendirme ve yorumlarla aynı şekilde, o sebeple incele oku. Kararını kendin ver.
+Sevgili dostum, Udemy de birçok kişinin eğitimlerini bulabilirsin, eğitimin iyisi kötüsü olmaz. Sen bilginin işine yarayan kısmını al... Yanlış olduğunu eksik olduğunu düşündüğün alanlarını araştır ve kendini geliştirmeye devam et.
+Kişisel olarak benim herhangi bir Udemy Türkçe içeriğine tavsiye veya öneride bulunmam ne yazık ki mümkün değil, çünkü o eğitimlerin hiçbirini alıp, incelemedim. İncelemeyi de düşünmüyorum. Duyduğum yorumlar genel olarak, Udemy'deki değerlendirme ve yorumlarla aynı şekilde, o sebeple incele oku. Kararını kendin ver.
 Ben özel olarak bir yorum veya tavsiyede bulunanamam.
 
 Dersen ki İngilizce kaynak lazım bana, o zaman az aşağıda "The Cyber Mentor" un ücretli eğitimleri var, zaman zaman Twitter ve LinkedIn'den bunların indirim ve benzeri kodlarını yayınlıyor, gözat istersen.( TCM yeni adresi : https://academy.tcm-sec.com/ ) /
@@ -105,7 +105,7 @@ odalarına bakabilirsin,
 ### Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
 
-### X bilimleri vs Y Muhendisligi vs Z tornacılığı ya da siber güvenlik mühendislik uzmanlığı profesorlüğü bölümü? Hangisini seçersem "siberci" olurum?
+### X bilimleri vs Y Mühendisliği vs Z tornacılığı ya da siber güvenlik mühendislik uzmanlığı profesorlüğü bölümü? Hangisini seçersem "siberci" olurum?
 E) Hepsi. 
 Olay sende bitiyor dostum, kendini nasıl geliştirip, katma değer üretirsen o şekilde ilerlersin.
 
@@ -144,7 +144,7 @@ Bak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watc
 ### Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?  
 Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra İngilizce'nizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi, bu yaz kampları vs. var, birçok firma düzenliyor, bir de özgür yazılım için vs. için de var bazı dernekler yapıyor... Onlara da katılabilirsiniz bayağı faydalılar. 
 
-Türkçe kaynak olarak https://bilgeis.net/tr var, yine ucretsiz olan.
+Türkçe kaynak olarak https://bilgeis.net/tr var, yine ücretsiz olan.
 
 ### Peki abi, ben LINUX u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım?
 Şimdi sevgili kardeşim, bu sayfanın bir çok yerinde bulunanan siber güvenlik eğitim linklerinin içinde, temel linux eğitimleri var. Ancak sen dersen ki, bana sadece o kısım lazım... o zaman aşağıdaki ücretsiz siteye bir bak, sadece linux degil, aynı zamanda Docker, Kubernetes vs gibi eğitimlerde var (Kubernetes geliyor yoldaymış).
@@ -282,7 +282,7 @@ Siber güvenlik ile ilgili kursların, labların olduğu bir site : https://app.
 Penetration test web sitesi: https://www.tutorialspoint.com/penetration_testing/index.htm \
 Ctf sitesi: https://captf.com/ \
 Web Application Pentest ile ilgileniyorsanız, BurpSuite'in yapımcılarının eğitim sayfası: https://portswigger.net/ \
-Zafiyetli makinalari bilgisayarınıza kurup test edebileceğiniz bir web sitesi: https://www.vulnhub.com/ \
+Zafiyetli makinaları bilgisayarınıza kurup test edebileceğiniz bir web sitesi: https://www.vulnhub.com/ \
 Ücretli ve ücretsiz eğitimlerin bulunduğu bir web sitesi: https://www.cybrary.it/ \
 Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir web sitesi: https://hackerone.com/ \
 Bugcrowd sitesinin eğitimleri: https://www.bugcrowd.com/hackers/bugcrowd-university/ \
@@ -319,6 +319,11 @@ https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/
 #### Udemy 
 https://www.reddit.com/r/udemyfreebies/ \
 https://www.udemy.com/course/gokhanmuharremoglu/
+ 
+### Para verip sertifikasını alabileceğiniz ücresiz kurslar
+https://www.edx.org/course/cybersecurity-basics \
+https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=de2e4ba53714d083bf68f2463b6cc33c&position=1 \
+https://www.edx.org/course/introduction-to-linux?index=product&queryID=774b903ad29ee024fea69bbd4f3ea99c&position=1
 
 #### Youtube 
 Sektörün deneyimlilerinden gençlere tavsiyeler (Can Değer Farkıyla): https://www.youtube.com/watch?v=NGxlNDSvaY4 \
@@ -668,6 +673,7 @@ https://github.com/The-Art-of-Hacking/h4cker \
 https://github.com/sundowndev/hacker-roadmap \
 https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules \
 https://github.com/Tib3rius/Pentest-Cheatsheets \
-https://github.com/Tib3rius/AutoRecon
+https://github.com/Tib3rius/AutoRecon \
+https://github.com/EdOverflow/bugbounty-cheatsheet 
 
 </details>
