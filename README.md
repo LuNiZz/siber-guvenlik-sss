@@ -318,7 +318,12 @@ https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/
 ### Ücretsiz Kurslar
 #### Udemy 
 https://www.reddit.com/r/udemyfreebies/ \
-https://www.udemy.com/course/gokhanmuharremoglu/
+https://www.udemy.com/course/gokhanmuharremoglu/ \
+ 
+#### Harvard'ın CS50 Ders Kayıtları
+https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
+NOT: Aynı zamanda Zoom üzerinden de sınıftan canlı yayın yapılmaktadır ancak derslere giriş yapmak için önceden kayıt olmak gerekiyor.
+Canlı Derslere Kayıt: https://cs50.harvard.edu/x/2021/zoom/
  
 ### Para verip sertifikasını alabileceğiniz ücresiz kurslar
 https://www.edx.org/course/cybersecurity-basics \
