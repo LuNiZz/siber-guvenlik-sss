@@ -60,7 +60,7 @@ böyle...
 Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın, ben 40 yaşından sonra SEO, Youtube, Twitch'ten yayın yapma olayını öğrendim :) Digital Marketing olayını, video editing olayını çözdüm... Önemli olan, methodu bilmen, araştırma yapabilmen, bilgiye nasıl kolayca ulaşılabileceğini bilmen...
 
 ###  Algoritmayı ve kod yazmayı ücretsiz nasıl öğreniriz?
-Algoritma mantığını öğrenmek için https://www.hackerrank.com/ biçilmiş bir kaftan. Gene kod yazmanın mantığını anlamak için https://edabit.com/ önerebileceğim bir site. Algoritmaya yönelik gene https://www.codewars.com/ var. Ve sıfırdan başlamak için https://www.freecodecamp.org/. Eger üniversiteye gidiyorsanız Github Education Pack ücretsiz olarak alabilir ve birçok ürün ve eğitime bedava erişebilirsiniz(domain, hosting dahil) https://education.github.com/pack .
+Algoritma mantığını öğrenmek için https://www.hackerrank.com/ biçilmiş bir kaftan. Gene kod yazmanın mantığını anlamak için https://edabit.com/ önerebileceğim bir site. Algoritmaya yönelik gene https://www.codewars.com/ var. Ve sıfırdan başlamak için https://www.freecodecamp.org/. Eger ortaöğretim ve üstü ögrenim görüyorsanız Github Education Pack ücretsiz olarak alabilir ve birçok ürün ve eğitime bedava erişebilirsiniz(domain, hosting dahil) https://education.github.com/pack .
 
 ### Peki, Yeni yazılımcıya önerilerin neler? Ne yapmak lazım?
 İnternette bulduğum bir topluluk var, bu konuya harika yanıt vermiş..
