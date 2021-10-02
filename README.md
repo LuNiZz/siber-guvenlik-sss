@@ -86,21 +86,26 @@ Dersen ki İngilizce kaynak lazım bana, o zaman az aşağıda "The Cyber Mentor
 
 Kişisel güvenlik için İngilizce bir checklist var burada, bir bak... Bütün önemli konuları kapsıyor... https://github.com/LuNiZz/personal-security-checklist
 
+### Bu Linuxu nasıl öğrenicez?
 
+Linuxun komutlarını öğrenmek için açıyosun karşına https://cmdchallenge.com/ sitesini yavaş yavaş öğrenmeye başlıyosun, orada solutionları vesaire de var, takıldığın yerde de googledan yardım ala ala yolunu bulmaya başlarsın linuxta. Ayrıca tamamen sıfırsan https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Linux-ve-Pentesting-Baslangic.md dosyasına ve ayrıca https://linux-dersleri.github.io/ linkine bakabilirsin.
 
 ### Web uygulama güvenliği için iyi bir kaynak biliyor musun?
 Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10 
-https://tryhackme.com/room/rpburpsuite << burp suite odasına,  
+https://tryhackme.com/room/rpburpsuite << burp suite odasına (Premium oda),
+https://tryhackme.com/room/networkservices << network services odasına (Premium oda),
 https://tryhackme.com/room/learnowaspzap << owasp zap odasına,   
 https://tryhackme.com/room/webfundamentals << web fundementals odasına,   
 https://tryhackme.com/room/webappsec101 << webappsec101 odasına,  
+https://tryhackme.com/room/rpmetasploit << metasploit odasına,
 ve ardından kendini test etmek için;   
 https://tryhackme.com/room/vulnversity   
 https://tryhackme.com/room/juiceshop   
 https://tryhackme.com/room/rpwebscanning   
 https://tryhackme.com/room/dvwa   
 https://tryhackme.com/room/jack  
-odalarına bakabilirsin, 
+odalarına bakabilirsin.
+- Ayrıca, TryHackMe üzerinde forensics, cryptography, pentesting gibi konular üzerinde bir sürü oda bulunuyor.
 
 ### Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
@@ -322,7 +327,8 @@ https://www.udemy.com/course/gokhanmuharremoglu/ \
  
 #### Harvard'ın CS50 Ders Kayıtları
 https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
-NOT: Aynı zamanda Zoom üzerinden de sınıftan canlı yayın yapılmaktadır ancak derslere giriş yapmak için önceden kayıt olmak gerekiyor.
+- Bu youtube kanalında Zoom üzerinden yayınlanan canlı dersler de yayınlanıyor.
+- NOT: Aynı zamanda Zoom üzerinden de sınıftan canlı yayın yapılmaktadır ancak derslere giriş yapmak için önceden kayıt olmak gerekiyor.
 Canlı Derslere Kayıt: https://cs50.harvard.edu/x/2021/zoom/
  
 ### Para verip sertifikasını alabileceğiniz ücresiz kurslar
@@ -389,15 +395,17 @@ https://www.geeksforgeeks.org/computer-network-tutorials/ \
 <details>
 
 <summary> Kitaplar </summary>
+ 
 Başlamadan önce hack kültürü ile alakalı bir E-kitap: http://ekitap.alternatifbilisim.org/pdf/hack-kulturu-ve-hacktivizm.pdf
-https://goalkicker.com/ \
-https://dlscrib.com/download/web-hacking-101_58c08143e12e890320add376_pdf \
-http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf \
-Çok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 \
-Türkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf \
-The Phoenix Project: https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO \
-The Unicorn Project: https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41 \
-The Goal: https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O
+- https://goalkicker.com/ 
+- https://dlscrib.com/download/web-hacking-101_58c08143e12e890320add376_pdf 
+- http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf 
+- Çok iyi Türkçe kaynak: https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125 
+- Türkçe bir kaynak daha: https://www.bilgiguvenligi.org.tr/wp-content/uploads/2020/01/siber-guvenlik-cilt-3.pdf 
+- The Phoenix Project: https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO 
+- The Unicorn Project: https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41 
+- The Goal: https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O
+- Herkes için Siber Güvenlik: https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf
 
 </details>
 
