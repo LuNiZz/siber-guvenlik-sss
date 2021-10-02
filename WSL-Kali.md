@@ -124,4 +124,3 @@ Daha sonra kali tweaks menüsüne girip oradan sisteminizde olmayan başka tooll
 ```powershell
 kali config --default-user root
 ```
-1
