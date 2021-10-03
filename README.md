@@ -130,6 +130,19 @@ haberler ve güncel mevzulara bakmak için ideal bir iki link de bırakayım yer
 ### Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
 Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
 
+### Herşey çok iyi çok güzel de bu pitonu nasıl öğrenicez?
+İnternette birsürü Türkçe ve İngilizce şahane kaynaklar var. Türkçe kaynaklarla başlayalım:
+- [Yazbel](https://python-istihza.yazbel.com/) - _*Ücretsiz*_ bir başlangıç kaynağı
+- [Python3-Baslangic.md](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Python3-Baslangic.md) - Community tarafından hazırlanan Python3-Baslangic.md dosyası
+- [Atıl Samancıoğlu](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) - _*Ücretli*_ bir eğitim, indirimlerde 30 tlye kadar düşüyo \
+İngilizce Kaynaklar:
+- [freeCodeCamp YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) - _*Ücretsiz*_ bir başlangıç eğitimi
+- [CodeAcademy](https://www.codecademy.com/learn/learn-python-3) - Bir kısmı _*ücretsiz*_ bir kısmı _*ücretli*_ bir eğitim.
+- [EDX Georgia Tech University](https://www.edx.org/professional-certificate/introduction-to-python-programming) - _*Ücretsiz*_ bir başlangıç eğitimi \
+\
+Tabi ki daha fazlasını googlelayarak bulabilirsiniz.
+
+
 ### Abi İngilizcem yok! Ne yapıcam?  
 İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede İngilizce öğrenmen lazım. Duolingo vs. gibi İngilizce öğreten kaynakları ye, yut, bitir. Ayrıca dizi, film ile de İngilizce öğrenebilirsin.. (Ororo Tv, Dizilab vs. biliyorsun işte bunları nereden bulacağını) \
 Şöyle bir şey de var: https://www.voscreen.com/ \
