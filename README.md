@@ -91,6 +91,10 @@ Kişisel güvenlik için İngilizce bir checklist var burada, bir bak... Bütün
 Linuxun komutlarını öğrenmek için açıyosun karşına https://cmdchallenge.com/ sitesini yavaş yavaş öğrenmeye başlıyosun, orada solutionları vesaire de var, takıldığın yerde de googledan yardım ala ala yolunu bulmaya başlarsın linuxta. Ayrıca tamamen sıfırsan https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Linux-ve-Pentesting-Baslangic.md dosyasına ve ayrıca https://linux-dersleri.github.io/ linkine bakabilirsin.
 
 ### Web uygulama güvenliği için iyi bir kaynak biliyor musun?
+
+Adettendir, yine bir TCM videosu birakarak baslayalim        
+https://www.youtube.com/watch?v=X4eRbHgRawI        
+
 Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10 
 https://tryhackme.com/room/rpburpsuite << burp suite odasına (Premium oda),
 https://tryhackme.com/room/networkservices << network services odasına (Premium oda),
