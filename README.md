@@ -62,6 +62,10 @@ Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış 
 ###  Algoritmayı ve kod yazmayı ücretsiz nasıl öğreniriz?
 Algoritma mantığını öğrenmek için https://www.hackerrank.com/ biçilmiş bir kaftan. Gene kod yazmanın mantığını anlamak için https://edabit.com/ önerebileceğim bir site. Algoritmaya yönelik gene https://www.codewars.com/ var. Ve sıfırdan başlamak için https://www.freecodecamp.org/. Eger ortaöğretim ve üstü ögrenim görüyorsanız Github Education Pack ücretsiz olarak alabilir ve birçok ürün ve eğitime bedava erişebilirsiniz(domain, hosting dahil) https://education.github.com/pack .
 
+###  Roadmap
+Roadmap diye bir site var, burada sana yol haritaları çiziliyor olmak istediğin alanı seç ve öğren.
+https://roadmap.sh/
+
 ### Peki, Yeni yazılımcıya önerilerin neler? Ne yapmak lazım?
 İnternette bulduğum bir topluluk var, bu konuya harika yanıt vermiş..
 bir göz at... paha biçilemez tavsiyeler ile süslü...
