@@ -174,9 +174,7 @@ Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli 
 > Turkce kaynak icin guzel bence!
 > https://www.btkakademi.gov.tr/portal/course/uygulamal-s-zma-testi-egitimi-16025#!/about
 
-Turkce icerik arayanlara, tavsiye olunur.
-
-Türkçe kaynak olarak https://bilgeis.net/tr var, yine ücretsiz olan.
+Bir de, https://bilgeis.net/tr var, yine ücretsiz olan.
 
 ### Peki abi, ben LINUX u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım?
 Şimdi sevgili kardeşim, bu sayfanın bir çok yerinde bulunanan siber güvenlik eğitim linklerinin içinde, temel linux eğitimleri var. Ancak sen dersen ki, bana sadece o kısım lazım... o zaman aşağıdaki ücretsiz siteye bir bak, sadece linux degil, aynı zamanda Docker, Kubernetes vs gibi eğitimlerde var (Kubernetes geliyor yoldaymış).
