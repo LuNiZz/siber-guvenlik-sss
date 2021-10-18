@@ -170,6 +170,11 @@ Bak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watc
 ### Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?  
 Yarar kardeşim. Hiçbir şey olmazsa temel olur. Bilgiden zarar gelmez. Temeli alın sonra İngilizce'nizi ilerletin. Ondan sonra da internetteki ücretsiz kaynaklara yönelin. Aklıma geldi, bu yaz kampları vs. var, birçok firma düzenliyor, bir de özgür yazılım için vs. için de var bazı dernekler yapıyor... Onlara da katılabilirsiniz bayağı faydalılar. 
 
+`Evet mesela, BTKAkademi  de yer alan ve Caner Koroglu'nun hazirladigi "Uygulamali Sizma Testi Egitimi" yenilenmis. Turkce kaynak icin guzel bence!
+https://www.btkakademi.gov.tr/portal/course/uygulamal-s-zma-testi-egitimi-16025#!/about`
+
+Turkce icerik arayanlara, tavsiye olunur.
+
 Türkçe kaynak olarak https://bilgeis.net/tr var, yine ücretsiz olan.
 
 ### Peki abi, ben LINUX u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım?
