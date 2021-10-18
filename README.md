@@ -39,36 +39,6 @@ Aramıza hoş geldin ve görüşürüz!
 
 # İçindekiler:
 * [<img src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="soru-cevap" border="0"> Sıkça Sorulan Sorular](/SSS_Sikca_Sorulan_Sorular.md)
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Nereden başlamalıyım?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Hangi bilgisayarı almalıyım hem yazılım hem siber güvenlik ve benzeri konular için?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Abi selam, XX yaşındayım sence geç kalmış olabilir miyim?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Algoritmayı ve kod yazmayı ücretsiz nasıl öğreniriz?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Roadmap
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Peki, Yeni yazılımcıya önerilerin neler? Ne yapmak lazım?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Abi Udemy'de/hedehodode/XYZde ıvırda zıvırda, TÜRKÇE bir eğitim buldum, Nasıl?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Nasıl kendimi hack saldırılarından korurum?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Bu Linuxu nasıl öğrenicez?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Web uygulama güvenliği için iyi bir kaynak biliyor musun?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Üniversite okumalı mıyım?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> X bilimleri vs Y Mühendisliği vs Z tornacılığı ya da siber güvenlik mühendislik uzmanlığı profesorlüğü bölümü? Hangisini seçersem "siberci" olurum?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Ben eğitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık her türlü Pentesting, Web App Testing, Siber Güvenlik konularına hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Herşey çok iyi çok güzel de bu pitonu nasıl öğrenicez?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Abi İngilizcem yok! Ne yapıcam?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Oyun geliştirme konusu da çok ilgimi çekiyor, siber güvenlik de. Ne yapacağım? Hangisini seçmeliyim?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Abi Instagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? Ivır nedir abi? Zıvır nedir abi?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Peki abi, ben LINUX u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Bir cok eğitimin içinde anlatılıyor ama sadece Networking öğrenmek için hangi eğitime bakmalıyım?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edicem, bir şeyleri kırmadan dökmeden?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Ben kendi laboratuvarımı kurmak istiyorum nasıl yapıcam?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Kendime nasıl VPN kurabilirim?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Kali Linux mu? Parrot mu?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?
-    - <img src="https://i.ibb.co/60vmbR0/soru.png" alt="soru" border="0"> Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?
 * [<img src="https://i.ibb.co/2dzQnY9/twitch.png" alt="twitch" border="0"> Tüm geçmiş Twitch Yayınları](/Faydali-Bilgiler/Tum_Gecmis_Twitch_Yayinlari.md)
 * [<img src="https://i.ibb.co/gmLfmCy/bug.png" alt="bug" border="0"> Bug Bounty Mevzusu](/Faydali-Bilgiler/Bug_Bounty_Mevzusu.md)
 * [<img src="https://i.ibb.co/NLkznCJ/yildiz.png" alt="yildiz" border="0"> AWESOME serisi](/Faydali-Bilgiler/AWESOME_Serisi.md)
