@@ -9,5 +9,5 @@
 - web uygulama guvenligi TUBITAK : https://afyonluoglu.org/PublicWebFiles/cyber/egitim/sgep/SGEP-UYG303.pdf
 - BTKAKADEMI                     
 -- web guvenligi : https://www.btkakademi.gov.tr/portal/course/web-uygulama-guvenligi-10587#!/about                 
--- Uygulamali Sizma Testi Egitimi : https://t.co/UujGK4FW9p?amp=1                     
+-- uygulamali sizma testi egitimi : https://t.co/UujGK4FW9p?amp=1                     
      
