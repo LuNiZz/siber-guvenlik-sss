@@ -6,7 +6,7 @@
 > - Twitch Yayın Akışı : [![Twitch](https://img.shields.io/twitch/status/lunizz)](https://twitch.com/lunizz)  
 >   - Tüm geçmiş yayınlar [LuNiZz Twitch kanalı](https://www.twitch.tv/lunizz/videos)nda! (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar.)
 >
->> ***Unutma! Yayınlar SALI - PERŞEMBE - PAZAR günleri saat 20.00'de*** 
+> ***Unutma! Yayınlar PERŞEMBE - PAZAR günleri saat 20.00'de*** 
 >
 > ### Topluluk ve Sosyal Medya Hesapları
 > |               |                                                                                                                                                |
@@ -32,6 +32,10 @@ Ayrıca yayın geçmişinde yer alan videoların toplu playlist hali de bulunuyo
 Aramıza hoş geldin ve görüşürüz!
 
 ### *-LuNiZz*    
+
+### Unutmadan, asagida siniflandirdigimiz linklerin her birinin icerisinde, delidumrul kaynaklar var ;) hepsine tek tek bakmani oneririm..
+### SIK SORULAN SORULAR bolumu, siber guvenlik ile ilgili yoneltilen SIK sorularin bulundugu yer. Oradan baslayabilirsin.
+
 
 ---
 
