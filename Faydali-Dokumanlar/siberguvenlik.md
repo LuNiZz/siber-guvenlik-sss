@@ -1,7 +1,7 @@
 [SSS sayfasına geri dön](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/README.md)
 
 # Siber Güvenlik Dalları ve Sertifikaları   
-![](images/seccerts.png)
+<img src="https://i.ibb.co/3M2Tp0c/seccerts.png" alt="seccerts" border="0">
 * Yukarıda günümüzde yaygın olarak yer alan siber güvenlik dallarını ve bu dallarda etkin kullanılan sertifikaları görebilirsiniz.  
 * Ayrıca aşağıdaki linkte bunların tıklanabilir ve detaylı bilgi alınabilir versiyonunu da ekliyorum.  
 https://lunizz.github.io/seccert.html
@@ -41,6 +41,7 @@ Twitch'teki yayınlara gelirseniz, bunlar üzerine sohbet etme ve varsa sorular�
 https://twitch.tv/lunizz
 
 Ayrıca yakın zamanda bununla ilgili bir video çekip Youtube kanalıma koymayı planlıyorum. Koyduğumda burayı güncellerim.
-![top10](https://pbs.twimg.com/media/Eb8MV7dWoAAKWZi?format=jpg&name=large)
+![top10](https://pbs.twimg.com/media/Eb8MV7dWoAAKWZi?format=jpg&name=large)  
 
+[← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
 

@@ -634,4 +634,6 @@ system("dir") # çalıştırdığınız dizindeki bütün öğeleri gösterir.
 time.sleep(5) # programın 5 saniye boyunca durmasını sağlar.
 ```
 
-Bu sayfada göstereceklerim bu kadardır arkadaşlar, hatalarla karşılaşırsanız çok büyük olasılıkla stackoverflow'da çözümlerini bulabilirsiniz.
+Bu sayfada göstereceklerim bu kadardır arkadaşlar, hatalarla karşılaşırsanız çok büyük olasılıkla stackoverflow'da çözümlerini bulabilirsiniz.  
+
+[← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)

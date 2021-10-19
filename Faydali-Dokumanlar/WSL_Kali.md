@@ -21,12 +21,12 @@ Bu dosyada WSL'in aktifleştirilmesi ve WSL ile Kali kurmayı öğreneceğiz.
 
 İlk olarak Windows tuşuna basıp "Windows özelliklerini aç veya kapat" ya da Windowsunuz İngilizceyse "Turn Windows features on or off" şeklinde aratıp ilk sonuca tıklayın
 
-![](images/wsl0.png)
+<img src="https://i.ibb.co/99wtmv4/wsl0.png" alt="wsl0" border="0">
 
 Daha sonra gelen ekranda Linux için Windows Alt Sistemi kutusunu ve Sanal Makina Platformu kutusunu işaretleyin ve tamama tıklayın.
 
 
-![](images/wsl1.png)
+<img src="https://i.ibb.co/985D3DW/wsl1.png" alt="wsl1" border="0">
 
 Özellikler bilgisayara indikten sonra bilgisayarı yeniden başlatın ve <a href=https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi>buraya</a> tıklayarak wsl2 kernelini indirip bilgisayarınıza kurun ve bilgisayarınızı tekrar yeniden başlatın.
 
@@ -47,7 +47,7 @@ wsl --shutdown
 
 Micorosft Store'a girip Kali Linux diye aratın.
 
-![](images/wsl2.png)
+<img src="https://i.ibb.co/P5DMc5B/wsl2.png" alt="wsl2" border="0">
 
 Yukarıdaki uygulamayı bulup indirin.
 
@@ -81,7 +81,7 @@ sudo apt install kali-win-kex
 ```
 Paket yüklenirken karşınıza "Configuring keyboard-configuration" ekranı gelecek.
 
-![](images/wsl3.png)
+<img src="https://i.ibb.co/6rKYdw5/wsl3.png" alt="wsl3" border="0">
 
 Other'ı seçip daha sonra gelen ekranda Turkish gelene kadar aşağı ok tuşuna basıyoruz ve Turkish'i seçiyoruz.
 Gelen ekrandan tekrar Turkish'i seçiyoruz ve kurulum devam ediyor.
@@ -94,7 +94,7 @@ Komutunu kullanarak kex'i çalıştırın.
 
 Şifre girmenizi isteyecek ve daha sonra "Would you like to enter a view-only password (y/n)? " yazısı çıkacak. n yazıp entera basın ve bu adımı atlayın. Daha sonra bağlantıyı yaparken aşağıdaki ekran gelecek oraya az önce belirlediğiniz şifreyi yazacaksınız.
 
-![](images/wsl4.png)
+<img src="https://i.ibb.co/fxGtxC6/wsl4.png" alt="wsl4" border="0">
 
 Eğer hata alırsanız aşağıdaki komutları uygulayın:
 ```bash
@@ -123,4 +123,6 @@ Daha sonra kali tweaks menüsüne girip oradan sisteminizde olmayan başka tooll
 3- Kali'yi root olarak kullanmayı seviyorsanız aşağıdaki komutu powershell'e yazarak kali açıldığında direk root hesabına giriş yapabilirsiniz
 ```powershell
 kali config --default-user root
-```
+```  
+
+[← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
