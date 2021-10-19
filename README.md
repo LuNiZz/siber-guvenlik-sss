@@ -47,6 +47,7 @@ Aramıza hoş geldin ve görüşürüz!
 * [<img width="18" src="https://i.ibb.co/gmLfmCy/bug.png" alt="bug" border="0"> Bug Bounty Mevzusu](/Faydali-Bilgiler/Bug_Bounty_Mevzusu.md)
 * [<img width="18" src="https://i.ibb.co/NLkznCJ/yildiz.png" alt="yildiz" border="0"> AWESOME serisi](/Faydali-Bilgiler/AWESOME_Serisi.md)
 * [<img width="18" src="https://i.ibb.co/86yT26f/google.png" alt="google" border="0"> Google nasıl kullanılır?](/Faydali-Bilgiler/Google_Nasil_Kullanilir.md)
+* [<img width="18" src="https://i.ibb.co/T0cJW4S/turkey-flag-xs.png" alt="TR" border="0"> Turkce Icerikler ve Kaynaklar?](/trkaynak/readme.md)
 * [<img width="18" src="https://i.ibb.co/LPJQsPC/link.png" alt="link" border="0"> Faydalı Bağlantılar](/Faydali-Baglantilar)
    - [<img width="18" src="https://i.ibb.co/HGBjbmL/cheat-sheetler.png" alt="cheat-sheetler" border="0"> Cheat Sheet'ler](/Faydali-Baglantilar/Cheat_Sheet-ler.md)  
    - [<img width="18" src="https://i.ibb.co/10rz1Xh/cesitli-kaynaklar.png" alt="cesitli-kaynaklar" border="0"> Çeşitli Kaynaklar](/Faydali-Baglantilar/Cesitli_Kaynaklar.md)  
