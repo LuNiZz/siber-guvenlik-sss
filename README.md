@@ -6,16 +6,11 @@
 > - Twitch Yayın Akışı : [![Twitch](https://img.shields.io/twitch/status/lunizz)](https://twitch.com/lunizz)  
 >   - Tüm geçmiş yayınlar [LuNiZz Twitch kanalı](https://www.twitch.tv/lunizz/videos)nda! (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar.)
 >
-> ***Unutma! Yayınlar PERŞEMBE - PAZAR günleri saat 20.00'de*** 
+>
 >
 > ### Topluluk ve Sosyal Medya Hesapları
-> |               |                                                                                                                                                |
-> | :---:         | ---                                                                                                                                            |  
-> | Discord:      | [![Discord](https://discord.com/api/guilds/181008728286298112/widget.png)](https://dc.lunizz.com)                                              |
-> | Twitter:      | [![Twitter](https://img.shields.io/twitter/follow/candeger?style=social)](https://twitter.com/candeger)                                        |
-> | Youtube:      | [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCL1Rp1QrhuRhl-sjP5KYwhw?label=Can%20Deger&logo=Youtube&style=for-the-badge)](https://youtube.com/candeger)                                                                                                                                     |
-> | Instagram:    | [Takip Et!](https://instagram.com/candeger)                                                                                                    |
-> |               |                                                                                                                                                |
+> https://www.lunizz.com       
+
 
 Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoş geldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
 Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
