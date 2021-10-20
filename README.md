@@ -1,6 +1,6 @@
 <!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
-# LuNiZz Sıkça Sorulan Sorular Sayfasına Hoş Geldin!
-> ## Başlamadan Önce
+## LuNiZz Sıkça Sorulan Sorular Sayfasına Hoş Geldin!
+> ### Başlamadan Önce
 > [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.siber-guvenlik-sss)](#)
 >
 > - Twitch Yayın Akışı : [![Twitch](https://img.shields.io/twitch/status/lunizz)](https://twitch.com/lunizz)  
