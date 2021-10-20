@@ -19,14 +19,12 @@ Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm
 Ayrıca yayın geçmişinde yer alan videoların toplu playlist hali de bulunuyor, linkler arasında ve görsel olarak nasıl izleyebileceğini anlattım.
 
 [*"Hacking The TEMEL video serisi"*](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ) bu iş için başlangıç konularını irdeliyor, eğer yeni başladıysan ona özellikle göz atmanı tavsiye ederim.  
-> (Mouse'u videonun sol üst köşesine getirirsen diğer bütün videolar listelenir.)  
-
 Aramıza hoş geldin ve görüşürüz!
 
 #### *-LuNiZz*    
 
-##### Unutmadan, asagida siniflandirdigimiz linklerin her birinin icerisinde, delidumrul kaynaklar var ;) hepsine tek tek bakmani oneririm..
-##### SIK SORULAN SORULAR bolumu, siber guvenlik ile ilgili yoneltilen SIK sorularin bulundugu yer. Oradan baslayabilirsin.
+##### Asagida siniflandirdigimiz linklerin her birinin icerisinde, delidumrul kaynaklar var ;) 
+##### SIK SORULAN SORULAR bolumu, siber guvenlik ile ilgili yoneltilen SIK sorularin bulundugu yer. 
 
 
 ---
