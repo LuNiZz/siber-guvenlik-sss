@@ -1,3 +1,4 @@
+- Bol goygoylu, TryHackMe'nin baslangic odalarini yaptigim, [*"Hacking The TEMEL video serisi"*](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ) (videolari hizli da seyret bence ;) )
 - nmap, dirb, nikto, wappalyzer, burpsuite, hydra, wpscan, wireshark, metasploit gibi populer araclarin kullaniminin anlatildigi egitim videosu : https://www.youtube.com/watch?v=bSD2-mLUO4I
 - web uygulama guvenligi egitimleri :             
 --   https://www.youtube.com/watch?v=WqY4oUPiPw0              
