@@ -8,8 +8,7 @@
 >
 >
 >
-> ### Topluluk ve Sosyal Medya Hesapları
-> https://www.lunizz.com       
+> ### Topluluk ve Sosyal Medya Hesapları >>> https://www.lunizz.com       
 
 
 Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoş geldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
