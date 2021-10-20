@@ -16,8 +16,6 @@ Ayrıca yaptığımız yayınlara gelip göz atabilirsin...
 
 Aşağıda bana sıkça sorulmuş sorulara bir göz atarak başlamanı öneririm, onun altında kapalı menüler halinde birçok kaynak var, her birine bir göz at.
 
-> Özellikle *KURSLAR, ÇEŞİTLİ KAYNAKLAR, TAKİP EDİLESİ YOUTUBE KANALLARI* başlıklarında bulunan bilgiler bir çok soruna cevap olabilir.
-
 Ayrıca yayın geçmişinde yer alan videoların toplu playlist hali de bulunuyor, linkler arasında ve görsel olarak nasıl izleyebileceğini anlattım.
 
 [*"Hacking The TEMEL video serisi"*](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ) bu iş için başlangıç konularını irdeliyor, eğer yeni başladıysan ona özellikle göz atmanı tavsiye ederim.  
