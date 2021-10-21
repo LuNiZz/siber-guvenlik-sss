@@ -86,7 +86,6 @@ Lütfen adınızı girin: Can Değer
 
 
 # Değişkenler
----
 
 ## Herhangi bir şeyin uzunluğunu/element sayısını öğrenme
 ```python
@@ -316,8 +315,7 @@ Yukarıdaki kod bir değişkenin tipini öğrenmemizi sağlar. Örnek kullanım:
 
 
 
-### DÖNGÜLER VE KARŞILAŞTIRMALAR
----
+# DÖNGÜLER VE KARŞILAŞTIRMALAR
 
 ## if, elif, else
 
@@ -482,8 +480,8 @@ ab
 
 
 
-### FONKSIYONLAR VE NESNELER
----
+# FONKSIYONLAR VE NESNELER
+
 ## def()
 
 ### DİKKAT
@@ -517,8 +515,8 @@ Ben bir öğrenciyim.
 
 
 
-### Fonksiyon argümanları
----
+## Fonksiyon argümanları
+
 ## Default Argument
 ```python
 >>> def tam_ad(ad="john", soyad="doe"):
@@ -597,8 +595,8 @@ Can Değer
 
 
 
-### HATA KONTROLÜ
----
+# HATA KONTROLÜ
+
 ## try, except, finally
 
 ### DİKKAT
@@ -648,8 +646,8 @@ Kod çalıştı.
 
 
 
-### MODÜLLER
----
+# MODÜLLER
+
 Modüller import komutuyla kullanılır.
 Modüller hakkında daha fazla bilgiyi modüller dökümantasyonundan okuyabilirsiniz
 Örnek built-in modüller:
