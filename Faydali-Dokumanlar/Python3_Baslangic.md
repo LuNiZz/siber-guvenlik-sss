@@ -11,6 +11,8 @@ Basit kodlar ve açıklamaları:
 ## Pythonda yorumlar
 
 Pythonda yorum satırı olarak yani koda etki etmeyecek yazılar eklenmek istediği zaman yorum kısmı tek satırsa veya bir satırın devamıysa "#", eğer birden fazla satır kullanacaksanız yorumun başına ve sonuna üç tane tırnak koymanız gerekiyor. '''çok satırlı yorum''' 
+<p>&nbsp;</p>
+
 
 
 ## print()
@@ -18,7 +20,7 @@ Pythonda yorum satırı olarak yani koda etki etmeyecek yazılar eklenmek istedi
 ```python
 print(deger)
 ```
-Yukarıdaki kod içine yazılan şeyin çıktısını alır.
+Yukarıdaki kod, içine yazılan şeyin çıktısını alır.
 Örnek kullanım:
 ```python
 >>> print("selam")
@@ -28,8 +30,9 @@ selam
 >>> print(7.2)
 7.2
 ```
+<p>&nbsp;</p>
 
----
+
 
 ## a = "b"
 
@@ -57,35 +60,34 @@ selam
 >>> print(sozluk)
 {'a': 'b', 'c': 'd'}
 ```
----
+<p>&nbsp;</p>
+
+
 
 ## f-String
-
 f-String kullanmak için stringi a = f"" kullanmak gerekir. f-String kullandığımızda stringin içinde değişken kullanabiliriz.
 Örnek Kullanım:
 ```python
 >>> ad = "Can Değer"
 >>> print(f"Hoş geldin {ad}")
 ```
+<p>&nbsp;</p>
 
 
----
 
-## Input almak
-
+## Kullanıcıdan bilgi toplamak
 ```python
 >>> ad = input("Lütfen adınızı girin: ")
 Lütfen adınızı girin: Can Değer
 >>> print(f"Hoşgeldin, {ad}")
 ```
+<p>&nbsp;</p>
 
 
----
 
 ## Değişkenler
 
 ### Herhangi bir şeyin uzunluğunu/element sayısını öğrenme
-
 ```python
 >>> s = "selamlar"
 >>> l = ["a", 123, 7.8]
@@ -97,8 +99,11 @@ Lütfen adınızı girin: Can Değer
 >> print(len(d))
 2
 ```
+<p>&nbsp;</p>
 
-### Sözlük, liste, veya stringde belli bir sıradaki bir elementi görmek için köşeli parantez ([]) kullanılır.
+
+
+### Sözlük, liste, veya değişkende belli bir sıradaki bir elementi görmek için köşeli parantez ([]) kullanılır.
 Örnek Kullanım:
 ```python
 >>> liste = ["a", 123, 7.8]
@@ -115,8 +120,11 @@ Sözlüklerde bir elementi çağırmak için "key" yani anahtar ile çağırır�
 >>> print(sozluk['a'])
 b
 ```
+<p>&nbsp;</p>
 
-### Stringe yazı eklemek
+
+
+### Değişkene yazı eklemek
 
 ```python
 >>> a = "b"
@@ -126,37 +134,45 @@ b
 >>> print(a)
 bk
 ```
+<p>&nbsp;</p>
 
-### Stringteki yazıyı değiştirmek
 
+
+### Değişkendeki yazıyı değiştirmek
 ```python
 >>> a = "selamlar."
->>> a = a.replace("s", "S") # İlk değer stringte değiştirilmesi istenen değer, ikinci değer ise olması istenen değer.
+>>> a = a.replace("s", "S") # İlk değer değişkende değiştirilmesi istenen değer, ikinci değer ise olması istenen değer.
 >>> print(a)
 Selamlar.
 ```
+<p>&nbsp;</p>
 
-### Stringi bölmek
 
-Stringi böldüğümüz zaman elimize bir liste gelecek.
+
+### Değişkeni bölmek
+Değişkeni böldüğümüz zaman elimize bir liste gelecek.
 ```python
->>> a = "Bu bir stringtir."
+>>> a = "Bu bir değişkendir."
 >>> r = a.split(" ") # Boşlukları silip diğer değerleri listeye atar
 >>> print(r)
-['Bu', 'bir', 'stringtir.']
+['Bu', 'bir', 'değişkendir.']
 ```
+<p>&nbsp;</p>
 
-### Stringte ilk harfi büyütmek
 
+
+### Değişkende ilk harfi büyütmek
 ```python
 >>> a = "merhaba."
 >>> a = a.capitalize()
 >>> print(a)
 Merhaba.
 ```
+<p>&nbsp;</p>
 
-### Stringte bütün harfleri büyütmek veya küçültmek
 
+
+### Değişkende bütün harfleri büyütmek veya küçültmek
 ```python
 >>> a = "merhaba".
 >>> a = a.upper()
@@ -166,47 +182,54 @@ MERHABA.
 >>> print(a)
 merhaba.
 ```
+<p>&nbsp;</p>
 
-### Stringin sayı olup olmadığını test etmek
 
+
+### Değişkenin sayı olup olmadığını test etmek
 ```python
 >>> a = "21"
 >>> a.isdigit() # Eğer değer True dönerse a = int(a) yazıp a'yı bir integer yani sayıya çevirebilirsiniz.
 True
 ```
+<p>&nbsp;</p>
+
 
 
 ### Listeye element ekleme
-
 ```python
 >>> l = []
 >>> l.append("a")
 >>> print(l)
 ['a']
 ```
+<p>&nbsp;</p>
+
+
 
 ### Listeden element silme
-
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.remove("a")
 >>> print(l)
 ['b', 'c', 'd']
 ```
+<p>&nbsp;</p>
+
 
 
 ### Listedeki elementi güncelleme
-
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l[0] = 42
 >>> print(l)
 [42, 'b', 'c', 'd']
 ```
+<p>&nbsp;</p>
+
 
 
 ### Listedeki son elementi silme
-
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.pop()
@@ -214,9 +237,7 @@ True
 >>> print(l)
 ['a', 'b', 'c']
 ```
-
-Belli bir indextekini silmek için
-
+- Belli bir indextekini silmek için
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.pop(0)
@@ -224,19 +245,22 @@ Belli bir indextekini silmek için
 >>> print(l)
 ['b', 'c', 'd']
 ```
+<p>&nbsp;</p>
+
 
 
 ### Listeyi tersine çevirmek
-
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.sort(reverse=True)
 >>> print(l)
 ['d', 'c', 'b', 'a']
 ```
+<p>&nbsp;</p>
+
+
 
 ### Sözlüğe element ekleme/elementi güncelleme
-
 ```python
 >>> d = {"a": "b", "c": "d"}
 >>> d['x'] = 'y'
@@ -246,9 +270,11 @@ Belli bir indextekini silmek için
 >>> print(d)
 {'a': 'z', 'c': 'd', 'x': 'y'}
 ```
+<p>&nbsp;</p>
+
+
 
 ### Sözlükten element silme
-
 ```python
 >>> d = {"a": "b", "c": "d"}
 >>> d.pop('a')
@@ -256,19 +282,16 @@ Belli bir indextekini silmek için
 >>> print(d)
 {'c': 'd'}
 ```
+<p>&nbsp;</p>
 
 
----
 
 ## type()
-
 ```python
 degisken = deger
 print(type(degisken))
 ```
-Yukarıdaki kod bir değişkenin tipini öğrenmemizi sağlar.
-Örnek kullanım:
-
+Yukarıdaki kod bir değişkenin tipini öğrenmemizi sağlar. Örnek kullanım:
 ```python
 >>> a = "selam" 
 >>> b = 123
@@ -289,8 +312,8 @@ Yukarıdaki kod bir değişkenin tipini öğrenmemizi sağlar.
 >>> print(type(f))
 <class 'bool'>
 ```
+<p>&nbsp;</p>
 
----
 
 
 # DÖNGÜLER VE KARŞILAŞTIRMALAR
@@ -302,22 +325,18 @@ if elif ve else kodları belli bir durumları karşılayan durumlarda kod çalı
 IF, ELIF ve ELSE KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
 ### DİKKAT
 IF, ELIF ve ELSE KULLANDIKTAN SONRA : KULLANILIR!!
-
 ```python
 if True:
     print(1)
 ```
-
 Opeartörler:
-- | > : Büyüktür
-- | < : Küçüktür
-- | == : Eşittir
-- | >= : Büyük eşittir
-- | <= : Küçük Eşittir
-- | kondisyon1 and kondisyon2 : ve (iki kondisyon sağlanırsa aşağıdaki kod çalışır)
-- | kondisyon1 or kondisyon2 : veya (iki kondisyondan biri sağlanırsa aşağıdaki kod çalışır)
-
-Örnek kullanım:
+- > : Büyüktür
+- < : Küçüktür
+- == : Eşittir
+- >= : Büyük eşittir
+- <= : Küçük Eşittir
+- kondisyon1 and kondisyon2 : ve (iki kondisyon sağlanırsa aşağıdaki kod çalışır)
+- kondisyon1 or kondisyon2 : veya (iki kondisyondan biri sağlanırsa aşağıdaki kod çalışır) Örnek kullanım:
 ```python
 >>> a = input("Sayı girin: ") # 10 girmiş olalım
 Sayı girin: 
@@ -335,8 +354,9 @@ Sayı girin:
 ...
 Girilen sayı pozitiftir.
 ```
+<p>&nbsp;</p>
 
----
+
 
 ## for loop
 
@@ -350,8 +370,7 @@ for operatörleri:
 - pass: o anda çalışan kodu atlar
 - continue: kodda continue yazan kısımda durdurup kodu tekrardan başlatır.
 
-for döngüsü verilen sayı kez kodu çalıştırır.
-Örnek kullanım:
+for döngüsü verilen sayı kez kodu çalıştırır. Örnek kullanım:
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> for i in l: # i, l'nin içindeki değişkenleri tanımlamak için kullandığım rastgele bir değişkendir
@@ -370,15 +389,15 @@ d
 ...
 b
 ```
+<p>&nbsp;</p>
 
----
+
 
 ### Range kullanımı
 
 range() koduna iki değer (başlangıç ve bitiş) verilirse hepsi integer olmak üzere başlangıç sayısı dahil olmak üzere aralıktaki sayıların hepsini döndürür.
 range() koduna bir değer (bitiş) veilirse hepsi integer olmak üzere başlangıç sıfır olarak kabul edilir ve başlangıç sayısı(0) dahil olmak üzere aralıktaki sayıların hepsini döndürür.
 ### SADECE FOR ILE VE LİSTEDE YAPTIĞIMIZ GİBİ "L[0]" KULLANABILIRSINIZ
-
 ```python
 >>> for i in range(1,5):
 ...     print(i)
@@ -397,8 +416,9 @@ range() koduna bir değer (bitiş) veilirse hepsi integer olmak üzere başlang�
 4
 ```
 ÖNERİ: for i in range(5) dediğiniz zaman for döngüsünün altındaki kod 5 kere çalışacaktır yani 5 kere çalışmasını istediğiniz bir şeyi for i in range(5) yazıp altına da istediğiniz kodu yazarak çalıştırabilirsiniz.
+<p>&nbsp;</p>
 
----
+
 
 ## while loop
 
@@ -413,7 +433,6 @@ while operatörleri:
 - break: döngüyü kırar
 - pass: o anda çalışan kodu atlar
 - continue: kodda continue yazan kısımda durdurup kodu tekrardan başlatır.
-
 ```python
 >>> a = 0
 >>> while a < 10:
@@ -459,8 +478,9 @@ ab
 ab
 6
 ```
+<p>&nbsp;</p>
 
----
+
 
 # FONKSIYONLAR VE NESNELER
 
@@ -479,6 +499,9 @@ def komutu fonksiyon oluşturmaya yarar.
 >>> ogrenci()
 Ben bir öğrenciyim.
 ```
+<p>&nbsp;</p>
+
+
 
 ## Fonksiyon dışındaki değişkene erişme (gerekli olmadıkça tavsiye edilmez)
 ```python
@@ -490,6 +513,9 @@ Ben bir öğrenciyim.
 >>> print_a()
 20
 ```
+<p>&nbsp;</p>
+
+
 
 ## Fonksiyon argümanları
 
@@ -501,6 +527,9 @@ Ben bir öğrenciyim.
 >>> tam_ad()
 john doe
 ```
+<p>&nbsp;</p>
+
+
 
 ### Keyword Argument
 ```python
@@ -510,6 +539,9 @@ john doe
 >>> tam_ad(ad="can", soyad="değer")
 can değer
 ```
+<p>&nbsp;</p>
+
+
 
 ### Positional Argument
 ```python
@@ -523,6 +555,9 @@ TypeError: tam_ad() missing 2 required positional arguments: 'ad' and 'soyad'
 >>> tam_ad("can", "değer")
 can değer
 ```
+<p>&nbsp;</p>
+
+
 
 ## Return ifadesi
 fonksiyondan veri döndürür
@@ -534,9 +569,9 @@ fonksiyondan veri döndürür
 >>> get_full_name("Can", "Değer")
 Can Değer
 ```
+<p>&nbsp;</p>
 
 
----
 
 ## class
 
@@ -558,6 +593,9 @@ classlar def'ler gibidir ancak biraz daha komplekstir.
 >>> c.print()
 Can Değer
 ```
+<p>&nbsp;</p>
+
+
 
 # HATA KONTROLÜ
 
@@ -572,7 +610,6 @@ Genel Mantığı \
 try: # altımdaki kodu çalıştırmayı dene \
 except: # eğer olmazsa altımdaki kodu çalıştır \
 finally: # olsa da olmasa da beni çalıştır
-
 ```python
 >>> while True:
 ...     try:
@@ -592,15 +629,14 @@ Sayı girin: 20
 20
 t
 ```
-
 NOT: except ifadesi error tipleri ile özelleştirilebilir.
 
 ```python
 >>> def dene():
 ...     try:
 ...          print(int("abc"))
-...     except ValueError:
-...          print("ValueError bulundu")
+...     except ValueError as hata:
+...          print(f"ValueError bulundu. Asıl hata şu şekilde:\n{hata}")
 ...     finally:
 ...          print("Kod çalıştı.")
 ... 
@@ -608,8 +644,9 @@ NOT: except ifadesi error tipleri ile özelleştirilebilir.
 ValueError bulundu
 Kod çalıştı.
 ```
+<p>&nbsp;</p>
 
----
+
 
 # MODÜLLER
 
@@ -633,6 +670,9 @@ import time
 system("dir") # çalıştırdığınız dizindeki bütün öğeleri gösterir.
 time.sleep(5) # programın 5 saniye boyunca durmasını sağlar.
 ```
+<p>&nbsp;</p>
+
+
 
 Bu sayfada göstereceklerim bu kadardır arkadaşlar, hatalarla karşılaşırsanız çok büyük olasılıkla stackoverflow'da çözümlerini bulabilirsiniz.  
 
