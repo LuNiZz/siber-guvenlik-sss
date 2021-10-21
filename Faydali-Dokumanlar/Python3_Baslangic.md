@@ -85,9 +85,10 @@ Lütfen adınızı girin: Can Değer
 
 
 
-## Değişkenler
+### Değişkenler
+---
 
-### Herhangi bir şeyin uzunluğunu/element sayısını öğrenme
+## Herhangi bir şeyin uzunluğunu/element sayısını öğrenme
 ```python
 >>> s = "selamlar"
 >>> l = ["a", 123, 7.8]
@@ -103,7 +104,7 @@ Lütfen adınızı girin: Can Değer
 
 
 
-### Sözlük, liste, veya değişkende belli bir sıradaki bir elementi görmek için köşeli parantez ([]) kullanılır.
+## Sözlük, liste, veya değişkende belli bir sıradaki bir elementi görmek için köşeli parantez ([]) kullanılır.
 Örnek Kullanım:
 ```python
 >>> liste = ["a", 123, 7.8]
@@ -124,8 +125,7 @@ b
 
 
 
-### Değişkene yazı eklemek
-
+## Değişkene yazı eklemek
 ```python
 >>> a = "b"
 >>> print(a)
@@ -138,7 +138,7 @@ bk
 
 
 
-### Değişkendeki yazıyı değiştirmek
+## Değişkendeki yazıyı değiştirmek
 ```python
 >>> a = "selamlar."
 >>> a = a.replace("s", "S") # İlk değer değişkende değiştirilmesi istenen değer, ikinci değer ise olması istenen değer.
@@ -149,7 +149,7 @@ Selamlar.
 
 
 
-### Değişkeni bölmek
+## Değişkeni bölmek
 Değişkeni böldüğümüz zaman elimize bir liste gelecek.
 ```python
 >>> a = "Bu bir değişkendir."
@@ -161,7 +161,7 @@ Değişkeni böldüğümüz zaman elimize bir liste gelecek.
 
 
 
-### Değişkende ilk harfi büyütmek
+## Değişkende ilk harfi büyütmek
 ```python
 >>> a = "merhaba."
 >>> a = a.capitalize()
@@ -172,7 +172,7 @@ Merhaba.
 
 
 
-### Değişkende bütün harfleri büyütmek veya küçültmek
+## Değişkende bütün harfleri büyütmek veya küçültmek
 ```python
 >>> a = "merhaba".
 >>> a = a.upper()
@@ -186,7 +186,7 @@ merhaba.
 
 
 
-### Değişkenin sayı olup olmadığını test etmek
+## Değişkenin sayı olup olmadığını test etmek
 ```python
 >>> a = "21"
 >>> a.isdigit() # Eğer değer True dönerse a = int(a) yazıp a'yı bir integer yani sayıya çevirebilirsiniz.
@@ -196,7 +196,7 @@ True
 
 
 
-### Listeye element ekleme
+## Listeye element ekleme
 ```python
 >>> l = []
 >>> l.append("a")
@@ -207,7 +207,7 @@ True
 
 
 
-### Listeden element silme
+## Listeden element silme
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.remove("a")
@@ -218,7 +218,7 @@ True
 
 
 
-### Listedeki elementi güncelleme
+## Listedeki elementi güncelleme
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l[0] = 42
@@ -229,7 +229,7 @@ True
 
 
 
-### Listedeki son elementi silme
+## Listedeki son elementi silme
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.pop()
@@ -249,7 +249,7 @@ True
 
 
 
-### Listeyi tersine çevirmek
+## Listeyi tersine çevirmek
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.sort(reverse=True)
@@ -260,7 +260,7 @@ True
 
 
 
-### Sözlüğe element ekleme/elementi güncelleme
+## Sözlüğe element ekleme/elementi güncelleme
 ```python
 >>> d = {"a": "b", "c": "d"}
 >>> d['x'] = 'y'
@@ -274,7 +274,7 @@ True
 
 
 
-### Sözlükten element silme
+## Sözlükten element silme
 ```python
 >>> d = {"a": "b", "c": "d"}
 >>> d.pop('a')
@@ -316,7 +316,8 @@ Yukarıdaki kod bir değişkenin tipini öğrenmemizi sağlar. Örnek kullanım:
 
 
 
-# DÖNGÜLER VE KARŞILAŞTIRMALAR
+### DÖNGÜLER VE KARŞILAŞTIRMALAR
+---
 
 ## if, elif, else
 
@@ -393,8 +394,7 @@ b
 
 
 
-### Range kullanımı
-
+## Range kullanımı
 range() koduna iki değer (başlangıç ve bitiş) verilirse hepsi integer olmak üzere başlangıç sayısı dahil olmak üzere aralıktaki sayıların hepsini döndürür.
 range() koduna bir değer (bitiş) veilirse hepsi integer olmak üzere başlangıç sıfır olarak kabul edilir ve başlangıç sayısı(0) dahil olmak üzere aralıktaki sayıların hepsini döndürür.
 ### SADECE FOR ILE VE LİSTEDE YAPTIĞIMIZ GİBİ "L[0]" KULLANABILIRSINIZ
@@ -482,8 +482,8 @@ ab
 
 
 
-# FONKSIYONLAR VE NESNELER
-
+### FONKSIYONLAR VE NESNELER
+---
 ## def()
 
 ### DİKKAT
@@ -517,9 +517,9 @@ Ben bir öğrenciyim.
 
 
 
-## Fonksiyon argümanları
-
-### Default Argument
+### Fonksiyon argümanları
+---
+## Default Argument
 ```python
 >>> def tam_ad(ad="john", soyad="doe"):
 ...     print(ad + " " + soyad)
@@ -531,7 +531,7 @@ john doe
 
 
 
-### Keyword Argument
+## Keyword Argument
 ```python
 >>> def tam_ad(ad="john", soyad="doe"):
 ...     print(ad + " " + soyad)
@@ -543,7 +543,7 @@ can değer
 
 
 
-### Positional Argument
+## Positional Argument
 ```python
 >>> def tam_ad(ad, soyad):
 ...     print(ad + " " + soyad)
@@ -597,8 +597,8 @@ Can Değer
 
 
 
-# HATA KONTROLÜ
-
+### HATA KONTROLÜ
+---
 ## try, except, finally
 
 ### DİKKAT
@@ -648,8 +648,8 @@ Kod çalıştı.
 
 
 
-# MODÜLLER
-
+### MODÜLLER
+---
 Modüller import komutuyla kullanılır.
 Modüller hakkında daha fazla bilgiyi modüller dökümantasyonundan okuyabilirsiniz
 Örnek built-in modüller:
