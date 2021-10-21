@@ -85,7 +85,7 @@ Lütfen adınızı girin: Can Değer
 
 
 
-### Değişkenler
+# Değişkenler
 ---
 
 ## Herhangi bir şeyin uzunluğunu/element sayısını öğrenme
