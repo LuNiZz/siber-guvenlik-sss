@@ -2,7 +2,7 @@
 Bu sayfada sanal bilgisayara veya gerçek bilgisayara Kali Linux kurmadan Docker yardımı ile nasıl Kali Linux kullanabileceğimizi göreceğiz.
 
 ---
-#### Docker Kurulumu
+### Ubuntu ve Debian tabanlı sistemlerde Docker Kurulumu
 Ubuntu ve Ubuntu'dan türemiş dağıtımlar için (Kubuntu, Lubuntu, Kali, Mint, vs.) aşağıdaki adımlarla Docker kurulumunu yapabilirsiniz.
 
 Docker kurulumuna başlamadan önce sistem güncelleştirilmeli ve gerekli yardımcı programlar yüklenmeli. Bunun için aşağıdaki komutları yazmamız gerekiyor.
@@ -38,7 +38,55 @@ Son olarak mevcut kullanıcımızı `docker` grubuna eklememiz gerekiyor.
 
     sudo usermod -aG docker $USER
 
-Bu aşamaya kadar sorunsuz geldiyseniz son bir kez test edelim.
+Bu aşamaya kadar sorunsuz geldiyseniz şu komutu çalıştırarak kullanıcımızı komple kapatalım ve tekrardan giriş yapalım.
+
+    ps aux | grep -v grep | grep $USER | awk '{print $2}' | xargs sudo kill -9
+    
+Ve docker'i test edelim.
+
+    docker run --rm -it  --name test alpine:latest /bin/sh
+
+Terminal ekranınızda aşağıdaki gibi bir görüntü varsa kurlum işlemi başarıyla tamamlanmış demektir.
+
+    / # 
+
+Artık `exit` yazarak çıkıp Kali Linux adımlarına geçebilirsiniz.
+
+---
+
+### Fedora ve diğer rpm tabanlı sistemlerde Docker kurulumu
+Fedora ve diğer rpm tabanlı sistemlerde docker kurulumunu şu şekilde gerçekleştirebilirsiniz.
+
+Docker kurulumuna başlamadan önce sistem güncelleştirilmeli ve gerekli yardımcı programlar yüklenmeli. Bunun için aşağıdaki komutları yazmamız gerekiyor.
+
+    sudo dnf --refresh update
+    sudo dnf install dnf-plugins-core
+    
+Güncellemenin ardından asıl ihtiyacımız olan Docker kurulumuna geçiyoruz. İlk olarak Docker repository sisteme eklenmeli.
+
+    sudo dnf config-manager --add-repo https://download.docker.com/linux/fedora/docker-ce.repo
+
+Kontrol etmek için aşağıdaki komutu kullanabilirsiniz.
+
+    cat /etc/yum.repos.d/docker-ce.repo
+
+Gerekli repo eklendikten sonra bir kez daha güncelleme yapmamız gerekiyor.
+
+    sudo dnf --refresh update
+
+Artık gerçek Docker kurulumunu gerçekleştiriyoruz.
+
+    sudo dnf install docker-ce docker-ce-cli containerd.io
+
+Son olarak mevcut kullanıcımızı `docker` grubuna eklememiz gerekiyor.
+
+    sudo usermod -aG docker $USER
+
+Bu aşamaya kadar sorunsuz geldiyseniz şu komutu çalıştırarak kullanıcımızı komple kapatalım ve tekrardan giriş yapalım.
+
+    ps aux | grep -v grep | grep $USER | awk '{print $2}' | xargs sudo kill -9
+    
+Ve docker'i test edelim.
 
     docker run --rm -it  --name test alpine:latest /bin/sh
 
