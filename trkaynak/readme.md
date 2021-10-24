@@ -16,5 +16,10 @@
 - web uygulama guvenligi 101 pdf BGA : https://dl.packetstormsecurity.net/papers/web/webappsec-101.pdf
 - TUBITAK siber guvenlik enstutusu egitim portali : https://egitim.sge.gov.tr/
 - 1milyon istihdam siber guvenlik egitimi : https://1milyonistihdam.hmb.gov.tr/kariyer-rehberi/siber-guvenlik/siber-guvenlik-uzmani
+                          
+- Python Dersleri : https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
+- JavaScript Dersleri : https://www.youtube.com/playlist?list=PLWctyKyPphPj2KD1CTuBa_xjK8zjRS9jX
+- Shell scripting : https://www.youtube.com/playlist?list=PLWctyKyPphPhGEQzwiY-gDpDQQlYULQa7
+- HTML ve CSS : https://www.youtube.com/playlist?list=PLWctyKyPphPgllQpbeVEzqU721R3WFY1W
      
 [← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
