@@ -3,8 +3,8 @@
 - https://www.youtube.com/c/RSAConference  
 - https://youtube.com/candeger  
 - https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw  
-- https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw  
-- https://www.youtube.com/channel/UC7eshikPSJF3ZGTsgFG1XBA  
+- https://www.youtube.com/channel/UC1szFCBUWXY3ESff8dJjjzw   
+- https://www.youtube.com/c/LiveOverflow
 - Nahamsec'in kankası: https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg  
 - Hackerone üyesi: https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA  
 
