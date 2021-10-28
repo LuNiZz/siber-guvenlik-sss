@@ -22,5 +22,6 @@
 - Shell scripting : https://www.youtube.com/playlist?list=PLWctyKyPphPhGEQzwiY-gDpDQQlYULQa7
 - HTML ve CSS : https://www.youtube.com/playlist?list=PLWctyKyPphPgllQpbeVEzqU721R3WFY1W
 - 1 video da JavaScript Temelleri https://www.youtube.com/watch?v=-ei7CLxoOVU         
+- Yeni Baslayanlar icin GO programlama dili https://www.youtube.com/watch?v=qJqx7dxWW8I&list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa
      
 [← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
