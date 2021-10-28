@@ -18,6 +18,9 @@
 - 1milyon istihdam siber guvenlik egitimi : https://1milyonistihdam.hmb.gov.tr/kariyer-rehberi/siber-guvenlik/siber-guvenlik-uzmani
 
 
+- Linux Dersleri: https://linux-dersleri.github.io           
+
+
 ### YAZILIM
 
 - Python Dersleri : https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
