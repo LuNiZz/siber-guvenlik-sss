@@ -28,5 +28,6 @@
 - 1 video da JavaScript Temelleri https://www.youtube.com/watch?v=-ei7CLxoOVU         
 - Yeni Baslayanlar icin GO programlama dili https://www.youtube.com/watch?v=qJqx7dxWW8I&list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa           
 - GO egitim kampi youtube.com/watch?v=wAUL4f0F8hA&list=PLX2txCMVbkjyqrdV5TsJ5iW-bhVNeBMaq
+- -- Egitim Kampi materyalleri : https://github.com/GoTurkiye/training
      
 [← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
