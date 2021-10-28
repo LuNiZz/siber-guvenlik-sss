@@ -21,5 +21,6 @@
 - JavaScript Dersleri : https://www.youtube.com/playlist?list=PLWctyKyPphPj2KD1CTuBa_xjK8zjRS9jX
 - Shell scripting : https://www.youtube.com/playlist?list=PLWctyKyPphPhGEQzwiY-gDpDQQlYULQa7
 - HTML ve CSS : https://www.youtube.com/playlist?list=PLWctyKyPphPgllQpbeVEzqU721R3WFY1W
+- 1 video da JavaScript Temelleri https://www.youtube.com/watch?v=-ei7CLxoOVU         
      
 [← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
