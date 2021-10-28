@@ -18,6 +18,7 @@
 - 1milyon istihdam siber guvenlik egitimi : https://1milyonistihdam.hmb.gov.tr/kariyer-rehberi/siber-guvenlik/siber-guvenlik-uzmani
                           
 - Python Dersleri : https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O
+- 1 video da Python temelleri https://www.youtube.com/watch?v=tvvEqvyh_Vw                 
 - JavaScript Dersleri : https://www.youtube.com/playlist?list=PLWctyKyPphPj2KD1CTuBa_xjK8zjRS9jX
 - Shell scripting : https://www.youtube.com/playlist?list=PLWctyKyPphPhGEQzwiY-gDpDQQlYULQa7
 - HTML ve CSS : https://www.youtube.com/playlist?list=PLWctyKyPphPgllQpbeVEzqU721R3WFY1W
