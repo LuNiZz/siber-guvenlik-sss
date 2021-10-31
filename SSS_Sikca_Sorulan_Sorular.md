@@ -43,7 +43,7 @@ https://www.birlikteihracat.com/yeni-yazilimciya-oneriler/
 ## Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? 
 En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, Application Pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da sağlar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmaların bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
 
-Tüm siber güvenlik dallarını şurada inceledim, bir bak: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md 
+Tüm siber güvenlik dallarını şurada inceledim, bir bak: https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/siberguvenlik.md 
 
 ## Abi Udemy'de/hedehodode/XYZde ıvırda zıvırda, TÜRKÇE bir eğitim buldum, Nasıl?
 Sevgili dostum, Udemy de birçok kişinin eğitimlerini bulabilirsin, eğitimin iyisi kötüsü olmaz. Sen bilginin işine yarayan kısmını al... Yanlış olduğunu eksik olduğunu düşündüğün alanlarını araştır ve kendini geliştirmeye devam et.
@@ -59,7 +59,7 @@ Kişisel güvenlik için İngilizce bir checklist var burada, bir bak... Bütün
 
 ## Bu Linuxu nasıl öğrenicez?
 
-Linuxun komutlarını öğrenmek için açıyosun karşına https://cmdchallenge.com/ sitesini yavaş yavaş öğrenmeye başlıyosun, orada solutionları vesaire de var, takıldığın yerde de googledan yardım ala ala yolunu bulmaya başlarsın linuxta. Ayrıca tamamen sıfırsan https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Linux-ve-Pentesting-Baslangic.md dosyasına ve ayrıca https://linux-dersleri.github.io/ linkine bakabilirsin.
+Linuxun komutlarını öğrenmek için açıyosun karşına https://cmdchallenge.com/ sitesini yavaş yavaş öğrenmeye başlıyosun, orada solutionları vesaire de var, takıldığın yerde de googledan yardım ala ala yolunu bulmaya başlarsın linuxta. Ayrıca tamamen sıfırsan https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/Linux_ve_Pentesting_Baslangic.md dosyasına ve ayrıca https://linux-dersleri.github.io/ linkine bakabilirsin.
 
 ## Web uygulama güvenliği için iyi bir kaynak biliyor musun?
 
@@ -185,8 +185,8 @@ Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'
 Ya da gündelik kullanım icin kurarsın bir Ubuntu/Mint, çok istiyorsan *katoolin* ile Kali toollarini içine kurarsın,  
 Ya da gidersin, ihtiyacın kadar olan toollari snapden vs kendin derler kurarsın...   
 Hiçbiri olmaz dersen, gider Kaliyi Docker veya WSL olarak kurarsin, hem Ubuntu/Mint falan patlamaz boylece...
-- https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Docker-da-KALI.md
-- https://github.com/LuniZz/siber-guvenlik-sss/blob/master/WSL-Kali.md
+- https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/Docker-da_KALI.md
+- https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/WSL_Kali.md
 
 İlla Arch kurcam dersen, mesela gidip Manjaro kurup, blackarch repolarini ekleyip, bütün toollari ordan kurabilirsin... ama çökerse karışmam :)    
    
@@ -195,7 +195,7 @@ Hiçbiri olmaz dersen, gider Kaliyi Docker veya WSL olarak kurarsin, hem Ubuntu/
 Öncelikle ilk aklimiza gelen *OSCP*, bunun dışında CISSP de var ama daha çok temel ve "Bilgi Guvenligi" kapsamlı.
 Bu iki sertifika da oldukça pahalı ve muhtemelen calistigin şirket, ihtiyacına göre sana bu sertifikaları saglayacak.
 O sebeple kendin bunlara kasma, hangi sertifikalar var dersen, sayfanın üst kısmındaki şu linke bakabilirsin
-https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/siberguvenlik.md
+https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/siberguvenlik.md
 
 ayrica guncel versionu icin;
 https://www.reddit.com/r/Hacking_Tutorials/comments/jpnjdq/security_certification_roadmap_v7_updated/ /
