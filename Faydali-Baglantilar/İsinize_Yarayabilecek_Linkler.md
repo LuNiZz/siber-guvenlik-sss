@@ -51,6 +51,7 @@
   - :mortar_board: [codecademy.com](https://www.codecademy.com/catalog/subject/all) - Freemium interactive courses
 #### Go
   - :globe_with_meridians: [gobyexample.com](https://gobyexample.com)
+  - :globe_with_meridians: [Go Türkiye Eğitim Kampı](https://www.youtube.com/playlist?list=PLX2txCMVbkjyqrdV5TsJ5iW-bhVNeBMaq)
 #### Python
   - :book: *Learn Python the hard way* by Zed Shaw
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
