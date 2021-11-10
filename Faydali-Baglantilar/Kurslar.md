@@ -1,4 +1,4 @@
-## [<img src="https://i.ibb.co/ns7dwrs/kurs.png" alt="kurs" border="0"> Kurslar]()
+# [<img src="https://i.ibb.co/ns7dwrs/kurs.png" alt="kurs" border="0"> Kurslar]()
 ---
 <details> 
   <summary><strong>İçindekiler(Contents)</summary></strong>
