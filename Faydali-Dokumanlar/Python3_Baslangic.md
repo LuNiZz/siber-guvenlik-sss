@@ -46,6 +46,7 @@ Bu dosyada başlangıç düzeyinde python3 öğreneceğiz.
 29) [Modüller](#modules)
   </p>
 </details>
+
 ---
 
 # Basit kodlar ve açıklamaları:
