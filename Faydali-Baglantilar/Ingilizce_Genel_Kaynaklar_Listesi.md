@@ -1,7 +1,7 @@
 # [<img src="https://i.ibb.co/BwKsLb1/yabanci-dil.png" alt="yabanci-dil" border="0"> İngilizce Genel Kaynaklar Listesi (siteler/nereden başlamalı/videolar... vs)]()
 
 ### Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir.
-
+---
 <details> 
   <summary><strong>İçindekiler(Contents)</summary></strong>
   <p>
@@ -17,7 +17,7 @@
 9) [Network Basics for Hackers](#source9)
   </p>
 </details>
-
+---
 #### Where to start learning pentesting? <a name="source1"></a>
 - TCM: Cyber Career Paths: Penetration Testing: https://youtu.be/MM7qPnJSnLQ  
 - https://www.vulnhub.com  
