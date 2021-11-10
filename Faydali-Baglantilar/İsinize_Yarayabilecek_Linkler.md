@@ -8,7 +8,6 @@
 2) [Cryptography](#source2)
 3) [Digital Forensics](#source3)
 4) [General Resources](#source4)
-   
     4a) [Books](#source4a)
     4b) [Youtube Channels](#source4b)
 6) [Graphics](#source6)
