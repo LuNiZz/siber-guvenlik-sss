@@ -1,8 +1,19 @@
 ### Docker ile Kali Linux Kurulumu
 Bu sayfada sanal bilgisayara veya gerçek bilgisayara Kali Linux kurmadan Docker yardımı ile nasıl Kali Linux kullanabileceğimizi göreceğiz.
+---
+<details> 
+  <summary><strong>İçindekiler(Contents)</summary></strong>
+  <p>
+   
+1) [Ubuntu ve Debian tabanlı sistemlerde Docker kurulumu](#ubuntu)
+2) [Fedora ve diğer rpm tabanlı sistemlerde Docker kurulumu](#fedora)
+3) [Docker yardımıyla kali linux kurulumu](#kali)
+  </p>
+</details>
 
 ---
-### Ubuntu ve Debian tabanlı sistemlerde Docker Kurulumu
+
+### Ubuntu ve Debian tabanlı sistemlerde Docker Kurulumu <a name="ubuntu"></a>
 Ubuntu ve Ubuntu'dan türemiş dağıtımlar için (Kubuntu, Lubuntu, Kali, Mint, vs.) aşağıdaki adımlarla Docker kurulumunu yapabilirsiniz.
 
 Docker kurulumuna başlamadan önce sistem güncelleştirilmeli ve gerekli yardımcı programlar yüklenmeli. Bunun için aşağıdaki komutları yazmamız gerekiyor.
@@ -54,7 +65,7 @@ Artık `exit` yazarak çıkıp Kali Linux adımlarına geçebilirsiniz.
 
 ---
 
-### Fedora ve diğer rpm tabanlı sistemlerde Docker kurulumu
+### Fedora ve diğer rpm tabanlı sistemlerde Docker kurulumu <a name="fedora"></a>
 Fedora ve diğer rpm tabanlı sistemlerde docker kurulumunu şu şekilde gerçekleştirebilirsiniz.
 
 Docker kurulumuna başlamadan önce sistem güncelleştirilmeli ve gerekli yardımcı programlar yüklenmeli. Bunun için aşağıdaki komutları yazmamız gerekiyor.
@@ -98,7 +109,7 @@ Artık `exit` yazarak çıkıp Kali Linux adımlarına geçebilirsiniz.
 
 ---
 
-#### Docker Yardımıyla Kali Linux Kurulumu
+#### Docker Yardımıyla Kali Linux Kurulumu <a name="kali"></a>
 
 İlk olarak gerekli image dosyasını kendi bilgisayarımıza çekmemiz gerekiyor.
 
