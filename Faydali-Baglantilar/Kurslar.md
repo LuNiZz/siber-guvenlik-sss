@@ -1,4 +1,5 @@
 # [<img src="https://i.ibb.co/ns7dwrs/kurs.png" alt="kurs" border="0"> Kurslar]()
+<p>&nbsp;</p>
 
 ---
 <details> 
@@ -15,6 +16,7 @@
 </details>
 
 ---
+<p>&nbsp;</p>
 
 ## Ücretli Kurslar <a name="ucretli"></a>
 
