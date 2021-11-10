@@ -7,7 +7,7 @@
 1) [Computer Science](#source1)
 2) [Cryptography](#source2)
 3) [Digital Forensics](#source3)
-4) [General Resources](#source4) ( [Books](#source4a) [Youtube Channels](#source4b))
+4) [General Resources](#source4) ( [Books](#source4a), [Youtube Channels](#source4b) )
 5) [Graphics](#source6)
 6) [Information Security](#source7)
 7) [Android Security](#source8)
