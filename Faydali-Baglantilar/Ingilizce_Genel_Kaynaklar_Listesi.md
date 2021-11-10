@@ -3,7 +3,7 @@
 ### Aşağıdaki gibi bir toplama soru cevap bölümü buldum işinize yarayabilir.
 
 <details> 
-  <summary><strong>İçindekiler(Contents)</summary><strong>
+  <summary><strong>İçindekiler(Contents)</summary></strong>
   <p>
     
 1) [Where to start learning pentesting?](#source1)
