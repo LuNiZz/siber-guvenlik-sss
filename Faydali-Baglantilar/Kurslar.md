@@ -14,7 +14,6 @@
 </details>
 
 ---
-<p>&nbsp;</p>
 
 ## Ücretli Kurslar <a name="ucretli"></a>
 
