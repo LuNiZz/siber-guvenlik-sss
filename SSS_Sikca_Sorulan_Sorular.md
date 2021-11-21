@@ -146,8 +146,8 @@ https://tryhackme.com/room/rpwebscanning
 https://tryhackme.com/room/dvwa   
 https://tryhackme.com/room/jack  
 odalarına bakabilirsin.
-- Ayrıca, TryHackMe üzerinde forensics, cryptography, pentesting gibi konular üzerinde bir sürü oda bulunuyor.
-- Bir de surasi var : https://application.security/free/owasp-top-10 << kontra nin egitim sitesi, hem uygulatiyor hem ogretiyor. biraz altyapi yaptiktan sonra mutlaka goz at.
+Ayrıca, TryHackMe üzerinde forensics, cryptography, pentesting gibi konular üzerinde bir sürü oda bulunuyor.
+Bir de surasi var : https://application.security/free/owasp-top-10 << kontra nin egitim sitesi, hem uygulatiyor hem ogretiyor. biraz altyapi yaptiktan sonra mutlaka goz at.
 <p>&nbsp;</p>
 
 
