@@ -147,6 +147,7 @@ https://tryhackme.com/room/dvwa
 https://tryhackme.com/room/jack  
 odalarına bakabilirsin.
 - Ayrıca, TryHackMe üzerinde forensics, cryptography, pentesting gibi konular üzerinde bir sürü oda bulunuyor.
+- Bir de surasi var : https://application.security/free/owasp-top-10 << kontra nin egitim sitesi, hem uygulatiyor hem ogretiyor. biraz altyapi yaptiktan sonra mutlaka goz at.
 <p>&nbsp;</p>
 
 
@@ -181,6 +182,9 @@ haberler ve güncel mevzulara bakmak için ideal bir iki link de bırakayım yer
 
 ## Hangi programlama dillerine ve teknolojilerine eğilmeliyim? <a name="question15"></a>
 Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
+
+30 gunde Python ogren : https://github.com/Asabeneh/30-Days-Of-Python (sag tik ile ceviri yapabilirsin ;)) 
+30 gunde Javascript ogren : https://github.com/Asabeneh/30-Days-Of-JavaScript (aynen sag tik kardesim)
 <p>&nbsp;</p>
 
 
@@ -194,7 +198,11 @@ Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Sc
 - [freeCodeCamp YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) - _*Ücretsiz*_ bir başlangıç eğitimi
 - [CodeAcademy](https://www.codecademy.com/learn/learn-python-3) - Bir kısmı _*ücretsiz*_ bir kısmı _*ücretli*_ bir eğitim.
 - [EDX Georgia Tech University](https://www.edx.org/professional-certificate/introduction-to-python-programming) - _*Ücretsiz*_ bir başlangıç eğitimi \
-\
+- [Yazilim bilimi kanali](https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ) var mesela, guzel kaynak << bu arkadaslarin udemy kurslari da var daha guncel olan ama mantik ayni
+- https://www.youtube.com/channel/UCrFuOhaISP4OMarjFR4dYBA yakin kampus kanali var
+- https://www.mobilhanem.com/python-egitimi/ <<< okuyup ogrenicem diyen insan icin
+
+hatta BTK akademi de bile var piton dersleri.
 Tabi ki daha fazlasını googlelayarak bulabilirsiniz.
 <p>&nbsp;</p>
 
