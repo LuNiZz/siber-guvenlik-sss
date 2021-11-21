@@ -82,6 +82,8 @@ https://tryhackme.com/room/jack
 odalarına bakabilirsin.
 - Ayrıca, TryHackMe üzerinde forensics, cryptography, pentesting gibi konular üzerinde bir sürü oda bulunuyor.
 
+bir de surasi var : https://application.security/free/owasp-top-10 << kontra nin egitim sitesi, hem uygulatiyor hem ogretiyor. biraz altyapi yaptiktan sonra mutlaka goz at  \
+
 ## Üniversite okumalı mıyım?  
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak şurada açıklamışım, izle bi': https://www.youtube.com/watch?v=eguWGnlJN-Q 
 
@@ -105,6 +107,9 @@ haberler ve güncel mevzulara bakmak için ideal bir iki link de bırakayım yer
 ## Hangi programlama dillerine ve teknolojilerine eğilmeliyim?
 Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
 
+30 gunde Python ogren : https://github.com/Asabeneh/30-Days-Of-Python (sag tik ile ceviri yapabilirsin ;))
+30 gunde Javascript ogren : https://github.com/Asabeneh/30-Days-Of-JavaScript (aynen sag tik kardesim)    
+
 ## Herşey çok iyi çok güzel de bu pitonu nasıl öğrenicez?
 İnternette birsürü Türkçe ve İngilizce şahane kaynaklar var. Türkçe kaynaklarla başlayalım:
 - [Yazbel](https://python-istihza.yazbel.com/) - _*Ücretsiz*_ bir başlangıç kaynağı
@@ -117,6 +122,15 @@ Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Sc
 \
 Tabi ki daha fazlasını googlelayarak bulabilirsiniz.
 
+yazilim bilimi kanali var mesela, guzel kaynak
+https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ << bu arkadaslarin udemy kurslari da var daha guncel olan ama mantik ayni 
+
+https://www.youtube.com/channel/UCrFuOhaISP4OMarjFR4dYBA
+yakin kampus kanali var
+
+https://www.mobilhanem.com/python-egitimi/ <<< okuyup ogrenicem diyen insan icin 
+
+hatta BTK akademi de bile var piton dersleri.
 
 ## Abi İngilizcem yok! Ne yapıcam?  
 İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede İngilizce öğrenmen lazım. Duolingo vs. gibi İngilizce öğreten kaynakları ye, yut, bitir. Ayrıca dizi, film ile de İngilizce öğrenebilirsin.. (Ororo Tv, Dizilab vs. biliyorsun işte bunları nereden bulacağını) \
