@@ -5,8 +5,51 @@ Bu dosyada başlangıç düzeyinde python3 öğreneceğiz.
 ### DİKKAT! PYTHONDA BOŞLUKLAR ÇOK ÖNEMLİDİR, BİR BOŞLUK DAHİ FAZLA VEYA EKSİK KOYMANIZ ERRORA SEBEP OLABİLİR!!!
 ### KODLARDA KULLANDIĞIM >>> VE ...'LARI KOD YAZARKEN KULLANMAYIN!!!
 ---
+<details> 
+  <summary><strong>İçindekiler(Contents)</summary></strong>
+  <p>
+      
+1) [print()](#print)
+2) [a="b"](#setvar)
+3) [f-string](#fstring)
+4) [input()](#input)
 
-Basit kodlar ve açıklamaları:
+### Değişkenler
+5) [Herhangi bir şeyin uzunluğunu öğrenme](#len)
+6) [Değişkendeki elementi görmek](#kparantez)
+7) [Değişkene yazı eklemek](#addstr)
+8) [Değişkendeki yazıyı değiştirmek](#replace)
+9) [Değişkeni bölmek](#split)
+10) [Değişkende ilk harfi büyütmek](#capitalize)
+11) [Değişkende tüm harfleri büyütmek veya küçültmek](#upperlower)
+12) [Değişkenin sayı olup olmadığını test etmek](#isdigit)
+13) [Listeye element eklemek](#append)
+14) [Listeden element silmek](#remove)
+15) [Listedeki elementi güncelleme](#updateliststr)
+16) [Listedeki son elementi silme](#pop)
+17) [Listeyi ters çevirmek](#sortreverse)
+18) [Sözlüğe element eklemek](#dictaddstr)
+19) [Sölzükten element silme](#dictdelstr)
+20) [Değişken tipini öğrenmek](#type)
+      
+### Döngüler ve Karşılaştırmalar
+21) [if,elif,else](#if)
+22) [for](#for)
+23) [range](#range)
+24) [while](#while)
+      
+### Fonksiyonlar ve Nesneler
+25) [def](#def)
+26) [Fonksiyon argümanları](#funcargs)
+27) [class](#class)
+28) [Hata kontrolü](#tryexcept)
+29) [Modüller](#modules)
+  </p>
+</details>
+
+---
+
+# Basit kodlar ve açıklamaları:
 
 ## Pythonda yorumlar
 
@@ -15,7 +58,7 @@ Pythonda yorum satırı olarak yani koda etki etmeyecek yazılar eklenmek istedi
 
 
 
-## print()
+## print() <a name="print"></a>
 
 ```python
 print(deger)
@@ -34,7 +77,7 @@ selam
 
 
 
-## a = "b"
+## a = "b" <a name="setvar"></a>
 
 ```python
 degisken = deger
@@ -64,7 +107,7 @@ selam
 
 
 
-## f-String
+## f-String <a name="fstring"></a>
 f-String kullanmak için stringi a = f"" kullanmak gerekir. f-String kullandığımızda stringin içinde değişken kullanabiliriz.
 Örnek Kullanım:
 ```python
@@ -75,7 +118,7 @@ f-String kullanmak için stringi a = f"" kullanmak gerekir. f-String kullandığ
 
 
 
-## Kullanıcıdan bilgi toplamak
+## Kullanıcıdan bilgi toplamak <a name="input"></a>
 ```python
 >>> ad = input("Lütfen adınızı girin: ")
 Lütfen adınızı girin: Can Değer
@@ -87,7 +130,7 @@ Lütfen adınızı girin: Can Değer
 
 # Değişkenler
 
-## Herhangi bir şeyin uzunluğunu/element sayısını öğrenme
+## Herhangi bir şeyin uzunluğunu/element sayısını öğrenme <a name="len"></a>
 ```python
 >>> s = "selamlar"
 >>> l = ["a", 123, 7.8]
@@ -103,7 +146,7 @@ Lütfen adınızı girin: Can Değer
 
 
 
-## Sözlük, liste, veya değişkende belli bir sıradaki bir elementi görmek için köşeli parantez ([]) kullanılır.
+## Sözlük, liste, veya değişkende belli bir sıradaki bir elementi görmek için köşeli parantez ([]) kullanılır.  <a name="kparantez"></a>
 Örnek Kullanım:
 ```python
 >>> liste = ["a", 123, 7.8]
@@ -124,7 +167,7 @@ b
 
 
 
-## Değişkene yazı eklemek
+## Değişkene yazı eklemek <a name="addstr"></a>
 ```python
 >>> a = "b"
 >>> print(a)
@@ -137,7 +180,7 @@ bk
 
 
 
-## Değişkendeki yazıyı değiştirmek
+## Değişkendeki yazıyı değiştirmek <a name="replace"></a>
 ```python
 >>> a = "selamlar."
 >>> a = a.replace("s", "S") # İlk değer değişkende değiştirilmesi istenen değer, ikinci değer ise olması istenen değer.
@@ -148,7 +191,7 @@ Selamlar.
 
 
 
-## Değişkeni bölmek
+## Değişkeni bölmek <a name="split"></a>
 Değişkeni böldüğümüz zaman elimize bir liste gelecek.
 ```python
 >>> a = "Bu bir değişkendir."
@@ -160,7 +203,7 @@ Değişkeni böldüğümüz zaman elimize bir liste gelecek.
 
 
 
-## Değişkende ilk harfi büyütmek
+## Değişkende ilk harfi büyütmek <a name="capitalize"></a>
 ```python
 >>> a = "merhaba."
 >>> a = a.capitalize()
@@ -171,7 +214,7 @@ Merhaba.
 
 
 
-## Değişkende bütün harfleri büyütmek veya küçültmek
+## Değişkende bütün harfleri büyütmek veya küçültmek <a name="upperlower"></a>
 ```python
 >>> a = "merhaba".
 >>> a = a.upper()
@@ -185,7 +228,7 @@ merhaba.
 
 
 
-## Değişkenin sayı olup olmadığını test etmek
+## Değişkenin sayı olup olmadığını test etmek <a name="isdigit"></a>
 ```python
 >>> a = "21"
 >>> a.isdigit() # Eğer değer True dönerse a = int(a) yazıp a'yı bir integer yani sayıya çevirebilirsiniz.
@@ -195,7 +238,7 @@ True
 
 
 
-## Listeye element ekleme
+## Listeye element ekleme <a name="append"></a>
 ```python
 >>> l = []
 >>> l.append("a")
@@ -206,7 +249,7 @@ True
 
 
 
-## Listeden element silme
+## Listeden element silme <a name="remove"></a>
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.remove("a")
@@ -217,7 +260,7 @@ True
 
 
 
-## Listedeki elementi güncelleme
+## Listedeki elementi güncelleme <a name="updateliststr"></a>
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l[0] = 42
@@ -228,7 +271,7 @@ True
 
 
 
-## Listedeki son elementi silme
+## Listedeki son elementi silme <a name="pop"></a>
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.pop()
@@ -248,7 +291,7 @@ True
 
 
 
-## Listeyi tersine çevirmek
+## Listeyi tersine çevirmek <a name="sortreverse"></a>
 ```python
 >>> l = ["a", "b", "c", "d"]
 >>> l.sort(reverse=True)
@@ -259,7 +302,7 @@ True
 
 
 
-## Sözlüğe element ekleme/elementi güncelleme
+## Sözlüğe element ekleme/elementi güncelleme <a name="dictaddstr"></a>
 ```python
 >>> d = {"a": "b", "c": "d"}
 >>> d['x'] = 'y'
@@ -273,7 +316,7 @@ True
 
 
 
-## Sözlükten element silme
+## Sözlükten element silme <a name="dictdelstr"></a>
 ```python
 >>> d = {"a": "b", "c": "d"}
 >>> d.pop('a')
@@ -285,7 +328,7 @@ True
 
 
 
-## type()
+## type() <a name="type"></a>
 ```python
 degisken = deger
 print(type(degisken))
@@ -317,7 +360,7 @@ Yukarıdaki kod bir değişkenin tipini öğrenmemizi sağlar. Örnek kullanım:
 
 # DÖNGÜLER VE KARŞILAŞTIRMALAR
 
-## if, elif, else
+## if, elif, else <a name="if"></a>
 
 if elif ve else kodları belli bir durumları karşılayan durumlarda kod çalıştrımak için kullanılır.
 ### DİKKAT
@@ -357,7 +400,7 @@ Girilen sayı pozitiftir.
 
 
 
-## for loop
+## for loop <a name="for"></a>
 
 ### DİKKAT
 FOR KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
@@ -392,7 +435,7 @@ b
 
 
 
-## Range kullanımı
+## Range kullanımı <a name="range"></a>
 range() koduna iki değer (başlangıç ve bitiş) verilirse hepsi integer olmak üzere başlangıç sayısı dahil olmak üzere aralıktaki sayıların hepsini döndürür.
 range() koduna bir değer (bitiş) veilirse hepsi integer olmak üzere başlangıç sıfır olarak kabul edilir ve başlangıç sayısı(0) dahil olmak üzere aralıktaki sayıların hepsini döndürür.
 ### SADECE FOR ILE VE LİSTEDE YAPTIĞIMIZ GİBİ "L[0]" KULLANABILIRSINIZ
@@ -418,7 +461,7 @@ range() koduna bir değer (bitiş) veilirse hepsi integer olmak üzere başlang�
 
 
 
-## while loop
+## while loop <a name="while"></a>
 
 ### DİKKAT
 WHILE KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
@@ -482,7 +525,7 @@ ab
 
 # FONKSIYONLAR VE NESNELER
 
-## def()
+## def() <a name="def"></a>
 
 ### DİKKAT
 DEF KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
@@ -515,7 +558,7 @@ Ben bir öğrenciyim.
 
 
 
-## Fonksiyon argümanları
+## Fonksiyon argümanları <a name="funcargs"></a>
 
 ## Default Argument
 ```python
@@ -571,7 +614,7 @@ Can Değer
 
 
 
-## class
+## class <a name="class"></a>
 
 ### DİKKAT
 DEF KULLANDIKTAN SONRAKI SATIRLARDA BIR TAB ATILIR!!!
@@ -595,7 +638,7 @@ Can Değer
 
 
 
-# HATA KONTROLÜ
+# HATA KONTROLÜ <a name="tryexcept"></a>
 
 ## try, except, finally
 
@@ -646,7 +689,7 @@ Kod çalıştı.
 
 
 
-# MODÜLLER
+# MODÜLLER <a name="modules"></a>
 
 Modüller import komutuyla kullanılır.
 Modüller hakkında daha fazla bilgiyi modüller dökümantasyonundan okuyabilirsiniz
