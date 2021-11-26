@@ -143,7 +143,7 @@ ________________________________________
 121. SD-WAN nedir?
 ## Uygulama güvenliği
 122. CI/CD ardışık düzeni nedir?
-123. Güvenlik açıkları, Application Security kalem testi bulgularının %50'sini temsil eder. Diğer yarısı?
+123. Güvenlik açıkları, Application Security pentesti bulgularının %50'sini temsil eder. Diğer yarısı?
 124. İş mantığı hatasının ne olduğunu ve bunun ne yapması gerektiğini açıklayabilir misiniz? Uygulama güvenliği ile?
 125. Yazdığınız son programı veya komut dosyasını açıklayın. Ne sorunu yaptı çözmek?
 126. Bilgi güvenliğinin sürecin her aşamasındaki rolünü kısaca tartışır mısınız? Yazılım geliştirme Yaşam Döngüsü?
@@ -224,7 +224,7 @@ ________________________________________
 194. Bir masa üstü egzersizi nedir?
 195. Tehdit modellemesini açıklayabilir misiniz?
 196. İçeridekilerle ilgili olaylar neden daha pahalı? Güvenlik denetimleri, test etme ve olay müdahalesi
-197. Güvenlik denetimleri ve kalem testleri için ana itici güç nedir?
+197. Güvenlik denetimleri ve pentestleri için ana itici güç nedir?
 198. Harika bir kapsam belirleme sürecinin nasıl göründüğünü açıklayabilir misiniz?
 199. BT güvenlik denetimi nedir?
 200. Kuruluşların sızma testini düzeltmemesinin ana nedeni nedir? bulgular?
@@ -263,9 +263,9 @@ ________________________________________
 231. Bilgi güvenliğini nasıl test edersiniz?
 232. Kara kutu ve beyaz kutu penetrasyon testi arasındaki fark nedir?
 233. Güvenlik açığı taraması nedir?
-234. Kalem testinde hangisi daha iyi, kırmızı takım mı yoksa mavi takım mı?
+234. Pentestte hangisi daha iyi, kırmızı takım mı yoksa mavi takım mı?
 235. Sızma testi yapmak için neden dışarıdan bir yüklenici getiresiniz?
-236. PCI-DSS kalem testi hakkında ne diyor?
+236. PCI-DSS pentest hakkında ne diyor?
 237. Bir sosyal mühendislik güvenlik testini nasıl yaparsınız?
 238. Olay müdahale planı neden önemlidir?
 239. Salesforce veya Amazon gibi bulut hizmetlerinin güvenliğini nasıl test edersiniz? AWS?
