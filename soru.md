@@ -22,3 +22,17 @@ Alternatif olarak...
 Yani özetlemek gerekirse; "Java uzmanı var mı?", diye sorma, onun yerine "Java ile nasıl [problem] yapabilirim, [ve alakalı bilgiler]?" şeklinde sor.
 
 -------------
+ <p>
+      Diğer benzer problemler: <a href="https://xyproblem.info/">XY Problemi</a>, <a href="https://nohello.net/">Merhaba Yok</a>.
+      Daha fazlasını okumak için: <a href="https://stackoverflow.com/help/how-to-ask">Nasıl daha iyi soru sorarım?</a>,
+      yada daha fazla zamanın varsa: <a href="http://www.belgeler.org/howto/smart-questions.html">Nasıl Akıllıca Soru Sorulur?</a>.
+    </p>
+  </main>
+  <footer>
+    İçerik çoğunlukla <a href="https://iki.fi/sol/dontask.html">iki.fi/sol/dontask.html</a> adresinden (ç)alınmıştır
+    -
+    <a href="https://t.me/yazilimtoplulugu">Yazılım Topluluğu</a>'ndan Mehmet Ali Peker tarafından çevrilmiştir
+    <a href="https://github.com/Ksenofanex">Burak Kadir Er</a> tarafından düzenlenmiştir
+    -
+    <a href="https://github.com/maunium/dontasktoask.com">GitHub'da Kaynak Kodu</a>
+  </footer>
