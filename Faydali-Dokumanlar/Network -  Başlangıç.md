@@ -70,13 +70,15 @@ https://medium.com/bili%C5%9Fim-hareketi/osi-modeli-ve-7-katman-7c3bb467798c#:~:
 <h3>Broadcast</h3>
 <p>Cihazdan Ağdaki tüm cihazlara yapılan iletim türü </p>
 
-<h2>Network ID Host ID Kavramları</h2>
+<h2>Network ID Host ID ve IP Sınıfları</h2>
 
 <h3>Network ID</h3>
 <p>Evlerimizde kullandığımız IP nin ilk üç kısmı Network IP olarak adlandırılır</p>
 
 <h3>Host ID</h3>
 <p>Evlerimizde kullandığımız IP nin son kısmı Host ID olarak adlandırılır.</p>
+
+<p>Burda da güzel bir makale var -> https://www.ugureskici.com/notlarim-makalelerim/ip-sinif-araliklari</p>
 
 <h2> Ağ servislerinden bazıları </h2>
 
