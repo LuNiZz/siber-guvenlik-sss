@@ -60,6 +60,6 @@ Aramıza hoş geldin ve görüşürüz!
     - [<img width="18" src="https://i.ibb.co/f8m7Vd0/windows.png" alt="windows" border="0"> WSL'de Kali Kurulumu](/Faydali-Dokumanlar/WSL_Kali.md)
     - [<img width="18" src="https://i.ibb.co/6Xj1TNj/hacker.png" alt="hacker" border="0"> Siber Güvenlik Dalları ve Sertifikaları](/Faydali-Dokumanlar/siberguvenlik.md)
     - [<img width="18" src="https://i.ibb.co/2WMkZHx/mulakat.png" alt="mulakat" border="0"> Siber Güvenlik Mulakat Soruları](/Faydali-Dokumanlar/siberguvenlik_mulakat_sorulari.md)
-    - [<img width="18" src="https://i.ibb.co/7bk9R49/ethernet-g8ff56b1bc-640.png" alt="network" border="0"> Network Başlangıç ](/Faydali-Dokumanlar/Network - Başlangıç.md)
+    - [<img width="18" src="https://i.ibb.co/yYK5YYz/network-pentesting.png" alt="network-pentesting" border="0"> Network Pentesting](/Faydali-Baglantilar/Network_Pentesting.md)
 
 <p align="center">-Index Sonu-</center>
