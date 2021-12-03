@@ -34,7 +34,7 @@ Bu dosyada ağ temellerimizi atacağız :)
 
 <h3>DNS</h3>
 <p>Bilgisayar tarayıcıya girdiğimiz hiçbirşeyi anlamaz bunu anlamaz burda DNS devreye girer ve Bilgisayara adresi verir, her sitenin bir IP Karşılığı vardır örneğin www.google.com arattığımız zaman bilgisayar onu anlamaz burada devreye DNS girer ve google.com a ait IP yi bilgisayara tanıtır. </p>
-<p>Örnek vermek gerekirse araba bilgisayar nagivasyonda DNS sunucusu olarak örneklendirebiliriz.</p>
+<p>Örnek vermek gerekirse araba bilgisayar nagivasyonuda DNS sunucusu olarak örneklendirebiliriz.</p>
 
 
 
