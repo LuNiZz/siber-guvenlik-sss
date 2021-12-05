@@ -56,8 +56,10 @@ Aramıza hoş geldin ve görüşürüz!
 * [<img width="18" src="https://i.ibb.co/wLs9FDF/yazilar.png" alt="yazilar" border="0"> Faydalı Dokümanlar](/Faydali-Dokumanlar)
     - [<img width="18" src="https://i.ibb.co/nsy7RW6/docker.png" alt="docker" border="0"> Docker ile Kali Linux Kurulumu](/Faydali-Dokumanlar/Docker-da_KALI.md)
     - [<img width="18" src="https://i.ibb.co/1Rd9V0k/linux.png" alt="linux" border="0"> Linux ve Pentesting Başlangıç](/Faydali-Dokumanlar/Linux_ve_Pentesting_Baslangic.md)
+    - [<img width="18" src="https://i.ibb.co/ngYZt20/network.png" alt="network" border="0"> Network Baslangıç](/Faydali-Dokumanlar/Network_Baslangic.md)
     - [<img width="18" src="https://i.ibb.co/QJTzGG0/python.png" alt="python" border="0"> Python3 Başlangıç](/Faydali-Dokumanlar/Python3_Baslangic.md)
     - [<img width="18" src="https://i.ibb.co/f8m7Vd0/windows.png" alt="windows" border="0"> WSL'de Kali Kurulumu](/Faydali-Dokumanlar/WSL_Kali.md)
     - [<img width="18" src="https://i.ibb.co/6Xj1TNj/hacker.png" alt="hacker" border="0"> Siber Güvenlik Dalları ve Sertifikaları](/Faydali-Dokumanlar/siberguvenlik.md)
-    - [<img width="18" src="https://i.ibb.co/2WMkZHx/mulakat.png" alt="mulakat" border="0"> Siber Güvenlik Mulakat Soruları](/Faydali-Dokumanlar/siberguvenlik_mulakat_sorulari.md)  
+    - [<img width="18" src="https://i.ibb.co/2WMkZHx/mulakat.png" alt="mulakat" border="0"> Siber Güvenlik Mulakat Soruları](/Faydali-Dokumanlar/siberguvenlik_mulakat_sorulari.md)
+
 <p align="center">-Index Sonu-</center>

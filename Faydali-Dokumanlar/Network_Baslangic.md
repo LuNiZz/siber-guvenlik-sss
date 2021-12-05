@@ -8,6 +8,21 @@ Bu dosyada ağ temellerimizi atacağız :)
 <h3>Özellikleri</h3>
 <p> Cihazların birbirleri ile Dosya paylaşımı yapmasına, donanım paylaşımı yapmasına Kısaca paylaşım yapmasına olanak sağlar.</p>
 
+<h2>Domain Hosting SubDomain ve Bazı Terimler</h2>
+
+<h3>Domain</h3>
+<p>Domain kısaca alan adıdır her site aslında bir IP e sahiptir fakat bunları hatırlamak zordur bunun için site sahipleri alan adı almaktadır mesela github.com bu bir alan adıdır</p>
+
+<h3>Hosting</h3>
+<p>Kısaca barındırma hizmetidir sitemizde yayınlanacak sayfaları, gerekli dosyaları, fotoğrafları vb.. orda barındırırız. Kullanıcı bilgisayarı ile arasındaki fark sitemizin erişebilir olması için sürekli açık bir bilgisayara ihtiyacımızın olması işte tam da burda hosting sunucular devreye girer. Eğer normal bir bilgisayara kurmuş olsaydık bu bilgisayarı kapattığımız zaman sitemizdeki içerikler erişebilir olmayacaktı. </p>
+
+<h3>SubDomain</h3>
+<p>SubDomaini Ana domainin kardeşi olarak düşünebiliriz, örneğin bir sitemiz var site.com alan adında, örneğin biz güvenlik hizmeti veren firmayız ve müşterilerin destek alması için yeni bir alan adı açmak istiyoruz fakat bu mantıksız bir hareket, tam da bu noktada SubDomain devreye girer ve alan adımıza bir SubDomain açarız yani; destek.site.com gibi işte bu destek kısmı SubDomaindir daha anlaşılır olması adına bazı gerçek örneklendirmeler vereceğim. mail.google.com, support.google.com, outlook.live.com gibi.
+
+<h3>NS(Name Server)</h3>
+<p> Burda güzel bir kaynak var bunun için --> https://www.guzel.net.tr/blog/genel/nameserver-ns-nedir.html
+  
+ 
 <h2>Ağ donanımlarına giriş</h2>
 
 <h3>İnternet kartı(NIC)</h3>
@@ -34,7 +49,7 @@ Bu dosyada ağ temellerimizi atacağız :)
 
 <h3>DNS</h3>
 <p>Bilgisayar tarayıcıya girdiğimiz hiçbirşeyi anlamaz bunu anlamaz burda DNS devreye girer ve Bilgisayara adresi verir, her sitenin bir IP Karşılığı vardır örneğin www.google.com arattığımız zaman bilgisayar onu anlamaz burada devreye DNS girer ve google.com a ait IP yi bilgisayara tanıtır. </p>
-<p>Örnek vermek gerekirse araba bilgisayar nagivasyonda DNS sunucusu olarak örneklendirebiliriz.</p>
+<p>Örnek vermek gerekirse araba bilgisayar nagivasyonuda DNS sunucusu olarak örneklendirebiliriz.</p>
 
 
 
@@ -87,6 +102,13 @@ https://medium.com/bili%C5%9Fim-hareketi/osi-modeli-ve-7-katman-7c3bb467798c#:~:
 
 <h3>NAT</h3>
 <p>https://medium.com/@gokhansengun/nat-network-address-translation-nedir-ve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-a2c8b6291de8 Burda resimli bir şekilde güzelce anlatılmış. </p>
+
+<h2>Dur kardeşim geçme, şu kaynaklara da bak</h2>
+<p align='left'>
+  <br>--> https://www.firatboyan.com/ip-ve-subnetting-kavrami.aspx
+  <br>--> http://yusufgokkaya.com/en/active-directory-nedir/
+  <br>--> https://volkandemirci.org/2020/05/04/privileged-access-workstations-kurulumu-ve-yapilandirilmasi-1/
+  
 
 
 
