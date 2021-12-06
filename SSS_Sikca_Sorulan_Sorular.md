@@ -192,7 +192,7 @@ Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Sc
 ## Herşey çok iyi çok güzel de bu pitonu nasıl öğrenicez? <a name="question16"></a>
 İnternette birsürü Türkçe ve İngilizce şahane kaynaklar var. Türkçe kaynaklarla başlayalım:
 - [Yazbel](https://python-istihza.yazbel.com/) - _*Ücretsiz*_ bir başlangıç kaynağı
-- [Python3 Baslangıç](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Python3-Baslangic.md) - Topluluk tarafından hazırlanan Python3-Baslangic.md dosyası
+- [Python3 Baslangıç](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/Python3_Baslangic.md) - Topluluk tarafından hazırlanan Python3-Baslangic.md dosyası
 - [Atıl Samancıoğlu](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) - _*Ücretli*_ bir eğitim, indirimlerde 30 tlye kadar düşüyo \
 İngilizce Kaynaklar:
 - [freeCodeCamp YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) - _*Ücretsiz*_ bir başlangıç eğitimi
