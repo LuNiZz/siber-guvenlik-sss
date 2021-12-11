@@ -33,7 +33,7 @@ Aramıza hoş geldin ve görüşürüz!
 <br>
 
 # İçindekiler:
-* [<img width="18" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="soru-cevap" border="0"> Sıkça Sorulan Sorular](/SSS_Sikca_Sorulan_Sorular.md)
+* [<img width="18" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="soru-cevap" border="0"> Sıkça Sorulan Sorular](/SSS_Sikca_Sorulan_Sorular.md) <<< BURADAN BASLA
 * [<img width="18" src="https://i.ibb.co/2dzQnY9/twitch.png" alt="twitch" border="0"> Tüm geçmiş Twitch Yayınları](/Faydali-Bilgiler/Tum_Gecmis_Twitch_Yayinlari.md)
 * [<img width="18" src="https://i.ibb.co/gmLfmCy/bug.png" alt="bug" border="0"> Bug Bounty Mevzusu](/Faydali-Bilgiler/Bug_Bounty_Mevzusu.md)
 * [<img width="18" src="https://i.ibb.co/NLkznCJ/yildiz.png" alt="yildiz" border="0"> AWESOME serisi](/Faydali-Bilgiler/AWESOME_Serisi.md)
