@@ -26,7 +26,8 @@ Aramıza hoş geldin ve görüşürüz!
 ##### Asagida siniflandirdigimiz linklerin her birinin icerisinde, delidumrul kaynaklar var ;) 
 ##### SIK SORULAN SORULAR bolumu, siber guvenlik ile ilgili yoneltilen SIK sorularin bulundugu yer. 
 
-
+## Ancak, sevgili dostum, yerine olsam kendime sunu sorarim. "Yeterince ingilizce biliyor muyum?" buradaki kaynaklar, tekeri dondurse bile, ingilicce olmadan olmaz... 
+1. kural "ingilizce ogren"... bilgin olsun.
 ---
 
 <br>
