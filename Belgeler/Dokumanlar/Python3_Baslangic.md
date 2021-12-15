@@ -1,4 +1,7 @@
-# Python3 Başlangıç
+<a name="top"></a>
+
+---
+<h1 align="center">Python3 Başlangıç Rehberi</h1>
 
 Bu dosyada başlangıç düzeyinde python3 öğreneceğiz.
 
@@ -9,43 +12,43 @@ Bu dosyada başlangıç düzeyinde python3 öğreneceğiz.
 <details> 
   <summary><strong>İçindekiler(Contents)</summary></strong>
   <p>
-      
-1) [Python'da yorumlar](#discussion)
-2) [print()](#print)
-3) [a="b"](#setvar)
-4) [Bazı Kaçış dizileri](#escsequences)
-5) [input()](#input)
-6) [format](#format)
-7) [f-string](#fstring)
-8) [Bazı işleçler](#operators)
-9) [Koşullar](#ifelifelse)
-### [Döngüler](#loops)
-10) [range()](#range)
-11) [while](#while)
-12) [for](#for)
-13) [Hata kontrolü](#debugging)
-	  
-### [Karakter dizilerinin metodları](#strmethods)
-14) [replace()](#replace)
-15) [split()](#split)
-16) [lower(), upper()](#lowerupper)
-17) [swapcase()](#swapcase)
-18) [title()](#title)
-19) [Değişken kontrolleri](#strchecks)
-20) [lstrip(), strip(), rstrip()](#strips)
-21) [ljust(), center(), rjust()](#justs)
-22) [index(), find()](#indexfind)
-23) [zfill()](#zfill)
-24) [expandtabs()](#expandtabs) 
-<p>&nbsp;</p>
-	
-25) [Listeler](#list)
-26) [Demetler](#tuple)
-27) [Sözlükler](#dict)
-28) [Temel dosya işlemleri](#basefileops)
-29) [Fonksyionlar](#func)
-30) [Sınıflar](#class)
-31) [Modüller](#modules)
+
+  - [Python'da yorumlar](#discussion)
+  - [print()](#print)
+  - [a="b"](#setvar)
+  - [Bazı Kaçış dizileri](#escsequences)
+  - [input()](#input)
+  - [format](#format)
+  - [f-string](#fstring)
+  - [Bazı işleçler](#operators)
+  - [Koşullar](#ifelifelse)
+
+* [Döngüler](#loops)
+  - [range()](#range)
+  - [while](#while)
+  - [for](#for)
+  - [Hata kontrolü](#debugging)
+
+* [Karakter dizilerinin metodları](#strmethods)
+  - [replace()](#replace)
+  - [split()](#split)
+  - [lower(), upper()](#lowerupper)
+  - [swapcase()](#swapcase)
+  - [title()](#title)
+  - [Değişken kontrolleri](#strchecks)
+  - [lstrip(), strip(), rstrip()](#strips)
+  - [ljust(), center(), rjust()](#justs)
+  - [index(), find()](#indexfind)
+  - [zfill()](#zfill)
+  - [expandtabs()](#expandtabs) 
+
+ - [Listeler](#list)
+ - [Demetler](#tuple)
+ - [Sözlükler](#dict)
+ - [Temel dosya işlemleri](#basefileops)
+ - [Fonksyionlar](#func)
+ - [Sınıflar](#class)
+ - [Modüller](#modules)
   </p>
 </details>
 
@@ -60,7 +63,7 @@ Pythonda yorum satırı olarak yani koda etki etmeyecek yazılar eklenmek istedi
 
 
 
-## print() <a name="print"></a>
+## ([▲](#top)) print() <a name="print"></a>
 Bu kod, içine yazılan kelimenin veya değişkenin çıktısını ekrana basar..
 - r : Kaçış dizilerini geçersiz kılar
 - f : f-string'lerde kullanılır. Örnek kullanım:
@@ -78,7 +81,7 @@ C:\Users\Can\newfile
 
 
 
-## a = "b" <a name="setvar"></a>
+## ([▲](#top)) a = "b" <a name="setvar"></a>
 Yukarıdaki gibi kullanım, bir değişken oluşturmamızı sağlar. Örnek kullanım:
 ```python
 >>> yazi = "selam"                     # Bu bir stringtir, string (" ") veya (' ') veya (""" """") işaretleri içinde olan ve değişkenlere atanabilen bir değerdir. a = str() veya a = "" boş string oluşturur.
@@ -107,7 +110,7 @@ selam
 
 
 
-## Bazı Kaçış Dizileri <a name="escsequences"></a>
+## ([▲](#top)) Bazı Kaçış Dizileri <a name="escsequences"></a>
 - \\ : Kendisinden sonraki karakteri geçersiz kılar.
 - \\n : Alt satıra geçiş
 - \\t : Sekme (Tab tuşu)
@@ -117,7 +120,7 @@ selam
 
 
 
-## input() <a name="input"></a>
+## ([▲](#top)) input() <a name="input"></a>
 Bu komut, kullanıcıdan bilgi toplamaya yarar. Örnek kullanım:
 ```python
 >>> kullanıcıadı = input("Adın nedir?: ")
@@ -130,7 +133,7 @@ Merhaba Can tanıştığıma memnun oldum.
 
 
 
-## format() <a name="format"></a>
+## ([▲](#top)) format() <a name="format"></a>
 Bu metot, belirli bir yazı içerisinde belirli noktalara belirli karakterler yerleştirmeye yarar. Örnek kullanım:
 ```python
 >>> kladi = input("Adın nedir?: ")
@@ -148,7 +151,7 @@ Merhaba Can, tanıştığımıza memnun oldum.
 
 
 
-## f-String <a name="fstring"></a>
+## ([▲](#top)) f-String <a name="fstring"></a>
 f-String metodu, tıpkı format metodunda olduğu gibi belirli noktalara  belirli karakterler yerleştirmeye yarar. Format'tan daha pratik görünen bir kullanımı vardır. Örnek Kullanım:
 ```python
 >>> kladi = input("Adın nedir?: ")
@@ -160,7 +163,7 @@ Adın nedir?: Can
 
 
 
-## Bazı işleçler <a name="operators"></a>
+## ([▲](#top)) Bazı işleçler <a name="operators"></a>
 - \+ | \- |  \* | \/ : Toplama, çıkarma, çarpma, bölme
 - a\*\*b : a'nın b üssünü alma (2³ gibi)
 - a % b : a'nın b ile bölümünden kalan sayı
@@ -171,7 +174,7 @@ Adın nedir?: Can
 
 
 
-## Koşullar (if-elif-else) <a name="ifelifelse"></a>
+## ([▲](#top)) Koşullar (if-elif-else) <a name="ifelifelse"></a>
 if elif ve else kodları, belli bir durumları karşılayan durumlarda kod çalıştrımak için kullanılır. 
 - Not: if elif ve else'dan sonraki satırlarda mutlaka "TAB" atılması gerekir.
 - Not: if elif ve else'dan sonra : kullanılır.
@@ -185,12 +188,12 @@ Operatörler:
 - `and` : Koşulların hepsi sağlanırsa çalıştır
 - `or` : Koşulların biri sağlanırsa çalıştır
 ```python
->>> sayi = int(input("Sayı girin: "))     # 15 girmiş olalım
->>> if sayi == 0:						  # Sayı sıfıra eşitse
+>>> sayi = int(input("Sayı girin: "))             # 15 girmiş olalım
+>>> if sayi == 0:				  # Sayı sıfıra eşitse
 ...		print("Sayı sıfırdır.")           # Bunu yaz
-...	elif 0 < sayi and sayi < 20 :         # Eğer sayı 0'dan büyük "VE" 20'den küçükse
+...	elif 0 < sayi and sayi < 20 :             # Eğer sayı 0'dan büyük "VE" 20'den küçükse
 ...		print("Sayı 0 ile 20 arasında.")  # Bunu yaz
-...	elif -20 < sayi < 0 :				  # Eğer sayı 0'dan küçük "YA DA" -20'den büyükse
+...	elif -20 < sayi < 0 :			  # Eğer sayı 0'dan küçük "YA DA" -20'den büyükse
 ...		print("Sayı -20 ile 0 arasında.") # Bunu yaz
 ...
 Sayı 0 ile 20 arasında.
@@ -201,7 +204,7 @@ Sayı 0 ile 20 arasında.
 
 
 
-## Döngüler <a name="loops"></a>
+## ([▲](#top)) Döngüler <a name="loops"></a>
 ### range() fonksiyonu <a name="range"></a>
 Range fonksiyonu, kendisine verilecek olan parametreler içinde sayı saymaya yarar. Örnek kullanım:
 ```python
@@ -222,7 +225,7 @@ Range fonksiyonu, kendisine verilecek olan parametreler içinde sayı saymaya ya
 
 
 
-### While <a name="while"></a>
+### ([▲](#top)) While <a name="while"></a>
 Bu metod, kendisine verilecek olan koşulun doğru olup olmamasına dikkat eden ve koşul doğru ise kendisine verilen komutun sürekli çalışmasını sağlar. (koşul ... olduğu sürece çalış)
 - Not: while'dan sonraki satırlarda mutlaka "TAB" atılması gerekir.
 - Not: while'dan sonra : kullanılır.
@@ -246,7 +249,7 @@ Bu metod, kendisine verilecek olan koşulun doğru olup olmamasına dikkat eden 
 
 
 
-### For <a name="for"></a>
+### ([▲](#top)) For <a name="for"></a>
 Bu metod, kendisine verilecek olan çoklu değerleri tek tek kullanmaya yardım eder.
 - Not: for'dan sonraki satırlarda mutlaka "TAB" atılması gerekir.
 - Not: for'dan sonra : kullanılır.
@@ -265,7 +268,7 @@ Bu metod, kendisine verilecek olan çoklu değerleri tek tek kullanmaya yardım 
 
 
 
-### Hata kontrolü (try-except-else-finally) <a name="debugging"></a>
+### ([▲](#top)) Hata kontrolü (try-except-else-finally) <a name="debugging"></a>
 - Not: try except else ve finally'den sonraki satırlarda mutlaka "TAB" atılması gerekir.
 - Not: try except else ve finally'den sonra : kullanılır.
 ```
@@ -295,7 +298,7 @@ finally:	 # olsa da olmasa da beni çalıştır
 
 
 ## Karakter dizilerinin metodları <a name="strmethods"></a>
-### replace() <a name="replace"></a>
+### ([▲](#top)) replace() <a name="replace"></a>
 replace metodu, kendisine verilecek parametreler ile belirli bir değişken değerini değiştirmeye yarar. Örnek kullanım:
 ```python
 >>> deger = "Beyaz Şapkalı Tornacı"
@@ -307,7 +310,7 @@ replace metodu, kendisine verilecek parametreler ile belirli bir değişken değ
 
 
 
-### split() <a name="split"></a>
+### ([▲](#top)) split() <a name="split"></a>
 split metodu, soldan başlayarak kendisine verilen string ve sayıya göre ayırma işlemi yapar. Aynı işlemi sağdan başlatmak isterseniz rsplit() kullanabilirsiniz. Bu işlemler sonucu çıktılar liste olarak geri verilir. Örnek kullanım:
 ```python
 >>> deger = "Beyaz Takkeli Tornacı"
@@ -322,7 +325,7 @@ split metodu, soldan başlayarak kendisine verilen string ve sayıya göre ayır
 
 
 
-### lower() | upper() <a name="lowerupper"></a>
+### ([▲](#top)) lower() | upper() <a name="lowerupper"></a>
 Bu iki metod, değişkendeki harflerin hepsini büyütür veya küçültür. Örnek kullanım:
 ```python
 >>> deger = input("İsim girin: ")
@@ -339,7 +342,7 @@ Bu iki metod, değişkendeki harflerin hepsini büyütür veya küçültür. Ör
 
 
 
-### swapcase() <a name="swapcase"></a>
+### ([▲](#top)) swapcase() <a name="swapcase"></a>
 Bu metod ise harflerin boyutunu tersine çevirir. Örnek kullanım:
 ```python
 >>> deger = "DiScOvEr02"
@@ -351,7 +354,7 @@ Bu metod ise harflerin boyutunu tersine çevirir. Örnek kullanım:
 
 
 
-### title() <a name="title"></a>
+### ([▲](#top)) title() <a name="title"></a>
 Bu metod belirli bir karakter dizisindeki her kelimenin ilk harfini büyütür. Örnek kullanım:
 ```python
 >>> deger = "beyaz takkeli tornacı"
@@ -363,7 +366,7 @@ Bu metod belirli bir karakter dizisindeki her kelimenin ilk harfini büyütür. 
 
 
 
-### isalpha | isnumeric | isalnum | isspace | isinstance | startswith | endswith <a name="strchecks"></a>
+### ([▲](#top)) isalpha | isnumeric | isalnum | isspace | isinstance | startswith | endswith <a name="strchecks"></a>
 Bu işleçler adından anlaşılacağı üzere çeşitli kontroller yapar;
 - deger.isalpha() : Sadece harflerden mi oluşuyor?
 - deger.isnumeric() : Sadece numaradan mı oluşuyor?
@@ -377,7 +380,7 @@ Bu işleçler adından anlaşılacağı üzere çeşitli kontroller yapar;
 
 
 
-### lstrip() | strip() | rstrip() <a name="strips"></a>
+### ([▲](#top)) lstrip() | strip() | rstrip() <a name="strips"></a>
 Bu fonksiyonlar, kendisine vereceğiniz değerleri kırpar. Değer vermezseniz;
 lstrip() soldan;
 rstrip() sağdan;
@@ -397,7 +400,7 @@ strip() ise değişkenin başındaki ve sonundaki boşlukları kırpar. Örnek k
 
 
 
-### ljust() | center() | rjust() <a name="justs"></a>
+### ([▲](#top)) ljust() | center() | rjust() <a name="justs"></a>
 Bu fonksiyonlar ise içine verilen sayılar kadar alan oluşturur. Ve sırasıyla değişkeni sola, ortaya veya sağa yaslar. Örnek kullanım:
 ```python
 >>> isim = "Discover"
@@ -413,7 +416,7 @@ Bu fonksiyonlar ise içine verilen sayılar kadar alan oluşturur. Ve sırasıyl
 
 
 
-### index() | rindex() | find() | rfind() <a name="indexfind"></a>
+### ([▲](#top)) index() | rindex() | find() | rfind() <a name="indexfind"></a>
 Bu fonksiyonlar, belirli bir değişkenden istenilen harfı bulup sırasını söyler. rindex ve rfind fonksiyonları saymaya sağdan başlarlar. Hepsi hemen hemen aynı işi yaparlar, Tek farkı, index fonksiyonları harfi bulamayınca hata mesajı verir ama find işleci -1 diye çıktı verir. Örnek kullanım:
 ```python
 >>> isim = "discover"
@@ -438,7 +441,7 @@ ValueError: substring not found
 
 
 
-### zfill() <a name="zfill"></a>
+### ([▲](#top)) zfill() <a name="zfill"></a>
 zfill fonksiyonu, belirli bir karakter dizisinde kendisine verilen sayı kadar alan açıp tanımlanmamış kısımlara "0" doldurur. Örnek kullanım:
 ```python
 >>> isim = "mrN3ONd"
@@ -450,7 +453,7 @@ zfill fonksiyonu, belirli bir karakter dizisinde kendisine verilen sayı kadar a
 
 
 
-### expandtabs() <a name="expandtabs"></a>
+### ([▲](#top)) expandtabs() <a name="expandtabs"></a>
 expandtabs fonksiyonu, uygulandığı değişkenin içinde eğer ki '\t' dizisi varsa onun uzunluğunu belirlemeye yarar. Örnek kullanım:
 ```python
 >>> isim = "Can\tDeğer"
@@ -463,7 +466,7 @@ expandtabs fonksiyonu, uygulandığı değişkenin içinde eğer ki '\t' dizisi 
 
 
 ## Listeler <a name="list"></a>
-### list()
+### ([▲](#top)) list()
 list fonksiyonu, bir değişkene uygulandığında boş bir liste oluşturur. 
 ```python
 >>> liste = list()
@@ -511,7 +514,7 @@ list fonksiyonu, bir değişkene uygulandığında boş bir liste oluşturur.
 
 
 ## Demetler <a name="tuple"></a>
-### tuple()
+### ([▲](#top)) tuple()
 Demetler'de aynı listeler gibi belirli değerleri bir arada tutmak için kullanılır. Listelerden farkı ise tek bir kez ayarlanabilir olmasıdır. Ekleme yapıldıktan sonra silme veya değiştirme gibi işlemler uygulanamaz. 
 ```python
 >>> demet = ('Beyaz', 'Takkeli')
@@ -529,7 +532,7 @@ Demetler'de aynı listeler gibi belirli değerleri bir arada tutmak için kullan
 
 
 ## Sözlükler <a name="dict"></a>
-### dict()
+### ([▲](#top)) dict()
 Sözlükler, aynı gerçek hayattaki sözlükler gibi belirli bir şeyin ne olduğunu tanımlamak için vardır. Mesela "kitap" kelimesinin inglizce karşılığı "book" kelimesidir Bunu şöyle gösterebiliriz.
 `kitap: book`
 Bu python'da sözlükleri kullanarak halledilir.
@@ -568,7 +571,7 @@ dict_values(['book', 'pencil'])
 
 
 
-## Temel dosya işlemleri <a name="basefileops"></a>
+## ([▲](#top)) Temel dosya işlemleri <a name="basefileops"></a>
 - dosya = open("output.txt", "r")  : Dosyayı okuma modunda açar .
 - dosya = open("output.txt", "w")  : Dosyayı yazma modunda sıfırdan açar.
 - dosya = open("output.txt", "a")  : Dosyayı yazma modunda açar.
@@ -584,7 +587,7 @@ dict_values(['book', 'pencil'])
 
 
 ## Fonksiyonlar <a name="func"></a>
-### def()
+### ([▲](#top)) def()
 def() komutu, özel fonksiyonlar ayarlamaya yarar. Örnek kullanım:
 ```python
 >>> def ekranıtemizle():
@@ -618,7 +621,7 @@ def() komutu, özel fonksiyonlar ayarlamaya yarar. Örnek kullanım:
 
 
 
-### class <a name="class"></a>
+### ([▲](#top)) class <a name="class"></a>
 class() fonksiyonu'da tıpkı sözlükler "def()" gibidir ancak biraz daha karışık bir yapısı vardır.
 
 ```python
@@ -637,7 +640,7 @@ Can Değer
 
 
 
-# MODÜLLER <a name="modules"></a>
+# ([▲](#top)) MODÜLLER <a name="modules"></a>
 - Modüller import komutuyla kullanılır.
 - Modüller hakkında daha fazla bilgiyi modüller belgelerinden okuyabilirsiniz.
 - Python ile gelen bazı modüller:
@@ -649,7 +652,7 @@ Bilgisayarınızda olmayan modülleri windowsta `py -m pip install modul_ismi` v
 
 - Eğer bir modülün içinden belli bir fonksiyonu veya class'ı içeri alacaksanız;
 ```python
-from os import system    #system fonksiyonu bilgisayarda komut çalıştırmaya yarar.
+from os import system    [[system]] fonksiyonu bilgisayarda komut çalıştırmaya yarar.
 ```
 Örnek kullanım:
 ```python

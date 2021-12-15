@@ -1,5 +1,12 @@
+<a name="top"></a>
+
+---
+<h1 align="center">Siber Güvenlik Mülakat Soruları</h1>
+
+<h2 align="left">İşte siber güvenlik rolleri için 300 mülakat sorusu</h2>
+
 > Sayfa 1
-# İşte siber güvenlik rolleri için 300 mülakat sorusu
+
 ## Genel
 1. Ortaya çıkan siber tehditlerden bazılarını adlandırabilir misiniz?
 2. Siber güvenlik ekonomisi konusunda bana rehberlik eder misiniz?
@@ -46,6 +53,7 @@ uygulamalar?
 ________________________________________  
 
 > Sayfa 2
+
 39. Traceroute, iletişimdeki bir arızanın nerede olduğunu bulmanıza nasıl yardımcı olur?
 40. Neden bir Windows PC'den SSH kullanmak istersiniz?
 41. POST kodunun ne anlama geldiğini nasıl anlarsınız?
@@ -134,6 +142,7 @@ sınırlar?
 114. Bir kişinin kimliğini doğrulamanın üç yolu nedir?
 ________________________________________  
 > Sayfa 4
+
 115. Ağınızda aktif bir sorun olduğunu öğrendiniz. Siz bunu düzeltebilirsiniz, ama senin yetkin dışında. Ne yaparsın?
 116. Bir otelde bir "ofis iş istasyonundan" nasıl ödün verirsiniz?
 117. Güvenlik duvarı algılamasında hangisi daha kötü, yanlış negatif mi yoksa yanlış pozitif mi? Ve niye ya?
@@ -202,6 +211,7 @@ yapmak? Risk yönetimi
 174. Riski yönetmek için en kapsamlı güvenlik standardı nedir?
 ________________________________________  
 > Sayfa 6
+
 175. Riski nasıl ölçersiniz? Belirli bir metriğe örnek verebilir misiniz? bilgi güvenliği riskini ölçer mi?
 176. Bana bir risk takası örneği verebilir misiniz (örneğin riske karşı maliyet)?
 177. Olay yönetimi nedir?
@@ -239,6 +249,7 @@ ________________________________________
 209. Sanallaştırılmış bir ortamda çalıştınız mı?
 ________________________________________  
 > Sayfa 7
+
 210. Sizin için denetimin en zor yanı nedir?
 211. Uyguladığınız en zor denetim prosedürünü tanımlayın.
 212. Değişiklik yönetimi nedir?
@@ -283,6 +294,7 @@ ________________________________________
 bunu aşar mısın?
 ________________________________________  
 > Sayfa 8
+
 251. Kumarhanede akıllı termometreyi hacklemeyi başardın, nasıl yaparsın? yüksek roller veritabanına gidip geri mi dönüyorsun?
 252. Tesla neden hatalar / güvenlik açıkları için milyon dolar ödüyor? kriptografi
 253. Gizli anahtar şifrelemesi nedir?
@@ -325,6 +337,7 @@ Trapdoor işlevi nedir?
 289. Diffie-Hellman ve RSA arasındaki fark nedir?
 ________________________________________  
 > Sayfa 9
+
 290. Standart bir Diffie-Hellman değişimi ne tür bir saldırıya açıktır?
 291. Kodlama, şifreleme ve karma oluşturma arasındaki fark nedir?
 292. Açık anahtarlı kriptografide bir genel ve bir özel anahtarınız vardır ve genellikle hem şifreleme hem de imzalama işlevlerini gerçekleştirin. Hangi anahtar ne için kullanılır işlev?
