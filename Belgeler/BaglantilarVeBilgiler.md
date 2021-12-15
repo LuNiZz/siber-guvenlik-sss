@@ -1,9 +1,9 @@
 <a name="top"></a>
 
-<a name="bazilinkler"></a>
+<a name="bazikaynaklar"></a>
 
 ---
-<h1 align="center">Bazı Linkler ve Kaynak Önerileri</h1>
+<h1 align="center">Bazı Kaynak Önerileri</h1>
 
 * ### Android Security
   - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
@@ -188,6 +188,8 @@
     - [Uygulamalı sızma testi eğitimi](https://t.co/UujGK4FW9p?amp=1)
     - [Web Güvenliği](https://www.btkakademi.gov.tr/portal/course/web-uygulama-guvenligi-10587#!/about)
     - [1 milyon istihdam siber guvenlik egitimi](https://1milyonistihdam.hmb.gov.tr/kariyer-rehberi/siber-guvenlik/siber-guvenlik-uzmani)
+  - [(C# + ANGULAR) 2-3 aylık 0'dan Yazılım Geliştirici Yetiştirme Kampı](https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi)
+  - [(Java + REACT) 2-3 aylık 0'dan Yazılım Geliştirici Yetiştirme Kampı](https://www.kodlama.io/p/yazilim-gelistirici-yetistirme-kampi2)
   - İngilizce öğrenmek için bir [web sitesi](https://diziyleogren.com/)
   - [Linux Dersleri](https://linux-dersleri.github.io/)
   - Nmap, dirb, nikto, wappalyzer, burpsuite, hydra, wpscan, wireshark, metasploit gibi popüler araçların kullanımlarının anlatıldığı [eğitim videosu](https://www.youtube.com/watch?v=bSD2-mLUO4I)
@@ -457,6 +459,8 @@
 
 * Türkçe
   - [Sıfırdan ileri Seviye'ye Python](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye)
+  - [C# ve JAVA başlangıç seviyeleri için, içerisinde kurs sonu ödevler de bulunan bir site](https://www.kodlama.io/)
+
 
 ## Ücretsiz Kurslar
 * ### Udemy 
