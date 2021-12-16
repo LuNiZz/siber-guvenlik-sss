@@ -6,36 +6,36 @@
   <summary><strong>İçindekiler (Contents)</strong></summary>
   <p>
      
-1) [Nereden başlamalıyım?](#question1)
-2) [Hangi bilgisayarı almalıyım, hem yazılım hem siber güvenlik vb konular için?](#question2)
-3) [Abi selam, XX yaşındayım, sence geç kalmış olabilir miyim?](#question3)
-4) [Algoritmayı ve kod yazmayı ücretsiz bir şekilde nasıl öğreniriz?](#question4)
-5) [Roadmap](#question5)
-6) [Peki, yeni yazılımcıya önerilerin neler; ne yapmak lazım?](#question6)
-7) [Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim?](#question7)
-8) [Abi udemy'de veya başka bir yerde Türkçe bir eğitim buldum, nasıldır bu?](#question8)
-9) [Kendimi hacker saldırılarından nasıl koruyabilirim?](#question9)
-10) [Bu linux'u nasıl öğreneceğiz?](#question10)
-11) [Web uygulama için iyi bir kaynak biliyor musun?](#question11)
-12) [Üniversite okumalı mıyım?](#question12)
-13) [X bilimleri vs Y Mühendisliği vs Z tornacılığı ya da siber güvenlik mühendislik uzmanlığı profesorlüğü bölümü? Hangisini seçersem "siberci" olurum?](#question13)
-14) [Ben eğitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık her türlü Pentesting, Web App Testing, Siber Güvenlik konularına hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?](#question14)
-15) [Hangi programlama dillerine ve teknolojilerine eğilmeliyim?](#question15)
-16) [Herşey çok iyi çok güzelde bu pitonu nasıl öğreneceğiz?](#question16)
-17) [Abi ingilizcem yok! Ne yapacağım?](#question17)
-18) [Siber güvenlik ile değilde, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım sence?](#question18)
-19) [Oyun geliştirme konusu'da ilgimi çekiyor, siber güvenlikte. Hangisini seçmeliyim?](#question19)
-20) [Abi Instagram'dan sana sordum, mesajımı görmedin. O nedir, bu nedir abi?...](#question20)
-21) [Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?](#question21)
-22) [Peki abi, ben LINUX'u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım?](#question22)
-23) [Bir cok eğitimin içinde anlatılıyor ama sadece Networking öğrenmek için hangi eğitime bakmalıyım?](#question23)
-24) [Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edeceğim, bir şeyleri kırmadan dökmeden?](#question24)
-25) [Ben kendi laboratuvarımı kurmak istiyorum nasıl yapacağım?](#question25)
-26) [Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?](#question26)
-27) [Kendime nasıl VPN kurabilirim?](#question27)
-28) [Kali Linux mu? Parrot mu?](#question28)
-29) [Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?](#question29)
-30) [Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?](#question30)
+- [Nereden başlamalıyım?](#question1)
+- [Hangi bilgisayarı almalıyım, hem yazılım hem siber güvenlik vb konular için?](#question2)
+- [Abi selam, XX yaşındayım, sence geç kalmış olabilir miyim?](#question3)
+- [Algoritmayı ve kod yazmayı ücretsiz bir şekilde nasıl öğreniriz?](#question4)
+- [Roadmap](#question5)
+- [Peki, yeni yazılımcıya önerilerin neler; ne yapmak lazım?](#question6)
+- [Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim?](#question7)
+- [Abi udemy'de veya başka bir yerde Türkçe bir eğitim buldum, nasıldır bu?](#question8)
+- [Kendimi hacker saldırılarından nasıl koruyabilirim?](#question9)
+- [Bu linux'u nasıl öğreneceğiz?](#question10)
+- [Web uygulama için iyi bir kaynak biliyor musun?](#question11)
+- [Üniversite okumalı mıyım?](#question12)
+- [X bilimleri vs Y Mühendisliği vs Z tornacılığı ya da siber güvenlik mühendislik uzmanlığı profesorlüğü bölümü? Hangisini seçersem "siberci" olurum?](#question13)
+- [Ben eğitimlerimi tamamladım, bu siteyi de yaladım yuttum, artık her türlü Pentesting, Web App Testing, Siber Güvenlik konularına hakim olduğumu düşünüyorum. Peki şimdi ne yapmalıyım?](#question14)
+- [Hangi programlama dillerine ve teknolojilerine eğilmeliyim?](#question15)
+- [Herşey çok iyi çok güzelde bu pitonu nasıl öğreneceğiz?](#question16)
+- [Abi ingilizcem yok! Ne yapacağım?](#question17)
+- [Siber güvenlik ile değilde, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım sence?](#question18)
+- [Oyun geliştirme konusu'da ilgimi çekiyor, siber güvenlikte. Hangisini seçmeliyim?](#question19)
+- [Abi Instagram'dan sana sordum, mesajımı görmedin. O nedir, bu nedir abi?...](#question20)
+- [Abi bulunduğum şehirde devletin, İşkur'un veya benzer kurumların bilişim kursları var. BTK'nın eğitim kursları falan var, 1M yazılımcı vs. diye, Bunlara gideyim mi? İşe yarar mı?](#question21)
+- [Peki abi, ben LINUX'u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım?](#question22)
+- [Bir cok eğitimin içinde anlatılıyor ama sadece Networking öğrenmek için hangi eğitime bakmalıyım?](#question23)
+- [Abi pentesting hadisesine ilgi duyuyorum da nasıl kendimi test edeceğim, bir şeyleri kırmadan dökmeden?](#question24)
+- [Ben kendi laboratuvarımı kurmak istiyorum nasıl yapacağım?](#question25)
+- [Kali uyumlu monitoring destekli WIFI adaptor nerden bulabilirim tavsiyeniz var mi?](#question26)
+- [Kendime nasıl VPN kurabilirim?](#question27)
+- [Kali Linux mu? Parrot mu?](#question28)
+- [Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?](#question29)
+- [Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?](#question30)
   </p>
 </details>
 
@@ -58,11 +58,11 @@ Bu noktada kişisel tercihler ön plana çıkıyor;
 bence bir bilgisayar;
 > 1) Hafif olmalı, gittiğin her yere rahatlıkla götürebilmelisin, bu noktada laptop daha avantajlı, mesela Starbucks'da otururken de makale okuyabilirsin ;)
 > 2) İşlemcin en az i5 seviyesinde ve maksimum 2 jenerasyon eski olmalı, şu an itibariyle konuşursak (12. gen en yenisi) en az 10 olmalı...
-> 3) RAM en önemli bileşenin, en az 8 GB RAM'in olmalı. Bu durumda 1 tane sanal makine çalıştırabilirsin adam akıllı. O yüzden 16 GB olursa çok daha rahat olur. En azından "victim" > makine de çalıştırabilirsin.
-> 4) HDD değilde kesinlikle SSD olmalı, bu desktop ile laptop in en büyük fark idi eskiden, çünkü ssd oncesinde laptop diskleri 5400 kusur RPM'di çok yavaştı adamı sinir ediyordu, ama >bugün laptoplarda SSD kullandığı için süper oldular... Sende o yüzden SSD tercih etmelisin...
+> 3) RAM en önemli bileşenin, en az 8 GB RAM'in olmalı. Bu durumda 1 tane sanal makine çalıştırabilirsin adam akıllı. O yüzden 16 GB ram olursa çok daha rahat olur senin için. En azından "victim" makine de çalıştırabilirsin.
+> 4) HDD değilde kesinlikle SSD olmalı, bu desktop ile laptop in en büyük fark idi eskiden, çünkü ssd oncesinde laptop diskleri 5400 küsür RPM'di ve çok yavaştı adamı sinir ediyordu, ama bugün laptoplarda SSD kullandığı için süper oldular... Sende o yüzden SSD tercih etmelisin...
 bunların dışında "E insanız abi, birazda oyun oynayacağız" dersen, hani paylaşımsız herhangi bir ekran karti bayağı bir işini görür. Eskiden şifre kırmak için falan GPU kullanıyorduk da şimdi o işler için web siteleri var onları kullanıyoruz ;) pek lokal de yapmıyoruz o işleri... O yuzden çok önemli değil...
 
-Ha laptop seçerken dikkat etmen gereken önemli bir unsur da, Linux'a uyumluluk, seçtiğin modele ilerde Native Linux yüklemek isteyebilirsin... O zaman driverlarının vs sorun çıkarmaması için, ürünü bir arat Google'dan. Ha dersin ki işim olmaz ben VM/Vbox takılacam, tamamdır o zaman farketmiyor...
+Ha laptop seçerken dikkat etmen gereken önemli bir unsur da, Linux'a uyumluluk, seçtiğin modele ilerde Native Linux yüklemek isteyebilirsin... O zaman driverlarının vs sorun çıkarmaması için, ürünü bir arat Google'dan. Ha dersin ki işim olmaz ben VMware/VBox vs. takılacam, tamamdır o zaman farketmiyor...
 
 böyle...
 <p>&nbsp;</p>
@@ -98,7 +98,7 @@ Bir göz at derim... paha biçilemez tavsiyeler ile süslü...
 ## ([▲](#top)) Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? <a name="question7"></a>
 En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, Application Pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da sağlar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmaların bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
 
-Tüm siber güvenlik dallarını [burada](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/siberguvenlik.md) inceledim, bir bak...
+Tüm siber güvenlik dallarını [burada](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/SiberGuvenlik.md#top) inceledim, bir bak...
 <p>&nbsp;</p>
 
 
@@ -120,14 +120,13 @@ Kişisel güvenlik için İngilizce bir [checklist](https://github.com/Lissy93/p
 
 
 ## ([▲](#top)) Bu Linuxu nasıl öğrenicez? <a name="question10"></a>
-Linuxun komutlarını öğrenmek için açıyosun karşına [cmdchallenge](https://cmdchallenge.com/) sitesini yavaş yavaş öğrenmeye başlıyosun, orada çözümleri vs. var, takıldığın yerde de googledan yardım ala ala yolunu bulmaya başlarsın linuxta. Ayrıca tamamen sıfırsan [Linux ve Pentesting Başlangıç](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/Linux_ve_Pentesting_Baslangic.md) dosyasına ve ayrıca [Linux Dersleri](https://linux-dersleri.github.io/) linkine bakabilirsin.
+Linuxun komutlarını öğrenmek için açıyosun karşına [cmdchallenge](https://cmdchallenge.com/) sitesini yavaş yavaş öğrenmeye başlıyosun, orada çözümleri vs. var, takıldığın yerde de googledan yardım ala ala yolunu bulmaya başlarsın linuxta. Ayrıca tamamen sıfırsan [Linux ve Pentesting Başlangıç](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Linux_ve_Pentesting_Baslangic.md#top) dosyasına ve ayrıca [Linux Dersleri](https://linux-dersleri.github.io/) linkine bakabilirsin.
 <p>&nbsp;</p>
 
 
 
 ## ([▲](#top)) Web uygulama güvenliği için iyi bir kaynak biliyor musun? <a name="question11"></a>
-Adettendir, yine bir TCM videosu birakarak baslayalim        
-https://www.youtube.com/watch?v=X4eRbHgRawI        
+Adettendir, yine bir [TCM videosu](https://www.youtube.com/watch?v=X4eRbHgRawI) birakarak baslayalim        
 
 Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10 
 https://tryhackme.com/room/rpburpsuite << burp suite odasına (Premium oda),
@@ -136,7 +135,7 @@ https://tryhackme.com/room/learnowaspzap << owasp zap odasına,
 https://tryhackme.com/room/webfundamentals << web fundementals odasına,   
 https://tryhackme.com/room/webappsec101 << webappsec101 odasına,  
 https://tryhackme.com/room/rpmetasploit << metasploit odasına,
-ve ardından kendini test etmek için;   
+- ve ardından kendini test etmek için;   
 https://tryhackme.com/room/vulnversity   
 https://tryhackme.com/room/juiceshop   
 https://tryhackme.com/room/rpwebscanning   
@@ -186,7 +185,7 @@ Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Sc
 ## ([▲](#top)) Herşey çok iyi çok güzel de bu pitonu nasıl öğrenicez? <a name="question16"></a>
 İnternette birsürü Türkçe ve İngilizce şahane kaynaklar var. Türkçe kaynaklarla başlayalım:
 - [Yazbel](https://python-istihza.yazbel.com/) - _*Ücretsiz*_ bir başlangıç kaynağı.
-- [Python3 Baslangıç](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/Python3_Baslangic.md) - Topluluk tarafından hazırlanan Python3-Baslangic.md dosyası.
+- [Python3 Baslangıç](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Python3_Baslangic.md#top) - Topluluk tarafından hazırlanan Python3-Baslangic.md dosyası.
 - [Atıl Samancıoğlu](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) - _*Ücretli*_ bir eğitim, indirimlerde 30 tlye kadar düşüyor.
 ##### İngilizce Kaynaklar:
 - [freeCodeCamp YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) - _*Ücretsiz*_ bir başlangıç eğitimi
@@ -203,9 +202,9 @@ Tabi ki daha fazlasını googlelayarak bulabilirsiniz.
 
 
 ## ([▲](#top)) Abi İngilizcem yok! Ne yapacağım? <a name="question17"></a>
-İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede İngilizce öğrenmen lazım. Duolingo vs. gibi İngilizce öğreten kaynakları ye, yut, bitir. Ayrıca dizi, film ile de İngilizce öğrenebilirsin.. (Ororo Tv, Dizilab vs. biliyorsun işte bunları nereden bulacağını) \
-Şöyle bir şey de var: https://www.voscreen.com/ \
-İzlediğiniz dizilerde geçen kelimelerin anlamını öğrenebileceğiniz şöyle bir site de var : https://diziyleogren.com/tanitim 
+İngilizce öğreneceksin dostum, başka yolu yok bu işin. Hemen elindeki bütün işi bırakıp, okuduğunu anlayacak seviyede İngilizce öğrenmen lazım. Duolingo vs. gibi İngilizce öğreten kaynakları ye, yut, bitir. Ayrıca dizi, film ile de İngilizce öğrenebilirsin.. (Ororo Tv, Dizilab vs. biliyorsun işte bunları nereden bulacağını)
+Şöyle bir şey de var: https://www.voscreen.com/
+İzlediğiniz dizilerde geçen kelimelerin anlamını öğrenebileceğiniz [şöyle bir site](https://diziyleogren.com/tanitim)'de var
 <p>&nbsp;</p>
 
 
@@ -301,8 +300,8 @@ Ben *Parrot* sevip, *Kali* kullanıyorum. Çünkü, Parrot daha stabil ama Kali'
 Ya da gündelik kullanım icin kurarsın bir Ubuntu/Mint, çok istiyorsan *katoolin* ile Kali toollarini içine kurarsın,  
 Ya da gidersin, ihtiyacın kadar olan toollari snapden vs kendin derler kurarsın...   
 Hiçbiri olmaz dersen, gider Kaliyi Docker veya WSL olarak kurarsin, hem Ubuntu/Mint falan patlamaz boylece...
-- https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/Docker-da_KALI.md
-- https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/WSL_Kali.md
+- [Docker Üzerinde Kali](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Docker_Uzerinde_Kali.md#top)
+- [WSL Üzerinde Kali](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Wsl_Uzerinde_Kali.md#top)
 
 İlla Arch kurcam dersen, mesela gidip Manjaro kurup, blackarch repolarini ekleyip, bütün toollari ordan kurabilirsin... ama çökerse karışmam :)    
 <p>&nbsp;</p>
@@ -312,11 +311,9 @@ Hiçbiri olmaz dersen, gider Kaliyi Docker veya WSL olarak kurarsin, hem Ubuntu/
 ## ([▲](#top)) Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım? <a name="question29"></a>
 Öncelikle ilk aklimiza gelen *OSCP*, bunun dışında CISSP de var ama daha çok temel ve "Bilgi Guvenligi" kapsamlı.
 Bu iki sertifika da oldukça pahalı ve muhtemelen calistigin şirket, ihtiyacına göre sana bu sertifikaları saglayacak.
-O sebeple kendin bunlara kasma, hangi sertifikalar var dersen, sayfanın üst kısmındaki şu linke bakabilirsin
-https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Faydali-Dokumanlar/siberguvenlik.md
+O sebeple kendin bunlara kasma, hangi sertifikalar var dersen [şu linke](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/SiberGuvenlik.md#top) bakabilirsin
 
-ayrica guncel versionu icin;
-https://www.reddit.com/r/Hacking_Tutorials/comments/jpnjdq/security_certification_roadmap_v7_updated/ /
+ayrica guncel versionu icin [şuraya](https://www.reddit.com/r/Hacking_Tutorials/comments/jpnjdq/security_certification_roadmap_v7_updated/) bakabilirsin.
 <p>&nbsp;</p>
 
 
