@@ -128,19 +128,20 @@ Linuxun komutlarını öğrenmek için açıyosun karşına [cmdchallenge](https
 ## ([▲](#top)) Web uygulama güvenliği için iyi bir kaynak biliyor musun? <a name="question11"></a>
 Adettendir, yine bir [TCM videosu](https://www.youtube.com/watch?v=X4eRbHgRawI) birakarak baslayalim        
 
-Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10 
-https://tryhackme.com/room/rpburpsuite << burp suite odasına (Premium oda),
-https://tryhackme.com/room/networkservices << network services odasına (Premium oda),
-https://tryhackme.com/room/learnowaspzap << owasp zap odasına,   
-https://tryhackme.com/room/webfundamentals << web fundementals odasına,   
-https://tryhackme.com/room/webappsec101 << webappsec101 odasına,  
-https://tryhackme.com/room/rpmetasploit << metasploit odasına,
-- ve ardından kendini test etmek için;   
-https://tryhackme.com/room/vulnversity   
-https://tryhackme.com/room/juiceshop   
-https://tryhackme.com/room/rpwebscanning   
-https://tryhackme.com/room/dvwa   
-https://tryhackme.com/room/jack  
+Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta;
+- *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10
+- https://tryhackme.com/room/rpburpsuite << burp suite odasına (Premium oda),
+- https://tryhackme.com/room/networkservices << network services odasına (Premium oda),
+- https://tryhackme.com/room/learnowaspzap << owasp zap odasına,   
+- https://tryhackme.com/room/webfundamentals << web fundementals odasına,   
+- https://tryhackme.com/room/webappsec101 << webappsec101 odasına,  
+- https://tryhackme.com/room/rpmetasploit << metasploit odasına,
+* ve ardından kendini test etmek için;   
+  - https://tryhackme.com/room/vulnversity   
+  - https://tryhackme.com/room/juiceshop   
+  - https://tryhackme.com/room/rpwebscanning   
+  - https://tryhackme.com/room/dvwa   
+  - https://tryhackme.com/room/jack  
 odalarına bakabilirsin.
 Ayrıca, TryHackMe üzerinde forensics, cryptography, pentesting gibi konular üzerinde bir sürü oda bulunuyor.
 Bir de surasi var : https://application.security/free/owasp-top-10 << kontra nin egitim sitesi, hem uygulatiyor hem ogretiyor. biraz altyapi yaptiktan sonra mutlaka goz at.
