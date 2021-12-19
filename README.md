@@ -35,6 +35,7 @@ Aramıza hoş geldin ve görüşürüz!
 <h1 align="center">Bu reponun içindeki belgeler:</h1>
 
 * [<img width="18" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="soru-cevap" border="0"> Sıkça Sorulan Sorular](/Belgeler/SikcaSorulanSorular.md#top) <<< BURADAN BAŞLA SEVGİLİ DOSTUM
+* [☁️Bulut Bilisim Uzerine Kaynaklar](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/bulut.md)
 * [<img width="18" src="https://i.ibb.co/2dzQnY9/twitch.png" alt="twitch" border="0"> Tüm geçmiş Twitch Yayınları](/Belgeler/BaglantilarVeBilgiler.md#tumgecmistwitchyayinlari)
 * [<img width="18" src="https://i.ibb.co/gmLfmCy/bug.png" alt="bug" border="0"> Bug Bounty Mevzusu](/Belgeler/BaglantilarVeBilgiler.md#bugbounty)
 * [<img width="18" src="https://i.ibb.co/NLkznCJ/yildiz.png" alt="yildiz" border="0"> AWESOME serisi](/Belgeler/BaglantilarVeBilgiler.md#awesome)
