@@ -1,6 +1,13 @@
 AWS solution architect series : https://www.youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa          
 AWS for beginners (ingilizce) : https://www.youtube.com/watch?v=ulprqHHWlng               
-AWS solution architecht video (turkce sub) https://www.youtube.com/watch?v=Ia-UEYYR44s            
+AWS solution architecht video (turkce sub) https://www.youtube.com/watch?v=Ia-UEYYR44s  
+AWS Security Blog : https://rhinosecuritylabs.com/blog/?category=aws
+Payload All Things AWS : https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md
+Pentest Book AWS : https://pentestbook.six2dez.com/enumeration/cloud/aws
+Awesome Cloud Security Resources : https://github.com/4ndersonLin/awesome-cloud-security
+AWS Security Tool List : https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+Official AWS Security Blog : https://aws.amazon.com/blogs/security/
+Official AWS YouTube Channel : https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg
         
 https://bulutistan.com/blog/public-cloud-nedir/             
 https://bulutistan.com/blog/multi-cloud-nedir/              
