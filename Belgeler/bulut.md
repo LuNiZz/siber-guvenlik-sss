@@ -31,4 +31,4 @@ tamamen yazili oldugu icin, translate ile turkce olarak calisabilirsiniz.
 https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/                
                
              
-Geri don >>> https://sss.lunizz.com
+[← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
