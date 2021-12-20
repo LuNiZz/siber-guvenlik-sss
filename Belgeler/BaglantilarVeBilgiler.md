@@ -116,6 +116,7 @@
 <h1 align="center">Bazı Youtube Kanalları</h1>
 
 - [Can Değer](https://www.youtube.com/c/candeger)
+- [Utku Sen](https://www.youtube.com/channel/UC694QlZiqtCRW916nozIfnQ)
 - [Hackerone üyesi (TomNomNomDotCom)](https://www.youtube.com/user/TomNomNomDotCom)
 - [JohnHammond010](https://www.youtube.com/c/JohnHammond010)
 - [LoiLiangYang](https://www.youtube.com/c/LoiLiangYang)
