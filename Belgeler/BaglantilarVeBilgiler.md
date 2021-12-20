@@ -155,6 +155,62 @@
 
 
 
+<a name="bulutkaynaklari"></a>
+
+---
+<h1 align="center">Bazı bulut kaynakları</h1>
+
+* ### AWS
+  - [AWS Security Blog](https://rhinosecuritylabs.com/blog/?category=aws)
+  - [AWS Security Tool List](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
+  - [AWS for beginners (ingilizce)](https://www.youtube.com/watch?v=ulprqHHWlng)
+  - [AWS solution architecht video (turkce sub)](https://www.youtube.com/watch?v=Ia-UEYYR44s)
+  - [AWS solution architect series](https://www.youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa)
+  - [Awesome Cloud Security Resources](https://github.com/4ndersonLin/awesome-cloud-security)
+  - [Official AWS Security Blog](https://aws.amazon.com/blogs/security/)
+  - [Official AWS YouTube Channel](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
+  - [Payload All Things AWS](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md)
+  - [Pentest Book AWS](https://pentestbook.six2dez.com/enumeration/cloud/aws)
+
+* ### [Bulut Bilişim Hakkında Udemy Kursu](https://www.udemy.com/course/bulut-bilisim-temelleri-ve-aws-cozum-mimarligina-giris/)
+  - Bu önemli bir eğitimdir. Ayrıca Özgür Öztürk, twitter'da eğitimleri için indirim kuponları yayınlıyor. Bakınız: https://twitter.com/ozgurozturknet
+
+* ### Bulutistan kaynaklari:
+  - [Bulut Bilişim Nedir?](https://bulutistan.com/blog/bulut-bilisim/)
+  - [Bulut Depolama Nedir?](https://bulutistan.com/blog/bulut-depolama-nedir/)
+  - [Cloud Migration Nedir?](https://bulutistan.com/blog/cloud-migration-bulut-migrasyonu-nedir/)
+  - [Cloud Nedir?](https://bulutistan.com/blog/public-cloud-nedir/) 
+  - [Hibrit Cloud Nedir?](https://bulutistan.com/blog/hybrid-cloud-hibrit-bulut-nedir/)         
+  - [Multi Cloud Nedir?](https://bulutistan.com/blog/multi-cloud-nedir/)
+  - [PaaS Nedir?](https://bulutistan.com/blog/paas/)
+  - [Private Cloud Nedir?](https://bulutistan.com/blog/private-cloud-nedir/)  
+  - [Serverless Computing Nedir?](https://bulutistan.com/blog/serverless/)
+               
+* ### Çeşitli Kaynaklar:                     
+  - [AMAZON'un Bulut Bilişim Hakkında Türkçe Kaynağı](https://aws.amazon.com/tr/what-is-cloud-computing/)
+  - [Ayrıca çok başarılı bir AZURE kanalı](https://www.youtube.com/watch?v=_x1V2ny8FWM&list=PLlVtbbG169nETlTE5AsN-AZZllMzll5Sk)
+  - [Azure İçin Başlangıç Eğitimi](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
+	Bu modül ile başlarsanız, hem AZ900 sertifikasını alabilirsiniz, hemde olayı iyi anlarsınız. Belge tamamen yazılı olduğu için translate ile türkçe olarak çalışabilirsiniz.
+  - [AZURE'nin Bulut Bilişim Hakkında Türkçe Kaynağı](https://azure.microsoft.com/tr-tr/overview/what-is-cloud-computing/)
+  - [Bulut Bilişim Hakkında Başka Bir E-Kitap (Biraz eski ama açıklayıcı bir kitap)](https://yukselis.files.wordpress.com/2012/01/bulutbilic59fimelkitabc4b1.pdf)
+  - [Bulut Bilişim Hakkında Bir Türkçe Kitap](https://www.amazon.com.tr/Bulut-Bili%C5%9Fim-Metin-Turan/dp/9750254503/ref=sr_1_1?keywords=bulut+bili%C5%9Fim&qid=1639946789&sprefix=bulut+bili%2Caps%2C72&sr=8-1)
+  - [Çözümpark Kaynakları (Azure icin)](https://www.cozumpark.com/?s=azure)
+  - [GCP icin SkillBoost yayinlari](https://www.youtube.com/playlist?list=PLiDWbgs16GaaoZhP-KHlIT0rkXldlDsri)
+  - [GDG Cloud Ankara Topluluğu](https://kommunity.com/gdg-cloud-ankara)
+  - [IBM'in Bulut Bilişim Hakkında Türkçe Kaynağı](https://www.ibm.com/tr-tr/cloud/learn/cloud-computing)
+                  
+* ### Udemy'den Seçmeler:
+  - [Ücretsiz Udemy AWS Kursu](https://www.udemy.com/course/cloud-computing-with-amazon-web-services-part-1/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-0ou4TmoZyiZCxWVANAhulg&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)
+  - [Bir Başka Ücretsiz Udemy AWS Kursu](https://www.udemy.com/course/introduction-to-aws-cloud-computing/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-bd1uVMGT3rmGKvarWZ2DUA&utm_source=aff-campaign&LSNPUBID=JVFxdTr9V80&utm_medium=udemyads)
+  - [Ücretsiz Udemy GCP Konseptleri Eğitimi](https://www.udemy.com/course/gcp-google-cloud-platform-concepts/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-Ax9MgcHTO6djrlJ8Stil1A&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads)         
+
+---
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+
+
+
+
 <a name="cheatsheetler"></a>
 
 ---
@@ -466,10 +522,9 @@
 ## Ücretsiz Kurslar
 * ### Udemy 
   - [Gökhan Muharremoğlu](https://www.udemy.com/course/gokhanmuharremoglu)
+  - [Picus Academy](https://academy.picussecurity.com/)
   - [UdemyFreebies - Reddit](https://www.reddit.com/r/udemyfreebies)
 
-* ### Picus Academy
-  - https://academy.picussecurity.com/            
 
 ## Harvard'ın CS50 Ders Kayıtları
 - https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
