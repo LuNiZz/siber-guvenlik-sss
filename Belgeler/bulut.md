@@ -46,5 +46,8 @@ https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/
 
 * Cozumpark kaynaklari (Azure icin):
 https://www.cozumpark.com/?s=azure
+
+* GCP icin SkillBoost yayinlari : https://www.youtube.com/playlist?list=PLiDWbgs16GaaoZhP-KHlIT0rkXldlDsri
+* GDG Cloud Ankara toplulugu : https://kommunity.com/gdg-cloud-ankara
              
 [← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
