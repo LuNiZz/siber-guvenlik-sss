@@ -171,6 +171,12 @@
   - [Official AWS YouTube Channel](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
   - [Payload All Things AWS](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md)
   - [Pentest Book AWS](https://pentestbook.six2dez.com/enumeration/cloud/aws)
+  - [AWS Egitim Platformu - Skill Builder](https://explore.skillbuilder.aws/learn)
+  - [edX - AWS icerikleri - Ucretsiz](https://www.edx.org/school/aws)
+  - [AWS Hands On Tutorials](https://aws.amazon.com/getting-started/hands-on/?getting-started-all.sort-by=item.additionalFields.sortOrder&getting-started-all.sort-order=asc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)
+  - [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
+  - [AWS Well Architectured](https://wa.aws.amazon.com/index.en.html)
+  - [AWS Stash - Tum Re:Invent icerikleri ve sunumlari](https://awsstash.com/)
 
 * ### [Bulut Bilişim Hakkında Udemy Kursu](https://www.udemy.com/course/bulut-bilisim-temelleri-ve-aws-cozum-mimarligina-giris/) <<<
   - Bu önemli bir eğitimdir. Ayrıca Özgür Öztürk, twitter'da eğitimleri için indirim kuponları yayınlıyor. Bakınız: https://twitter.com/ozgurozturknet
