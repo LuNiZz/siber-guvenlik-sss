@@ -28,7 +28,7 @@ Aramıza hoş geldin ve görüşürüz!
 - ##### [*Sıkça Sorulan Sorular*](/Belgeler/SikcaSorulanSorular.md) bölümü, siber guvenlik ile ilgili yoneltilen **sık** sorularin bulundugu belge.
 
 - ##### Ancak sevgili dostum, yerine olsam kendime şunu sorarım: "Yeterince ingilizce biliyor muyum?" buradaki kaynaklar bir yere kadar tekeri döndürse bile, **ingilicce** olmadan olmaz... 
- - ##### Altın Kural: "İngilizce Ögren..." bilgin olsun.
+##### Altın Kural: "İngilizce Ögren..." bilgin olsun.
 ---
 
 <a name="index"></a>
