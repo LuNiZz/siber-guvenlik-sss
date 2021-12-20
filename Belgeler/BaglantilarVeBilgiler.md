@@ -468,6 +468,9 @@
   - [Gökhan Muharremoğlu](https://www.udemy.com/course/gokhanmuharremoglu)
   - [UdemyFreebies - Reddit](https://www.reddit.com/r/udemyfreebies)
 
+* ### Picus Academy
+  - https://academy.picussecurity.com/            
+
 ## Harvard'ın CS50 Ders Kayıtları
 - https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA
 > - Bu youtube kanalında Zoom üzerinden yayınlanan canlı dersler'de yayınlanıyor.
