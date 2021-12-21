@@ -169,6 +169,7 @@
   - [Awesome Cloud Security Resources](https://github.com/4ndersonLin/awesome-cloud-security)
   - [Official AWS Security Blog](https://aws.amazon.com/blogs/security/)
   - [Official AWS YouTube Channel](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
+  - [Resmi AWS Güvenliği Öğrenme Kaynakları](https://aws.amazon.com/tr/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all)
   - [Payload All Things AWS](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/Methodology%20and%20Resources/Cloud%20-%20AWS%20Pentest.md)
   - [Pentest Book AWS](https://pentestbook.six2dez.com/enumeration/cloud/aws)
   - [AWS Egitim Platformu - Skill Builder](https://explore.skillbuilder.aws/learn)
@@ -177,6 +178,11 @@
   - [AWS Free Tier](https://aws.amazon.com/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all)
   - [AWS Well Architectured](https://wa.aws.amazon.com/index.en.html)
   - [AWS Stash - Tum Re:Invent icerikleri ve sunumlari](https://awsstash.com/)
+  - [Kitap - AWS Penetration Testing](https://www.amazon.com/AWS-Penetration-Testing-Beginners-Metasploit/dp/1839216921)
+  - [Kitap - Hands-On AWS Penetration Testing with Kali Linux](https://www.amazon.com.tr/Hands-Penetration-Testing-Kali-Linux/dp/1789136725)
+  - [Reddit'te AWS](https://www.reddit.com/r/aws/)
+  - [Jason Chan'ın AWS Güvenliği Üzerine Slaytları](https://www.slideshare.net/jason_chan)
+  - [IAM Policy Simülatörü](https://policysim.aws.amazon.com/)
 
 * ### [Bulut Bilişim Hakkında Udemy Kursu](https://www.udemy.com/course/bulut-bilisim-temelleri-ve-aws-cozum-mimarligina-giris/) <<<
   - Bu önemli bir eğitimdir. Ayrıca Özgür Öztürk, twitter'da eğitimleri için indirim kuponları yayınlıyor. Bakınız: https://twitter.com/ozgurozturknet
