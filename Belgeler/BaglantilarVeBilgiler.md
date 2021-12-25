@@ -183,6 +183,7 @@
   - [Reddit'te AWS](https://www.reddit.com/r/aws/)
   - [Jason Chan'ın AWS Güvenliği Üzerine Slaytları](https://www.slideshare.net/jason_chan)
   - [IAM Policy Simülatörü](https://policysim.aws.amazon.com/)
+  - [LocalStack kullanarak AWS servislerini local'de kullanmak (Türkçe)](https://medium.com/codefiction/localstack-kullanarak-aws-uygulamalar%C4%B1n%C4%B1-yerelde-geli%C5%9Ftirmek-485306f1ca3a)
 
 * ### [Bulut Bilişim Hakkında Udemy Kursu](https://www.udemy.com/course/bulut-bilisim-temelleri-ve-aws-cozum-mimarligina-giris/) <<<
   - Bu önemli bir eğitimdir. Ayrıca Özgür Öztürk, twitter'da eğitimleri için indirim kuponları yayınlıyor. Bakınız: https://twitter.com/ozgurozturknet
