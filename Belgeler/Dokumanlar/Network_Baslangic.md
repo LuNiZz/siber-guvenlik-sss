@@ -111,7 +111,7 @@ Dur kardeşim geçme, şu kaynaklara da bak:
 - --> https://www.firatboyan.com/ip-ve-subnetting-kavrami.aspx
 - --> http://yusufgokkaya.com/en/active-directory-nedir/
 - --> https://volkandemirci.org/2020/05/04/privileged-access-workstations-kurulumu-ve-yapilandirilmasi-1/
-  
+- --> https://www.geeksforgeeks.org/basics-computer-networking/
 
 
 
