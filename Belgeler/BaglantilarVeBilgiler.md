@@ -276,6 +276,8 @@
     https://www.youtube.com/watch?v=WqY4oUPiPw0              
     https://www.youtube.com/watch?v=cyLRG0J2-jY                
     https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT
+   
+   
 
 ### YAZILIM
 * Türkçe
@@ -288,6 +290,7 @@
   - [Python Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
   - [Shell Scripting](https://www.youtube.com/playlist?list=PLWctyKyPphPhGEQzwiY-gDpDQQlYULQa7)
   - [Yeni Başlayanlar için GO Programlama Dili](https://www.youtube.com/watch?v=qJqx7dxWW8I&list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)  
+  - [BTK'nın eğitimlerinin bulunduğu site](https://www.btkakademi.gov.tr)
 
 * İngilizce
   - [AWESOME serisi](https://github.com/LuNiZz/awesome), tüm IT konularında internette bulabileceğiniz en büyük kaynaklardan biri <a name="awesome"></a>
@@ -297,7 +300,7 @@
   - [2000'den fazla hacking pdfleri](https://github.com/iamrajivd/pentest)
   - [Applicaion Sec. Web sitesi](https://application.security/free-application-security-training)
   - [Arkadaşınla yarışarak kendinizi geliştirin](http://www.gameofhacks.com/)
-  - [BTK'nın eğitimlerinin bulunduğu site](https://www.btkakademi.gov.tr)
+  - [Baştan İşletim Sistemi Yazmak](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
   - [Belli algoritmaları kurarak, verilen matematik problemini çözmeniz istenen bir web sitesi](https://projecteuler.net)
   - [Birçok Farklı Alanda 1500 Ücretsiz Kurs](http://www.openculture.com/freeonlinecourses)
   - [Bu da Coursera gibi](https://www.edx.org/)
