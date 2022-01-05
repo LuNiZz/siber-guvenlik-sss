@@ -116,6 +116,7 @@ Dur kardeşim geçme, şu kaynaklara da bak:
 - --> https://youtu.be/pDn2u65rQbQ
 - -->https://youtu.be/BS9bDl6fh5c
 - -->https://www.geeksforgeeks.org/socket-programming-python/
+- -->https://bilisimokulu.net/yazili-ders-notu/ag-temelleri-7bolum-kablo-cesitleri.html
 
 
 
