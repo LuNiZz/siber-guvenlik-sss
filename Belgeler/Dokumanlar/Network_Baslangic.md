@@ -108,11 +108,15 @@ Ağınızda olan bir network ile çalışan cihazlara otomatik IP ataması ve DN
 https://medium.com/@gokhansengun/nat-network-address-translation-nedir-ve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-a2c8b6291de8 Burda resimli bir şekilde güzelce anlatılmış.
 
 Dur kardeşim geçme, şu kaynaklara da bak:
-- --> https://www.firatboyan.com/ip-ve-subnetting-kavrami.aspx
+- --> https://www.firatboyan.com/ip-ve-subnetting-kavrami.aspx 
 - --> http://yusufgokkaya.com/en/active-directory-nedir/
 - --> https://volkandemirci.org/2020/05/04/privileged-access-workstations-kurulumu-ve-yapilandirilmasi-1/
 - --> https://www.geeksforgeeks.org/basics-computer-networking/
-
+- --> https://youtu.be/EWGT46sbNPo
+- --> https://youtu.be/pDn2u65rQbQ
+- -->https://youtu.be/BS9bDl6fh5c
+- -->https://www.geeksforgeeks.org/socket-programming-python/
+- -->https://bilisimokulu.net/yazili-ders-notu/ag-temelleri-7bolum-kablo-cesitleri.html
 
 
 
