@@ -84,7 +84,7 @@ C:\Users\Can\newfile
 ## ([▲](#top)) a = "b" <a name="setvar"></a>
 Yukarıdaki gibi kullanım, bir değişken oluşturmamızı sağlar. Örnek kullanım:
 ```python
->>> yazi = "selam"                     # Bu bir stringtir, string (" ") veya (' ') veya (""" """") işaretleri içinde olan ve değişkenlere atanabilen bir değerdir. a = str() veya a = "" boş string oluşturur.
+>>> yazi = "selam"                     # Bu bir stringtir, string (" ") veya (' ') veya (""" """) işaretleri içinde olan ve değişkenlere atanabilen bir değerdir. a = str() veya a = "" boş string oluşturur.
 >>> sayi = 123                         # Bu bir integerdir, yani sayıdır. b = int() bize sıfır döndürecektir.
 >>> noktali = 7.8                      # Bu bir floattır, yani ondalıklı sayıdır. Floatta virgül kullanamazsınız. c = float() bize 0.0 döndürecektir
 >>> liste = ["a", 123, 7.8]            # Listenin içine her türden değişkeni ekleyebilirsiniz. Boş bir listeyi liste = list() veya liste = [] şeklinde açabilirsiniz.
@@ -111,9 +111,9 @@ selam
 
 
 ## ([▲](#top)) Bazı Kaçış Dizileri <a name="escsequences"></a>
-- \\ : Kendisinden sonraki karakteri geçersiz kılar.
-- \\n : Alt satıra geçiş
-- \\t : Sekme (Tab tuşu)
+- `\`  : Kendisinden sonraki karakteri geçersiz kılar.
+- `\n` : Alt satıra geçiş
+- `\t` : Sekme (Tab tuşu)
 <p>&nbsp;</p>
 
 
@@ -164,11 +164,11 @@ Adın nedir?: Can
 
 
 ## ([▲](#top)) Bazı işleçler <a name="operators"></a>
-- \+ | \- |  \* | \/ : Toplama, çıkarma, çarpma, bölme
-- a\*\*b : a'nın b üssünü alma (2³ gibi)
-- a % b : a'nın b ile bölümünden kalan sayı
-- \/\/ : Kalansız bölme
-- \+= | \-= |  \*= | \/= : İstenilen işlemi yapar ve değişkene uygular
+- `+` | `-` | `*` | `/` : Toplama, çıkarma, çarpma, bölme
+- `a**b` : a'nın b üssünü alma (2³ gibi)
+- `a % b` : a'nın b ile bölümünden kalan sayı
+- `//` : Kalansız bölme
+- `+=` | `-=` | `*=` | `/=` : İstenilen işlemi yapar ve değişkene uygular
 <p>&nbsp;</p>
 
 
@@ -190,11 +190,11 @@ Operatörler:
 ```python
 >>> sayi = int(input("Sayı girin: "))             # 15 girmiş olalım
 >>> if sayi == 0:				  # Sayı sıfıra eşitse
-...		print("Sayı sıfırdır.")           # Bunu yaz
-...	elif 0 < sayi and sayi < 20 :             # Eğer sayı 0'dan büyük "VE" 20'den küçükse
-...		print("Sayı 0 ile 20 arasında.")  # Bunu yaz
-...	elif -20 < sayi < 0 :			  # Eğer sayı 0'dan küçük "YA DA" -20'den büyükse
-...		print("Sayı -20 ile 0 arasında.") # Bunu yaz
+...	print("Sayı sıfırdır.")         	  # Bunu yaz
+... elif 0 < sayi and sayi < 20 :            	  # Eğer sayı 0'dan büyük "VE" 20'den küçükse
+... 	print("Sayı 0 ile 20 arasında.") 	  # Bunu yaz
+... elif -20 < sayi < 0 :			  # Eğer sayı 0'dan küçük "YA DA" -20'den büyükse
+... 	print("Sayı -20 ile 0 arasında.") 	  # Bunu yaz
 ...
 Sayı 0 ile 20 arasında.
 ```
@@ -233,14 +233,14 @@ Bu metod, kendisine verilecek olan koşulun doğru olup olmamasına dikkat eden 
 - Not: Döngüyü kırmak için CTRL+C kullanabilirsiniz.
 ```python
 >>> while True:
-...		print("Merhaba")
+... 	print("Merhaba")
 ...
 [Sonsuz kez] Merhaba
 
 >>> x = 101
 >>> while 100 < x < 110:
-...		print("Merhaba")
-...		x += 1
+... 	print("Merhaba")
+... 	x += 1
 ...
 [9 kere] Merhaba
 ```
@@ -256,7 +256,7 @@ Bu metod, kendisine verilecek olan çoklu değerleri tek tek kullanmaya yardım 
 
 ```python
 >>> for a in range(1, 10):
-...		print(f"{a}.kez merhaba!!!")
+... 	print(f"{a}.kez merhaba!!!")
 ...
 1.kez merhaba!!!
 2.kez merhaba!!!
@@ -280,16 +280,16 @@ finally:	 # olsa da olmasa da beni çalıştır
 
 ```python
 >>> while True:
-...		try:
-...			s1 = int(input("İlk sayıyı girin: "))	
-...			s2 = int(input("İkinci sayıyı girin: "))
-...		except ValueError:
-...			print("Sayı girmediğiniz için işlem yapamıyorum :(")
-...		else:
-...			print(f"{s1} ve {s2} sayılarının toplamı {s1+s2} yapar.")
-...		finally:
-...			print("Başka yapmak istediğiniz işlem var mı?")
-			print("Yoksa CTRL+C'ye basarak beni kapatabilirsiniz.")
+...	try:
+...		s1 = int(input("İlk sayıyı girin: "))	
+...		s2 = int(input("İkinci sayıyı girin: "))
+...	except ValueError:
+...		print("Sayı girmediğiniz için işlem yapamıyorum :(")
+...	else:
+...		print(f"{s1} ve {s2} sayılarının toplamı {s1+s2} yapar.")
+...	finally:
+...		print("Başka yapmak istediğiniz işlem var mı?")
+		print("Yoksa CTRL+C'ye basarak beni kapatabilirsiniz.")
 ```
 
 <p>&nbsp;</p>
@@ -591,8 +591,8 @@ dict_values(['book', 'pencil'])
 def() komutu, özel fonksiyonlar ayarlamaya yarar. Örnek kullanım:
 ```python
 >>> def ekranıtemizle():
-...		__import__("os").system("cls")      # Windows
-...		__import__("os").system("clear")    # Linux/Unix
+... 	__import__("os").system("cls")      # Windows
+... 	__import__("os").system("clear")    # Linux/Unix
 ...
 >>> ekranıtemizle()
 ```
@@ -602,11 +602,11 @@ def() komutu, özel fonksiyonlar ayarlamaya yarar. Örnek kullanım:
 >>> soyisim = "Değer"
 >>> meslek = "Beyaz Takkeli Tornacı"
 >>> def kisikayit(i1, s1, m1):
-...		print("-"*35)
-...		print(f" İsim    : {i1}")
-...		print(f" Soyisim : {s1}")
-...		print(f" Meslek  : {m1}")
-...		print("-"*35)
+... 	print("-"*35)
+... 	print(f" İsim    : {i1}")
+... 	print(f" Soyisim : {s1}")
+... 	print(f" Meslek  : {m1}")
+... 	print("-"*35)
 ...
 >>> kisikayit(isim, soyisim, meslek)
 -----------------------------------
@@ -622,45 +622,77 @@ def() komutu, özel fonksiyonlar ayarlamaya yarar. Örnek kullanım:
 
 
 ### ([▲](#top)) class <a name="class"></a>
-class() fonksiyonu'da tıpkı sözlükler "def()" gibidir ancak biraz daha karışık bir yapısı vardır.
+class() fonksiyonu'da tıpkı normal fonksiyonlar "def()" gibidir ancak biraz daha karışık bir yapısı vardır.
 
 ```python
 >>> class myClass:
-...     def __init__(self): # bu class'ı kullanmak için myClass'ı bir değişkene atamamız gerekiyor, self ise class içinde erişilebilen değişkenlerdir ve self'i class içindeki her fonksiyona parametre geçmek gerekir.
-...         self.name = "Can"
+...     def __init__(self):             ## bu class'ı kullanmak için myClass'ı bir değişkene atamamız gerekiyor, 
+...	    self.name = "Can"		#  self ise en aşağıda "c = myClass()" satırının başındaki "c"'yi temsil eder.
 ...         self.surname = "Değer"
-...     def print(self):
+...
+...     def echo(self):
 ...         print(self.name + " " + self.surname)
 ...
 >>> c = myClass()
->>> c.print()
+>>> c.echo()
 Can Değer
+```
+
+- Bir başka örnek:
+```python
+>>> class myClass2:
+...    harfler = ["a", "b", "c"]		 # bazı harfleri sınıf içinde belirtiyoruz.
+...
+...    def __init__(self):			 # girişte uygulanacak komutları burada belirtiyoruz.
+...        print(self.harfler)
+...
+...    def harfekle(self, harf):       		 ## harf eklemek için bir fonksiyon yazıyoruz ve "harf" değişkeni
+...        self.harfler.append(harf)       	 #  yerine verilecek harfi asıl listeye ekliyoruz.
+...        print(self.harfler)
+...
+...    def harfsil(self, harf):			 ## harf silmek için bir fonksiyon yazıyoruz ve "harf" değişkeni
+...        self.harfler.remove(harf)		 #  yerine verilecek harfi asıl listeden siliyoruz.
+...        print(self.harfler)
+...
+>>> c = myClass2()				 # sınıfı bir değişkene atıyoruz
+['a', 'b', 'c']
+>>>
+>>> c.harfekle("e")				 # harf eklemek için 
+['a', 'b', 'c', 'e']
+>>>
+>>> c.harfsil("a")				 # harf silmek için
+['b', 'c', 'e']
+>>>
+>>> a = myClass2()				 ## Burada ise sınıfı başka bir değişkene atıyoruz. Gördüğünüz gibi 
+['a', 'b', 'c']					 #  yaptığımız hiçbir değişiklik uygulanmamış gibi görünüyor. 
+						 #  Bu noktada "a"'yı, "c"'yi veya artık hangi değişken kullanıldıysa
+						 #  bu değişkeni temsil eden şey sınıf içinde kullandığımız "self" ifadesidir.
 ```
 <p>&nbsp;</p>
 
 
 
 # ([▲](#top)) MODÜLLER <a name="modules"></a>
-- Modüller import komutuyla kullanılır.
-- Modüller hakkında daha fazla bilgiyi modüller belgelerinden okuyabilirsiniz.
+- Modüller import komutuyla içeri alınır.
+- Modüller hakkında daha fazla bilgiyi [buradan](https://python-istihza.yazbel.com/moduller.html) okuyabilirsiniz.
 - Python ile gelen bazı modüller:
 os
 sys
 socket
 
-Bilgisayarınızda olmayan modülleri windowsta `py -m pip install modul_ismi` veya linuxta `pip install modul_ismi` şeklinde veya `python3 -m pip install modul_ismi` şeklinde indirebilirsiniz.
+- Bilgisayarınızda olmayan modülleri windowsta `py -m pip install modul_ismi` veya linuxta `pip install modul_ismi` şeklinde veya `python3 -m pip install modul_ismi` şeklinde indirebilirsiniz.
 
 - Eğer bir modülün içinden belli bir fonksiyonu veya class'ı içeri alacaksanız;
 ```python
-from os import system    [[system]] fonksiyonu bilgisayarda komut çalıştırmaya yarar.
+from os import system    # system fonksiyonu bilgisayarda komut çalıştırmaya yarar.
 ```
 Örnek kullanım:
 ```python
 import time
 
-system("dir")      # çalıştırdığınız dizindeki bütün öğeleri gösterir. (Windows)
-system("ls")	   # çalıştırdığınız dizindeki bütün öğeleri gösterir. (Linux/Unix)
-time.sleep(5)      # programın 5 saniye boyunca durmasını sağlar.
+system("dir")            # çalıştırdığınız dizindeki bütün öğeleri gösterir. (Windows)
+system("ls")	         # çalıştırdığınız dizindeki bütün öğeleri gösterir. (Linux/Unix)
+time.sleep(5)            # programın 5 saniye boyunca durmasını sağlar.
 ```
 <p>&nbsp;</p>
 
