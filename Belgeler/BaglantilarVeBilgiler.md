@@ -91,17 +91,177 @@
 
 
 
+<a name="baziprojefikirleri"></a>
+
+---
+<h1 align="center">Bazı Proje Fikirleri</h1>
+
+
+<details> 
+	<summary><strong>Gelir-Gider takip programı</strong></summary>
+		<p>
+
+- Hedef: Aylık gelirler ve giderlerin girilip hesaplanacağı bir program.
+  - Gelirler ve giderlerden artakalan para az ise program kullanıcıya çeşitli tavsiyeler önerebilir.
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Kelime/Metin istatistiği</strong></summary>
+		<p>
+
+- Hedef: Verilen kelimenin veya cümlenin içinde geçen sesli, sessiz, sayı ve özel karakterleri sayan program.
+  - Eğer tek kelime verilmişse harf istatistiği, cümle verilmişse harf istatistiği yanında kelime sayısı sunulmalı.
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Para birimi çevirici</strong></summary>
+		<p>
+
+- Hedef: Verilen para birimini ve miktarını güncel kur üzerinden belirli birimlere çevirme.
+  - Girilen değer ve birim, istenen değer ve birim ile aynı ise uyarı verilmeli.
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Rastgele şifre oluşturucu</strong></summary>
+		<p>
+
+- Hedef: Kullanıcının istediği uzunlukta bir şifre oluşturucu.
+   - Kullanıcı isterse şifre içerisinde sadece harf, sadece sayı veya her ikisi karışık biçimde kullanabilir.
+   - Eğer harf veya sayı kategorisinden en az biri kullanıldıysa isteğe bağlı özel karakter eklenebilir (!#$%&@€₺ gibi karakterler)
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Seçim sihirbazı</strong></summary>
+		<p>
+
+- Hedef: Kullanıcının vereceği değerleri karıştırıp kullanıcıya sonucu söyleyen program
+  - Ekstradan verilen sayıya göre döngü kendini tekrar edip en çok tekrar eden kelimeyi kullanıcıya sunmalı.
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Sıcaklık çevirici</strong></summary>
+		<p>
+
+-  Hedef: Verilen sıcaklık değerini diğer sıcaklık birimlerine çeviren uygulama (°C, °F, Kelvin...)
+   - Girilen değer ve birim, istenen değer ve birim ile aynı ise uyarı verilmeli.
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Zar atma uygulaması</strong></summary>
+		<p>
+
+- Hedef: Kullanıcının istediği sayı kadar zar atılan proje (2 yazarsa 2 tane zar atmalı)
+  - İsteğe bağlı zarlar yan yana dizilebilir.
+  - İsteğe bağlı zarların rengi ve şekli değiştirilebilir veya açık olan CMD ekranının ortasında gösterilebilir.
+		</p>
+</details>
+
+
+<details> 
+	<summary><strong>Ne kadar zamandır yaşıyorsun?</strong></summary>
+		<p>
+
+- Hedef: Verilen doğum tarihinden bu yana geçen tüm süreyi bir istatistik biçiminde sunan program.
+  - Yıl, Ay, Hafta, Gün, Saat, Dakika, Saniye ve Yaş biçiminden sonuç verilmeli. 
+  - isteğe bağlı geçen toplam mevsimlerin, özel günlerin veya 29 şubatların sayısı gibi farklı farklı bilgiler sorgulanabilir :)
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Saat uygulaması</strong></summary>
+		<p>
+
+- Hedef: Güncel saati, açık CMD ekranının tam ortasında gösteren proje
+  - İsteğe bağlı analog tip saat kullanılabilir. A ve D tuşuna basar basmaz saat tipi değiştirilebilir.
+  - Saat yanına saniye özelliği, saatin altında daha küçük font boyutunda tarih gösterilebilir. T tuşuna basınca tarih gizlenip gösterilebilir.
+  - İsteğe bağlı saat rengi değiştirilebilir.
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Şifre yöneticisi</strong></summary>
+		<p>
+
+- Hedef: Kullanıcının şifrelerini saklayabileceği bir kasa projesi.
+  - Kullanıcı şifrelerin saklandığı dosyaya ekstradan şifre koymalı.
+  - Şifre dosyası ekstradan bir şifreleme metodu ile şifrelenmeli.
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Taş kağıt makas oyunu</strong></summary>
+		<p>
+
+- Hedef: Standart taş kağıt makas oyunu
+   - Kullanıcı isteğe göre iki kişi ile oynayabilir veya bilgisayar ile oynayabilmeli
+   - İsteğe bağlı puanlama sistemi kullanılabilir. Kullanıcının girdiği sayıya göre (3 veya 5 sayı yapan) oyunu kazanabilmeli
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Youtube video indirici</strong></summary>
+		<p>
+
+- Hedef: Verilen video veya playlist linkini çekecek bir program.
+  - Verilen link girildikten sonra çekilecek dosyaların biçimi (mp3, mp4, aac, wav, avi vs...)
+  - Verilen biçim girildikten sonra dosya kalitesi seçimi (720p, 360p, 128kbps, 192kbps vs...)
+  - Dosyaların kaydedileceği konumu belirleme veya otomatik bir klasöre kaydetme.
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Adam asmaca oyunu</strong></summary>
+		<p>
+
+- Hedef: Belirli bir kelime üzerinden oynanan adam asmaca oyunu projesi.
+  - İki kişilik oyunda bir kişi dilerse kendi istediği kelimeyi seçip diğer kullanıcıya sunabilmeli.
+  - Eğer kullanıcı kelime girmezse web üzerinden bir kelime haznesinden veya yerel bir kelime haznesinden kelime seçilmeli.
+  - İngilizce ve Türkçe kelimeler arasından oynanabilmeli. İsteğe bağlı film isimleri, artistler, şehir isimleri ile oynanabilmeli.
+  -  Oyuncular için puan ve can özelliği olmalı. Kullanıcı her doğru girdiği harf için belirli miktarda puan kazanmalı. Puanların toplamı belirli bir seviyeyi geçerse ekstra can hakkı tanımlanmalı.
+  - Denenmiş bir harfin tekrar yazılması durumunda uyarı verilmeli. Ve bu sırada can veya puandan eksiltilme yapılmamalı. Denenmiş harflerin ekranda görülmesi sağlanmalı.
+  - Harf dışında şu durumlarda uyarı verilmeli. Bu sırada yine can veya puandan eksiltilme yapılmamalı.
+    - Birden fazla harf yazıldığında,
+    - Sayı veya özel karakter girildiğinde
+  - Her hamle sonrası ekran temizlenip tahta yeniden basılmalı (isteğe bağlı adam asmaca oyunundaki gibi adam eklenebilir.)
+		</p>
+</details>
+
+<details> 
+	<summary><strong>Port Scanner</strong></summary>
+		<p>
+
+- Hedef: Verilen ip adresi üzerindeki açık olan portları tarayan program
+  - Eğer port verilmezse tüm portlar taranmalı.
+  - TCP, UDP, Servis ve sürüm taraması için ayrı parametreler kullanılmalı. 
+  - Ekstra script çalıştırma imkanı sunulmalı.
+  - Çıktılar uzun ise bir dosyaya otomatik yazdırma parametresi bulunmalı.
+		</p>
+</details>
+
+---
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+
+
 
 <a name="bazitwitchkanallari"></a>
 
 ---
 <h1 align="center">Bazı Twitch Kanalları</h1>
 
+- [Astrofotografi](https://www.twitch.tv/astrofotografi)
 - [BugcrowdOfficial](https://www.twitch.tv/bugcrowdofficial)
 - [LuNiZz](https://www.twitch.tv/lunizz)
 - [Mdisec](https://www.twitch.tv/mdisec) 
 - [Nahamsec](https://twitch.tv/nahamsec)
 - [TheCyberMentor](https://twitch.tv/thecybermentor)
+- [Utku Sen](https://www.twitch.tv/utku1337)
 
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
@@ -136,15 +296,15 @@
 ---
 <h1 align="center">Bug Bounty Mevzusu</h1>
 
-  - Bug Bounty konusunda NAHAMSEC'in yayınladığı başlangıç ve gelişim rehberi.. Süper kaynak https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters  
-  - Bug Bounty: https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting  
-  - Hackerone sıralanmış raporlar https://github.com/reddelexc/hackerone-reports  
-  - Hackerone kurucusu nasıl başlamalıyız sorusuna cevap veriyor: https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma  
-  - Bug hunting methodology https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f  
-  - Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site: https://www.hacker101.com  
-  - PortSwigger in Akademisi : https://portswigger.net/web-security  
-  - BugCrowd Univeristy :  https://www.bugcrowd.com/hackers/bugcrowd-university  
-  - BC University'nin Youtube playlist i var, boylelikle yukaridaki dokumanlari video halinde izleyebilirsin : https://www.youtube.com/watch?v=OVr7pnwJ2m8&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-  
+  - [Bug Bounty konusunda NAHAMSEC'in yayınladığı başlangıç ve gelişim rehberi..](https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters ) Süper kaynak  
+  - [Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site](https://www.hacker101.com)
+  - [Bug Bounty](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting)
+  - [Bug Hunting Methodology](https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f)
+  - [BugCrowd Univeristy](https://www.bugcrowd.com/hackers/bugcrowd-university)
+  - [Hackerone kurucusu "nasıl başlamalıyız" sorusuna cevap veriyor](https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma)
+  - [Hackerone sıralanmış raporlar](https://github.com/reddelexc/hackerone-reports)
+  - [PortSwigger in Akademisi](https://portswigger.net/web-security)
+  - BC University'nin [Youtube playlisti](https://www.youtube.com/watch?v=OVr7pnwJ2m8&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-) var, Böylelikle yukarıdaki dokümanları video halinde izleyebilirsin.
   
   İlk kazandığın paradan bizi de görürsün sevgili kardeşim.. ;)  
   
@@ -283,6 +443,7 @@
 * Türkçe
   - [1 videoda JavaScript Temelleri](https://www.youtube.com/watch?v=-ei7CLxoOVU)
   - [1 videoda Python temelleri](https://www.youtube.com/watch?v=tvvEqvyh_Vw)
+  - [BTK'nın eğitimlerinin bulunduğu site](https://www.btkakademi.gov.tr)
   - [Eğitim Kampı Materyalleri](https://github.com/GoTurkiye/training)
   - [GO Eğitim Kampı](https://youtube.com/watch?v=wAUL4f0F8hA&list=PLX2txCMVbkjyqrdV5TsJ5iW-bhVNeBMaq)
   - [HTML ve CSS](https://www.youtube.com/playlist?list=PLWctyKyPphPgllQpbeVEzqU721R3WFY1W)
@@ -290,7 +451,7 @@
   - [Python Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
   - [Shell Scripting](https://www.youtube.com/playlist?list=PLWctyKyPphPhGEQzwiY-gDpDQQlYULQa7)
   - [Yeni Başlayanlar için GO Programlama Dili](https://www.youtube.com/watch?v=qJqx7dxWW8I&list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)  
-  - [BTK'nın eğitimlerinin bulunduğu site](https://www.btkakademi.gov.tr)
+
 
 * İngilizce
   - [AWESOME serisi](https://github.com/LuNiZz/awesome), tüm IT konularında internette bulabileceğiniz en büyük kaynaklardan biri <a name="awesome"></a>
@@ -434,8 +595,8 @@
 ---
 <h1 align="center">İngilizce Genel Kaynaklar</h1>
 
-* ### Where to start learning pentesting?
-* #### (Pentesting öğrenmeye nerden başlanır?)
+* ### Where to start learning pentesting? 
+	(Pentesting öğrenmeye nerden başlanır?)
   - [Cybrary - Advanced Penetration Testing](https://app.cybrary.it/browse/course/advanced-penetration-testing)
   - [HackTheBox](https://www.hackthebox.eu)
   - [TCM - Cyber Career Paths - Penetration Testing](https://youtu.be/MM7qPnJSnLQ)
@@ -444,18 +605,18 @@
   - [VulnHub](https://www.vulnhub.com)
 
 * ### Where to start learning Python?
-* #### (Python öğrenmeye nereden başlanır?)
+	(Python öğrenmeye nereden başlanır?)
   - [Codecademy](https://www.codecademy.com)
   - [Cybrary - Python Security Professionals Archive](https://app.cybrary.it/browse/course/python-security-professionals-archive)
 
 * ### Where to start learning Linux?
-* #### (Linux öğrenmeye nereden başlanır?)
+	(Linux öğrenmeye nereden başlanır?)
   - [Linux Journey](https://linuxjourney.com)
   - [OverTheWire - Bandit](http://overthewire.org/wargames/bandit)
   - [TCM - Beginner Linux for Ethical Hackers](https://www.youtube.com/playlist?list=PLLKT__MCUeiwfK18Io6kvwrrhqQyQnV5W)
 
 * ### Where to start with Web Application Security?
-* #### (Web uygulamaları güvenliğine nerden başlanır?)
+	(Web uygulamaları güvenliğine nerden başlanır?)
   - [DVWA - Damn Vulnerable Web Application](https://github.com/ethicalhack3r/DVWA)
   - [HacksPlaining](https://www.hacksplaining.com)
   - [OWASP - Top Ten](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
@@ -463,12 +624,12 @@
   - [OWASP - WebGoat Project](https://www.owasp.org/index.php/Category:OWASP_WebGoat_Project)
 
 * ### Where to start with Exploitation?
-* #### (Exploitation'a nereden başlanır?)
+	(Exploitation'a nereden başlanır?)
   - [Corelan](https://www.corelan.be/index.php/articles/)
   - [TCM - Buffer Overflows Made Easy](https://www.youtube.com/playlist?list=PLLKT__MCUeix3O0DPbmuaRuR_4Hxo4m3G)
 
 * ### How to become BugBounty hunter and get all the monies?
-* #### (Bug bounty avcısı nasıl olunur?)
+	(Bug bounty avcısı nasıl olunur?)
   - [SecurityBreached](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting)
 
 * ### Internetteki UCUZ veya ÜCRETSİZ Siber Güvenlik Eğitimlerinin Tam Listesi
@@ -481,7 +642,7 @@
   - [Pass the Hash with Mimicatz](https://blog.stealthbits.com/passing-the-hash-with-mimikatz)
 
 * ### Network Basics for Hackers
-* #### (Hackerlar için ağ temelleri)
+	(Hackerlar için ağ temelleri)
   - [HackersArise](https://www.hackers-arise.com/networks-basics)
 
 ---
@@ -691,6 +852,7 @@ https://www.twitch.tv/collections/JbIfA4EXwxXZ_A
 - [jaysonstreet](https://twitter.com/jaysonstreet)
 - [joehelle](https://twitter.com/joehelle)
 - [mdisec](https://twitter.com/mdisec)
+- [ozgurozturknet](https://twitter.com/ozgurozturknet)
 - [sametsahinnet](https://twitter.com/sametsahinnet)
 - [samhouston](https://twitter.com/samhouston)
 - [say_cem](https://twitter.com/say_cem)

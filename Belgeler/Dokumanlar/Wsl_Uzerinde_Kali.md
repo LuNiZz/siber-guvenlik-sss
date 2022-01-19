@@ -10,17 +10,18 @@ Bu dosyada WSL'in aktifleştirilmesi ve WSL ile Kali kurmayı öğreneceğiz.
 </p>
 
 <p align="center">
-  <a href="[[WSLin-Aktifleştirilmesi]]">WSL'in Aktifleştirilmesi</a>
+  <a href="#wsl">WSL'in Aktifleştirilmesi</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="[[Kalinin-Kurulumu]]">Kali'nin Kurulumu</a>
+  <a href="#kali">Kali'nin Kurulumu</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="[[Kalinin-Masaüstü-Kurulumu]]">Kali'nin Masaüstü Kurulumu</a>
+  <a href="#kalidesktop">Kali'nin Masaüstü Kurulumu</a>
   &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="[[Ekstralar]]">Ekstralar</a>
+  <a href="#extras">Ekstralar</a>
 </p>
 
 <br>
 
+<a name="wsl"></a>
 ## WSL'in Aktifleştirilmesi
 
 - İlk olarak Windows tuşuna basıp "Windows özelliklerini aç veya kapat" ya da Windowsunuz İngilizceyse "Turn Windows features on or off" şeklinde aratıp ilk sonuca tıklayın
@@ -55,6 +56,7 @@ Bu dosyada WSL'in aktifleştirilmesi ve WSL ile Kali kurmayı öğreneceğiz.
 
 <br>
 
+<a name="kali"></a>
 ## Kali'nin Kurulumu
 - Micorosft Store'a girip Kali Linux diye aratın.
 
@@ -82,6 +84,7 @@ Kullanıcı adınızı belirleyin ve daha sonra çıkan ekranda şifrenizi belir
 
 <br>
 
+<a name="kalidesktop"></a>
 ## Kali'ye Masaüstü Kurulumu
 
 - İlk olarak sistemi güncelleyelim.
@@ -124,6 +127,7 @@ komutunu kullanarak kex'i çalıştırın.
 
 <br>
 
+<a name="extras"></a>
 ## Ekstralar
 
 1- WSL'deki Kali'de root hesabının default olarak şifresi yok ve değiştirmek için aşağıdaki adımları uygulayabilirsiniz.
