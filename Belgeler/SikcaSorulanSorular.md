@@ -3,8 +3,8 @@
 
 ---
 <details> 
-  <summary><strong>İçindekiler (Contents)</strong></summary>
-  <p>
+	<summary><strong>İçindekiler (Contents)</strong></summary>
+	<p>
      
 - [Nereden başlamalıyım?](#question1)
 - [Hangi bilgisayarı almalıyım, hem yazılım hem siber güvenlik vb konular için?](#question2)
@@ -36,7 +36,7 @@
 - [Kali Linux mu? Parrot mu?](#question28)
 - [Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?](#question29)
 - [Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?](#question30)
-  </p>
+	</p>
 </details>
 
 ---
@@ -60,7 +60,8 @@ bence bir bilgisayar;
 > 2) İşlemcin en az i5 seviyesinde ve maksimum 2 jenerasyon eski olmalı, şu an itibariyle konuşursak (12. gen en yenisi) en az 10 olmalı...
 > 3) RAM en önemli bileşenin, en az 8 GB RAM'in olmalı. Bu durumda 1 tane sanal makine çalıştırabilirsin adam akıllı. O yüzden 16 GB ram olursa çok daha rahat olur senin için. En azından "victim" makine de çalıştırabilirsin.
 > 4) HDD değilde kesinlikle SSD olmalı, bu desktop ile laptop in en büyük fark idi eskiden, çünkü ssd oncesinde laptop diskleri 5400 küsür RPM'di ve çok yavaştı adamı sinir ediyordu, ama bugün laptoplarda SSD kullandığı için süper oldular... Sende o yüzden SSD tercih etmelisin...
-bunların dışında "E insanız abi, birazda oyun oynayacağız" dersen, hani paylaşımsız herhangi bir ekran karti bayağı bir işini görür. Eskiden şifre kırmak için falan GPU kullanıyorduk da şimdi o işler için web siteleri var onları kullanıyoruz ;) pek lokal de yapmıyoruz o işleri... O yuzden çok önemli değil...
+
+Bunların dışında "E insanız abi, birazda oyun oynayacağız" dersen, hani paylaşımsız herhangi bir ekran karti bayağı bir işini görür. Eskiden şifre kırmak için falan GPU kullanıyorduk da şimdi o işler için web siteleri var onları kullanıyoruz ;) pek lokal de yapmıyoruz o işleri... O yüzden çok önemli değil...
 
 Ha laptop seçerken dikkat etmen gereken önemli bir unsur da, Linux'a uyumluluk, seçtiğin modele ilerde Native Linux yüklemek isteyebilirsin... O zaman driverlarının vs sorun çıkarmaması için, ürünü bir arat Google'dan. Ha dersin ki işim olmaz ben VMware/VBox vs. takılacam, tamamdır o zaman farketmiyor...
 
@@ -128,23 +129,24 @@ Linuxun komutlarını öğrenmek için açıyosun karşına [cmdchallenge](https
 ## ([▲](#top)) Web uygulama güvenliği için iyi bir kaynak biliyor musun? <a name="question11"></a>
 Adettendir, yine bir [TCM videosu](https://www.youtube.com/watch?v=X4eRbHgRawI) birakarak baslayalim        
 
-Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at, hatta;
-- *TryHackMe*'nin *OWASP 10* odasına; https://tryhackme.com/room/owasptop10
-- https://tryhackme.com/room/rpburpsuite << burp suite odasına (Premium oda),
-- https://tryhackme.com/room/networkservices << network services odasına (Premium oda),
-- https://tryhackme.com/room/learnowaspzap << owasp zap odasına,   
-- https://tryhackme.com/room/webfundamentals << web fundementals odasına,   
-- https://tryhackme.com/room/webappsec101 << webappsec101 odasına,  
-- https://tryhackme.com/room/rpmetasploit << metasploit odasına,
+Sitenin alt kısmındaki kaynaklar oldukça iyi, *portswigger academy* olsun, *hacker101* olsun, *bugcrowd academy* olsun çok başarılı, bunların dışında mutlaka *OWASP*'a da bir göz at.
+- [*TryHackMe*'nin *OWASP 10* odası](https://tryhackme.com/room/owasptop10)
+- [*TryHackMe*'nin Premium BurpSuite odası](https://tryhackme.com/room/rpburpsuite)
+- [*TryHackMe*'nin Premium Network Services odası](https://tryhackme.com/room/networkservices)
+- [*TryHackMe*'nin OWASP ZAP odası](https://tryhackme.com/room/learnowaspzap)   
+- [*TryHackMe*'nin Web Fundamentals odası](https://tryhackme.com/room/webfundamentals)   
+- [*TryHackMe*'nin WebAppSec101 odası](https://tryhackme.com/room/webappsec101)  
+- [*TryHackMe*'nin Metasploit odası](https://tryhackme.com/room/rpmetasploit)
 * ve ardından kendini test etmek için;   
-  - https://tryhackme.com/room/vulnversity   
+  - https://tryhackme.com/room/vulnversity
   - https://tryhackme.com/room/juiceshop   
   - https://tryhackme.com/room/rpwebscanning   
   - https://tryhackme.com/room/dvwa   
   - https://tryhackme.com/room/jack  
 odalarına bakabilirsin.
+
 Ayrıca, TryHackMe üzerinde forensics, cryptography, pentesting gibi konular üzerinde bir sürü oda bulunuyor.
-Bir de surasi var : https://application.security/free/owasp-top-10 << kontra nin egitim sitesi, hem uygulatiyor hem ogretiyor. biraz altyapi yaptiktan sonra mutlaka goz at.
+Bir de şurası var : [Kontra'nın eğitim sitesi](https://application.security/free/owasp-top-10); hem uygulatıyor, hem öğretiyor. Biraz altyapı yaptıktan sonra mutlaka göz at.
 <p>&nbsp;</p>
 
 
@@ -177,8 +179,8 @@ O zaman sevgili kardeşim, kendine bir açık kaynak kodlu proje bul ve ona Pull
 ## ([▲](#top)) Hangi programlama dillerine ve teknolojilerine eğilmeliyim? <a name="question15"></a>
 Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Scripting*(Linux komut satırı), sanal makinede Kali Linux çalıştırabilmek, temel CCNA ile network bilgisi SQL hakkında fikir sahibi olmak. Başlangıç için bunlar oldukça işine yarayacaktır.
 
-30 gunde Python ogren : https://github.com/Asabeneh/30-Days-Of-Python (sag tik ile ceviri yapabilirsin ;)) 
-30 gunde Javascript ogren : https://github.com/Asabeneh/30-Days-Of-JavaScript (aynen sag tik kardesim)
+[30 günde Python öğren](https://github.com/Asabeneh/30-Days-Of-Python) (sag tik ile ceviri yapabilirsin ;)) 
+[30 günde Javascript öğren](https://github.com/Asabeneh/30-Days-Of-JavaScript) (aynen sag tik kardesim)
 <p>&nbsp;</p>
 
 
@@ -193,11 +195,11 @@ Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Sc
 - [CodeAcademy](https://www.codecademy.com/learn/learn-python-3) - Bir kısmı _*ücretsiz*_ bir kısmı _*ücretli*_ bir eğitim.
 - [EDX Georgia Tech University](https://www.edx.org/professional-certificate/introduction-to-python-programming) - _*Ücretsiz*_ bir başlangıç eğitimi \
 - [Yazilim bilimi kanali](https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ) var mesela, guzel kaynak << bu arkadaslarin udemy kurslari da var daha guncel olan ama mantik ayni
-- https://www.youtube.com/channel/UCrFuOhaISP4OMarjFR4dYBA yakin kampus kanali var
+- [Yakın Kampüs Kanalı](https://www.youtube.com/channel/UCrFuOhaISP4OMarjFR4dYBA)
 - https://www.mobilhanem.com/python-egitimi/ <<< okuyup ogrenicem diyen insan icin
 
 hatta BTK akademi de bile var piton dersleri.
-Tabi ki daha fazlasını googlelayarak bulabilirsiniz.
+Tabi ki daha fazlasını google'layarak bulabilirsiniz.
 <p>&nbsp;</p>
 
 
@@ -225,7 +227,7 @@ Gelişmekte olan teknolojilere bakmak lazım: DevOps, full stack development, mo
 ## ([▲](#top)) Abi Instagram'dan sana sordum, görmedin. O nedir abi, bu nedir abi? Ivır nedir abi? Zıvır nedir abi? <a name="question20"></a>
 Sevgili kardeşim, her ne kadar yardımcı olmak istesem de Instagram soru cevaplamak için iğrenç bir platform. Çok detaylı teknik sorularınızdan ziyade, bir yön gösterip, siz gerekli araştırmaları yaptıktan sonra takıldığınız yerde bana geldiğinizde çok daha rahat yardımcı olabilirim. Konu çok derin, uygulama dandik, vakit sınırlı... En yüksek faydayı sağlayabilmek için senin de biraz araştırma yapman lazım. Hem araştırma yapabilmek bizim işimizin en önemli parçası. Biraz söylediğim alanlarda araştırmalarınızı yapın, sonra gelin sorularınıza göre yeniden yön çizelim. *Ben Google değilim!* Yaptığımız şey mentorluk. Herkese ulaşabilmek için size de düşen birkaç görev var yani. Yardımınız için teşekkürler.
 
-Bak bir de burada sormaman gereken sorular var :) : https://www.youtube.com/watch?v=fLV0y0Dn0Ug
+Bak bir de [burada sormaman gereken sorular](https://www.youtube.com/watch?v=fLV0y0Dn0Ug) var :)
 <p>&nbsp;</p>
 
 
