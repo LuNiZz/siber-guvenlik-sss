@@ -320,6 +320,8 @@
 ---
 <h1 align="center">Bazı bulut kaynakları</h1>
 
+* ### [Birçok bulut kaynağının bulunduğu site <<<](https://github.com/4ndersonLin/awesome-cloud-security)
+
 * ### AWS
   - [AWS Security Blog](https://rhinosecuritylabs.com/blog/?category=aws)
   - [AWS Security Tool List](https://github.com/toniblyx/my-arsenal-of-aws-security-tools)
