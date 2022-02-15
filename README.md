@@ -55,6 +55,7 @@ Aramıza hoş geldin ve görüşürüz!
   - [<img width="18" src="https://i.ibb.co/qDk1M65/twitter.png" alt="twitter" border="0"> Twitterdan Takip Edilebilecek Kişiler](/Belgeler/BaglantilarVeBilgiler.md#bazitwitterhesaplari) 
   - [<img width="18" src="https://i.ibb.co/PZDy7Qz/github.png" alt="github" border="0"> İşinize Yarayabilecek GitHub Repoları](/Belgeler/BaglantilarVeBilgiler.md#githubrepolari)
 * [<img width="18" src="https://i.ibb.co/wLs9FDF/yazilar.png" alt="yazilar" border="0"> Faydalı Dokümanlar](/Belgeler/Dokumanlar)
+    - [<img width="18" src="https://i.ibb.co/Tq2LQr3/cloud.png" alt="bulut2" border="0"> Cloud CV Challenge](/Belgeler/Dokumanlar/CV_Challenge.md#top)
     - [<img width="18" src="https://i.ibb.co/nsy7RW6/docker.png" alt="docker" border="0"> Docker ile Kali Linux Kurulumu](/Belgeler/Dokumanlar/Docker_Uzerinde_Kali.md#top)
     - [<img width="18" src="https://i.ibb.co/1Rd9V0k/linux.png" alt="linux" border="0"> Linux ve Pentesting Başlangıç](/Belgeler/Dokumanlar/Linux_ve_Pentesting_Baslangic.md#top)
     - [<img width="18" src="https://i.ibb.co/ngYZt20/network.png" alt="network" border="0"> Network Baslangıç](/Belgeler/Dokumanlar/Network_Baslangic.md#top)
