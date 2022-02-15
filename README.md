@@ -35,13 +35,13 @@ Aramıza hoş geldin ve görüşürüz!
 <h1 align="center">Bu reponun içindeki belgeler:</h1>
 
 * [<img width="18" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="soru-cevap" border="0"> Sıkça Sorulan Sorular](/Belgeler/SikcaSorulanSorular.md#top) <<< BURADAN BAŞLA SEVGİLİ DOSTUM
-* [<img width="18" src="https://i.ibb.co/nrNdyb7/proje.png" alt="proje" border="0"> Bazı Proje Fikirleri](/Belgeler/BaglantilarVeBilgiler.md#baziprojefikirleri)
 * [<img width="18" src="https://i.ibb.co/Tq2LQr3/cloud.png" alt="bulut" border="0"> Bulut Bilisim Uzerine Kaynaklar](/Belgeler/BaglantilarVeBilgiler.md#bulutkaynaklari)
 * [<img width="18" src="https://i.ibb.co/2dzQnY9/twitch.png" alt="twitch" border="0"> Tüm geçmiş Twitch Yayınları](/Belgeler/BaglantilarVeBilgiler.md#tumgecmistwitchyayinlari)
 * [<img width="18" src="https://i.ibb.co/gmLfmCy/bug.png" alt="bug" border="0"> Bug Bounty Mevzusu](/Belgeler/BaglantilarVeBilgiler.md#bugbounty)
 * [<img width="18" src="https://i.ibb.co/NLkznCJ/yildiz.png" alt="yildiz" border="0"> AWESOME serisi](/Belgeler/BaglantilarVeBilgiler.md#awesome)
 * [<img width="18" src="https://i.ibb.co/86yT26f/google.png" alt="google" border="0"> Google nasıl kullanılır?](/Belgeler/BaglantilarVeBilgiler.md#googlenasilkullanilir)
 * [<img width="18" src="https://i.ibb.co/LPJQsPC/link.png" alt="link" border="0"> Faydalı Bağlantılar](/Belgeler/BaglantilarVeBilgiler.md#top)
+  - [<img width="18" src="https://i.ibb.co/nrNdyb7/proje.png" alt="proje" border="0"> Bazı Proje Fikirleri](/Belgeler/BaglantilarVeBilgiler.md#baziprojefikirleri)
   - [<img width="18" src="https://i.ibb.co/HGBjbmL/cheat-sheetler.png" alt="cheat-sheetler" border="0"> Cheat Sheet'ler](/Belgeler/BaglantilarVeBilgiler.md#cheatsheetler)  
   - [<img width="18" src="https://i.ibb.co/10rz1Xh/cesitli-kaynaklar.png" alt="cesitli-kaynaklar" border="0"> Çeşitli Kaynaklar](/Belgeler/BaglantilarVeBilgiler.md#cesitlikaynaklar)  
   - [<img width="18" src="https://i.ibb.co/1vHF0tz/filmler.png" alt="filmler" border="0"> Filmler](/Belgeler/BaglantilarVeBilgiler.md#filmler)  
