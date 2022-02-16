@@ -67,6 +67,7 @@
   - :book: *Learn Python the hard way* by Zed Shaw
   - :globe_with_meridians: [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - A step by step guide
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
+  - 🌐 [Python Code Visualizer](https://pythontutor.com/)
 
 * ### Reverse Engineering
   - :globe_with_meridians: [Android App Reverse Engineering 101](https://maddiestone.github.io/AndroidAppRE)
