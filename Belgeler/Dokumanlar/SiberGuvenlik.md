@@ -6,10 +6,7 @@
 # Siber Güvenlik Dalları ve Sertifikaları   
 <img src="https://i.ibb.co/3M2Tp0c/seccerts.png" alt="seccerts" border="0">
 * Yukarıda günümüzde yaygın olarak yer alan siber güvenlik dallarını ve bu dallarda etkin kullanılan sertifikaları görebilirsiniz.  
-* Ayrıca aşağıdaki linkte bunların tıklanabilir ve detaylı bilgi alınabilir versiyonunu da ekliyorum.  
-https://lunizz.github.io/seccert.html
-
-Yukarıdaki imaja geri dönersek,  
+  
 > ## Güvenlik Yönetimi
 > Daha sıklıkla yönetim ve bilgi güvenliği denetimi alanlarında çalışarak, şirketlerin bilgi güvenliği regülasyonlarına uyumluluğunu test eden meslek dalı.  
 Burada önemli olan sertifikalar: CISSP ve CISA. Giriş seviyesinde de Security+ ve ITIL.
