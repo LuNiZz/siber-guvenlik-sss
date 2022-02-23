@@ -76,6 +76,7 @@ selam
 7.2
 >>> print(r"C:\Users\Can\newfile")
 C:\Users\Can\newfile
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -104,6 +105,7 @@ selam
 ('ali', 'veli')
 >>> print(sozluk)
 {'a': 'b', 'c': 'd'}
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -127,6 +129,7 @@ Bu komut, kullanıcıdan bilgi toplamaya yarar. Örnek kullanım:
 Adın nedir?: Can
 >>> print("Merhaba", kullanıcıadı, "tanıştığıma memnun oldum.")
 Merhaba Can tanıştığıma memnun oldum.
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -145,6 +148,7 @@ Merhaba Can, tanıştığımıza memnun oldum.
 >>> sayı2 = 20
 >>> print("{} ve {} sayılarının toplamı: {}".format(sayı1, sayı2, sayı1 + sayı2))
 10 ve 20 sayılarının toplamı: 30
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -157,6 +161,8 @@ f-String metodu, tıpkı format metodunda olduğu gibi belirli noktalara  belirl
 >>> kladi = input("Adın nedir?: ")
 Adın nedir?: Can
 >>> print(f"Merhaba {kladi}, tanıştığımıza memnun oldum.")
+Merhaba Can, tanıştığımıza memnun oldum.
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -197,6 +203,7 @@ Operatörler:
 ... 	print("Sayı -20 ile 0 arasında.") 	  # Bunu yaz
 ...
 Sayı 0 ile 20 arasında.
+>>>
 ```
 
 <p>&nbsp;</p>
@@ -210,6 +217,7 @@ Range fonksiyonu, kendisine verilecek olan parametreler içinde sayı saymaya ya
 ```python
 >>> print(*range(0, 11, 2))    # 1'den 11'e kadar ikişer say.
 0 2 4 6 8 10
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -236,13 +244,14 @@ Bu metod, kendisine verilecek olan koşulun doğru olup olmamasına dikkat eden 
 ... 	print("Merhaba")
 ...
 [Sonsuz kez] Merhaba
-
+>>>
 >>> x = 101
 >>> while 100 < x < 110:
 ... 	print("Merhaba")
 ... 	x += 1
 ...
 [9 kere] Merhaba
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -262,6 +271,7 @@ Bu metod, kendisine verilecek olan çoklu değerleri tek tek kullanmaya yardım 
 2.kez merhaba!!!
 ...
 10.kez merhaba!!!
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -289,7 +299,7 @@ finally:	 # olsa da olmasa da beni çalıştır
 ...		print(f"{s1} ve {s2} sayılarının toplamı {s1+s2} yapar.")
 ...	finally:
 ...		print("Başka yapmak istediğiniz işlem var mı?")
-		print("Yoksa CTRL+C'ye basarak beni kapatabilirsiniz.")
+...		print("Yoksa CTRL+C'ye basarak beni kapatabilirsiniz.")
 ```
 
 <p>&nbsp;</p>
@@ -304,6 +314,7 @@ replace metodu, kendisine verilecek parametreler ile belirli bir değişken değ
 >>> deger = "Beyaz Şapkalı Tornacı"
 >>> deger.replace("Şapkalı", "Takkeli")
 'Beyaz Takkeli Tornacı'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -319,6 +330,7 @@ split metodu, soldan başlayarak kendisine verilen string ve sayıya göre ayır
 >>>
 >>> deger.split(" ", 1)
 '['Beyaz', 'Takkeli Tornacı']'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -333,9 +345,12 @@ Bu iki metod, değişkendeki harflerin hepsini büyütür veya küçültür. Ör
 >>>
 >>> deger = deger.lower()
 >>> print(f"İsminin harflerini küçülttüm. Bak: {deger}")
+İsminin harflerini küçülttüm. Bak: can
 >>>
 >>> deger = deger.upper()
 >>> print(f"Şimdide harflerini tekrardan büyüttüm. Bak: {deger}")
+Şimdide harflerini tekrardan büyüttüm. Bak: CAN
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -348,6 +363,7 @@ Bu metod ise harflerin boyutunu tersine çevirir. Örnek kullanım:
 >>> deger = "DiScOvEr02"
 >>> deger.swapcase()
 'dIsCoVeR02'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -360,6 +376,7 @@ Bu metod belirli bir karakter dizisindeki her kelimenin ilk harfini büyütür. 
 >>> deger = "beyaz takkeli tornacı"
 >>> deger.title()
 'Beyaz Takkeli Tornacı'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -394,6 +411,7 @@ strip() ise değişkenin başındaki ve sonundaki boşlukları kırpar. Örnek k
 'Can Değer\n '
 >>> deger.rstrip('\\n ')
 ' Can Değer'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -410,6 +428,7 @@ Bu fonksiyonlar ise içine verilen sayılar kadar alan oluşturur. Ve sırasıyl
 '      Discover      '
 >>> isim.rjust(20)
 '            Discover'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -435,6 +454,7 @@ ValueError: substring not found
 7
 >>> isim.find("a")
 -1
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -447,6 +467,7 @@ zfill fonksiyonu, belirli bir karakter dizisinde kendisine verilen sayı kadar a
 >>> isim = "mrN3ONd"
 >>> isim.zfill(15)
 '00000000mrN3ONd'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -459,6 +480,7 @@ expandtabs fonksiyonu, uygulandığı değişkenin içinde eğer ki '\t' dizisi 
 >>> isim = "Can\tDeğer"
 >>> isim.expandtabs(10)
 'Can          Değer'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -476,6 +498,7 @@ list fonksiyonu, bir değişkene uygulandığında boş bir liste oluşturur.
 >>> liste = []
 >>> print(liste)
 '[]'
+>>>
 ```
 - Değer ekleme | append()
 ```python
@@ -487,11 +510,13 @@ list fonksiyonu, bir değişkene uygulandığında boş bir liste oluşturur.
 >>> liste.append("Beyaz Takkeli Tornacı")
 >>> print(liste)
 '["Can", "Değer", "Beyaz Takkeli Tornacı"]'
+>>>
 ```
 - Değer değiştirme
 ```python
 >>> liste = ["Kırmızı", "Turuncu", "Sarı"]
 >>> liste[2] = "Mavi"
+>>>
 ```
 - Değer silme | pop() | remove()
 ```python
@@ -507,6 +532,7 @@ list fonksiyonu, bir değişkene uygulandığında boş bir liste oluşturur.
 >>> liste.remove("Turuncu")
 >>> print(liste)
 '[]'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -518,6 +544,7 @@ list fonksiyonu, bir değişkene uygulandığında boş bir liste oluşturur.
 Demetler'de aynı listeler gibi belirli değerleri bir arada tutmak için kullanılır. Listelerden farkı ise tek bir kez ayarlanabilir olmasıdır. Ekleme yapıldıktan sonra silme veya değiştirme gibi işlemler uygulanamaz. 
 ```python
 >>> demet = ('Beyaz', 'Takkeli')
+>>>
 ```
 - Değer eklemek (en sona bir virgül atılması zorunludur, yoksa eklemeye çalıştığınız şey string olarak algılanır.)
 ```python
@@ -525,6 +552,7 @@ Demetler'de aynı listeler gibi belirli değerleri bir arada tutmak için kullan
 >>> demet = demet + ('Tornacı',)
 >>> print(demet)
 ('Beyaz', 'Takkeli', 'Tornacı')
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -538,33 +566,39 @@ Sözlükler, aynı gerçek hayattaki sözlükler gibi belirli bir şeyin ne oldu
 Bu python'da sözlükleri kullanarak halledilir.
 ```python
 >>> kelimeler = {"kitap": "book"}
+>>>
 ```
 - Değer ekleme
 ```python
 >>> kelimeler["kalem"] = "pencil"
 >>> print(kelimeler)
 {"kitap": "book", "kalem": "pencil"}
+>>>
 ```
 - Değer silme
 ```python
 >>> kelimeler.pop("kitap")
 >>> print(kelimeler)
 {"kalem": "pencil"}
+>>>
 ```
 - Anahtarları görmek
 ```python
 >>> kelimeler.keys()
 dict_keys(['kitap', 'kalem'])
+>>>
 ```
 - Değerleri görmek
 ```python
 >>> kelimeler.values()
 dict_values(['book', 'pencil'])
+>>>
 ```
 - Anahtar değerini sorgulama (Eğer kelime bulunamazsa hata yaz)
 ```python
 >>> kelimeler.get("kitap", "Hata! Bu kelime bende yok :(")
 'book'
+>>>
 ```
 <p>&nbsp;</p>
 
@@ -590,11 +624,11 @@ dict_values(['book', 'pencil'])
 ### ([▲](#top)) def()
 def() komutu, özel fonksiyonlar ayarlamaya yarar. Örnek kullanım:
 ```python
->>> def ekranıtemizle():
+>>> def ekrantemizle():
 ... 	__import__("os").system("cls")      # Windows
 ... 	__import__("os").system("clear")    # Linux/Unix
 ...
->>> ekranıtemizle()
+>>> ekrantemizle()
 ```
 - Fonksiyona argüman desteği getirmek
 ```python
@@ -602,18 +636,19 @@ def() komutu, özel fonksiyonlar ayarlamaya yarar. Örnek kullanım:
 >>> soyisim = "Değer"
 >>> meslek = "Beyaz Takkeli Tornacı"
 >>> def kisikayit(i1, s1, m1):
-... 	print("-"*35)
+... 	print("-"*33)
 ... 	print(f" İsim    : {i1}")
 ... 	print(f" Soyisim : {s1}")
 ... 	print(f" Meslek  : {m1}")
-... 	print("-"*35)
+... 	print("-"*33)
 ...
 >>> kisikayit(isim, soyisim, meslek)
------------------------------------
+---------------------------------
  İsim    : Can
  Soyisim : Değer
  Meslek  : Beyaz Takkeli Tornacı
------------------------------------
+---------------------------------
+>>>
 ```
 
 <p>&nbsp;</p>
@@ -636,6 +671,7 @@ class() fonksiyonu'da tıpkı normal fonksiyonlar "def()" gibidir ancak biraz da
 >>> c = myClass()
 >>> c.echo()
 Can Değer
+>>>
 ```
 
 - Bir başka örnek:
@@ -665,7 +701,7 @@ Can Değer
 >>>
 >>> a = myClass2()				 ## Burada ise sınıfı başka bir değişkene atıyoruz. Gördüğünüz gibi 
 ['a', 'b', 'c']					 #  yaptığımız hiçbir değişiklik uygulanmamış gibi görünüyor. 
-						 #  Bu noktada "a"'yı, "c"'yi veya artık hangi değişken kullanıldıysa
+>>>						 #  Bu noktada "a"'yı, "c"'yi veya artık hangi değişken kullanıldıysa
 						 #  bu değişkeni temsil eden şey sınıf içinde kullandığımız "self" ifadesidir.
 ```
 <p>&nbsp;</p>
