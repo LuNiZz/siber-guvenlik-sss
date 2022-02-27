@@ -39,7 +39,7 @@ AZURE için: <a href="https://docs.microsoft.com/en-us/azure/storage/blobs/stora
 
 GCP için: <a href="https://cloud.google.com/storage/docs/hosting-static-website">Google Cloud Storage</a>
 
-üzerinde çalışıyor olmalı. Aslında bunun için Netlify ve Github Pages kullanılması daha iyi olabilir. Ama şu an cloud bildiğimizi göstermeye çalışıyoruz. O yüzden üstteki servislerden birini kullanın.
+üzerinde çalışıyor olmalı. Aslında bunun için Netlify, Vercel ve Github Pages kullanılması daha iyi olabilir. Ama şu an cloud bildiğimizi göstermeye çalışıyoruz. O yüzden üstteki servislerden birini kullanın.
 <br><br><br><br>
 
 
@@ -68,14 +68,14 @@ AZURE için: <a href="https://docs.microsoft.com/en-us/azure/cdn/cdn-map-content
 
 GCP için: <a href="https://cloud.google.com/domains/docs">Cloud Domains</a>
 
-veya bunlar dışında herhangi bir DNS sağlayıcıyı kullanabilirsiniz. Domain almak genelde 10 dolar civarı oluyor.
-<br><br><br><br>
+veya bunlar dışında herhangi bir DNS sağlayıcıyı kullanabilirsiniz. Domain almak genelde 10 dolar civarı oluyor. Domain'e para vermek istemiyorsanız <a href ="https://education.github.com/pack"> Github Education</a> avantajlarını kullanabilirsiniz<br><br><br><br>
 
 
 
 
 ## Javascript
-Özgeçmiş sayfanızın bir ziyaretçi sayacı olmalı. Bunu gerçekleştirebilmek için biraz Javascript yazmanız gerekiyor. <a href="https://www.codecademy.com/learn/introduction-to-javascript">Bu siteden javascripte başlayabilirsiniz.</a>
+Özgeçmiş sayfanızın bir ziyaretçi sayacı olmalı. Bunu gerçekleştirebilmek için biraz Javascript yazmanız gerekiyor.
+<a href="https://www.codecademy.com/learn/introduction-to-javascript">Bu siteden javascripte başlayabilirsiniz.</a> ya da <a href="https://github.com/Asabeneh/30-Days-Of-JavaScript">Bu Github reposuna bakabilirsiniz</a>
 <br><br><br><br>
 
 
