@@ -16,6 +16,11 @@
 * ### Computer Science (Bilgisayar Bilimi)
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
+ 
+* ### Open Source Society University (OSSU)
+  - :tv: [Computer Science](https://github.com/ossu/computer-science) (Bilgisayar Bilimi) OSSU repository
+  - :tv: [Data Science](https://github.com/ossu/data-science) (Veri Bilimi) OSSU repository
+  - :tv: [Math](https://github.com/ossu/math) (Matematik) OSSU repository
 
 * ### Cryptography
   - :mortar_board: [Cryptography by Stanford University](https://www.coursera.org/learn/crypto)
