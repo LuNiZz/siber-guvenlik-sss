@@ -481,6 +481,8 @@
   - [Dünyanın birçok yerinde yapılan CTF'leri görebileceğiniz bir web sitesi](https://ctftime.org/)
   - [Guru99](https://www.guru99.com/)
   - [Kolaydan zora birçok CTF'in bulunduğu bir web sitesi](https://ctflearn.com/)
+  - [Learn C](https://learn-c.org)
+  - [Learn C++(cpp)](https://learn-cpp.org)
   - [Linux komutlarını öğrenmeyi kolaylaştıran bir web sitesi](https://cmdchallenge.com/)
   - [OWASP Juice Shop! adlı buglu bir site hacklemeye çalışın](https://juice-shop.herokuapp.com/#/)
   - [Penetration Test](https://www.tutorialspoint.com/penetration_testing/index.htm)
