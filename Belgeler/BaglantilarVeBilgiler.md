@@ -375,6 +375,7 @@
   - [Azure İçin Başlangıç Eğitimi](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 	Bu modül ile başlarsanız, hem AZ900 sertifikasını alabilirsiniz, hemde olayı iyi anlarsınız. Belge tamamen yazılı olduğu için translate ile türkçe olarak çalışabilirsiniz.
   - [AZURE'nin Bulut Bilişim Hakkında Türkçe Kaynağı](https://azure.microsoft.com/tr-tr/overview/what-is-cloud-computing/)
+  - [Azure Sertifikalarına Çalışmak İçin Kaynaklar](https://github.com/johnthebrit/CertificationMaterials)
   - [Bulut Bilişim Hakkında Başka Bir E-Kitap (Biraz eski ama açıklayıcı bir kitap)](https://yukselis.files.wordpress.com/2012/01/bulutbilic59fimelkitabc4b1.pdf)
   - [Bulut Bilişim Hakkında Bir Türkçe Kitap](https://www.amazon.com.tr/Bulut-Bili%C5%9Fim-Metin-Turan/dp/9750254503/ref=sr_1_1?keywords=bulut+bili%C5%9Fim&qid=1639946789&sprefix=bulut+bili%2Caps%2C72&sr=8-1)
   - [Çözümpark Kaynakları (Azure icin)](https://www.cozumpark.com/?s=azure)
