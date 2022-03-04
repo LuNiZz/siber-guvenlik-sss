@@ -14,8 +14,10 @@
   - :book: *Godel, Escher, Bach* by Douglas Hofstadter
 
 * ### Computer Science (Bilgisayar Bilimi)
+  - :tv: [Harvard CS50x](https://cs50.harvard.edu/x/2022/) CS50's Introduction to Computer Science
   - :tv: [Computerphile](https://www.youtube.com/user/Computerphile)
   - :tv: [Crash Course](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)'s CS playlist
+  
  
 * ### Open Source Society University (OSSU)
   - :tv: [Computer Science](https://github.com/ossu/computer-science) (Bilgisayar Bilimi) OSSU repository
