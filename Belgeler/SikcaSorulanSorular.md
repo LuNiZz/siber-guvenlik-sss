@@ -107,7 +107,7 @@ Tüm siber güvenlik dallarını [burada](https://github.com/LuNiZz/siber-guvenl
 ## ([▲](#top)) Abi Udemy'de / hedehodo'de / XYZ'de / ıvırda zıvırda, TÜRKÇE bir eğitim buldum, Nasıldır sence? <a name="question8"></a>
 Sevgili dostum, Udemy de birçok kişinin eğitimlerini bulabilirsin, eğitimin iyisi kötüsü olmaz. Sen bilginin işine yarayan kısmını al... Yanlış olduğunu eksik olduğunu düşündüğün alanlarını araştır ve kendini geliştirmeye devam et.
 Kişisel olarak benim herhangi bir Udemy Türkçe içeriğine tavsiye veya öneride bulunmam ne yazık ki mümkün değil, çünkü o eğitimlerin hiçbirini alıp, incelemedim. İncelemeyi de düşünmüyorum. Duyduğum yorumlar genel olarak, Udemy'deki değerlendirme ve yorumlarla aynı şekilde, o sebeple incele oku. Kararını kendin ver.
-Ben özel olarak bir yorum veya tavsiyede bulunanamam.
+Ben özel olarak bir yorum veya tavsiyede bulunamam.
 
 Dersen ki İngilizce kaynak lazım bana, o zaman az aşağıda "The Cyber Mentor"'un ücretli eğitimleri var, zaman zaman Twitter ve LinkedIn'den bunların indirim ve benzeri kodlarını yayınlıyor, gözat istersen.( TCM'nin yeni adresi : https://academy.tcm-sec.com/ )
 <p>&nbsp;</p>
