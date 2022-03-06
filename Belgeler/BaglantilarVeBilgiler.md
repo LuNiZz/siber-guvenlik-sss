@@ -684,6 +684,15 @@
 * Türkçe
   - [Çok iyi bir Türkçe Kaynak](https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125)
   - [Herkes için Siber Güvenlik](https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf)
+  - [MEB - Ağ Temelleri](https://raw.githubusercontent.com/LuNiZz/siber-guvenlik-sss/master/Belgeler/Dosyalar/MEB%20Kitaplari/Ag_Temelleri.pdf)
+  - [MEB - Basit Kodlar](https://raw.githubusercontent.com/LuNiZz/siber-guvenlik-sss/master/Belgeler/Dosyalar/MEB%20Kitaplari/Basit_Kodlar.pdf)
+  - [MEB - Dış Donanım Birimleri](https://raw.githubusercontent.com/LuNiZz/siber-guvenlik-sss/master/Belgeler/Dosyalar/MEB%20Kitaplari/Ds_Donanm_Birimleri.pdf)
+  - [MEB - İç Donanım Birimleri](https://raw.githubusercontent.com/LuNiZz/siber-guvenlik-sss/master/Belgeler/Dosyalar/MEB%20Kitaplari/Ic_Donanm_Birimleri.pdf)
+  - [MEB - İşletim Sistemi Gelişmiş Özellikleri](https://raw.githubusercontent.com/LuNiZz/siber-guvenlik-sss/master/Belgeler/Dosyalar/MEB%20Kitaplari/Isletim_Sistemi_Gelismis_Ozellikleri.pdf)
+  - [MEB - İşletim Sistemi Kurulumu](https://raw.githubusercontent.com/LuNiZz/siber-guvenlik-sss/master/Belgeler/Dosyalar/MEB%20Kitaplari/Isletim_Sistemi_Kurulumu.pdf)
+  - [MEB - Kodlamaya Hazırlık](https://raw.githubusercontent.com/LuNiZz/siber-guvenlik-sss/master/Belgeler/Dosyalar/MEB%20Kitaplari/Kodlamaya_Hazrlk.pdf)
+  - [MEB - Kontrol Deyimleri](https://raw.githubusercontent.com/LuNiZz/siber-guvenlik-sss/master/Belgeler/Dosyalar/MEB%20Kitaplari/Kontrol_Deyimleri.pdf)
+  - [MEB - Metotlar](https://raw.githubusercontent.com/LuNiZz/siber-guvenlik-sss/master/Belgeler/Dosyalar/MEB%20Kitaplari/Metotlar.pdf)
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
