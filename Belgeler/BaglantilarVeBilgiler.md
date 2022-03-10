@@ -252,6 +252,17 @@
 		</p>
 </details>
 
+<details> 
+	<summary><strong>Güncel kur takip programı</strong></summary>
+		<p>
+
+- Hedef: Kuru canlı olarak yazıp isterinirse bildirim gönderen bir program.
+  - İstenilen kurlar arası çeviri.
+  - İstenirse Windows platformlarda bildirim gönderme.
+  - Takip edlien kur belli bir miktarı geçtiğinde yapılabilcek bir otomasyon.
+		</p>
+</details>
+
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
