@@ -593,6 +593,7 @@
   - [TheArtofHacking - H4CKER](https://github.com/The-Art-of-Hacking/h4cker)
   - [Web Güvenliği](https://github.com/om3rcitak/webguvenligi)
   - [Writing External Python Modules](https://github.com/rapid7/metasploit-framework/wiki/Writing-External-Python-Modules)
+  - [Yararli Kaynak Toplulugu](https://github.com/beyzadp/the_kings_of_the_sources)
 
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
