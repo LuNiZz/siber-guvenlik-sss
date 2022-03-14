@@ -56,7 +56,6 @@
 
 * ### Malware Analysis
   - :mortar_board: [Malware analysis course](https://class.malware.re/) by University of Cincinnati
-  - :globe_with_meridians: [Reverse engineering malware](https://malwareunicorn.org/[[/workshops]]) by MalwareUnicorn 
 
 * ### OSINT
   - :book: *Open Source Intelligence Techniques* by Michael Bazzell
