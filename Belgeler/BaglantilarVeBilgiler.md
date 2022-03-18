@@ -737,6 +737,7 @@
 - [CyberSecurity Basics](https://www.edx.org/course/cybersecurity-basics)
 - [Introduction to Computer Science](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x?index=product&queryID=de2e4ba53714d083bf68f2463b6cc33c&position=1)
 - [Introduction to Linux](https://www.edx.org/course/introduction-to-linux?index=product&queryID=774b903ad29ee024fea69bbd4f3ea99c&position=1)
+- [IBM Python Basics for Data Science](https://www.edx.org/course/python-basics-for-data-science?index=product&queryID=12642d47e76e4b472dbb1e4d4f001f19&position=1)
 
 ## Youtube
 - Bilişim teknolojilerindeki cihazlar/terimler vs. nedir? Nasıl çalışır?: https://www.youtube.com/channel/UCJQJ4GjTiq5lmn8czf8oo0Q
