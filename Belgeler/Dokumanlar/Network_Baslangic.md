@@ -36,8 +36,20 @@ Cihazların internete erişmelerini sağlar, IP ve MAC adres bilgilerini tutar.
 <br>
 ### Switch
 Birçok cihazın ağa bağlanmasını sağlar, kendi aralarında haberleşmelerine olanak sağlar. OSI katman modelinde ikinci katman olan Veri İletim(Data link) katmanında çalışır yeni dağıtıcılarda OSI 3.Katman olan Ağ(Network) Katmanında da çalışabilir.
+<br>
+### Bridge(Köprü)
+İki bilgisayar ağını birbirine bağlayan ağ aygıtıdır.
+[Köprü ve köprüleme hakkında güzel yazılmış bir kaynak](https://en.wikipedia.org/wiki/Network_bridge)
+<br>
 
+### Hub(Göbek)
+Görevi sinyalleri güçlendirip kabloya iletmektir.
+[Burda da detaylı ve güzel bir kaynak var bir bakın derim](https://networkgiller.wordpress.com/hub/)
+<br>
 
+### Modem
+Bu aygıtlardan belkide en aşina olduğumuz aygıt modemdir, cihazları tek bir ağa bağlar ve o cihazların kablolu veya kablosuz olarak internete erişmesinden sorumludur. Ağ olarak LAN kullanır. belirli bir admin paneli vardır ve genelde `192.168.1.1` ile erişilir, admin paneline erişmek için modemin LAN ağında bulunmanız gerekmektedir.
+<br>
 ### Firewall
 Ağ(Network) Paketlerinin içeriğini okur ve bir tehlike içeriyorsa bloklar. Erişim izinlerini denetlemeden de sorumludur. İki türe ayrılır, Donanımsal Firewall Yazılımsal Firewall(Güvenlik duvarı gibi)
 <p>&nbsp;</p><p>&nbsp;</p>
@@ -48,6 +60,9 @@ Ağ(Network) Paketlerinin içeriğini okur ve bir tehlike içeriyorsa bloklar. E
 Sınırlı alandaki internete bağlanan cihazları birbirine bağlayan ağdır yani evimizde Bilgisayar, Telefon gibi cihazları tek bir modeme bağladığımız zaman bu LAN ağı olur.
 `IP Örneği: 192.168.1.1`
 Modem bunu HOST ID(Birazdan geçiceğiz :)) Numarasını atar. Yani Bilgisayarımız 192.168.1.2 de ise Telefonumuza 192.168.1.3 verir.
+<br>
+### MAN(Metropolitan Area Network)
+Bir şehir veya büyük bir yerleşkede bulunan ağdır. LAN(Local Area Network) ler arasındaki bağlantıyı kurar. İnternet ve WAN için bağlantı hizmetleri sunar.
 <br>
 ### WAN(Wide Area Network)
 Dünya çapındaki cihazların birbirine bağlanmasını sağlayan ağdır.
