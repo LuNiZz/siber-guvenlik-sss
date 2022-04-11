@@ -26,7 +26,11 @@ Kısaca barındırma hizmetidir sitemizde yayınlanacak sayfaları, gerekli dosy
 SubDomain'i, ana domainin kardeşi olarak düşünebiliriz, örneğin bir sitemiz var site.com alan adında, örneğin biz güvenlik hizmeti veren firmayız ve müşterilerin destek alması için yeni bir alan adı açmak istiyoruz fakat bu mantıksız bir hareket, tam da bu noktada SubDomain devreye girer ve alan adımıza bir SubDomain açarız yani; destek.site.com gibi işte bu destek kısmı SubDomaindir daha anlaşılır olması adına bazı gerçek örneklendirmeler vereceğim. mail.google.com, support.google.com, outlook.live.com gibi.
 <br>
 ### NS(Name Server)
-Burda güzel bir kaynak var bunun için --> https://www.guzel.net.tr/blog/genel/nameserver-ns-nedir.html
+
+Alan adının sorgulanmasında kullanılan sunuculardır. Domainle IP adresi arasındaki bağlantıyı kuran sunuculardır, Name Server hizmet aldığınız hosting  firması tarafından domaininize(Alan adı) atanır.
+- isimkayit.com/index.php/knowledgebase/166/NS-Name-Server-Nedir.html
+- https://www.guzel.net.tr/blog/genel/nameserver-ns-nedir.html
+- https://www.niobehosting.com/blog/nameserver-ns-nedir/
 <p>&nbsp;</p><p>&nbsp;</p>
  
 
@@ -37,6 +41,19 @@ Cihazların internete erişmelerini sağlar, IP ve MAC adres bilgilerini tutar.
 ### Switch
 Birçok cihazın ağa bağlanmasını sağlar, kendi aralarında haberleşmelerine olanak sağlar. OSI katman modelinde ikinci katman olan Veri İletim(Data link) katmanında çalışır yeni dağıtıcılarda OSI 3.Katman olan Ağ(Network) Katmanında da çalışabilir.
 
+### Bridge(Köprü)
+İki bilgisayar ağını birbirine bağlayan ağ aygıtıdır.
+[Köprü ve köprüleme hakkında güzel yazılmış bir kaynak](https://en.wikipedia.org/wiki/Network_bridge)
+<br>
+
+### Hub(Göbek)
+Görevi sinyalleri güçlendirip kabloya iletmektir.
+[Burda da detaylı ve güzel bir kaynak var bir bakın derim](https://networkgiller.wordpress.com/hub/)
+<br>
+
+### Modem
+Bu aygıtlardan belkide en aşina olduğumuz aygıt modemdir, cihazları tek bir ağa bağlar ve o cihazların kablolu veya kablosuz olarak internete erişmesinden sorumludur. Ağ olarak LAN kullanır. belirli bir admin paneli vardır ve genelde `192.168.1.1` ile erişilir, admin paneline erişmek için modemin LAN ağında bulunmanız gerekmektedir.
+<br>
 
 ### Firewall
 Ağ(Network) Paketlerinin içeriğini okur ve bir tehlike içeriyorsa bloklar. Erişim izinlerini denetlemeden de sorumludur. İki türe ayrılır, Donanımsal Firewall Yazılımsal Firewall(Güvenlik duvarı gibi)
@@ -49,6 +66,11 @@ Sınırlı alandaki internete bağlanan cihazları birbirine bağlayan ağdır y
 `IP Örneği: 192.168.1.1`
 Modem bunu HOST ID(Birazdan geçiceğiz :)) Numarasını atar. Yani Bilgisayarımız 192.168.1.2 de ise Telefonumuza 192.168.1.3 verir.
 <br>
+
+### MAN(Metropolitan Area Network)
+Bir şehir veya büyük bir yerleşkede bulunan ağdır. LAN(Local Area Network) ler arasındaki bağlantıyı kurar. İnternet ve WAN için bağlantı hizmetleri sunar.
+<br>
+
 ### WAN(Wide Area Network)
 Dünya çapındaki cihazların birbirine bağlanmasını sağlayan ağdır.
 Wide Area Network IP'nizi internette "what's my ip" yazarak öğrenebilirsiniz :)
@@ -58,7 +80,7 @@ Bilgisayar tarayıcıya girdiğimiz hiçbirşeyi anlamaz bunu anlamaz burda DNS 
 Örnek vermek gerekirse araba bilgisayar nagivasyonuda DNS sunucusu olarak örneklendirebiliriz.
 <br>
 ### OSI Katman modeli
-Cihazların birbirleri ile nasıl iletişim kuracaklarını tanımlar. 7 Katmandan oluşur. Bunlar L-1 Physical(Fiber, Wirelees vb..), L-2 Data Link(Ethernet, Switch vb..), L3-Network(IP,ICMP), L4-Transport(TCP, UDP), L5-Session(API,Sockets) L6-Presentation(SSL,SSH,FTP vb..) L7-Application(HTTP, FTP, IRC, DNS[SSH])
+Cihazların birbirleri ile nasıl iletişim kuracaklarını tanımlar. 7 Katmandan oluşur. Bunlar L-1 Physical(Fiber, Wirelees vb..), L-2 Data Link(Ethernet, Switch vb..), L-3Network(IP,ICMP), L-4 Transport(TCP, UDP), L-5 Session(API,Sockets) L-6 Presentation(SSL,SSH,FTP vb..) L-7 Application(HTTP, FTP, IRC, DNS[SSH])
 Bu makalelerde de güzel anlatılmış.
 https://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/07/osi-katmanlar%C4%B1 - 
 https://medium.com/bili%C5%9Fim-hareketi/osi-modeli-ve-7-katman-7c3bb467798c#:~:text=OSI%20modeli%20(Open%20System%20Interconnection,International%20Organization%20for%20Standardization)%20geli%C5%9Ftirmi%C5%9Ftir.
@@ -105,9 +127,17 @@ Burda da güzel bir makale var -> https://www.ugureskici.com/notlarim-makaleleri
 Ağınızda olan bir network ile çalışan cihazlara otomatik IP ataması ve DNS ataması yapar. Ağa misafir biri geldiğinde ona otomatik olarak 8 günlüğüne yetki verir. Default olarak 8 gündür fakat bu süre artırıp azaltılabilir.
 
 ### NAT
-https://medium.com/@gokhansengun/nat-network-address-translation-nedir-ve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-a2c8b6291de8 Burda resimli bir şekilde güzelce anlatılmış.
 
-Dur kardeşim geçme, şu kaynaklara da bak:
+Kısaca cihazlar internete bağlanmak için public IP adresine ihtiyaç duyarlar fakat Public IP adresleri sayıyla sınırlıdır(3.3 Milyar IPv4 IP Adresi) Günümüzde telefonlarımızdan tutun yiyeceklerimizi saklayan buzdolaplarının bazıları bile internete erişebilirken bu sayı gerçekten de çok az. Bu yüzden hizmet sağlayıcılar bir aboneye tek bir Public IP adresi atarlar. Bu yüzden tek bir cihaz yerine bir çok cihaz aynı Public IP adresini kullanabilmesi için NAT kullanılır iç ağda(LAN) her cihaza yeni bir IP verilir fakat bu durum sadece iç ağda geçerlidir. WAN(Wide Area Network) de ise tek bir Public IP kullanılır.
+<br>
+
+Bu kaynaklarda da güzel anlatılmış;
+<br>
+
+- https://turk.net/blog/internet-hizi/nat-nedir/
+- https://medium.com/@gokhansengun/nat-network-address-translation-nedir-ve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-a2c8b6291de8
+
+### Dur kardeşim geçme, şu kaynaklara da bak:
 - --> https://www.firatboyan.com/ip-ve-subnetting-kavrami.aspx 
 - --> http://yusufgokkaya.com/en/active-directory-nedir/
 - --> https://volkandemirci.org/2020/05/04/privileged-access-workstations-kurulumu-ve-yapilandirilmasi-1/
