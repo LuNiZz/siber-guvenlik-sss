@@ -347,6 +347,7 @@
   - [AWS solution architecht video (turkce sub)](https://www.youtube.com/watch?v=Ia-UEYYR44s)
   - [AWS solution architect series](https://www.youtube.com/playlist?list=PLeJgtCMvQjZd0kuK82-Et9IYcp6EiOeYa)
   - [Awesome Cloud Security Resources](https://github.com/4ndersonLin/awesome-cloud-security)
+  - [Official AWS Security Workshops](https://workshops.aws/card/security)
   - [Official AWS Security Blog](https://aws.amazon.com/blogs/security/)
   - [Official AWS YouTube Channel](https://www.youtube.com/channel/UCd6MoB9NC6uYN2grvUNT-Zg)
   - [Resmi AWS Güvenliği Öğrenme Kaynakları](https://aws.amazon.com/tr/security/security-learning/?whitepapers-main.sort-by=item.additionalFields.sortDate&whitepapers-main.sort-order=desc&awsf.whitepapers-content-type=*all)
@@ -386,6 +387,7 @@
   - [Ayrıca çok başarılı bir AZURE kanalı](https://www.youtube.com/watch?v=_x1V2ny8FWM&list=PLlVtbbG169nETlTE5AsN-AZZllMzll5Sk)
   - [Azure İçin Başlangıç Eğitimi](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 	Bu modül ile başlarsanız, hem AZ900 sertifikasını alabilirsiniz, hemde olayı iyi anlarsınız. Belge tamamen yazılı olduğu için translate ile türkçe olarak çalışabilirsiniz.
+  - [Microsoft'un Learning Kaynakları (Azure ve daha fazlası)](https://github.com/MicrosoftLearning)
   - [AZURE'nin Bulut Bilişim Hakkında Türkçe Kaynağı](https://azure.microsoft.com/tr-tr/overview/what-is-cloud-computing/)
   - [Azure Sertifikalarına Çalışmak İçin Kaynaklar](https://github.com/johnthebrit/CertificationMaterials)
   - [Bulut Bilişim Hakkında Başka Bir E-Kitap (Biraz eski ama açıklayıcı bir kitap)](https://yukselis.files.wordpress.com/2012/01/bulutbilic59fimelkitabc4b1.pdf)
