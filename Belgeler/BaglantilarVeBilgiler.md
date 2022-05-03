@@ -688,11 +688,10 @@
 
 * İngilizce
   - [GoalKicker](https://goalkicker.com/)
-  - [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B00AZRBLHO)
+  - [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8)
   - [The Unicorn Project](https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
   - [The Goal](https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
   - [Web Hacking 101](https://dlscrib.com/download/web-hacking-101_58c08143e12e890320add376_pdf)
-  - [Web Application Hackers Handbook](http://thehiddenwiki.pw/files/hacking/the-web-application-hackers-handbook.pdf)
 
 * Türkçe
   - [Çok iyi bir Türkçe Kaynak](https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125)
