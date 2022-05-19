@@ -503,6 +503,7 @@
   - [Penetration test web sitesi](https://www.tutorialspoint.com/penetration_testing/index.htm)
   - [Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir web sitesi](https://www.hackerrank.com)
   - [Pwnable](http://pwnable.kr/)
+  - [React JS Interview Questions](https://cdn.discordapp.com/attachments/605130756729077762/976848791024054352/1652254459637.pdf)
   - [Ücretli ve ücretsiz eğitimlerin bulunduğu bir web sitesi](https://www.cybrary.it/)
   - [Web Application Pentest ile ilgileniyorsanız, BurpSuite'in yapımcılarının eğitim sayfası](https://portswigger.net/)
   - [Web for Pentester tarzı bir site](https://pentesterlab.com)
