@@ -421,7 +421,9 @@
   - [Python](https://www.pythoncheatsheet.org)
   - [SQL Injection](https://portswigger.net/web-security/sql-injection/cheat-sheet)
   - [XSS](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet.pdf)
-  - [Vim](https://linuxacademy.com/site-content/uploads/2019/05/vim-1.png)
+  - [Vim](https://vim.rtorr.com/)
+  - [C++](https://github.com/mortennobel/cpp-cheatsheet)
+  - [Bash](https://github.com/LeCoupa/awesome-cheatsheets/blob/master/languages/bash.sh)
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
