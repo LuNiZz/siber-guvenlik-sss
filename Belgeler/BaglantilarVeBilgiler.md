@@ -484,6 +484,7 @@
   - [JavaScript Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPj2KD1CTuBa_xjK8zjRS9jX)
   - [Python Dersleri](https://www.youtube.com/playlist?list=PLWctyKyPphPiul3WbHkniANLqSheBVP3O)
   - [Shell Scripting](https://www.youtube.com/playlist?list=PLWctyKyPphPhGEQzwiY-gDpDQQlYULQa7)
+  - [Tübitak Deneyap Atölyesi Kitapçıkları](https://yayinlar.tubitak.gov.tr/deneyap-atolyesi)
   - [Yeni Başlayanlar için GO Programlama Dili](https://www.youtube.com/watch?v=qJqx7dxWW8I&list=PL-Hkw4CrSVq96dPr33xTdBjSgn9wKLHPa)  
 
 
