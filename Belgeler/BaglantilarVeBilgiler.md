@@ -262,6 +262,15 @@
 		</p>
 </details>
 
+
+<details> 
+	<summary><strong>Basit Mesajlaşma Uygulaması</strong></summary>
+		<p>
+
+- Hedef: SocketIO ve nodejs kullanarak gerçek zamanlı bir mesajlaşma uygulaması yapmak.
+		</p>
+</details>
+
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
