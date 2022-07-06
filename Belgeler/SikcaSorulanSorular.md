@@ -41,7 +41,7 @@
 
 ---
 
-## ([▲](#top)) Nereden başlamalıyım? <a name="question1"></a>
+## ([▲](#top)) Siber Guvenlik Ogrenmeye Nereden başlamalıyım? <a name="question1"></a>
 İşte tam bununla ilgili [bir yayın](https://www.twitch.tv/videos/634645006) yaptık biz. Ama şu anda bulunduğun site, yukarıdaki linkler, aşağıdaki metinler zaten nasıl ilerleyeceğini sana anlatmak için var. 
 
 Unutmadan en temel eğitim playlist'i olarak, CyberMentor'un ücretsiz [şu YouTube videolarını](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) sömür ;)
@@ -96,7 +96,7 @@ Bir göz at derim... paha biçilemez tavsiyeler ile süslü...
 
 
 
-## ([▲](#top)) Programlama geçmişim var, hangi CyberSecurity dalını seçmeliyim? <a name="question7"></a>
+## ([▲](#top)) Programlama geçmişim var, hangi Siber Guvenlik dalını seçmeliyim? <a name="question7"></a>
 En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, Application Pentester'lık veya Security Researcher'lık olacaktır. Hem hızlıca para kazanmanı da sağlar. BugCrowd ve Hackerone'ın eğitim sitelerine girip, bu firmaların bug bounty programlarına kayıt olarak para kazanmaya başlayabilirsin.
 
 Tüm siber güvenlik dallarını [burada](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/SiberGuvenlik.md#top) inceledim, bir bak...
@@ -151,7 +151,7 @@ Bir de şurası var : [Kontra'nın eğitim sitesi](https://application.security/
 
 
 
-## ([▲](#top)) Üniversite okumalı mıyım? <a name="question12"></a>
+## ([▲](#top)) Siber Guvenlik icin Üniversite okumalı mıyım? <a name="question12"></a>
 Şahsen ben kendi yaşadıklarımdan üniversitenin gerekli olduğu sonucuna ulaştım. O nedenle bir 4 yıllık okul önemli. Mühendislik olursa iyi olur ama olmazsa da çok dert değil. Önemli olan sizin yarattığınız fark ve değer. Üniversitesiz de bu işi yapanlar var tabii ama çok zor, çok uğraştırır... Bak [şurada](https://www.youtube.com/watch?v=eguWGnlJN-Q) açıklamışım, izle bi'.
 <p>&nbsp;</p>
 
@@ -257,7 +257,7 @@ ayrica youtube da da bununla ilgili güzel bir playlist buldum : https://www.you
 
 
 
-## ([▲](#top)) Abi pentesting hadisesine ilgi duyuyorum da bir şeyleri kırmadan dökmeden nasıl kendimi test edebilirim? <a name="question24"></a>
+## ([▲](#top)) Abi sizma testi hadisesine ilgi duyuyorum da bir şeyleri kırmadan dökmeden nasıl kendimi test edebilirim? <a name="question24"></a>
 - *Kali Linux* indirdin mi? süper! O zaman [şuraya](https://www.hackthebox.eu/) gidiyorsun.
 - Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin.
 https://medium.com/@sonusaikishan/hackthebox-how-to-get-the-invite-code-and-enter-into-hackthebox-eu-fb4f3f24dc6c \
