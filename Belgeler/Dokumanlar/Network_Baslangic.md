@@ -137,7 +137,7 @@ Bu kaynaklarda da güzel anlatılmış;
 - https://turk.net/blog/internet-hizi/nat-nedir/
 - https://medium.com/@gokhansengun/nat-network-address-translation-nedir-ve-nas%C4%B1l-%C3%A7al%C4%B1%C5%9F%C4%B1r-a2c8b6291de8
 
-### Dur kardeşim geçme, şu kaynaklara da bak:
+## Dur kardeşim geçme, şu kaynaklara da bak:
 - --> https://www.firatboyan.com/ip-ve-subnetting-kavrami.aspx 
 - --> http://yusufgokkaya.com/en/active-directory-nedir/
 - --> https://volkandemirci.org/2020/05/04/privileged-access-workstations-kurulumu-ve-yapilandirilmasi-1/
@@ -147,6 +147,12 @@ Bu kaynaklarda da güzel anlatılmış;
 - -->https://youtu.be/BS9bDl6fh5c
 - -->https://www.geeksforgeeks.org/socket-programming-python/
 - -->https://bilisimokulu.net/yazili-ders-notu/ag-temelleri-7bolum-kablo-cesitleri.html
+
+### Burda IBM in yararlı olabileceğini düşündüğüm oynatma listeleri var.
+
+- -->https://youtube.com/playlist?list=PLOspHqNVtKAA_5N3pI49wkH4WsTkeZ_iQ
+- --->https://youtube.com/playlist?list=PLOspHqNVtKAC-_ZAGresP-i0okHe5FjcJ
+- -->https://youtube.com/playlist?list=PLOspHqNVtKABPTyvxoNW0e4XSgCNdZ40F
 
 
 
