@@ -62,7 +62,7 @@
   - :tv: [10 minute tips](https://osintcurio.us/10-minute-tips/) by Osintcurious
   - :globe_with_meridians: [Crypto weekly](https://us14.campaign-archive.com/home/?u=c435f53a5568f7951404c8a38&id=7f8ca9c380) by Bellingcat
   - :globe_with_meridians: [How To Guides](https://www.bellingcat.com/category/resources/how-tos/) by Bellingcat
-  - :globe_with_meridians: [OSINT weekly](https://medium.com/week-in-osint) by Sector035
+  - :globe_with_meridians: [OSINT weekly](https://sector035.nl/articles/category:week-in-osint) by Sector035
 
 * ### Programming
   - :mortar_board: [codecademy.com](https://www.codecademy.com/catalog/subject/all) - Freemium interactive courses
