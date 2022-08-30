@@ -348,7 +348,7 @@
 <h1 align="center">Bazı bulut kaynakları</h1>
 
 * ### [Birçok bulut guvenlik kaynağının bulunduğu site <<<](https://github.com/4ndersonLin/awesome-cloud-security)
-* ### [LuNiZz-Can Deger'in AWS Guvenlik Ozet Dokumani](https://github.com/LuNiZz/awssec)
+* ### [LuNiZz-Can Deger'in AWS Güvenlik Uzmanlığı Çalışma Kılavuzu](https://github.com/LuNiZz/awssec)
 
 * ### AWS
   - [AWS Security Blog](https://rhinosecuritylabs.com/blog/?category=aws)
