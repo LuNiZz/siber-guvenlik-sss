@@ -4,7 +4,7 @@
 <h1 align="center">Siber Güvenlik</h1>
 
 # Siber Güvenlik Dalları ve Sertifikaları   
-<img src="https://i.ibb.co/3M2Tp0c/seccerts.png" alt="seccerts" border="0">
+<img src="https://ibb.co/74CsDXr" alt="seccerts" border="0">
 * Yukarıda günümüzde yaygın olarak yer alan siber güvenlik dallarını ve bu dallarda etkin kullanılan sertifikaları görebilirsiniz.  
   
 > ## Güvenlik Yönetimi
