@@ -147,6 +147,7 @@ Bu kaynaklarda da güzel anlatılmış;
 - -->https://youtu.be/BS9bDl6fh5c
 - -->https://www.geeksforgeeks.org/socket-programming-python/
 - -->https://bilisimokulu.net/yazili-ders-notu/ag-temelleri-7bolum-kablo-cesitleri.html
+- -->https://www.netacad.com/courses/networking/networking-essentials
 
 ### Burda IBM in yararlı olabileceğini düşündüğüm oynatma listeleri var.
 
