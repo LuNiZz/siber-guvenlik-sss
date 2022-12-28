@@ -92,6 +92,7 @@
 * ### YouTube channels
   - :tv: [Art of The Problem](https://www.youtube.com/user/ArtOfTheProblem)
   - :tv: [Crash Course](https://www.youtube.com/user/crashcourse)
+  - :tv: [ByteByteGo (Large-scale System Design)](https://www.youtube.com/@ByteByteGo)
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
