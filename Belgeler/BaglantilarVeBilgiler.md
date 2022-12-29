@@ -70,6 +70,7 @@
   - :globe_with_meridians: [learnxinyminutes.com](https://learnxinyminutes.com) - Quick overview of all languages in cheatsheet style
 
 * ### Python
+  - :globe_with_meridians: [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) - CS50 Python 2022
   - :book: *Learn Python the hard way* by Zed Shaw
   - :globe_with_meridians: [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) - A step by step guide
   - :tv: [Corey Schafer](https://www.youtube.com/playlist?list=PL-osiE80TeTt2d9bfVyTiXJA-UTHn6WwU)'s Python playlist
@@ -517,6 +518,7 @@
   - [Penetration Test](https://www.tutorialspoint.com/penetration_testing/index.htm)
   - [Penetration test web sitesi](https://www.tutorialspoint.com/penetration_testing/index.htm)
   - [Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir web sitesi](https://www.hackerrank.com)
+  - [Harvard Üniversitesi Python ile programlamaya giriş kursu 2022](https://cs50.harvard.edu/python/2022/) - CS50 Python 2022  
   - [Pwnable](http://pwnable.kr/)
   - [React JS Interview Questions](https://cdn.discordapp.com/attachments/605130756729077762/976848791024054352/1652254459637.pdf)
   - [Ücretli ve ücretsiz eğitimlerin bulunduğu bir web sitesi](https://www.cybrary.it/)
@@ -649,6 +651,7 @@
 
 * ### Where to start learning Python?
 	(Python öğrenmeye nereden başlanır?)
+  - [CS50’s Introduction to Programming with Python](https://cs50.harvard.edu/python/2022/) - CS50 Python 2022
   - [Codecademy](https://www.codecademy.com)
   - [Cybrary - Python Security Professionals Archive](https://app.cybrary.it/browse/course/python-security-professionals-archive)
 
