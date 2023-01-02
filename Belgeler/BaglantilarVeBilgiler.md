@@ -85,7 +85,7 @@
 
 * ### Web Security
   - :book: The Web Application Hacker's Handbook
-  - :tv: [Bug bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
+  - :tv: [bounty hunter's methodology](https://www.youtube.com/watch?v=Qw1nNPiH_Go)
   - :mortar_board: [Bugcrowd University](https://github.com/bugcrowd/bugcrowd_university) by Bugcrowd
   - :mortar_board: [Web Security Academy](https://portswigger.net/web-security) by Portswigger
   - :mortar_board: [Web Security Course](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-) by Stanford University
@@ -334,6 +334,7 @@
   - [Hackerone sıralanmış raporlar](https://github.com/reddelexc/hackerone-reports)
   - [PortSwigger in Akademisi](https://portswigger.net/web-security)
   - BC University'nin [Youtube playlisti](https://www.youtube.com/watch?v=OVr7pnwJ2m8&list=PLIK9nm3mu-S4K4jMHwtplbrE1JMg0jyN-) var, Böylelikle yukarıdaki dokümanları video halinde izleyebilirsin.
+  - [Bug Bounty Resourcces](https://bugbountyforum.com/resources/?utm_source=website&utm_medium=forum&utm_content=education&utm_campaign=resourcekits)
   
   İlk kazandığın paradan bizi de görürsün sevgili kardeşim.. ;)  
   
@@ -470,6 +471,8 @@
   - [Web Güvenliği](https://www.btkakademi.gov.tr/portal/course/web-uygulama-guvenligi-10587#!/about)
   - [Web uygulama güvenliği 101 pdf BGA](https://dl.packetstormsecurity.net/papers/web/webappsec-101.pdf)
   - [Web uygulama güvenliği TUBITAK](https://afyonluoglu.org/PublicWebFiles/cyber/egitim/sgep/SGEP-UYG303.pdf)
+  - [Linux Journey](https://linuxjourney.com/)
+  - [Windows ve Linux Privilege Escalation](https://www.exploit-db.com/docs/turkish/42757-%5Bturkish%5D-windows-and-linux-privilege-escalation.pdf)
   - Web uygulama güvenliği eğitimleri :             
     https://www.youtube.com/watch?v=WqY4oUPiPw0              
     https://www.youtube.com/watch?v=cyLRG0J2-jY                
