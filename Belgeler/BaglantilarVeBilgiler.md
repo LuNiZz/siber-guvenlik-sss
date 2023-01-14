@@ -499,7 +499,7 @@
     -   [Awesome WEB SECURITY](https://github.com/qazbnm456/awesome-wb-security#readme)
   - [2000'den fazla hacking pdfleri](https://github.com/iamrajivd/pentest)
   - [Applicaion Sec. Web sitesi](https://application.security/free-application-security-training)
-  - [CS50'nin oyun gelistirme kursu] (https://youtu.be/GfwpRU0cT10)
+  - [Cs50 oyun gelistirme kursu](https://youtu.be/GfwpRU0cT10)
   - [Arkadaşınla yarışarak kendinizi geliştirin](http://www.gameofhacks.com/)
   - [Baştan İşletim Sistemi Yazmak](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
   - [Belli algoritmaları kurarak, verilen matematik problemini çözmeniz istenen bir web sitesi](https://projecteuler.net)
