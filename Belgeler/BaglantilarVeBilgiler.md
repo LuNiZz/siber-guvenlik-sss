@@ -719,6 +719,7 @@
 * Türkçe
   - [Çok iyi bir Türkçe Kaynak](https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125)
   - [Herkes için Siber Güvenlik](https://berqnet.com/uploads/herkesicin_siberguvenlik.pdf)
+  - [Siber Güvenlik Saldırı ve Savunma Stratejileri](https://www.akakce.com/bilgisayar-kitaplari/en-ucuz-siber-guvenlik-saldiri-ve-savunma-stratejileri-fiyati,732880898.html)
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
