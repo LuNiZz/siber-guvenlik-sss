@@ -738,9 +738,9 @@
   - [Ethical Hacking](https://www.pluralsight.com/courses/ethical-hacking-understanding)
   - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch)
   - [Learn Website Hacking Penetration Testing](https://www.udemy.com/course/learn-website-hacking-penetration-testing-from-scratch)
-  - [Linux Privillege Escalation for Beginners](https://www.udemy.com/course/linux-privilege-escalation-for-beginners)
-  - [Practical Ethical Hacking](https://www.udemy.com/course/practical-ethical-hacking)
-  - [Windows Privillege Escalation for Beginners](https://www.udemy.com/course/windows-privilege-escalation-for-beginners)
+  - [Linux Privillege Escalation for Beginners](https://academy.tcm-sec.com/p/linux-privilege-escalation)
+  - [Practical Ethical Hacking](https://academy.tcm-sec.com/p/practical-ethical-hacking-the-complete-course)
+  - [Windows Privillege Escalation for Beginners](https://academy.tcm-sec.com/p/windows-privilege-escalation-for-beginners)
 
 * Türkçe
   - [Sıfırdan ileri Seviye'ye Python](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye)
