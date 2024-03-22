@@ -1,3 +1,5 @@
+### [SSS GERI DON](https://sss.lunizz.com)
+
 Yazılıma yeni başlamak heyecan verici bir yolculuk olabilir. Bu süreçte aklınıza birçok soru gelebilir. Bu metinde, yeni başlayanların aklına gelebilecek en popüler 20 soruyu ve cevaplarını bulabilirsiniz. Ayrıca, unutmadan, benim asil meslegim degil yazilim, o sebeple yanlis gordugunuz bilgi varsa PR atip duzeltebilirsiniz.!
 
 ### 1. Yazılım nedir?
@@ -130,3 +132,5 @@ Kod yazarken bir takım önlemler koyarak hataları azaltabiliriz. Bir hatayı g
 - Udemy: Programlamadan tasarıma birçok konuda uygun fiyatlı online kurslar (https://www.udemy.com/).
 - Coursera: Dünyanın en iyi üniversiteleri ile işbirliği içinde hazırlanan programlama kurslarına ulaşmanızı sağlar(https://www.coursera.org/).
 - Stack Overflow: Programcıların soru sorup cevapladığı harika bir topluluk (https://stackoverflow.com/).
+
+### [SSS GERI DON](https://sss.lunizz.com)
