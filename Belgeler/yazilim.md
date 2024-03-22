@@ -132,5 +132,6 @@ Kod yazarken bir takım önlemler koyarak hataları azaltabiliriz. Bir hatayı g
 - Udemy: Programlamadan tasarıma birçok konuda uygun fiyatlı online kurslar (https://www.udemy.com/).
 - Coursera: Dünyanın en iyi üniversiteleri ile işbirliği içinde hazırlanan programlama kurslarına ulaşmanızı sağlar(https://www.coursera.org/).
 - Stack Overflow: Programcıların soru sorup cevapladığı harika bir topluluk (https://stackoverflow.com/).
+- SSS ICINDEKI TURKCE VE INGILIZCE KAYNAKLAR (https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/BaglantilarVeBilgiler.md#yazilim)
 
 ### [SSS GERI DON](https://sss.lunizz.com)
