@@ -1,14 +1,7 @@
 <!--Satırların sonundaki "\" işareti bir alt satıra geçirmek için kullanılıyor. Kullanmazsanız linkler birbirine girebilir. -->
 ## LuNiZz Sıkça Sorulan Sorular Sayfasına Hoş Geldin!
-> ### Başlamadan Önce
-> [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=LuNiZz.siber-guvenlik-sss)](#)
->
-> - Twitch Yayın Akışı : [![Twitch](https://img.shields.io/twitch/status/lunizz)](https://twitch.com/lunizz)  
-> - Tüm geçmiş yayınlar [LuNiZz Twitch kanalı](https://www.twitch.tv/lunizz/videos)'nda!
-> (Buradaki yayın geçmişleri ve tüm yayınlar bedava dostlar.)
-> <br>
->
-> ### Topluluk ve Sosyal Medya Hesapları >>> https://www.lunizz.com       
+
+### Topluluk ve Sosyal Medya Hesapları >>> https://www.lunizz.com       
 
 
 Selamlar, burayı bulduğuna göre siber güvenliğe ve alt dallarına merakın var demektir. O zaman hoş geldin. Bizler, genel olarak siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, iyi ve doğru bir başlangıç yapmalarına yardımcı olarak, onları doğru yerlere yönlendirmeyi hedefleyen bir topluluğuz. Bana ve arkadaşlarıma yukarıda gördüğün adreslerden kolaylıkla ulaşabilirsin. 
