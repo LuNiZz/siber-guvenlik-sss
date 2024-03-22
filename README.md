@@ -38,6 +38,7 @@ Aramıza hoş geldin ve görüşürüz!
   - [<img width="18" src="https://i.ibb.co/nrNdyb7/proje.png" alt="proje" border="0"> Bazı Proje Fikirleri](/Belgeler/BaglantilarVeBilgiler.md#baziprojefikirleri)
   - [<img width="18" src="https://i.ibb.co/HGBjbmL/cheat-sheetler.png" alt="cheat-sheetler" border="0"> Cheat Sheet'ler](/Belgeler/BaglantilarVeBilgiler.md#cheatsheetler)  
   - [<img width="18" src="https://i.ibb.co/10rz1Xh/cesitli-kaynaklar.png" alt="cesitli-kaynaklar" border="0"> Çeşitli Kaynaklar](/Belgeler/BaglantilarVeBilgiler.md#cesitlikaynaklar)  
+  - [<img width="18" src="https://i.ibb.co/QJTzGG0/python.png" alt="python" border="0"> Python3 Başlangıç Rehberi](/Belgeler/BaglantilarVeBilgiler.md#python3_baslangic_rehberi)
   - [<img width="18" src="https://i.ibb.co/1vHF0tz/filmler.png" alt="filmler" border="0"> Filmler](/Belgeler/BaglantilarVeBilgiler.md#filmler)  
   - [<img width="18" src="https://i.ibb.co/BwKsLb1/yabanci-dil.png" alt="yabanci-dil" border="0"> İngilizce Genel Kaynaklar Listesi](/Belgeler/BaglantilarVeBilgiler.md#ingilizcegenelkaynaklar)  
   - [<img width="18" src="https://i.ibb.co/PgG7wMH/kitaplar.png" alt="kitaplar" border="0"> Kitaplar](/Belgeler/BaglantilarVeBilgiler.md#kitaplar)  

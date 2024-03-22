@@ -544,6 +544,84 @@
 
 
 
+<a name="python3_baslangic_rehberi"></a>          
+
+---
+<h1 align="center">Python3 Başlangıç Rehberi</h1>
+
+Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
+
+## Yazılı Kaynaklar
+
+### İngilizce
+1. [python.org](https://www.python.org/doc/) - Resmi Python dokümantasyonu.
+2. [CS50 Python Giriş](https://cs50.harvard.edu/python/2022/) - Harvard Üniversitesi'nden temel Python dersleri.
+3. [Real Python](https://realpython.com/) - Python üzerine makaleler, projeler ve eğitimler içeren bir kaynak.
+4. [w3schools Python](https://www.w3schools.com/python/) - Python için interaktif öğreticiler ve referans materyalleri.
+5. [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730) - Mark Lutz tarafından kaleme alınan kapsamlı bir Python öğrenme kitabı.
+6. [Learn Python 3 the Hard Way](https://www.amazon.com/Learn-Python-Hard-Way-Introduction/dp/0134692888) - Zed A. Shaw tarafından yazılan, pratik ağırlıklı bir Python öğrenme kaynağı.
+7. [Black Hat Python](https://nostarch.com/blackhatpython) - Justin Seitz tarafından kaleme alınan, Python'u siber güvenlik alanında kullanmayı öğreten bir kitap.
+8. [Beginning Ethical Hacking with Python](https://www.amazon.com/Beginning-Ethical-Hacking-Python-Sanjib/dp/1484225406) - Sanjib Sinha tarafından yazılan, Python kullanarak etik hacking temellerini öğreten bir kitap.
+
+### Türkçe
+1. [YazBel Python](https://python-istihza.yazbel.com/) - Python'un temellerinden ileri seviyeye kadar detaylı bir Türkçe kaynak.
+2. [KodLab Python](https://www.kodlab.com/programlama/69-python-3-9786052118061.html) - Python3'e giriş seviyesinden başlayarak ileri seviyeye kadar adım adım anlatan bir kitap.
+
+## Video Kaynaklar
+
+### İngilizce
+1. [NeuralNine](https://youtube.com/@NeuralNine) - Python ve yapay zeka üzerine video içerikler sunan bir YouTube kanalı.
+2. [Tech With Tim](https://youtube.com/@TechWithTim) - Python programlaması ve yapay zeka üzerine eğitici içerikler sunan bir YouTube kanalı.
+3. [mCoding](https://youtube.com/@mCoding) - Python ve diğer programlama dilleri üzerine video içerikler sunan bir YouTube kanalı.
+4. [Complete Python 3 Ethical Hacking](https://www.udemy.com/course/python3course/) - Python kullanarak etik hack tekniklerini öğreten bir Udemy kursu.
+
+### Türkçe
+1. [Murat Coşkun - Python | Sıfırdan İleri Seviye Programlama](https://www.udemy.com/course/sifirdan-ileri-seviyeye-python/) - Python'u başlangıçtan ileri seviyeye kadar öğreten bir Udemy kursu.
+2. [Python 2024 : 100 Günlük Programlama Kampı](https://www.udemy.com/course/python-100-gunluk-yazilim-kampi/) - 100 günlük bir programlama kampı formatında Python öğreten bir Udemy kursu.
+
+## Öğrenilmesi Önerilen Kütüphaneler ve Araçlar
+
+### Web Geliştirme
+- Flask: Hafif ve esnek bir web uygulama çatısı.
+- Django: Tam teşekküllü bir web uygulama çatısı.
+- BeautifulSoup: Web scraping için kullanılan bir kütüphane.
+- Requests ve Urlib: HTTP istekleri yapmak için kullanılan kütüphaneler.
+- Selenium: Web otomasyonu için kullanılan bir kütüphane.
+
+### Düşük Seviye Ağ ve İşlem
+- socket: Ağ iletişimi için kullanılan standart Python kütüphanesi.
+- curses: Terminal tabanlı arayüzler oluşturmak için kullanılan bir kütüphane.
+- Cython: Python'u C ile entegre etmek için kullanılan bir araç.
+- struct: Byte dizilerini işlemek için kullanılan bir kütüphane.
+
+### Yapay Zeka ve Makine Öğrenmesi
+- PyTorch, TensorFlow, Keras: Derin öğrenme ve makine öğrenmesi için popüler kütüphaneler.
+- Scikit-learn: Makine öğrenmesi algoritmaları için kullanılan bir kütüphane.
+
+### Veri Analizi ve Görselleştirme
+- NumPy: Diziler ve matematik işlemleri için temel kütüphane.
+- Pandas: Veri analizi ve manipülasyonu için kullanılan bir kütüphane.
+- Matplotlib: Veri görselleştirmesi için kullanılan bir kütüphane.
+
+### Oyun Geliştirme
+- PyGame: Oyun geliştirmek için kullanılan bir kütüphane.
+- Turtle: Grafiksel programlama öğrenmek için kullanılan bir kütüphane.
+
+### Grafik Kullanıcı Arayüzü (GUI) Geliştirme
+- PyQt, Tkinter, Kivy: Python ile GUI uygulamaları geliştirmek için kullanılan kütüphaneler.
+- Pygame: Hem oyun geliştirme hem de GUI geliştirme için kullanılabilen bir kütüphane.
+
+### Görüntü İşleme
+- OpenCV: Görüntü işleme ve bilgisayar görüşü için kullanılan bir kütüphane.
+- Pillow: Python Imaging Library (PIL) alternatifi olarak görüntü işleme için kullanılan bir kütüphane.
+
+---
+<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+
+
+
+
+
 <a name="filmler"></a>
 
 ---

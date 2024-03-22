@@ -199,7 +199,7 @@ Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Sc
 - https://www.mobilhanem.com/python-egitimi/ <<< okuyup ogrenicem diyen insan icin
 
 hatta BTK akademi de bile var piton dersleri.
-Tabi ki daha fazlasını google'layarak bulabilirsiniz.
+Tabi ki daha fazlasını google'layarak bulabilirsiniz ya da <a href='BaglantilarVeBilgiler.md#python3_baslangic_rehberi'>buradan :))</a>.
 <p>&nbsp;</p>
 
 
