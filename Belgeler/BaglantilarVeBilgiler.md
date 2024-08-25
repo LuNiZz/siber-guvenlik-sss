@@ -30,7 +30,6 @@
   - :book: [The Joy of Cryptography](https://web.engr.oregonstate.edu/~rosulekm/crypto)
 
 * ### CTF
-  - :globe_with_meridians: [Cyber Detective CTF](https://ctf.cybersoc.wales/) by Cardiff University
   - :globe_with_meridians: [Hacker101 CTF](https://ctf.hacker101.com/) by Hackerone
   - :globe_with_meridians: [OSINT quiz](https://twitter.com/Sector035/status/1211038518635614208) by Sector035
 
@@ -81,7 +80,7 @@
   - :book: [Reverse engineering for beginners](https://beginners.re/)
 
 * ### Ruby
-  - :globe_with_meridians: [The Odin Project](https://www.theodinproject.com/courses/ruby-programming) - A step by step guide with a lot of projects.
+  - :globe_with_meridians: [The Odin Project](https://www.theodinproject.com/paths/full-stack-ruby-on-rails/courses/ruby) - A step by step guide with a lot of projects.
 
 * ### Web Security
   - :book: The Web Application Hacker's Handbook
@@ -351,7 +350,6 @@
 <h1 align="center">Bazı bulut kaynakları</h1>
 
 * ### [Birçok bulut guvenlik kaynağının bulunduğu site <<<](https://github.com/4ndersonLin/awesome-cloud-security)
-* ### [LuNiZz-Can Deger'in AWS Güvenlik Uzmanlığı Çalışma Kılavuzu](https://github.com/LuNiZz/awssec)
 
 * ### AWS
   - [AWS Security Blog](https://rhinosecuritylabs.com/blog/?category=aws)
@@ -452,7 +450,6 @@
 
 * Türkçe
   - Bol goygoylu, TryHackMe'nin baslangıç odalarını yaptığım, [*"Hacking The TEMEL video serisi"*](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ) (videolari hızlıda seyret bence ;) )
-  - [ArkaKapı](https://read.arkakapimag.com/)
   - [Beyaz şapkalı Hacker Eğitim Notları](https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari)
   - BTK Akademi                   
     - [Siber güvenlik analisti](https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-analisti-egitimi-5020#!/about)
@@ -499,11 +496,10 @@
   - [AWESOME serisi](https://github.com/LuNiZz/awesome), tüm IT konularında internette bulabileceğiniz en büyük kaynaklardan biri <a name="awesome"></a>
     -   [Awesome HACKING](https://github.com/carpedm20/awesome-hacking#readme)
     -   [Awesome SECURITY](https://github.com/sbilly/awesome-security#readme)
-    -   [Awesome WEB SECURITY](https://github.com/qazbnm456/awesome-wb-security#readme)
+    -   [Awesome WEB SECURITY](https://github.com/qazbnm456/awesome-web-security)
   - [2000'den fazla hacking pdfleri](https://github.com/iamrajivd/pentest)
   - [Applicaion Sec. Web sitesi](https://application.security/free-application-security-training)
   - [Cs50 oyun gelistirme kursu](https://youtu.be/GfwpRU0cT10)
-  - [Arkadaşınla yarışarak kendinizi geliştirin](http://www.gameofhacks.com/)
   - [Baştan İşletim Sistemi Yazmak](https://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf)
   - [Belli algoritmaları kurarak, verilen matematik problemini çözmeniz istenen bir web sitesi](https://projecteuler.net)
   - [Birçok Farklı Alanda 1500 Ücretsiz Kurs](http://www.openculture.com/freeonlinecourses)
@@ -511,7 +507,6 @@
   - [Bug Bounty kapsamında bulduğunuz açıkları raporlayabileceğiniz bir   web sitesi](https://hackerone.com/)
   - [Bugcrowd Üniversitesinin Eğitimleri](https://www.bugcrowd.com/hackers/bugcrowd-university/)
   - [Bulut (Cloud) Güvenliği](https://stanislas.io/2019/04/25/preparation-guide-for-microsoft-az-500-microsoft-azure-security-technologies-certification)
-  - [CTF](https://captf.com/)
   - [Dünyanın birçok yerinde yapılan CTF'leri görebileceğiniz bir web sitesi](https://ctftime.org/)
   - [Guru99](https://www.guru99.com/)
   - [Kolaydan zora birçok CTF'in bulunduğu bir web sitesi](https://ctflearn.com/)
@@ -524,7 +519,6 @@
   - [Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir web sitesi](https://www.hackerrank.com)
   - [Harvard Üniversitesi Python ile programlamaya giriş kursu 2022](https://cs50.harvard.edu/python/2022/) - CS50 Python 2022  
   - [Pwnable](http://pwnable.kr/)
-  - [React JS Interview Questions](https://cdn.discordapp.com/attachments/605130756729077762/976848791024054352/1652254459637.pdf)
   - [Ücretli ve ücretsiz eğitimlerin bulunduğu bir web sitesi](https://www.cybrary.it/)
   - [Web Application Pentest ile ilgileniyorsanız, BurpSuite'in yapımcılarının eğitim sayfası](https://portswigger.net/)
   - [Web for Pentester tarzı bir site](https://pentesterlab.com)
@@ -790,9 +784,7 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 * İngilizce
   - [GoalKicker](https://goalkicker.com/)
   - [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8)
-  - [The Unicorn Project](https://www.amazon.co.uk/Unicorn-Project-Developers-Disruption-Thriving-ebook/dp/B07QT9QR41)
   - [The Goal](https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
-  - [Web Hacking 101](https://dlscrib.com/download/web-hacking-101_58c08143e12e890320add376_pdf)
 
 * Türkçe
   - [Çok iyi bir Türkçe Kaynak](https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125)
@@ -894,7 +886,6 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 - [Beginner Network Pentesting](https://github.com/hmaverickadams/Beginner-Network-Pentesting)
 - [Computer Network Tutorials](https://www.geeksforgeeks.org/computer-network-tutorials)
 - [Network Penetration Testing](https://www.youtube.com/watch?time_continue=19648&v=3Kq1MIfTWCE)
-- [Zero to Hero Pentesting](https://www.thecybermentor.com/zero-to-hero-pentesting)
 
 
 ---

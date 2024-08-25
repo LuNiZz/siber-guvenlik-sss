@@ -86,7 +86,7 @@ https://bidb.itu.edu.tr/seyir-defteri/blog/2013/09/07/osi-katmanlar%C4%B1 -
 https://medium.com/bili%C5%9Fim-hareketi/osi-modeli-ve-7-katman-7c3bb467798c#:~:text=OSI%20modeli%20(Open%20System%20Interconnection,International%20Organization%20for%20Standardization)%20geli%C5%9Ftirmi%C5%9Ftir.
 <br>
 ### Port
-Kısaca anlatmak gerekirse her uygulama belirli bir portdan sunulur. Bilgisayarda 65536 Port vardır, Burda bazı port numaraları listelenmiş göz aşinalığı olması iyi olur. https://www.f1teknoloji.com.tr/tcp-udp-port-listesi/ - https://tr.wikipedia.org/wiki/TCP_ve_UDP_ba%C4%9Flant%C4%B1_noktas%C4%B1_numaralar%C4%B1_listesi - https://www.sistemim.com/donan%C4%B1m-makaleleri/116-hangi-port-ne-ise-yarar
+Kısaca anlatmak gerekirse her uygulama belirli bir portdan sunulur. Bilgisayarda 65536 Port vardır, Burda bazı port numaraları listelenmiş göz aşinalığı olması iyi olur. https://tr.wikipedia.org/wiki/TCP_ve_UDP_ba%C4%9Flant%C4%B1_noktas%C4%B1_numaralar%C4%B1_listesi - https://www.sistemim.com/donan%C4%B1m-makaleleri/116-hangi-port-ne-ise-yarar
 
 Burda da güzel bir kaynak var -> https://forum.donanimhaber.com/bilgisayardaki-baglanti-portlari-ve-gorevleri--31333235
 <br>
