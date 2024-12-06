@@ -121,7 +121,7 @@ Kişisel güvenlik için İngilizce bir [checklist](https://github.com/Lissy93/p
 
 
 ## ([▲](#top)) Bu Linuxu nasıl öğrenicez? <a name="question10"></a>
-Linuxun komutlarını öğrenmek için açıyosun karşına [cmdchallenge](https://cmdchallenge.com/) sitesini yavaş yavaş öğrenmeye başlıyosun, orada çözümleri vs. var, takıldığın yerde de googledan yardım ala ala yolunu bulmaya başlarsın linuxta. Ayrıca tamamen sıfırsan [Linux ve Pentesting Başlangıç](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Linux_ve_Pentesting_Baslangic.md#top) dosyasına ve ayrıca [Linux Dersleri](https://linux-dersleri.github.io/) linkine bakabilirsin.
+Linux'un komutlarını öğrenmek için açıyosun karşına [cmdchallenge](https://cmdchallenge.com/) sitesini yavaş yavaş öğrenmeye başlıyosun, orada çözümleri vs. var, takıldığın yerde de googledan yardım ala ala yolunu bulmaya başlarsın linuxta. Ayrıca tamamen sıfırsan [Linux Dersleri](https://linux-dersleri.github.io/) linkine bakabilirsin.
 <p>&nbsp;</p>
 
 
@@ -188,7 +188,6 @@ Bu konuda birçok kaynak var aslında: *Python*, *JavaScript*, *C/C++*, *Bash Sc
 ## ([▲](#top)) Herşey çok iyi çok güzel de bu pitonu nasıl öğrenicez? <a name="question16"></a>
 İnternette birsürü Türkçe ve İngilizce şahane kaynaklar var. Türkçe kaynaklarla başlayalım:
 - [Yazbel](https://python-istihza.yazbel.com/) - _*Ücretsiz*_ bir başlangıç kaynağı.
-- [Python3 Baslangıç](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/Python3_Baslangic.md#top) - Topluluk tarafından hazırlanan Python3-Baslangic.md dosyası.
 - [Atıl Samancıoğlu](https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/) - _*Ücretli*_ bir eğitim, indirimlerde 30 tlye kadar düşüyor.
 ##### İngilizce Kaynaklar:
 - [freeCodeCamp YouTube](https://www.youtube.com/watch?v=rfscVS0vtbw) - _*Ücretsiz*_ bir başlangıç eğitimi
