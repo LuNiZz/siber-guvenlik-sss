@@ -263,7 +263,7 @@ ayrica youtube da da bununla ilgili güzel bir playlist buldum : https://www.you
 Ayrıca [TryHackMe](https://tryhackme.com) var mesela, buranın eğitim serisi çok iyi...
 Bir de şimdi HackTheBox pwnbox diye bir özellik getirdi, VIP'lerine hazır kurulmuş cloud tabanlı bir Parrot sürümü veriyor, direkt vpn'siz kullanabiliyorsun... Hiçbir şey kurmana gerek yok. Aynısının Kali versiyonunu da TryHackMe yapıyor...
 
-Ayrıca Türkçe içerik istiyorsan da [PriviaHub](https://priviahub.com) var. O da bayağı güzel.
+Ayrıca Türkçe içerik istiyorsan da [CyberExam](https://cyberexam.io) var. O da bayağı güzel.
 
 Ha bir de mesela *Parrot Linux*'u denemek falan istersen, [OnWorks](https://www.onworks.net/) var, direkt Cloud'dan bir şey kurmadan *Linux* çalışmanı sağlıyor. \
 Belki *Arch Linux* kullanmak isteyebilirsin, kurulumu ve kullanımı yeni kullanıcılar için zor olabilir ama pek çok kişinin de gözdesidir kendisi: https://wiki.archlinux.org/
