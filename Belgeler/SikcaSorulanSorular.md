@@ -257,11 +257,7 @@ ayrica youtube da da bununla ilgili güzel bir playlist buldum : https://www.you
 
 
 ## ([▲](#top)) Abi sizma testi hadisesine ilgi duyuyorum da bir şeyleri kırmadan dökmeden nasıl kendimi test edebilirim? <a name="question24"></a>
-- *Kali Linux* indirdin mi? süper! O zaman [şuraya](https://www.hackthebox.eu/) gidiyorsun.
-- Oraya join dediğinde invite kodu gir diyecek. İşte o kodu, o siteden kazıyarak çıkartman gerek. Ya da ben bu işlere hazır değilim diyorsan şu adreslerdeki örnekleri kullanarak kendine bir kod yaratabilirsin.
-https://medium.com/@sonusaikishan/hackthebox-how-to-get-the-invite-code-and-enter-into-hackthebox-eu-fb4f3f24dc6c \
-https://codeburst.io/hack-the-box-how-to-get-invite-code-56e369fc8dae \
-https://www.youtube.com/watch?v=uZtC_ZqwzTE \
+- *Kali Linux* indirdin mi? süper! O zaman [şuraya](https://app.hackthebox.com) gidiyorsun.
 - İçeriye girince de aktif bilgisayarlardan istediğin ile test yapmaya başlayabilirsin. 
 
 Ayrıca [TryHackMe](https://tryhackme.com) var mesela, buranın eğitim serisi çok iyi...
@@ -291,8 +287,7 @@ Wi-Fi kart adaptör arayanlar, son seferde de söylediğimiz gibi çip seti Goog
 
 
 ## ([▲](#top)) Kendime nasıl VPN kurabilirim? <a name="question27"></a>
-Bununla ilgili bir yayın yapmıştık, linki şurada: 
-https://www.twitch.tv/videos/639357674
+https://tailscale.com/kb/1103/exit-nodes
 <p>&nbsp;</p>
 
 
