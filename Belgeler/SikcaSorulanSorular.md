@@ -240,7 +240,7 @@ Türkçe kaynak olarak [bilgeis](https://bilgeis.net/tr) var, yine ücretsiz ola
 
 
 ## ([▲](#top)) Peki abi, ben LINUX u adam gibi sıfırdan öğrenmek istiyorum, sadece alet edevat degil, işletim sistemini bilmek istiyorum ne yapacağım? <a name="question22"></a>
-Şimdi sevgili kardeşim, bu sayfanın bir çok yerinde bulunanan siber güvenlik eğitim linklerinin içinde, temel linux eğitimleri var. Ancak sen dersen ki, bana sadece o kısım lazım... o zaman aşağıdaki ücretsiz siteye bir bak...
+Şimdi sevgili kardeşim, bu sayfanın bir çok yerinde bulunan siber güvenlik eğitim linklerinin içinde, temel linux eğitimleri var. Ancak sen dersen ki, bana sadece o kısım lazım... o zaman aşağıdaki ücretsiz siteye bir bak...
 https://bit.ly/3qoim07
 <p>&nbsp;</p>
 
