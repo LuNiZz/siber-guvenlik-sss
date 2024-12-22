@@ -39,6 +39,8 @@
 * ### Go
   - :globe_with_meridians: [gobyexample.com](https://gobyexample.com)
   - :globe_with_meridians: [Go Türkiye Eğitim Kampı](https://www.youtube.com/playlist?list=PLX2txCMVbkjyqrdV5TsJ5iW-bhVNeBMaq)
+  - :globe_with_meridians: [10 Saatte Temel Go Eğitimi](https://www.youtube.com/watch?v=AD2zUrhL6GI&t=27517s)
+  - :globe_with_meridians: [Go4Hackers Türkçe](https://www.youtube.com/playlist?list=PLwP4ObPL5GY_O3eEZPrBnCD8ejN17DYGq)
 
 * ### Graphics
   - :book: Photoshop for Dummies
