@@ -7,7 +7,6 @@
 
 * ### Android Security
   - :book: [Android Internals](http://newandroidbook.com/AIvI-M-RL1.pdf)
-  - :globe_with_meridians: [Android security series](https://manifestsecurity.com/android-application-security)
   - :globe_with_meridians: [Mobile Systems and Smartphone Security](https://mobisec.reyammer.io/slides)
 
 * ### Books
@@ -328,7 +327,6 @@
 
   - [Bug Bounty konusunda NAHAMSEC'in yayınladığı başlangıç ve gelişim rehberi..](https://github.com/LuNiZz/Resources-for-Beginner-Bug-Bounty-Hunters ) Süper kaynak  
   - [Bug Bounty'e yeni başlayanlar için Hackerone'ın hazırladığı CTF'ler ile desteklenmiş bir site](https://www.hacker101.com)
-  - [Bug Bounty](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting)
   - [Bug Hunting Methodology](https://medium.com/a-bugz-life/bug-hunting-methodology-from-an-average-bug-hunter-6eb7b5d41a6f)
   - [BugCrowd Univeristy](https://www.bugcrowd.com/hackers/bugcrowd-university)
   - [Hackerone kurucusu "nasıl başlamalıyız" sorusuna cevap veriyor](https://www.quora.com/Hackers-How-can-I-get-started-with-hacking/answer/Jobert-Abma)
@@ -786,7 +784,6 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 * İngilizce
   - [GoalKicker](https://goalkicker.com/)
   - [The Phoenix Project](https://www.amazon.co.uk/Phoenix-Project-DevOps-Helping-Business-ebook/dp/B078Y98RG8)
-  - [The Goal](https://www.amazon.co.uk/Goal-Process-Ongoing-Improvement-ebook/dp/B002LHRM2O)
 
 * Türkçe
   - [Çok iyi bir Türkçe Kaynak](https://www.kitapyurdu.com/kitap/ethicalhackingoffensivevedefensive/451361.html&manufacturer_id=188125)
@@ -807,7 +804,6 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 ## Ücretli Kurslar
 * İngilizce
   - [Cyber Security Information](https://www.pluralsight.com/browse/information-cyber-security)
-  - [Ethical Hacking](https://www.pluralsight.com/courses/ethical-hacking-understanding)
   - [Ethical Hacking from Scratch](https://www.udemy.com/course/learn-ethical-hacking-from-scratch)
   - [Learn Website Hacking Penetration Testing](https://www.udemy.com/course/learn-website-hacking-penetration-testing-from-scratch)
   - [Linux Privillege Escalation for Beginners](https://academy.tcm-sec.com/p/linux-privilege-escalation)
