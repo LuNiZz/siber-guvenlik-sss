@@ -11,9 +11,6 @@ Burada [*"bana sıkça sorulmuş sorulara"*](/Belgeler/SikcaSorulanSorular.md) b
 
 Ayrıca yayın geçmişinde yer alan videoların toplu playlist hali de bulunuyor, linkler arasında ve görsel olarak nasıl izleyebileceğini anlattım.
 
-[*"Hacking The TEMEL video serisi"*](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ) bu iş için başlangıç konularını irdeliyor, eğer yeni başladıysan ona özellikle göz atmanı tavsiye ederim.  
-Aramıza hoş geldin ve görüşürüz!
-
 #### *~LuNiZz*    
 
 - ##### Aşağıda sınıflandırdığımız linklerin her birinin içinde delidumrul kaynaklar var. Bir bak istersen ;)
@@ -30,7 +27,6 @@ Aramıza hoş geldin ve görüşürüz!
 * [<img width="18" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="soru-cevap" border="0"> Sıkça Sorulan Sorular](/Belgeler/SikcaSorulanSorular.md#top) <<< BURADAN BAŞLA SEVGİLİ DOSTUM
 * [YAZILIM'A YENI BASLAYANLAR SSS](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/yazilim.md)
 * [<img width="18" src="https://i.ibb.co/Tq2LQr3/cloud.png" alt="bulut" border="0"> Bulut Bilisim Uzerine Kaynaklar](/Belgeler/BaglantilarVeBilgiler.md#bulutkaynaklari)
-* [<img width="18" src="https://i.ibb.co/2dzQnY9/twitch.png" alt="twitch" border="0"> Tüm geçmiş Twitch Yayınları](/Belgeler/BaglantilarVeBilgiler.md#tumgecmistwitchyayinlari)
 * [<img width="18" src="https://i.ibb.co/gmLfmCy/bug.png" alt="bug" border="0"> Bug Bounty Mevzusu](/Belgeler/BaglantilarVeBilgiler.md#bugbounty)
 * [<img width="18" src="https://i.ibb.co/NLkznCJ/yildiz.png" alt="yildiz" border="0"> AWESOME serisi](/Belgeler/BaglantilarVeBilgiler.md#awesome)
 * [<img width="18" src="https://i.ibb.co/86yT26f/google.png" alt="google" border="0"> Google nasıl kullanılır?](/Belgeler/BaglantilarVeBilgiler.md#googlenasilkullanilir)
@@ -45,7 +41,6 @@ Aramıza hoş geldin ve görüşürüz!
   - [<img width="18" src="https://i.ibb.co/ns7dwrs/kurs.png" alt="kurs" border="0"> Kurslar](/Belgeler/BaglantilarVeBilgiler.md#kurslar)
   - [<img width="18" src="https://i.ibb.co/wLs9FDF/yazilar.png" alt="yazilar" border="0"> Makaleler/Yazılar](/Belgeler/BaglantilarVeBilgiler.md#makaleler)  
   - [<img width="18" src="https://i.ibb.co/yYK5YYz/network-pentesting.png" alt="network-pentesting" border="0"> Network Pentesting](/Belgeler/BaglantilarVeBilgiler.md#networkpentesting)
-  - [<img width="18" src="https://i.ibb.co/2dzQnY9/twitch.png" alt="twitch" border="0"> Takip Edilesi Twitch Kanalları](/Belgeler/BaglantilarVeBilgiler.md#bazitwitchkanallari)
   - [<img width="18" src="https://i.ibb.co/grF5FDC/youtube.png" alt="youtube" border="0"> Takip Edilesi Youtube Kanalları](/Belgeler/BaglantilarVeBilgiler.md#baziyoutubekanallari) 
   - [<img width="18" src="https://i.ibb.co/qDk1M65/twitter.png" alt="twitter" border="0"> Twitterdan Takip Edilebilecek Kişiler](/Belgeler/BaglantilarVeBilgiler.md#bazitwitterhesaplari) 
   - [<img width="18" src="https://i.ibb.co/PZDy7Qz/github.png" alt="github" border="0"> İşinize Yarayabilecek GitHub Repoları](/Belgeler/BaglantilarVeBilgiler.md#githubrepolari)
