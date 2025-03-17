@@ -277,28 +277,6 @@
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
 
-
-
-<a name="bazitwitchkanallari"></a>
-
----
-<h1 align="center">Bazı Twitch Kanalları</h1>
-
-- [Astrofotografi](https://www.twitch.tv/astrofotografi)
-- [BugcrowdOfficial](https://www.twitch.tv/bugcrowdofficial)
-- [LuNiZz](https://www.twitch.tv/lunizz)
-- [Mdisec](https://www.twitch.tv/mdisec) 
-- [Nahamsec](https://twitch.tv/nahamsec)
-- [TheCyberMentor](https://twitch.tv/thecybermentor)
-- [Utku Sen](https://www.twitch.tv/utku1337)
-
----
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
-
 <a name="baziyoutubekanallari"></a>
 
 ---
@@ -449,7 +427,6 @@
 <h1 align="center">Çeşitli Kaynaklar ve Web Siteleri</h1>
 
 * Türkçe
-  - Bol goygoylu, TryHackMe'nin baslangıç odalarını yaptığım, [*"Hacking The TEMEL video serisi"*](https://www.twitch.tv/collections/sHv1c2HZEhaHFQ) (videolari hızlıda seyret bence ;) )
   - [Beyaz şapkalı Hacker Eğitim Notları](https://www.bgasecurity.com/makale/beyaz-sapkali-hacker-egitim-notlari)
   - BTK Akademi                   
     - [Siber güvenlik analisti](https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-analisti-egitimi-5020#!/about)
@@ -888,35 +865,6 @@ Python öğrenmek isteyenler için en iyi kaynaklar seçildi.
 
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
-
-
-<a name="tumgecmistwitchyayinlari"></a>
-
----
-<h1 align="center">Tüm Geçmiş Twitch Yayınları</h1>
-
-- Tüm Geçmiş Twitch Yayınları burada: 
-https://www.twitch.tv/lunizz/videos 
-
-- Ayrıca verdiğim ders yayınların playlist hali:
-https://www.twitch.tv/collections/JbIfA4EXwxXZ_A 
-<p>&nbsp;</p>
-
-#### Eğer eğitim videolarına bakacaksan, *"Hacking the TEMEL"* serisi adındaki video serisine bak. *"TEMELDEN"* başlayarak anlatıyor orada.
-<br>
-- Mouse'u resimdeki alana götürdüğünüzde tüm ders videoları arasında geçiş yapabilirsiniz...  
-
-   <img width="500" src="https://i.ibb.co/cy4TMWx/dersler1.png" alt="dersler1" border="0">  
-   <img width="500" src="https://i.ibb.co/x5dzv2G/dersler2.png" alt="dersler2" border="0">
-
----
-<p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
-
-
-
 
 
 <a name="tweetbelgeseli"></a>
