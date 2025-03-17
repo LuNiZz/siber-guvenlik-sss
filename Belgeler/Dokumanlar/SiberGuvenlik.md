@@ -36,12 +36,11 @@ CySA+, CISA, CRISC önemli sertifikalardandır.
 > Sanallaştırma güvenliğinden, OS güvenliğine, endpoint güvenliğinden cloud ve ops güvenliğine kadar birçok yetkinlik dalı olabilir. Bunların hepsinden biraz olabileceği gibi, bir tanesinde "principal consultant" seviyesinde derin bilgisi de olabilir bu adamların.
 
 Umarım beğenmişsinizdir, elimden geldiğince açıkladım.
-Twitch'teki yayınlara gelirseniz, bunlar üzerine sohbet etme ve varsa sorularınızı yanıtlama fırsatı yakalayabiliriz.
+Youtube'daki yayınlara gelirseniz, bunlar üzerine sohbet etme ve varsa sorularınızı yanıtlama fırsatı yakalayabiliriz.
 
-https://twitch.tv/lunizz
+https://youtube.com/@candeger/live
 
 Ayrıca yakın zamanda bununla ilgili bir video çekip Youtube kanalıma koymayı planlıyorum. Koyduğumda burayı güncellerim.
 ![top10](https://pbs.twimg.com/media/Eb8MV7dWoAAKWZi?format=jpg&name=large)  
 
 [← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
-
