@@ -35,14 +35,26 @@
 - [Kendime nasıl VPN kurabilirim?](#question27)
 - [Kali Linux mu? Parrot mu?](#question28)
 - [Ben hangi sertifikaları alarak bu alanda fayda sağlarım, kendime katma değer katarım?](#question29)
-- [Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?](#question30)
+- [Yapay zeka çağında yazılım geliştiriciler için en değerli beceriler nelerdir?](#question30)
+- [Yüksek Erişilebilirlik (High Availability) Tasarımı Neden Önemli?](#question31)
+- [Sıfır Güven (Zero Trust) Modeli Neden Önemli?](#question32)
+- [Container Orkestrasyonunda Hangi Güvenlik Adımları Önemli?](#question33)
+- [Mobil uygulama geliştirme için Flutter mı, React Native mi, yoksa native mi tercih etmeliyim?](#question34)
+- [DevOps ve cloud teknolojileri için nasıl bir kariyer yolu izlemeli ve hangi sertifikalara odaklanmalıyım?](#question35)
+- [Hybrid Cloud Mimarilerindeki Temel Zorluklar Nelerdir?](#question36)
+- [API Tasarımında Dikkat Edilmesi Gerekenler Nelerdir?](#question37)
+- [Sürekli Entegrasyon ve Dağıtım (CI/CD) Gibi Aşamalar Neden Önemli?](#question38)
+- [LLM (Large Language Models) kullanarak kendi AI uygulamalarımı nasıl geliştirebilirim?](#question39)
+- [Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım?](#question40)
+
+
 	</p>
 </details>
 
 ---
 
 ## ([▲](#top)) Siber Guvenlik Ogrenmeye Nereden başlamalıyım? <a name="question1"></a>
-İşte tam bununla ilgili [bir yayın](https://www.twitch.tv/videos/634645006) yaptık biz. Ama şu anda bulunduğun site, yukarıdaki linkler, aşağıdaki metinler zaten nasıl ilerleyeceğini sana anlatmak için var. 
+Şu anda bulunduğun site, yukarıdaki linkler, aşağıdaki metinler zaten nasıl ilerleyeceğini sana anlatmak için var.
 
 Unutmadan en temel eğitim playlist'i olarak, CyberMentor'un ücretsiz [şu YouTube videolarını](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) sömür ;)
 <p>&nbsp;</p>
@@ -274,8 +286,7 @@ Türkçe kaynak olarak [bilgeis](https://bilgeis.net/tr) var.
 
 
 ## ([▲](#top)) Ben kendi laboratuvarımı kurmak istiyorum nasıl yapacağım? <a name="question25"></a>
-Şu yayının içinde var bu konu: https://www.twitch.tv/videos/646015971  
-Youtube versiyonu da https://youtube.com/candeger adresinde var.
+https://www.youtube.com/watch?v=sy0QhKbogbY
 <p>&nbsp;</p>
 
 
@@ -314,8 +325,80 @@ ayrica guncel versionu icin [şuraya](https://www.reddit.com/r/Hacking_Tutorials
 <p>&nbsp;</p>
 
 
+## ([▲](#top)) Yapay zeka çağında yazılım geliştiriciler için en değerli beceriler nelerdir? <a name="question30"></a>
+Yapay zeka çağında hala yazılım geliştiriciler için kritik beceriler gerekiyor. Öldük bittik demeye gerek yok. AI asistanlarla verimli çalışma, prompt engineering becerileri, sistem tasarımı ve büyük resmi görebilmenin yanı sıra, problem çözme ve algoritmik düşünme, belirli bir alanda uzmanlaşma, AI servislerini entegre edebilme, etik ve sorumluluk bilinci. Temel programlama, versiyon kontrolü, test yazma gibi geleneksel beceriler de hala önemli. Bir sürü [videolarım](https://www.youtube.com/watch?v=kekmi0XlB9s) var zaten bu konuda onlara bakabilirsin.
+<p>&nbsp;</p>
 
-## ([▲](#top)) Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım? <a name="question30"></a>
+## ([▲](#top)) Yüksek Erişilebilirlik (High Availability) Tasarımı Neden Önemli? <a name="question31"></a>
+Sistemlerin kesintisiz hizmet sunabilmesi için yük dengeleme, otomatik failover gibi mekanizmalar kullanılır. Kısaca abi site/app çalışmıyo noldu sorusunu ortadan kaldırmaya çalışırsın.
+
+- https://aws.amazon.com/what-is/high-availability/
+- https://cloud.google.com/architecture/dr-scenarios-planning-guide
+<p>&nbsp;</p>
+
+
+## ([▲](#top)) Sıfır Güven (Zero Trust) Modeli Neden Önemli? <a name="question32"></a>
+ağınıza dahil olan her kullanıcıya veya cihaza varsayılan olarak güvenilmez olarak bakmanız lazım. Dolayısıyla, her erişim talebi doğrulanmalı ve yetkilendirilmelidir. Zero Trust modeli, güvenlik ihlallerini minimize eder ve veri korumasını artırır.
+Bu konuda Cloudflare Zero Trust ve Tailscale güzel servisler.
+
+- https://www.cloudflare.com/learning/security/glossary/what-is-zero-trust/
+- https://cloud.google.com/beyondcorp
+<p>&nbsp;</p>
+
+
+## ([▲](#top)) Container Orkestrasyonunda Hangi Güvenlik Adımları Önemli? <a name="question33"></a>
+Görüntü (image) taraması, network policy yapılandırmaları, pod security standartları (örn. Pod Security Admission) ve gizli anahtarların (secrets) yönetimi Kubernetes ve Docker güvenliğinde kritik rol oynamakta bunları araştır öğren mutlaka.
+
+- https://kubernetes.io/docs/concepts/security/
+<p>&nbsp;</p>
+
+
+## ([▲](#top)) Mobil uygulama geliştirme için Flutter mı, React Native mi, yoksa native mi tercih etmeliyim? <a name="question34"></a>
+Tamamen senin mobil uygulama geliştirme seçimine ve projenin ihtiyaçlarına bağlı. Flutter: tek kod tabanı, yüksek performans, hızlı geliştirme, karmaşık UI'lar için ideal.
+React Native: JavaScript/React bilgisiyle geliştirme, geniş ekosistem, web+mobil projeler için avantajlı.
+
+Native (Swift/Kotlin): en yüksek performans, platform özelliklerine tam erişim, uzun vadeli büyük projeler için uygun.
+
+Flutter ve React Native dokümantasyonları veya App Brewery, Academind gibi platformların kursları başlangıç için idealdir.
+<p>&nbsp;</p>
+
+
+## ([▲](#top)) DevOps ve cloud teknolojileri için nasıl bir kariyer yolu izlemeli ve hangi sertifikalara odaklanmalıyım? <a name="question35"></a>
+DevOps ve cloud kariyeri için: mutlaka Linux temellerini öğrenmen gerekiyor, Git'te ustalaş, Docker ve Kubernetes öğren, CI/CD araçlarını (GitHub Actions, Jenkins), altyapı kodlamasını (Terraform, Ansible) ve izleme araçlarını (Prometheus, Grafana) kavra. Sertifikalar için: AWS DevOps Engineer, Google Cloud DevOps Engineer, Azure DevOps Engineer, Kubernetes Administrator (CKA), HashiCorp Terraform Associate.
+
+A Cloud Guru ve AWS learn gibi platformların eğitimleri faydalı olacaktır.
+<p>&nbsp;</p>
+
+
+## ([▲](#top)) Hybrid Cloud Mimarilerindeki Temel Zorluklar Nelerdir? <a name="question36"></a>
+Hybrid cloud mimarilerinde en büyük zorluk, farklı ortamlardaki sistemlerin entegrasyonu ve yönetimidir. Güvenlik, veri senkronizasyonu ve uyumluluk konularında dikkatli olunması gerekir, çünkü verilerin farklı bulut sağlayıcılarında veya on-premise ortamda işlenmesi çeşitli regülasyonlara tabi olabilir. Ayrıca, ağ bağlantılarının performansı ve sürekliliği kritik bir faktördür; düşük gecikme ve kesintisiz erişim sağlanmazsa operasyonlar aksayabilir. Maliyet yönetimi de önemli bir konudur; iyi planlanmazsa hibrit yapı, beklenenden daha yüksek maliyetlere yol açabilir.
+<p>&nbsp;</p>
+
+
+## ([▲](#top)) API Tasarımında Dikkat Edilmesi Gerekenler Nelerdir? <a name="question37"></a>
+Doğrulama (auth), yetkilendirme, rate limiting gibi mekanizmalarla API’leri dışa açarken güvenliği ve performansı korumak gereklidir. Load balancing ve loglama da sistemin sürdürülebilirliği için önemli kısımlar.
+
+- https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
+- https://konghq.com/blog/learning-center
+<p>&nbsp;</p>
+
+
+## ([▲](#top)) Sürekli Entegrasyon ve Dağıtım (CI/CD) Gibi Aşamalar Neden Önemli? <a name="question38"></a>
+Kodun kalite kontrolü, otomatik test, statik/dinamik analiz ve otomatik sürümleme gibi aşamalar, geliştirme sürecini hızlandırır. Geri bildirim süresi kısalır, kod kalitesi artar.
+
+- https://docs.gitlab.com/ee/ci/
+- https://www.jenkins.io/doc/book/pipeline/
+<p>&nbsp;</p>
+
+
+## ([▲](#top)) LLM (Large Language Models) kullanarak kendi AI uygulamalarımı nasıl geliştirebilirim? <a name="question39"></a>
+LLM tabanlı uygulama geliştirmek için: temel kavramları (embedding, fine-tuning, context window) öğren, OpenAI veya Anthropic API'lerini kullanarak basit uygulamalar geliştir, vektör veritabanlarını (Pinecone, Weaviate) öğren, LangChain ve LlamaIndex gibi framework'leri kullan. Başlangıç projeleri olarak kişisel dokümanları sorgulayan AI asistan, özel bir alanda uzmanlaşmış chatbot veya içerik üretimi uygulaması geliştirebilirsin. OpenAI Cookbook, LangChain dokümantasyonu, BuildSpace ve DeepLearning.AI kursları faydalı kaynaklar.
+<p>&nbsp;</p>
+
+
+
+## ([▲](#top)) Bunların dışında benim çok farklı bir sorum var abi, yanıtı burada yok. Ne yapmalıyım? <a name="question40"></a>
 Zaten yayınları yapma amacımız o. Yayına gelip; geçmişini, içinde bulunduğun senaryoyu aktar. Ben de elimden geldiğince, bilgim var ise, fikirlerimi ileteyim. Yukarıdaki bilgiler çok genel hatlarıyla ve hızlıca sektöre girebilmek için hazırlandı. Daha spesifik bir alanda uzmanlaşmak isteyenlerin sorularını da ancak yayında yanıtlayabilirim. Hepinizi beklerim :).  
+
 
 [← Ana Sayfaya Dön](https://github.com/LuNiZz/siber-guvenlik-sss)
