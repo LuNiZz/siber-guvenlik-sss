@@ -50,7 +50,7 @@ Ayrıca yayın geçmişinde yer alan videoların toplu playlist hali de bulunuyo
     - [<img width="18" src="https://i.ibb.co/nsy7RW6/docker.png" alt="docker" border="0"> Docker ile Kali Linux Kurulumu](/Belgeler/Dokumanlar/Docker_Uzerinde_Kali.md#top)
     - [<img width="18" src="https://i.ibb.co/ngYZt20/network.png" alt="network" border="0"> Network Baslangıç](/Belgeler/Dokumanlar/Network_Baslangic.md#top)
     - [<img width="18" src="https://i.ibb.co/6Xj1TNj/hacker.png" alt="hacker" border="0"> Siber Güvenlik Dalları ve Sertifikaları](/Belgeler/Dokumanlar/SiberGuvenlik.md#top)
-    - [<img width="18" src="https://i.ibb.co/2WMkZHx/mulakat.png" alt="mulakat" border="0"> Siber Güvenlik Mulakat Soruları](/Belgeler/Dokumanlar/SiberGuvenlik_Mulakat_Sorulari.md#top)
+    - [<img width="18" src="https://i.ibb.co/2WMkZHx/mulakat.png" alt="mulakat" border="0"> Siber Güvenlik Mülakat Soruları](/Belgeler/Dokumanlar/SiberGuvenlik_Mulakat_Sorulari.md#top)
     - [<img width="18" src="https://i.ibb.co/f8m7Vd0/windows.png" alt="windows" border="0"> WSL'de Kali Kurulumu](/Belgeler/Dokumanlar/Wsl_Uzerinde_Kali.md#top)
     
 ---
