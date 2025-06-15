@@ -282,15 +282,20 @@
 ---
 <h1 align="center">Bazı Youtube Kanalları</h1>
 
-- [Can Değer](https://www.youtube.com/c/candeger)
-- [Utku Sen](https://www.youtube.com/channel/UC694QlZiqtCRW916nozIfnQ)
+- [Can Değer](https://www.youtube.com/c/candeger) ;)
+
 - [Hackerone üyesi (TomNomNomDotCom)](https://www.youtube.com/user/TomNomNomDotCom)
 - [JohnHammond010](https://www.youtube.com/c/JohnHammond010)
 - [LoiLiangYang](https://www.youtube.com/c/LoiLiangYang)
 - [LiveOverflow](https://www.youtube.com/c/LiveOverflow)
-- [Nahamsec'in kankası (STOKfredik)](https://www.youtube.com/c/STOKfredrik)
 - [RSAConference](https://www.youtube.com/c/RSAConference)
-
+- [PirateSoftware](https://www.youtube.com/@PirateSoftware)
+- [theo](https://www.youtube.com/@t3dotgg)
+- [NetworkChuck](https://www.youtube.com/@NetworkChuck)
+- [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen)
+- [PCSecurityChannel](https://www.youtube.com/@pcsecuritychannel)
+- [DavidBombal](https://www.youtube.com/@DavidBombalTech)
+- [ChrisTitus](https://www.youtube.com/@ChrisTitusTech)
 ---
 <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
 
