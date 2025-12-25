@@ -1,3 +1,4 @@
+### [SSS ANA SAYFASINA DÖN](https://sss.lunizz.com)
 <a name="top"></a>
 
 <a name="bazikaynaklar"></a>
@@ -333,4 +334,5 @@ Twitter (X) listeleri çok hızlı değiştiği için tek tek kişi yazmak yerin
 - **LinkedIn**: Şaka yapmıyorum, doğru kişileri (CISO'lar, Developerlar) eklerseniz akışınız bilgi dolar.
 
 ---
+### [SSS ANA SAYFASINA DÖN](https://sss.lunizz.com)
 <p>&nbsp;</p><p>&nbsp;</p>
