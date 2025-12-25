@@ -108,7 +108,7 @@ Ozetle, temel tavsiyelerim ve gozlemlerim sunlar;
 
 - AI son durumu:  AI araçları geliştiricileri tamamen değiştirmiyor; sadece hız kazandırıyor. Kod üretimi hâlâ insan gözetimi gerektiriyor; bakım ve mimari kararlar kritik. LLM’ler prototip oluşturmak için faydalı ama üretim kodu için riskli (teknik borç artıyor). AI hype’ı azaldı; şirketler artık “AI geliştiriciyi güçlendirir” mesajına geçti.
 
-- Topluluk ve Kariyer Perspektifi: Uzun vadede güçlü bir ağ kurmak, kariyer başarısının anahtarı. Farklı disiplinlerden insanlarla etkileşim, yaratıcılığı ve problem çözme becerilerini artırır.
+
 
 <p>&nbsp;</p>
 
