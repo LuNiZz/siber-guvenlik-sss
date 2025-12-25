@@ -20,8 +20,6 @@ Bizler, siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol gösterme
 
 Burada [**"Sıkça Sorulan Sorular"**](/Belgeler/SikcaSorulanSorular.md) belgesine bir göz atarak başlamanı şiddetle öneririm. Aklındaki "Hangi PC'yi alayım?", "Hangi dilden başlayayım?", "Yapay zeka işimi alacak mı?" gibi soruların cevapları orada.
 
-Ayrıca sayfanın [en altında](#index) menüler halinde derya deniz kaynaklar var, her birini sömürmen dileğiyle.
-
 #### *~LuNiZz*
 
 > **⚠️ ALTIN KURAL:** Sevgili dostum, yerine olsam kendime şunu sorarım: **"Yeterince İngilizce biliyor muyum?"**
