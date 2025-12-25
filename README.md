@@ -33,7 +33,7 @@ Ayrıca sayfanın [en altında](#index) menüler halinde derya deniz kaynaklar v
 <h1 align="center">📚 Bu Reponun İçindeki Belgeler ve Kaynaklar</h1>
 
 * [<img width="20" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="soru-cevap" border="0"> **Sıkça Sorulan Sorular (SSS)**](/Belgeler/SikcaSorulanSorular.md#top) **<<< ÖNCE BURADAN BAŞLA DOSTUM**
-* [YAZILIM'A YENİ BAŞLAYANLAR İÇİN SSS](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/yazilim.md)
+* 🖥️[YAZILIM'A YENİ BAŞLAYANLAR İÇİN SSS](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/yazilim.md)
 * [<img width="18" src="https://i.ibb.co/Tq2LQr3/cloud.png" alt="bulut" border="0"> Bulut Bilişim Üzerine Kaynaklar](/Belgeler/BaglantilarVeBilgiler.md#bulutkaynaklari)
 * [<img width="18" src="https://i.ibb.co/gmLfmCy/bug.png" alt="bug" border="0"> Bug Bounty Mevzusu](/Belgeler/BaglantilarVeBilgiler.md#bugbounty)
 * [<img width="18" src="https://i.ibb.co/NLkznCJ/yildiz.png" alt="yildiz" border="0"> AWESOME Serisi (Efsane Kaynaklar)](/Belgeler/BaglantilarVeBilgiler.md#awesome)
