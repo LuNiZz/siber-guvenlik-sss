@@ -99,4 +99,74 @@ Hata (Bug) yapmaktan korkmayın. Yazılımcının hayatı hata çözmekle geçer
 
 Büyük projeler yerine küçük, bitirebileceğiniz projeler yapın. "Bugün sadece bir buton yapacağım" demek bile ilerlemedir. Tükenmişlik (Burnout) yaşamamak için molalar verin.
 
-### 1
+### 13. Yazılım geliştirme stresli bir iş mi?
+
+"Deadline" (teslim tarihi) baskısı ve çözülemeyen buglar stres yaratabilir. Ancak uzaktan çalışma imkanı ve yaratıcı tatmin, bu stresi dengeler.
+
+### 14. Yazılım geliştirme için hangi araçlara ihtiyacım var?
+
+* Bir bilgisayar.
+* Bir Kod Editörü (IDE): **VS Code** (veya **Cursor**).
+* **Git:** Versiyon kontrol sistemi (Mutlaka öğrenin!).
+* İnternet tarayıcısı.
+
+### 15. Yazılım geliştirmeyi nereden öğrenebilirim?
+
+Online kurslar, Bootcamp'ler, Üniversite veya tamamen "Alaylı" (Self-taught) olarak kendi kendine. Diplomanın en az sorulduğu sektörlerden biridir; portföyün konuşur.
+
+### 16. Yazılım geliştirmeye başlamak için ne kadar para gerekir?
+
+Sıfır. İnternet bağlantın ve bir bilgisayarın varsa kaynakların %90'ı ücretsizdir.
+
+### 17. Yazılım geliştirme için iyi bir bilgisayara ihtiyacım var mı?
+
+Başlangıç için hayır. Tarayıcı açan herhangi bir laptop iş görür. İleride mobil uygulama (Android Studio/Xcode) veya Oyun (Unreal Engine) geliştirecekseniz güçlü donanım gerekir.
+
+### 18. Kodları çalıştırmak için internet bağlantısına ihtiyacım var mı?
+
+Kod yazmak ve çalıştırmak için hayır. Ama araştırma yapmak, kütüphane indirmek ve AI asistanları kullanmak için evet.
+
+### 19. Yazılım geliştirmede uzmanlaşmam ne kadar sürer?
+
+"Junior" seviyesine gelmek ortalama 6-12 ay sıkı çalışma gerektirir. "Senior" olmak ise yıllar süren tecrübe işidir.
+
+### 20. Serbest (Freelance) yazılım geliştirici olarak nasıl iş bulabilirim?
+
+Upwork, Fiverr, Bionluk gibi siteler başlangıçtır. Ancak en iyi işler **Networking** (çevre) ve **GitHub/LinkedIn** profilinizin güçlü olmasıyla gelir.
+
+### 21. Yazılım kategorileri nelerdir?
+
+* **Sistem Yazılımı:** İşletim sistemleri (Windows, Linux), driverlar.
+* **Uygulama Yazılımı:** Excel, Chrome, Spotify gibi son kullanıcı programları.
+* **Gömülü Yazılım:** Akıllı saatler, arabalar, buzdolapları içindeki yazılımlar.
+* **Web/Mobil:** Siteler ve telefon uygulamaları.
+* **Yapay Zeka:** Makine öğrenmesi modelleri.
+
+### 22. Yazılım Geliştirme Yaşam Döngüsü (SDLC) nedir?
+
+Yazılımın doğumundan ölümüne kadar geçen süreçtir: Planlama -> Analiz -> Tasarım -> Kodlama -> Test -> Bakım.
+
+### 23. Framework ve Library arasındaki fark nedir?
+
+* **Library (Kütüphane):** Sen onu çağırırsın. Çantandaki alet gibidir, ihtiyacın olunca çıkarır kullanırsın. (Örn: React, jQuery)
+* **Framework (Çatı):** O seni çağırır. Evin iskeleti gibidir, kuralları o koyar, sen odaları döşersin. (Örn: Angular, Django, Flutter)
+
+### 24. Error handling (Hata Yönetimi) nedir?
+
+Kullanıcı programı çökertmesin diye önlem almaktır. "Try-Catch" blokları ile "Hata olursa programı kapatma, kullanıcıya düzgün bir uyarı göster" demektir.
+
+### 25. Interface, OOP ve Aspect-Oriented nedir? (Kısaca)
+
+* **OOP (Nesne Yönelimli):** Dünyayı nesneler (Araba, İnsan, Kedi) olarak modellemektir. En yaygın yaklaşımdır.
+* **Interface-based:** Nesnenin "ne olduğu" ile değil "ne yapabildiği" ile ilgilenir.
+* **Aspect-oriented:** Loglama, güvenlik gibi uygulamanın her yerini kesen (cross-cutting) işleri ana koddan ayırmaktır.
+
+## Yararlı Kaynaklar
+
+* **[Roadmap.sh](https://roadmap.sh/):** Hangi alanda hangi sırayla ne öğrenmeliyim? (Harika bir yol haritası).
+* **FreeCodeCamp:** Ücretsiz, sertifikalı ve kapsamlı eğitim.
+* **Codecademy & Udemy:** İnteraktif ve videolu kurslar.
+* **GitHub Education Pack:** Öğrenciysen mutlaka al, tonla ücretsiz araç veriyor.
+* **SSS İÇİNDEKİ KAYNAKLAR:** [Detaylı Link Listesi İçin Tıkla](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/BaglantilarVeBilgiler.md#yazilim)
+
+### [SSS ANA SAYFASINA DÖN](https://sss.lunizz.com)
