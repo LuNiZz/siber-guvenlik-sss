@@ -4,7 +4,7 @@
 
 Selamlar! Burayı bulduğuna göre siber güvenliğe, yazılıma ve teknolojinin derinliklerine merakın var demektir. O zaman hoş geldin. 
 
-Bizler, siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, doğru bir başlangıç yapmalarına yardımcı olmayı ve onları nitelikli kaynaklara yönlendirmeyi hedefleyen bir topluluğuz. Bana ve ekip arkadaşlarıma yukarıdaki adresten kolaylıkla ulaşabilirsin. Ayrıca Twitch ve YouTube yayınlarımıza gelip selam vermeyi unutma!
+Bizler, siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol göstermeyi, doğru bir başlangıç yapmalarına yardımcı olmayı ve onları nitelikli kaynaklara yönlendirmeyi hedefleyen bir topluluğuz. Bana ve ekip arkadaşlarıma yukarıdaki adresten kolaylıkla ulaşabilirsin. Ayrıca YouTube yayınlarımıza gelip selam vermeyi unutma!
 
 ---
 
