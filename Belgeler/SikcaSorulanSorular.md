@@ -197,6 +197,7 @@ Seçim senin.
 Zaten yayınları yapma amacımız o. Yayına gel, Discord'a gel, sorunu düzgünce ifade et, tartışalım. Ama önce: Araştır ;)
 
 ---
+Linklerin, uzun ve genis halini, [ALTIN MADENI KAYNAK HAVUZU'nda bulabilirsiniz](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/BaglantilarVeBilgiler.md)
 ---
 
 <a name="kaynakhavuzu"></a>
