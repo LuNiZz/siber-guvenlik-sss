@@ -72,6 +72,7 @@ Bizler, siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol gösterme
 Şu anda bulunduğun site, yukarıdaki linkler, aşağıdaki metinler zaten nasıl ilerleyeceğini sana anlatmak için var.
 
 Unutmadan en temel eğitim playlist'i olarak, CyberMentor'un ücretsiz [şu YouTube videolarını](https://www.youtube.com/playlist?list=PLLKT__MCUeiwBa7d7F_vN1GUwz_2TmVQj) sömür ;)
+Ayrica siberguvenlik dallari, yol haritalari konusunda kapsamli bir belgemiz de var.. (https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/Dokumanlar/SiberGuvenlik.md)
 <p>&nbsp;</p>
 
 ## ([▲](#top)) Hangi bilgisayarı almalıyım? <a name="question2"></a>
