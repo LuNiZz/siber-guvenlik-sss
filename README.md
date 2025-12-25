@@ -107,6 +107,24 @@ Yazilim ogrenmek konusunda bir SSS belgemiz var, bir goz at cano https://github.
 Python öğreneceksin, OpenAI veya Anthropic API'si ile konuşmayı öğreneceksin. **LangChain** diye bir framework var, bunu öğrenirsen sırtın yere gelmez. Vektör veritabanlarını (Pinecone vs.) da araştır.
 <p>&nbsp;</p>
 
+## ([▲](#top)) AI herkesi eşitledi mi? İnsanın farkı nerede kaldı? <a name="question31"></a>
+
+Bu konuyu anlatmak için sana sektörden, **Ernst & Young (EY)** danışmanlarının yaşadığı çok çarpıcı bir olayı anlatayım. Bu hikaye, gelecekte kime para ödeneceğini çok net özetliyor.
+
+EY danışmanları, yüzlerce şirketin CEO'su ve yönetim kurullarıyla bir **"AI Masterclass"** düzenliyorlar. Bu "abilerimize/ablalarımıza" ChatGPT ve türevlerini kullandırarak; şirketleri için yeni satış planları, pazarlama stratejileri ve büyüme hedefleri hazırlatıyorlar. Sonra da bunları sunmalarını istiyorlar.
+
+Sonuçlar ilk bakışta **mükemmel!** Herkesin sunumu, planı, stratejisi harika görünüyor.
+Fakat danışmanlar kısa süre sonra korkutucu bir gerçeği fark ediyorlar: **Çıkan sonuçların hepsi, üç aşağı beş yukarı birbirinin aynısı.**
+
+Buradan çıkaracağımız çok büyük bir ders var:
+1.  **AI Seviyeyi Yükseltiyor Ama Zirveyi Zorlamıyor:** Yapay zeka, hiç bilmeyen birini bile "ortalama üstü" bir seviyeye anında çıkarıyor (Floor'u yükseltiyor). Ama herkes aynı araçla, aynı veri havuzundan beslendiği için sonuçlar homojenleşiyor, yani sıradanlaşıyor (Ceiling'i delip geçemiyor).
+2.  **Temel Bilgi Artık Bedava:** Eskiden "bilgiye sahip olmak" para ederdi. Artık temel bilgiye herkes AI sayesinde saniyeler içinde ulaşıyor. Bu yüzden salt bilgi satarak para kazanma devri bitti.
+3.  **Para Eden Şey Ne?:** İnsanın **vizyonu**, **mimari yeteneği**, **bakış açısı** ve **tecrübesi**.
+
+Yani dostum; AI senin "el işçiliğini" ve "araştırma ameleliğini" yapar. Ama o tuğlaları üst üste koyarken **hangi mimariyle** koyacağına, **neden** o stratejiyi seçeceğine, insan psikolojisine nasıl dokunacağına karar veren **SEN** olacaksın.
+Robotlar ortalamayı kopyalar, sen fark yaratırsın. O yüzden teknik bilginin yanına mutlaka "vizyon" ve "kreatif bakış açısı" eklemelisin.
+<p>&nbsp;</p>
+
 ## ([▲](#top)) Abi selam, XX yaşındayım sence geç kalmış olabilir miyim? <a name="question3"></a>
 Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın. Ben 40 yaşından sonra SEO, Youtube, Twitch yayıncılığı ve Video Editing öğrendim. Önemli olan yaşın değil; disiplinin, öğrenme açlığın ve araştırma yeteneğin. Başlamak için en iyi zaman dün, ikinci en iyi zaman bugündür.
 <p>&nbsp;</p>
