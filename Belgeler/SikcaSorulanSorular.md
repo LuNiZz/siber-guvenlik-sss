@@ -74,6 +74,23 @@ Bence bir bilgisayarda araman gerekenler şunlar:
 "Oyun da oynayacağım" dersen Gaming Laptop bakabilirsin ama sırtın ağrır ve pili çabuk biter. Sadece iş/okul ise Ultrabook veya MacBook candır. Şifre kırma işlerini artık laptopta değil Cloud'da yapıyoruz, ekran kartına çok takılma.
 <p>&nbsp;</p>
 
+## ([▲](#top)) Piyasa çok kötü, Junior (yeni başlayan) olarak iş bulamıyorum. Ne yapmalıyım? <a name="question41"></a>
+Pandemi dönemindeki "herkese iş var" balonu söndü. Artık sadece eğitim izlemek yetmez.
+1. **GitHub Vitrini:** O profil yeşillenecek. Klon projeler yerine kendi araçlarını yaz.
+2. **Open Source:** Açık kaynak projelere katkıda bulunmak, sertifikadan değerlidir.
+3. **Network:** Discord sunucularına gir, insanlarla tanış, projelerini anlat.
+4. **Soft Skills:** Derdini anlatamayan siber güvenlikçiyi kimse istemez.
+<p>&nbsp;</p>
+
+## ([▲](#top)) Yapay Zeka (AI) çıktı, yazılımcılık bitiyor mu? İşsiz mi kalacağız? <a name="question30"></a>
+Sakin ol şampiyon! Yapay zeka senin işini elinden almayacak, **Yapay zekayı iyi kullanan biri** senin işini elinden alacak.
+Kod yazmak artık "amelelik" yapmaktan çıkıp "mimarlık" yapmaya evriliyor. ChatGPT, Copilot gibi araçları "rakip" olarak değil, "süper zeki stajyerin" olarak gör.
+<p>&nbsp;</p>
+
+## ([▲](#top)) LLM (Large Language Models) kullanarak kendi AI uygulamalarımı nasıl geliştirebilirim? <a name="question39"></a>
+Python öğreneceksin, OpenAI veya Anthropic API'si ile konuşmayı öğreneceksin. **LangChain** diye bir framework var, bunu öğrenirsen sırtın yere gelmez. Vektör veritabanlarını (Pinecone vs.) da araştır.
+<p>&nbsp;</p>
+
 ## ([▲](#top)) Abi selam, XX yaşındayım sence geç kalmış olabilir miyim? <a name="question3"></a>
 Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış olmazsın. Ben 40 yaşından sonra SEO, Youtube, Twitch yayıncılığı ve Video Editing öğrendim. Önemli olan yaşın değil; disiplinin, öğrenme açlığın ve araştırma yeteneğin. Başlamak için en iyi zaman dün, ikinci en iyi zaman bugündür.
 <p>&nbsp;</p>
@@ -88,11 +105,6 @@ Bu konudaki linkleri aşağıda **[Programlama Kaynakları](#programlamakaynakla
 
 ## ([▲](#top)) Programlama geçmişim var, hangi Siber Güvenlik dalını seçmeliyim? <a name="question7"></a>
 En hızlı çözüm, büyük olasılıkla *OWASP* ve benzeri kurumlara bakarak, **Application Pentester**'lık veya **Security Researcher**'lık olacaktır. Kod biliyorsan, kodun nerede kırılacağını da daha iyi kestirirsin. BugCrowd ve HackerOne gibi platformların eğitimlerine gir, "Bug Bounty" olaylarını kovala.
-<p>&nbsp;</p>
-
-## ([▲](#top)) Türkçe bir eğitim buldum (Udemy vs.), Nasıldır sence? <a name="question8"></a>
-Sevgili dostum, Udemy bir okyanus. İyisi de var, çöpü de var. Kişisel olarak Türkçe Udemy kurslarını incelemiyorum ve referans olamam. Ama mantık şu: Eğitmenin puanına bak, yorumlarını oku, müfredatına bak.
-**Dost tavsiyesi:** Bu sektörün dili İngilizce. Türkçe kaynakla başla, mantığı kap ama eninde sonunda İngilizce kaynağa geçmek zorundasın. Aşağıda **[İngilizce Kaynaklar](#ingilizcegenelkaynaklar)** bölümüne bak.
 <p>&nbsp;</p>
 
 ## ([▲](#top)) Kendimi hacker saldırılarından nasıl korurum? <a name="question9"></a>
@@ -111,14 +123,6 @@ Geri kalan tüm sağlam kaynakları (TryHackMe odaları, PortSwigger vs.) aşağ
 
 ## ([▲](#top)) Siber Güvenlik için Üniversite okumalı mıyım? <a name="question12"></a>
 Şahsen ben üniversitenin gerekli olduğunu düşünüyorum. Mühendislik formasyonu sana "analitik düşünmeyi" öğretir. Ama üniversite sana işi öğretmez, işi sen öğrenirsin. Diplomasız bu işi yapan canavarlar var mı? Var. Ama diploma, özellikle kurumsal firmalarda ve yurt dışı vizelerinde hala geçerli akçe. Okuyorsan hakkını ver, okumuyorsan açığı kapatmak için 2 kat fazla çalış.
-<p>&nbsp;</p>
-
-## ([▲](#top)) Piyasa çok kötü, Junior (yeni başlayan) olarak iş bulamıyorum. Ne yapmalıyım? <a name="question41"></a>
-Pandemi dönemindeki "herkese iş var" balonu söndü. Artık sadece eğitim izlemek yetmez.
-1. **GitHub Vitrini:** O profil yeşillenecek. Klon projeler yerine kendi araçlarını yaz.
-2. **Open Source:** Açık kaynak projelere katkıda bulunmak, sertifikadan değerlidir.
-3. **Network:** Discord sunucularına gir, insanlarla tanış, projelerini anlat.
-4. **Soft Skills:** Derdini anlatamayan siber güvenlikçiyi kimse istemez.
 <p>&nbsp;</p>
 
 ## ([▲](#top)) Yurt dışına remote (uzaktan) çalışıp döviz kazanmak istiyorum, yol haritası nedir? <a name="question42"></a>
@@ -144,7 +148,7 @@ Senin için aşağıda devasa bir **[Python Başlangıç Rehberi](#python3_basla
 Gelişmekte olan teknolojilere bakmak lazım: DevOps, full stack development, mobil programlama... Bu konudaki kaynakları da aşağıda **[Yazılım Kaynakları](#yazilimkaynaklari)** bölümünde bulabilirsin.
 <p>&nbsp;</p>
 
-## ([▲](#top)) Oyun geliştirme konusu da ilgimi çekiyor. Hangisini seçmeliyim? <a name="question19"></a>
+## ([▲](#top)) Siber Guvenlik ve Oyun geliştirme konusu da ilgimi çekiyor. Hangisini seçmeliyim? <a name="question19"></a>
 İkisi de farklı konular tabii ki ancak, benim yaptığımı niye denemiyorsun? Oyun geliştirme firmasında siber güvenlikçi ol. Mesela ben, Danimarka'daki Unity genel merkezinde IT Security Architect olarak çalışmıştım. Bence keyifli olabilir, boş vakitlerinde de oyun geliştirirsin.
 <p>&nbsp;</p>
 
@@ -176,15 +180,6 @@ Kali Linux'u kurduysan hemen **[TryHackMe](https://tryhackme.com)** veya **[Hack
 ## ([▲](#top)) Kali Linux mu? Parrot mu? <a name="question28"></a>
 Ben Parrot sevip, Kali kullanıyorum. Tamamen zevk meselesi.
 Kavgaya girme, birini seç ve kullan. Ya da Windows kullanıyorsan WSL2 (Windows Subsystem for Linux) ile Kali'yi Windows'un içinde çalıştır, fişek gibi oluyor.
-<p>&nbsp;</p>
-
-## ([▲](#top)) Yapay Zeka (AI) çıktı, yazılımcılık bitiyor mu? İşsiz mi kalacağız? <a name="question30"></a>
-Sakin ol şampiyon! Yapay zeka senin işini elinden almayacak, **Yapay zekayı iyi kullanan biri** senin işini elinden alacak.
-Kod yazmak artık "amelelik" yapmaktan çıkıp "mimarlık" yapmaya evriliyor. ChatGPT, Copilot gibi araçları "rakip" olarak değil, "süper zeki stajyerin" olarak gör.
-<p>&nbsp;</p>
-
-## ([▲](#top)) LLM (Large Language Models) kullanarak kendi AI uygulamalarımı nasıl geliştirebilirim? <a name="question39"></a>
-Python öğreneceksin, OpenAI veya Anthropic API'si ile konuşmayı öğreneceksin. **LangChain** diye bir framework var, bunu öğrenirsen sırtın yere gelmez. Vektör veritabanlarını (Pinecone vs.) da araştır.
 <p>&nbsp;</p>
 
 ## ([▲](#top)) DevOps ve Cloud teknolojileri için nasıl bir yol izlemeli? <a name="question35"></a>
