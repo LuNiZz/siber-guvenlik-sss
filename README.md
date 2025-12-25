@@ -102,25 +102,13 @@ Kod yazmak artık "amelelik" yapmaktan çıkıp "mimarlık" yapmaya evriliyor. C
 Yazilim ogrenmek konusunda bir SSS belgemiz var, bir goz at cano https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/yazilim.md
 
 Ozetle, temel tavsiyelerim ve gozlemlerim sunlar;
-- AI Kodlama Araçları ve İş Piyasası:
--- CEO’lar AI araçlarının etkisini abarttı, çok fazla geliştirici işten çıkarıldı.
--- Piyasa toparlanıyor, ancak 2019’daki “altın çağ” seviyesine dönmeyecek.
--- LLM’ler (büyük dil modelleri) sayesinde iş ilanlarına spam başvurular arttı; işe alım süreci zorlaştı.
+- AI Kodlama Araçları ve İş Piyasası: CEO’lar AI araçlarının etkisini abarttı, çok fazla geliştirici işten çıkarıldı. Piyasa toparlanıyor, ancak 2019’daki “altın çağ” seviyesine dönmeyecek. LLM’ler (büyük dil modelleri) sayesinde Linkedin'de vs iş ilanlarına spam başvurular arttı; işe alım süreci zorlaştı.
 
-- İş Arayan Geliştiricilere Tavsiyeler:
--- Networking kritik: Konferanslara, meetuplara katılın, açık kaynak projelere katkı verin, topluluklarda aktif olun.
--- “AI her şeyi sahte yapabilir” çağında insan gibi görünmek önemli: Gerçek etkinliklere katılın, projelerinizi paylaşın.
+- İş Ararken: Networking kritik: Konferanslara, meetuplara katılın, açık kaynak projelere katkı verin, topluluklarda aktif olun. “AI her şeyi sahte yapabilir” çağında insan gibi görünmek önemli: Gerçek etkinliklere katılın, projelerinizi paylaşın.
 
-- AI’nin Gerçek Durumu:
--- AI araçları geliştiricileri tamamen değiştirmiyor; sadece hız kazandırıyor.
--- Kod üretimi hâlâ insan gözetimi gerektiriyor; bakım ve mimari kararlar kritik.
--- LLM’ler prototip oluşturmak için faydalı ama üretim kodu için riskli (teknik borç artıyor).
--- AI hype’ı azaldı; şirketler artık “AI geliştiriciyi güçlendirir” mesajına geçti.
+- AI son durumu:  AI araçları geliştiricileri tamamen değiştirmiyor; sadece hız kazandırıyor. Kod üretimi hâlâ insan gözetimi gerektiriyor; bakım ve mimari kararlar kritik. LLM’ler prototip oluşturmak için faydalı ama üretim kodu için riskli (teknik borç artıyor). AI hype’ı azaldı; şirketler artık “AI geliştiriciyi güçlendirir” mesajına geçti.
 
-- Topluluk ve Kariyer Perspektifi:
--- Uzun vadede güçlü bir ağ kurmak, kariyer başarısının anahtarı.
--- Farklı disiplinlerden insanlarla etkileşim, yaratıcılığı ve problem çözme becerilerini artırır.
--- Kariyer sadece para değil; zengin bir sosyal hayat ve anlamlı ilişkiler için araçtır.
+- Topluluk ve Kariyer Perspektifi: Uzun vadede güçlü bir ağ kurmak, kariyer başarısının anahtarı. Farklı disiplinlerden insanlarla etkileşim, yaratıcılığı ve problem çözme becerilerini artırır.
 
 <p>&nbsp;</p>
 
