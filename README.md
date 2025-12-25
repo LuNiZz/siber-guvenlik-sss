@@ -113,6 +113,8 @@ Sevgili dostum, teknoloji ile ilgili konularda hiçbir şey için geç kalmış 
 
 ## ([▲](#top)) Algoritmayı ve kod yazmayı ücretsiz bir şekilde nasıl öğreniriz? <a name="question4"></a>
 Bu konudaki linkleri aşağıda **[Programlama Kaynakları](#programlamakaynaklari)** başlığı altında topladım, oraya bir tıkla ;)
+
+bunu da unutma Yazilim-SSS : https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/yazilim.md
 <p>&nbsp;</p>
 
 ## ([▲](#top)) Roadmap (Yol Haritası) <a name="question5"></a>
