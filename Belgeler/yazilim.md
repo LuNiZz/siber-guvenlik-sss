@@ -163,10 +163,6 @@ Kullanıcı programı çökertmesin diye önlem almaktır. "Try-Catch" blokları
 
 ## Yararlı Kaynaklar
 
-* **[Roadmap.sh](https://roadmap.sh/):** Hangi alanda hangi sırayla ne öğrenmeliyim? (Harika bir yol haritası).
-* **FreeCodeCamp:** Ücretsiz, sertifikalı ve kapsamlı eğitim.
-* **Codecademy & Udemy:** İnteraktif ve videolu kurslar.
-* **GitHub Education Pack:** Öğrenciysen mutlaka al, tonla ücretsiz araç veriyor.
-* **SSS İÇİNDEKİ KAYNAKLAR:** [Detaylı Link Listesi İçin Tıkla](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/BaglantilarVeBilgiler.md#yazilim)
+Linklerin, uzun ve genis halini, [ALTIN MADENI KAYNAK HAVUZU'nda bulabilirsiniz](https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/BaglantilarVeBilgiler.md)
 
 ### [SSS ANA SAYFASINA DÖN](https://sss.lunizz.com)
