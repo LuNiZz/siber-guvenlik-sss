@@ -1,4 +1,4 @@
-<<a name="top"></a>
+<a name="top"></a>
 <p align="center"><img src="https://i.ibb.co/YbYttRf/sikca-sorulan-sorular.png" alt="sikca-sorulan-sorular" border="0"></p>
 
 > **⚠️ ÖNEMLİ DUYURU: Üniversite Davetleri ve Danışmanlık Hakkında**
