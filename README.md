@@ -98,6 +98,9 @@ Pandemi dönemindeki "herkese iş var" balonu söndü. Artık sadece eğitim izl
 ## ([▲](#top)) Yapay Zeka (AI) çıktı, yazılımcılık bitiyor mu? İşsiz mi kalacağız? <a name="question30"></a>
 Sakin ol şampiyon! Yapay zeka senin işini elinden almayacak, **Yapay zekayı iyi kullanan biri** senin işini elinden alacak.
 Kod yazmak artık "amelelik" yapmaktan çıkıp "mimarlık" yapmaya evriliyor. ChatGPT, Copilot gibi araçları "rakip" olarak değil, "süper zeki stajyerin" olarak gör.
+
+Yazilim ogrenmek konusunda bir SSS belgemiz var, bir goz at cano https://github.com/LuNiZz/siber-guvenlik-sss/blob/master/Belgeler/yazilim.md
+
 <p>&nbsp;</p>
 
 ## ([▲](#top)) LLM (Large Language Models) kullanarak kendi AI uygulamalarımı nasıl geliştirebilirim? <a name="question39"></a>
