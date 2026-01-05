@@ -286,6 +286,8 @@ Bu bölüm, hem kodlama hem araştırma için yeni süper güçlerinizdir.
 - **[Public APIs](https://github.com/public-apis/public-apis)**: Projelerinde kullanabileceğin binlerce ücretsiz API.
 - **[Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)**: Kariyer yolları.
 - **[System Design Primer](https://github.com/donnemartin/system-design-primer)**: Büyük sistemler nasıl tasarlanır? (Mülakatlar için şart).
+- **[The Algorithms](https://github.com/TheAlgorithms)** - Algoritmaları derinlemesine teknik açıdan öğrenmek için.
+- **[Build Your Own X](https://github.com/codecrafters-io/build-your-own-x)** - Neredeyse her programlama dilinde sıfırdan farklı farklı proje örnekleri.
 
 ---
 <p>&nbsp;</p>
