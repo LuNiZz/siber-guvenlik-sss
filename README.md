@@ -332,6 +332,7 @@ Linklerin, uzun ve genis halini, [ALTIN MADENI KAYNAK HAVUZU'nda bulabilirsiniz]
 * [NetworkChuck](https://www.youtube.com/@NetworkChuck)
 * [PirateSoftware](https://www.youtube.com/@PirateSoftware)
 * [David Bombal](https://www.youtube.com/@DavidBombalTech)
+* [Computerphile](https://www.youtube.com/@Computerphile)
 
 ---
 <p align="center"><i>Bu belge LuNiZz Topluluğu tarafından güncel tutulmaya çalışılmaktadır.</i></p>
