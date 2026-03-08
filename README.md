@@ -16,9 +16,8 @@ Bizler, siber güvenlik kariyerinde ilerlemek isteyen arkadaşlara yol gösterme
 
 ## birader sen kimsin ve neden bu sayfa var?
 Sevgili dostum, ben 2019 senesinin sonu 2020 nin basi gibi siber guvenlik yazilim ve teknoloji alanlarinda icerik uretmeye baslamis bir bireyim ;) hatta ilk yillarda twitch uzerindeki canli yayinlarda baya bir "hands-on" egitimler vs hazirladim ama onlari hic bir zaman youtube ortamina aktarmadim, 
-aradan baya zaman gecti ama hala surada duruyor olabilirler bir bak istersen : https://www.twitch.tv/lunizz/videos
+aradan baya zaman gecti ama hala surada duruyor olabilirler bir bak istersen : https://www.twitch.tv/lunizz/videos . Onun disinda ben kimim dersen profesyonel anlamda lunizz.com sitesinde anlattim ama https://linkedin.com/in/candeger adresinde gecmisimi egitimimi ve kariyerimi gorebilirsin. Asagida da yayinlarda bana en cok gelen sorulari derledim, bir kac kaynak vs ile birlikte. umarim begenirsin.
 
-Onun disinda ben kimim dersen profesyonel anlamda lunizz.com sitesinde anlattim ama https://linkedin.com/in/candeger adresinde gecmisimi egitimimi ve kariyerimi gorebilirsin. Asagida da yayinlarda bana en cok gelen sorulari derledim, bir kac kaynak vs ile birlikte. umarim begenirsin.
 ---
 <a name="top"></a>
 <p align="center"><img src="https://i.ibb.co/YbYttRf/sikca-sorulan-sorular.png" alt="sikca-sorulan-sorular" border="0"></p>
