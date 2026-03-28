@@ -306,6 +306,19 @@ Linklerin, uzun ve genis halini, [ALTIN MADENI KAYNAK HAVUZU'nda bulabilirsiniz]
 * [Bulutistan Blog (Türkçe)](https://bulutistan.com/blog/)
 * [Microsoft Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/az-900-describe-cloud-concepts/)
 
+<a name="yapayzekakaynaklari"></a>
+### 🤖 Yapay Zeka ve Prompt Mühendisliği Kaynakları
+* [Prompt Guide](https://www.promptingguide.ai/) - DAIR.AI tarafından hazırlanan en kapsamlı, açık kaynaklı prompt mühendisliği rehberi (Türkçe desteği mevcut).
+* [OpenAi](https://platform.openai.com/docs/guides/prompt-engineering) - OpenAI'ın resmi ChatGPT ve GPT-4 prompt mühendisliği rehberi.
+* [Anthropic](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic tarafından Claude modelleri için hazırlanan interaktif eğitim.
+* [Learnprompting](https://learnprompting.org/) - Yeni başlayanlardan ileri seviyeye kadar açık kaynaklı, kapsamlı prompt eğitim platformu.
+* [deeplearning.ai](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) - Geliştiriciler için Andrew Ng ve OpenAI tarafından hazırlanan ücretsiz kurs.
+* [Vanderbilt Üniversitesi](https://www.coursera.org/learn/prompt-engineering) - Vanderbilt Üniversitesi'nin Coursera'daki popüler prompt mühendisliği kursu.
+* [FlowGPT](https://flowgpt.com/) - Topluluk tarafından oluşturulmuş binlerce promptu bulabileceğiniz görsel platform.
+* [SnackPrompt](https://snackprompt.com/) - Günlük en iyi promptların paylaşıldığı topluluk platformu.
+* [Dr. Şahin Bayzan](https://www.guvenliweb.org.tr/blog-detay/prompt-bilgi-istemi-muhendisligi) - Prompt mühendisliğini anlatan Türkçe giriş makalesi.
+* [simonwillison.net](https://simonwillison.net/) - LLM'ler ve prompt güvenliği üzerine sektörün önde gelen teknik bloglarından biri.
+
 <a name="githubrepolari"></a>
 ### 🐙 Faydalı GitHub Repoları
 * [Personal Security Checklist (Kişisel Güvenlik)](https://github.com/Lissy93/personal-security-checklist)
@@ -317,7 +330,7 @@ Linklerin, uzun ve genis halini, [ALTIN MADENI KAYNAK HAVUZU'nda bulabilirsiniz]
 * [Pentest Cheat Sheets](https://github.com/Tib3rius/Pentest-Cheatsheets)
 * [Reverse Shell Generator](https://www.revshells.com/) (Site ama cheat sheet niyetine geçer)
 * [GTFOBins](https://gtfobins.github.io/) (Linux yetki yükseltme için)
-
+* [Prompt Engineering Cheat Sheets](https://github.com/alpermdr/promp-muhendisligi-cheet-sheet) (Yapay zeka için)
 <a name="filmler"></a>
 ### 🎬 Filmler & Diziler (Motivasyon)
 * Mr. Robot (Dizi - Mutlaka izle)
