@@ -323,6 +323,7 @@ Linklerin, uzun ve genis halini, [ALTIN MADENI KAYNAK HAVUZU'nda bulabilirsiniz]
 ### 🐙 Faydalı GitHub Repoları
 * [Personal Security Checklist (Kişisel Güvenlik)](https://github.com/Lissy93/personal-security-checklist)
 * [Awesome Hacking Listesi](https://github.com/carpedm20/awesome-hacking)
+* [Darkmoon (Otonom, yapay zeka destekli sızma testi platformu)](https://github.com/ASCIT31/Dark-Moon)
 * [SecLists (Wordlistler)](https://github.com/danielmiessler/SecLists)
 
 <a name="cheatsheetler"></a>
