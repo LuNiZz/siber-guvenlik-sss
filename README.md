@@ -34,6 +34,8 @@ aradan baya zaman gecti ama hala surada duruyor olabilirler bir bak istersen : h
 - [Siber Güvenlik için Üniversite okumalı mıyım?](#question12)
 - [Piyasa çok kötü, Junior (yeni başlayan) olarak iş bulamıyorum. Ne yapmalıyım?](#question41)
 - [Yurt dışına remote (uzaktan) çalışıp döviz kazanmak istiyorum, yol haritası nedir?](#question42)
+- [Sertifikalar (OSCP, CEH, eJPT vb.) gerçekten şart mı? Hangilerini almalıyım?](#question43)
+- [Red Team (Saldırı) mi, Blue Team / SOC (Savunma) mi seçmeliyim? Hangisinde iş imkanı daha çok?](#question45)
 - [Siber güvenlik ile değil de, yazılım ile ilgilenmek istiyorum. Hangi alanlara bakayım?](#question18)
 - [Oyun geliştirme konusu da ilgimi çekiyor. Hangisini seçmeliyim?](#question19)
 
@@ -46,17 +48,20 @@ aradan baya zaman gecti ama hala surada duruyor olabilirler bir bak istersen : h
 - [Her şey çok iyi güzel de bu Pitonu (Python) nasıl öğreneceğiz?](#question16)
 - [Hangi programlama dillerine ve teknolojilerine eğilmeliyim?](#question15)
 - [Web uygulama güvenliği için iyi bir kaynak biliyor musun?](#question11)
+- [Bug Bounty (Ödül Avcılığı) ile geçinilir mi? Sıfırdan nasıl başlanır?](#question44)
 - [Sadece Networking (Ağ) öğrenmek için nereye bakmalıyım?](#question23)
 
 **TEKNOLOJİ & TRENDLER (YENİ)**
 - [Yapay Zeka (AI) çıktı, yazılımcılık bitiyor mu? İşsiz mi kalacağız?](#question30)
 - [LLM (Large Language Models) kullanarak kendi AI uygulamalarımı nasıl geliştirebilirim?](#question39)
+- [Yapay Zeka Güvenliği (AI/LLM Security) nedir? Prompt Injection ve Model Hacking'e nereden başlanır?](#question47)
 - [DevOps ve Cloud teknolojileri için nasıl bir yol izlemeli?](#question35)
 - [Mobil uygulama için Flutter mı, React Native mi, Native mi?](#question34)
 
 **PRATİK & LAB ORTAMI**
 - [Kendimi hacker saldırılarından nasıl korurum?](#question9)
 - [Sızma testine ilgi duyuyorum, kırmadan dökmeden kendimi nasıl test ederim?](#question24)
+- [CTF (Capture The Flag) oynamak işe alımlarda işe yarar mı? Nasıl başlamalıyım?](#question46)
 - [Kendi laboratuvarımı kurmak istiyorum nasıl yapacağım?](#question25)
 - [Kali uyumlu Wifi Adaptör ve VPN meselesi](#question26)
 - [Kali Linux mu? Parrot mu?](#question28)
@@ -239,6 +244,84 @@ Mutlaka Linux temellerini öğren. Git, Docker ve Kubernetes'te ustalaş. CI/CD 
 **React Native:** Web (JS/React) bilgin varsa çok hızlı adapte olursun.
 **Native (Swift/Kotlin):** En yüksek performans, platforma tam hakimiyet ama daha zahmetli.
 Seçim senin.
+<p>&nbsp;</p>
+
+## ([▲](#top)) Sertifikalar (OSCP, CEH, eJPT vb.) gerçekten şart mı? Hangilerini almalıyım? <a name="question43"></a>
+Dostum en çok sorulan ve maalesef en çok kafa karışıklığı (ve para tuzağı) yaratan konu bu.
+
+Özet geç dersen: **Hayır, sertifikan olmadan da iş bulabilirsin; ama sertifikan var diye de kimse seni doğrudan işe almaz.**
+
+Piyasada durum şu:
+1. **Ezberci / Çoktan Seçmeli Sınavlar (Örn: CEH):** Eski popülaritesi kalmadı. PDF ezberleyip soru bankası (dump) çözerek alınan sertifikalar artık teknik mülakatlarda bir şey ifade etmiyor. İnsan kaynaklarının (HR) filtrelerini geçmeye yarar ama mülakatta klavyenin başına oturttuklarında patlarsın.
+2. **Pratik Odaklı Sınavlar (Hands-on):**
+   - **eJPT (eLearnSecurity Junior Penetration Tester):** Yeni başlayanlar için en mantıklı, ayağı yere basan pratik sertifika. Temel network, port tarama ve zafiyet istismarını uygulamalı ölçer.
+   - **OSCP (OffSec):** Sektörün hâlâ en popüler ve HR nezdinde geçer akçesi. Ama başlangıç sertifikası **değildir**; pahalıdır ve temel Linux/Network/Privilege Escalation bilgin yoksa paranı yakarsın.
+   - **HTB CPTS (Certified Penetration Testing Specialist):** Son yıllarda OSCP'den çok daha kapsamlı ve modern Active Directory saldırılarını içeren, fiyat/performans canavarı bir sınav.
+
+**Tavsiyem:** Cebinde binlerce dolar yoksa sakın başlangıçta sertifikaya para dökme. GitHub'ında yazdığın toollar, TryHackMe/HackTheBox profillerin ve teknik write-up'ların (çözüm yazıların), başlangıç seviyesinde bir junior için CEH'ten kat kat daha değerlidir. İşe girdikten sonra şirketin bütçesiyle sertifika almak en akıllıca yoldur.
+<p>&nbsp;</p>
+
+## ([▲](#top)) Bug Bounty (Ödül Avcılığı) ile geçinilir mi? Sıfırdan nasıl başlanır? <a name="question44"></a>
+Sosyal medyada "2 saatte 5000$ kazandım" videolarını izleyip gaza gelen arkadaşlar için acı gerçekleri konuşalım.
+
+**Bug Bounty bir maaş değildir, balıkçılıktır.** Bazen bir ayda binlerce dolar kazanırsın, bazen 4 ay boyunca gece gündüz çalışıp tek kuruş (ya da sadece "Duplicate" / "Informative" cevabı) alamazsın. Düzenli gelir garantisi yoktur.
+
+Sıfır bilgiyle HackerOne veya Bugcrowd'a kayıt olup devasa platformlarda açık ararsan 2 haftada tükenirsin (burnout olursun). Çünkü senin baktığın yerlere dünyanın en tecrübeli araştırmacıları 10 yıldır otomasyon araçlarıyla bakıyor.
+
+**Doğru Yol Haritası:**
+1. **Önce Temel:** Web nasıl çalışır? HTTP metodları, Cookie, Session, CORS, Same-Origin Policy, JWT, REST API... Bunları bilmeden zafiyet arayamazsın.
+2. **PortSwigger Web Security Academy:** Dünyanın en iyi ve **tamamen ücretsiz** web güvenliği kaynağı. Buradaki laboratuvarları (özellikle Server-side ve Client-side temel modülleri) çözmeden canlı hedeflere bulaşma.
+3. **Otomasyona Değil, İş Mantığına Odaklan:** Herkes Subdomain Enumeration yapıp hazır araçlarla tarama yapıyor. Fark yaratmak istiyorsan uygulamanın iş mantığı hatalarına (Business Logic Flaws, IDOR, Yetki Aşımı, Race Condition) odaklanacaksın.
+
+Başlangıçta Bug Bounty'yi "gelir kapısı" olarak değil, canlı sistemleri kurcalayıp pratik yapma laboratuvarı olarak gör. Gelir gelirse tatlısı olur.
+<p>&nbsp;</p>
+
+## ([▲](#top)) Red Team (Saldırı) mi, Blue Team / SOC (Savunma) mi seçmeliyim? Hangisinde iş imkanı daha çok? <a name="question45"></a>
+Filmlerde, dizilerde herkes hoodie giyip karanlık odada sistem hackleyen "kırmızı takımcı" (Red Team) olduğu için sektöre yeni giren hemen herkes saldırı tarafına özeniyor. Ama piyasa gerçekleri bambaşka:
+
+Sektörde **1 tane Junior Pentester** aranıyorsa, **10 tane Junior SOC (Güvenlik Operasyon Merkezi) Analisti veya Savunma Uzmanı** aranıyor. Neden? Çünkü bir şirketin yılda bir kez sızma testi yaptırması yeterli olabilir ama 7/24 saldırıları izlemek, alarmları analiz etmek ve savunmak için vardiyalı çalışan bir ekibe her zaman ihtiyacı vardır.
+
+**Hangisi Sana Göre?**
+- **Red Team (Saldırı):** Sıra dışı düşünmeyi, sistemi tersine çevirmeyi, sabırla açık aramayı seversin. Ancak açık pozisyon sayısı daha azdır ve rekabet çok vahşidir.
+- **Blue Team (Savunma):** Olay yeri inceleme (DFIR), log analizi, ağ trafiği izleme (Wireshark), SIEM/EDR araçlarını yönetme ve saldırganın izini sürme işidir. İş bulma ihtimalin çok daha yüksektir.
+
+**Kritik Tavsiye:** En iyi saldırganlar, sistemlerin nasıl savunulduğunu ve loglandığını bilenlerdir. En iyi savunmacılar da saldırganın bir sonraki adımını kestirebilenlerdir. Başlangıçta "ben sadece hackleyeceğim" inadını bırak. Blue Team / SOC öğrenerek sektöre kapak atmak çok daha hızlı bir kariyer başlangıcı sağlar; sonrasında istersen Purple Team veya Red Team'e rahatça geçersin.
+<p>&nbsp;</p>
+
+## ([▲](#top)) CTF (Capture The Flag) oynamak işe alımlarda işe yarar mı? Nasıl başlamalıyım? <a name="question46"></a>
+CTF'ler harika bir oyunlaştırma (gamification) aracıdır; ama iki ucu keskin bıçaktır.
+
+**Faydası Ne?**
+Yeni başlayan biri için araçları (Burp Suite, Ghidra, Wireshark, nmap vb.) öğrenmek, pratik refleks kazanmak ve problem çözme kasını geliştirmek için biçilmiş kaftandır.
+
+**Tuzak Ne?**
+Gerçek dünya sızma testleri CTF'e benzemez. CTF'te bir kurgucu vardır ve hedefte mutlaka bilerek bırakılmış bir bayrak (flag) bulunur. Gerçek dünyada ise hedef güncel bir Active Directory ortamıdır, EDR kuruludur ve karşında bulmaca değil mimari tasarım eksiklikleri vardır. Sadece CTF çözerek "ben siber güvenlikçiyim" dersen gerçek dünyada duvara toslarsın.
+
+**Nasıl Başlanır & Nasıl Değere Dönüştürülür?**
+1. **PicoCTF:** Sıfırdan başlıyorsan ilk durağın burası. Temel seviye şifreleme, web ve tersine mühendislik soruları vardır.
+2. **TryHackMe:** Adım adım kılavuzlu odalarıyla öğrenmek için en iyi platform.
+3. **HackTheBox:** Bir tık daha orta/ileri seviyedir, makineler bağımsızdır.
+4. **En Önemli Kural (Write-up Yazmak):** Sadece kutuyu çözüp bayrağı almak kimseyi etkilemez. Çözdüğün makineyi GitHub'ında veya blogunda *"Hangi adımları izledim? Nerelerde tıkandım? Zafiyetin kök sebebi neydi ve nasıl düzeltilir?"* şeklinde bir teknik rapor gibi yazacaksın. İK ve teknik mülakatçı senin flag almanı değil, problem çözme ve raporlama yeteneğini görmek ister.
+<p>&nbsp;</p>
+
+## ([▲](#top)) Yapay Zeka Güvenliği (AI/LLM Security) nedir? Prompt Injection ve Model Hacking'e nereden başlanır? <a name="question47"></a>
+2024 ve sonrası siber güvenlik dünyasının en hızlı büyüyen ve en çok uzman açığı olan alanı burası.
+
+Artık şirketler müşteri hizmetlerine, iç sistemlerine, veritabanlarına LLM'leri (ChatGPT, Claude, yerel açık kaynak modeller) entegre ediyor. Bu da yepyeni bir saldırı yüzeyi doğurdu.
+
+**Temel Saldırı Türleri Nelerdir?**
+- **Prompt Injection:** Modele sistem talimatlarını unutturup saldırganın istediği komutları çalıştırma (SQL Injection'ın AI hali).
+- **RAG & Veri Sızıntısı:** LLM'e bağlanan dahili dökümanlardan yetkisiz personelin şirket sırlarını, maaşları veya API anahtarlarını çekmesi.
+- **Insecure Output Handling:** Modelin ürettiği cevabın doğrudan web arayüzünde (XSS) veya sistem kabuğunda (RCE) filtresiz çalıştırılması.
+- **Jailbreaking:** Modelin güvenlik ve etik korkuluklarını aşarak zararlı kod veya bilgi üretmesini sağlama.
+
+**Nereden Öğrenirim?**
+1. **OWASP Top 10 for LLM:** Web güvenliğinde OWASP Top 10 neyse, AI güvenliğinde de bu liste kutsal kitaptır. Mutlaka incele.
+2. **Gandalf (Lakera.ai):** Prompt injection mantığını eğlenceli şekilde öğrenmek için seviye seviye şifre alma oyunu.
+3. **PortSwigger LLM Attacks:** PortSwigger'ın ücretsiz LLM zafiyet laboratuvarları.
+4. **LearnPrompting.org:** Hem prompt mühendisliğini hem de hackleme tekniklerini anlatan harika açık kaynak dokümantasyon.
+
+Klasik web güvenliği bilen birinin yanına LLM güvenliği eklemesi, önümüzdeki yıllarda seni sektörde en çok aranan profillerden biri yapar.
 <p>&nbsp;</p>
 
 ## ([▲](#top)) Bunların dışında çok farklı bir sorum var, yanıtı burada yok. Ne yapmalıyım? <a name="question40"></a>
